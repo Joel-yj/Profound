@@ -53,7 +53,7 @@ for index,row in df.iterrows():
                 } 
             )
             
-            keywords = st_tags(label = "## Research Interests", value = row['Research Interest'])
+            keywords = st_tags(label = "## Research Interests", value = row['Research Interest'], text= " ", key= index)
 
     if index%3==1:
         with total2:
@@ -82,7 +82,7 @@ for index,row in df.iterrows():
                     },
                 } 
             )
-            keywords = st_tags(label = "## Research Interests", value = row['Research Interest'])
+            keywords = st_tags(label = "## Research Interests", value = row['Research Interest'], text= " ", key= index)
 
 
     if index%3==2:
@@ -112,5 +112,5 @@ for index,row in df.iterrows():
                     },
                 } 
             )
-            keywords = st_tags(label = "## Research Interests", value = row['Research Interest'], text= " ")
+            keywords = st_tags(label = "## Research Interests", value = row['Research Interest'], text= " ", key= index)
 
