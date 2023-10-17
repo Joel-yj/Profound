@@ -1,5 +1,2 @@
-streamlit
-pandas
 streamlit_card
 streamlit_tags
-base64
