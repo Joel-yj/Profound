@@ -42,6 +42,7 @@ for index,row in df.iterrows():
                 image=data,
                 styles={
                     "card": {
+                        "max-width" : "100%",
                         "height": "500px",
                         "width": "500px",
                         "margin": "10px",
@@ -72,13 +73,14 @@ for index,row in df.iterrows():
                 image=data,
                 styles={
                     "card": {
+                        "max-width" : "100%",
                         "height": "500px",
                         "width": "500px",
                         "margin": "10px",
                         "border-radius": "40px",
                         "justifyContent" : "space-between",
                         "filter" : "brightness(2)",
-                        "boxShadow": "0px 0px 0px rgba(0, 0, 0, 0)"
+                        "boxShadow": "0px 0px 0px rgba(0, 0, 0, 0)",
                     },
                 } 
             )
@@ -102,6 +104,7 @@ for index,row in df.iterrows():
                 image=data,
                 styles={
                     "card": {
+                        "max-width" : "100%",
                         "height": "500px",
                         "width": "500px",
                         "margin": "10px",
