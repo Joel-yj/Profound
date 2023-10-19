@@ -1,0 +1,46 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Clustered Task-Aware Meta-Learning by Learning From Learning Paths.,2023,"Danni Peng, Sinno Jialin Pan", 45: 9426-9438 ,pami
+1,Bidirectional Generative Framework for Cross-domain Aspect-based Sentiment Analysis.,2023,"Yue Deng, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing", ACL  2023: 12272-12285,acl
+2,Distribution-Regularized Federated Learning on Non-IID Data.,2023,"Yansheng Wang, Yongxin Tong, Zimu Zhou, Ruisheng Zhang, Sinno Jialin Pan, Lixin Fan, Qiang Yang", ICDE 2023: 2113-2125,icde
+3,Pruning via Sparsity-indexed ODE: a Continuous Sparsity Viewpoint.,2023,"Zhanfeng Mo, Haosen Shi, Sinno Jialin Pan", ICML 2023: 25018-25036,icml
+4,"Trustworthy Machine Learning: Robustness, Generalization, and Interpretability.",2023,"Jindong Wang, Haoliang Li, Haohan Wang, Sinno Jialin Pan, Xing Xie", KDD 2023: 5827-5828,kdd
+5,A Tutorial on Domain Generalization.,2023,"Jindong Wang, Haoliang Li, Sinno Jialin Pan, Xing Xie", WSDM 2023: 1236-1239,wsdm
+6,Bidirectional Generative Framework for Cross-domain Aspect-based Sentiment Analysis.,2023,"Yue Deng, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing",09509 ,corr
+7,Sentiment Analysis in the Era of Large Language Models: A Reality Check.,2023,"Wenxuan Zhang, Yue Deng, Bing Liu, Sinno Jialin Pan, Lidong Bing",15005 ,corr
+8,Semantic-Discriminative Mixup for Generalizable Sensor-based Cross-domain Activity Recognition.,2022,"Wang Lu, Jindong Wang, Yiqiang Chen, Sinno Jialin Pan, Chunyu Hu, Xin Qin", 6: 65:1-65:19 ,imwut
+9,On Acceleration for Convex Composite Minimization with Noise-Corrupted Gradients and Approximate Proximal Mapping.,2022,"Qiang Zhou, Sinno Jialin Pan", 23: 223:1-223:59 ,jmlr
+10,Deep Inductive Logic Reasoning for Multi-Hop Reading Comprehension.,2022,"Wenya Wang, Sinno Jialin Pan", ACL  2022: 4999-5009,acl
+11,Learning Generalizable Representations for Reinforcement Learning via Adaptive Meta-learner of Behavioral Similarities.,2022,"Jianda Chen, Sinno Jialin Pan", ICLR 2022,iclr
+12,Modeling Trajectories with Multi-task Learning.,2022,"Kaijun Liu, Sijie Ruan, Qianxiong Xu, Cheng Long, Nan Xiao, Nan Hu, Liang Yu, Sinno Jialin Pan", MDM 2022: 208-213,mdm
+13,Domain Confused Contrastive Learning for Unsupervised Domain Adaptation.,2022,"Quanyu Long, Tianze Luo, Wenya Wang, Sinno Jialin Pan", NAACL-HLT 2022: 2982-2995,naacl
+14,Learning Representations via a Robust Behavioral Metric for Deep Reinforcement Learning.,2022,"Jianda Chen, Sinno Jialin Pan", NeurIPS 2022,nips
+15,Convergence Analysis of Linear Coupling with Inexact Proximal Operator.,2022,"Qiang Zhou, Sinno Jialin Pan", UAI 2022: 2394-2403,uai
+16,Semantic-Discriminative Mixup for Generalizable Sensor-based Cross-domain Activity Recognition.,2022,"Wang Lu, Jindong Wang, Yiqiang Chen, Sinno Jialin Pan, Chunyu Hu, Xin Qin",06629 ,corr
+17,Domain Confused Contrastive Learning for Unsupervised Domain Adaptation.,2022,"Quanyu Long, Tianze Luo, Wenya Wang, Sinno Jialin Pan",04564 ,corr
+18,Learning Gradient-based Mixup towards Flatter Minima for Domain Generalization.,2022,"Danni Peng, Sinno Jialin Pan",14742 ,corr
+19,Fast Graph Generation via Spectral Diffusion.,2022,"Tianze Luo, Zhanfeng Mo, Sinno Jialin Pan",08892 ,corr
+20,Learning Generalizable Representations for Reinforcement Learning via Adaptive Meta-learner of Behavioral Similarities.,2022,"Jianda Chen, Sinno Jialin Pan",13088 ,corr
+21,Weakly-supervised sensor-based activity segmentation and recognition via learning from distributions.,2021,"Hangwei Qian, Sinno Jialin Pan, Chunyan Miao", 292: 103429 ,ai
+22,Variational Deep Logic Network for Joint Inference of Entities and Relations.,2021,"Wenya Wang, Sinno Jialin Pan", Linguistics 47: 775-812 ,coling
+23,Weakly-Supervised Cross-Domain Road Scene Segmentation via Multi-Level Curriculum Adaptation.,2021,"Fengmao Lv, Guosheng Lin, Peng Liu, Guowu Yang, Sinno Jialin Pan, Lixin Duan", 31: 3493-3503 ,tcsv
+24,Towards Faster Deep Collaborative Filtering via Hierarchical Decision Networks.,2021,"Yu Chen, Sinno Jialin Pan", AAAI 2021: 4001-4009,aaai
+25,Sequential Generative Exploration Model for Partially Observable Reinforcement Learning.,2021,"Haiyan Yin, Jianda Chen, Sinno Jialin Pan, Sebastian Tschiatschek", AAAI 2021: 10700-10708,aaai
+26,Latent Independent Excitation for Generalizable Sensor-based Cross-Person Activity Recognition.,2021,"Hangwei Qian, Sinno Jialin Pan, Chunyan Miao", AAAI 2021: 11921-11929,aaai
+27,AdaRNN: Adaptive Learning and Forecasting of Time Series.,2021,"Yuntao Du, Jindong Wang, Wenjie Feng, Sinno Jialin Pan, Tao Qin, Renjun Xu, Chongjun Wang", CIKM 2021: 402-411,cikm
+28,EnhanceNet: Plugin Neural Networks for Enhancing Correlated Time Series Forecasting.,2021,"Razvan-Gabriel Cirstea, Tung Kieu, Chenjuan Guo, Bin Yang, Sinno Jialin Pan", ICDE 2021: 1739-1750,icde
+29,Mitigating Performance Saturation in Neural Marked Point Processes: Architectures and Loss Functions.,2021,"Tianbo Li, Tianze Luo, Yiping Ke, Sinno Jialin Pan", KDD 2021: 986-994,kdd
+30,Learning an Adaptive Meta Model-Generator for Incrementally Updating Recommender Systems.,2021,"Danni Peng, Sinno Jialin Pan, Jie Zhang, Anxiang Zeng", RecSys 2021: 411-421,recsys
+31,Mitigating Performance Saturation in Neural Marked Point Processes: Architectures and Loss Functions.,2021,"Tianbo Li, Tianze Luo, Yiping Ke, Sinno Jialin Pan",03354 ,corr
+32,AdaRNN: Adaptive Learning and Forecasting of Time Series.,2021,"Yuntao Du, Jindong Wang, Wenjie Feng, Sinno Jialin Pan, Tao Qin, Renjun Xu, Chongjun Wang",04443 ,corr
+33,Learning an Adaptive Meta Model-Generator for Incrementally Updating Recommender Systems.,2021,"Danni Peng, Sinno Jialin Pan, Jie Zhang, Anxiang Zeng",04282 ,corr
+34,Communication-efficient distributed multi-task learning with matrix sparsity regularization.,2020,"Qiang Zhou, Yu Chen, Sinno Jialin Pan", 109: 569-601 ,ml
+35,Heterogeneous Domain Adaptation via Nonlinear Matrix Factorization.,2020,"Haoliang Li, Sinno Jialin Pan, Shiqi Wang, Alex C. Kot", 31: 984-996 ,tnn
+36,Transfer Value Iteration Networks.,2020,"Junyi Shen, Hankz Hankui Zhuo, Jin Xu, Bin Zhong, Sinno Jialin Pan", AAAI 2020: 5676-5683,aaai
+37,Integrating Deep Learning with Logic Fusion for Information Extraction.,2020,"Wenya Wang, Sinno Jialin Pan", AAAI 2020: 9225-9232,aaai
+38,Deep Weighted MaxSAT for Aspect-based Opinion Extraction.,2020,"Meixi Wu, Wenya Wang, Sinno Jialin Pan", EMNLP  2020: 5618-5628,emnlp
+39,Communication-Efficient Distributed PCA by Riemannian Optimization.,2020,"Long-Kai Huang, Sinno Jialin Pan", ICML 2020: 4465-4474,icml
+40,Storage Efficient and Dynamic Flexible Runtime Channel Pruning via Deep Reinforcement Learning.,2020,"Jianda Chen, Shangyu Chen, Sinno Jialin Pan", NeurIPS 2020,nips
+41,"Proceedings of The 12th Asian Conference on Machine Learning, ACML 2020, 18-20 November 2020, Bangkok, Thailand.",2020,"Sinno Jialin Pan, Masashi Sugiyama"," Proceedings of Machine Learning Research 129, PMLR 2020 ",acml
+42,"Advances in Knowledge Discovery and Data Mining - 24th Pacific-Asia Conference, PAKDD 2020, Singapore, May 11-14, 2020, Proceedings, Part I.",2020,"Hady W. Lauw, Raymond Chi-Wing Wong, Alexandros Ntoulas, Ee-Peng Lim, See-Kiong Ng, Sinno Jialin Pan"," Lecture Notes in Computer Science 12084, Springer 2020, ISBN 978-3-030-47425-6 ",pakdd
+43,"Advances in Knowledge Discovery and Data Mining - 24th Pacific-Asia Conference, PAKDD 2020, Singapore, May 11-14, 2020, Proceedings, Part II.",2020,"Hady W. Lauw, Raymond Chi-Wing Wong, Alexandros Ntoulas, Ee-Peng Lim, See-Kiong Ng, Sinno Jialin Pan"," Lecture Notes in Computer Science 12085, Springer 2020, ISBN 978-3-030-47435-5 ",pakdd
+44,Reinforcement Learning with Efficient Active Feature Acquisition.,2020,"Haiyan Yin, Yingzhen Li, Sinno Jialin Pan, Cheng Zhang, Sebastian Tschiatschek",00825 ,corr

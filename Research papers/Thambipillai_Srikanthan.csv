@@ -1,0 +1,17 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,DNN Model Theft Through Trojan Side-Channel on Edge FPGA Accelerator.,2023,"Srivatsan Chandrasekar, Siew-Kei Lam, Srikanthan Thambipillai", ARC 2023: 146-158,arc
+1,Reconfiguration algorithms for synchronous communication on switch based degradable arrays.,2022,"Yalan Wu, Jigang Wu, Peng Liu, Yinhe Han, Thambipillai Srikanthan", 111: 102901 ,pc
+2,Traffic Speed Prediction of Road Cluster with Heterogeneous Sampling Frequency.,2022,"Guiyuan Jiang, Peilan He, Jigang Wu, Yidan Sun, Thambipillai Srikanthan", PAAP 2022: 1-6,paap
+3,Longevity Framework: Leveraging Online Integrated Aging-Aware Hierarchical Mapping and VF-Selection for Lifetime Reliability Optimization in Manycore Processors.,2021,"Vijeta Rathore, Vivek Chaturvedi, Amit Kumar Singh, Thambipillai Srikanthan, Muhammad Shafique", Computers 70: 1106-1119 ,tc
+4,Power-Efficient Mapping of Large Applications on Modern Heterogeneous FPGAs.,2021,"Kalindu Herath, Alok Prakash, Suhaib A. Fahmy, Thambipillai Srikanthan", 40: 2508-2521 ,tcad
+5,Incorporating Compiler Optimization in Software Estimation for FPGA-based Embedded Processors.,2021,"Deshya Wijesundera, Thilina Perera, Dilina Dehigama, Thambipillai Srikanthan", ICICT 2021: 137-141,icict2
+6,Road-network aware Dynamic Workload Balancing Technique for Real-time Route Generation in On-Demand Public Transit.,2021,"Thilina Perera, Lahiru Wijerathna, Deshya Wijesundera, Thambipillai Srikanthan", SSCI 2021: 1-8,ssci
+7,Blockchain-based public auditing for big data in cloud storage.,2020,"Jiaxing Li, Jigang Wu, Guiyuan Jiang, Thambipillai Srikanthan", 57: 102382 ,ipm
+8,Improving accuracy of HPC-based malware classification for embedded platforms using gradient descent optimization.,2020,"Manaar Alam, Debdeep Mukhopadhyay, Sai Praveen Kadiyala, Siew-Kei Lam, Thambipillai Srikanthan", 10: 289-303 ,jce
+9,LAMBDA: Lightweight Assessment of Malware for emBeddeD Architectures.,2020,"Sai Praveen Kadiyala, Manaar Alam, Yash Shrivastava, Sikhar Patranabis, Muhamed Fauzi Bin Abbas, Arnab Kumar Biswas, Debdeep Mukhopadhyay, Thambipillai Srikanthan", 19: 23:1-23:31 ,tecs
+10,Hardware Performance Counter-Based Fine-Grained Malware Detection.,2020,"Sai Praveen Kadiyala, Pranav Jadhav, Siew-Kei Lam, Thambipillai Srikanthan", 19: 38:1-38:17 ,tecs
+11,Rapid and Robust Background Modeling Technique for Low-Cost Road Traffic Surveillance Systems.,2020,"Kratika Garg, Nirmala Ramakrishnan, Alok Prakash, Thambipillai Srikanthan", 21: 2204-2215 ,tits
+12,Technique for Vendor and Device Agnostic Hardware Area-Time Estimation.,2020,"Deshya Wijesundera, Kushagra Shah, Kisaru Liyanage, Alok Prakash, Thambipillai Srikanthan, Thilina Perera", ARC 2020: 166-177,arc
+13,Evaluating the Merits of Ranking in Structured Network Pruning.,2020,"Kuldeep Sharma, Nirmala Ramakrishnan, Alok Prakash, Siew Kei Lam, Thambipillai Srikanthan", ICDCS 2020: 1389-1396,icdcs
+14,Accelerating Computer Vision Algorithms on Heterogeneous Edge Computing Platforms.,2020,"Alok Prakash, Nirmala Ramakrishnan, Kratika Garg, Thambipillai Srikanthan", SiPS 2020: 1-6,sips
+15,HARDY: Hardware based Analysis for malwaRe Detection in embedded sYstems.,2020,"Sai Praveen Kadiyala, Mohit Garg, Manaar Alam, Hau T. Ngo, Debdeep Mukhopadhyay, Thambipillai Srikanthan", SoCC 2020: 1-6,socc

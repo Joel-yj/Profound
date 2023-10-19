@@ -1,0 +1,93 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Dynamic spectrum access for Internet-of-Things with hierarchical federated deep reinforcement learning.,2023,"Songbo Zhang, Kwok-Yan Lam, Bowen Shen, Li Wang, Feng Li", Ad Hoc Networks 149: 103257 ,adhoc
+1,SPoFC: A framework for stream data aggregation with local differential privacy.,2023,"Mengmeng Yang, Kwok-Yan Lam, Tianqing Zhu, Chenghua Tang", 35 ,concurrency
+2,Deep reinforcement learning based scheduling strategy for federated learning in sensor-cloud systems.,2023,"Tinghao Zhang, Kwok-Yan Lam, Jun Zhao", 144: 219-229 ,fgcs
+3,Understanding Security in Smart City Domains From the ANT-Centric Perspective.,2023,"Jiani Fan, Wenzhuo Yang, Ziyao Liu, Jiawen Kang, Dusit Niyato, Kwok-Yan Lam, Hongyang Du", 10: 11199-11223 ,iotj
+4,BitAnalysis: A Visualization System for Bitcoin Wallet Investigation.,2023,"Yujing Sun, Hao Xiong, Siu Ming Yiu, Kwok-Yan Lam", Big Data 9: 621-636 ,tbd
+5,Differentially Private Distributed Frequency Estimation.,2023,"Mengmeng Yang, Ivan Tjuawinata, Kwok-Yan Lam, Tianqing Zhu, Jun Zhao", 20: 3910-3926 ,tdsc
+6,Efficient Dropout-Resilient Aggregation for Privacy-Preserving Machine Learning.,2023,"Ziyao Liu, Jiale Guo, Kwok-Yan Lam, Jun Zhao", 18: 1839-1854 ,tifs
+7,Asymmetric Modality Translation for Face Presentation Attack Detection.,2023,"Zhi Li, Haoliang Li, Xin Luo, Yongjian Hu, Kwok-Yan Lam, Alex C. Kot", 25: 62-76 ,tmm
+8,Reputation-based power allocation for NOMA cognitive radio networks.,2023,"Feng Li, Zhongming Sun, Kwok-Yan Lam, Songbo Zhang, Lianzhong Sun, Li Wang", Networks 29: 449-457 ,winet
+9,Dynamic spectrum optimization for Internet-of-Things with social distance model.,2023,"Feng Li, Songbo Zhang, Kwok-Yan Lam, Xin Liu, Li Wang", Networks 29: 2825-2832 ,winet
+10,Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting.,2023,"Chen Chen, Yufei Wang, Aixin Sun, Bing Li, Kwok-Yan Lam", ACL  2023: 11489-11503,acl
+11,A Practical Intrusion Detection System Trained on Ambiguously Labeled Data for Enhancing IIoT Security.,2023,"Wenzhuo Yang, Zhaowei Chu, Jiani Fan, Ziyao Liu, Kwok-Yan Lam", CPSS@AsiaCCS 2023: 14-23,cpss
+12,Applying Large Language Models for Enhancing Contract Drafting.,2023,"Kwok-Yan Lam, Victor C. W. Cheng, Zee Kin Yeong", LegalAIIA@ICAIL 2023: 70-80,icail
+13,UAV aided Metaverse over Wireless Communications: A Reinforcement Learning Approach.,2023,"Peiyuan Si, Wenhan Yu, Jun Zhao, Kwok-Yan Lam, Qing Yang",01474 ,corr
+14,A Hybrid Framework of Reinforcement Learning and Convex Optimization for UAV-Based Autonomous Metaverse Data Collection.,2023,"Peiyuan Si, Liangxin Qian, Jun Zhao, Kwok-Yan Lam",18481 ,corr
+15,Spear or Shield: Leveraging Generative AI to Tackle Security Threats of Intelligent Network Services.,2023,"Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Kwok-Yan Lam, Yuguang Fang, Yonghui Li",02384 ,corr
+16,Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting.,2023,"Chen Chen, Yufei Wang, Aixin Sun, Bing Li, Kwok-Yan Lam",01709 ,corr
+17,Separate-and-Aggregate: A Transformer-based Patch Refinement Model for Knowledge Graph Completion.,2023,"Chen Chen, Yufei Wang, Yang Zhang, Quan Z. Sheng, Kwok-Yan Lam",05627 ,corr
+18,User Assignment and Resource Allocation for Hierarchical Federated Learning over Wireless Networks.,2023,"Tinghao Zhang, Kwok-Yan Lam, Jun Zhao",09253 ,corr
+19,Efficient FHE-based Privacy-Enhanced Neural Network for AI-as-a-Service.,2023,"Kwok-Yan Lam, Xianhui Lu, Linru Zhang, Xiangning Wang, Huaxiong Wang, Si Qi Goh", 2023: 647 ,iacr
+20,ZkRep: A Privacy-Preserving Scheme for Reputation-Based Blockchain System.,2022,"Chenyu Huang, Yongjun Zhao, Huangxun Chen, Xu Wang, Qian Zhang, Yanjiao Chen, Huaxiong Wang, Kwok-Yan Lam", 9: 4330-4342 ,iotj
+21,ANT-Centric IoT Security Reference Architecture - Security-by-Design for Satellite-Enabled Smart Cities.,2022,"Kwok-Yan Lam, Sananda Mitra, Florian Gondesen, Xun Yi", 9: 5895-5908 ,iotj
+22,Conditional Anonymous Authentication With Abuse-Resistant Tracing and Distributed Trust for Internet of Vehicles.,2022,"Jiangtao Li, Yufeng Li, Chenhong Cao, Kwok-Yan Lam", 9: 8749-8762 ,iotj
+23,Database Watermarking Algorithm Based on Decision Tree Shift Correction.,2022,"Qianwen Li, Xiang Wang, Qingqi Pei, Kwok-Yan Lam, Ning Zhang, Mianxiong Dong, Victor C. M. Leung", 9: 24373-24387 ,iotj
+24,Cognitive Carrier Resource Optimization for Internet-of-Vehicles in 5G-Enhanced Smart Cities.,2022,"Feng Li, Kwok-Yan Lam, Zhengwei Ni, Dusit Niyato, Xin Liu, Li Wang", 36: 174-180 ,network
+25,One-Class Knowledge Distillation for Face Presentation Attack Detection.,2022,"Zhi Li, Rizhao Cai, Haoliang Li, Kwok-Yan Lam, Yongjian Hu, Alex C. Kot", 17: 2137-2150 ,tifs
+26,K-Means Clustering With Local dᵪ-Privacy for Privacy-Preserving Data Analysis.,2022,"Mengmeng Yang, Ivan Tjuawinata, Kwok-Yan Lam", 17: 2524-2537 ,tifs
+27,Secure Hot Path Crowdsourcing With Local Differential Privacy Under Fog Computing Architecture.,2022,"Mengmeng Yang, Ivan Tjuawinata, Kwok-Yan Lam, Jun Zhao, Lin Sun", 15: 2188-2201 ,tsc
+28,Dynamic Spectrum Access for Internet-of-Things Based on Federated Deep Reinforcement Learning.,2022,"Feng Li, Bowen Shen, Jiale Guo, Kwok-Yan Lam, Guiyi Wei, Li Wang", 71: 7952-7956 ,tvt
+29,Distributed Deep Reinforcement Learning-Based Spectrum and Power Allocation for Heterogeneous Networks.,2022,"Helin Yang, Jun Zhao, Kwok-Yan Lam, Zehui Xiong, Qingqing Wu, Liang Xiao", 21: 6935-6948 ,twc
+30,Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion.,2022,"Chen Chen, Yufei Wang, Bing Li, Kwok-Yan Lam", COLING 2022: 4005-4017,coling
+31,Resource Allocation and Resolution Control in the Metaverse with Mobile Augmented Reality.,2022,"Peiyuan Si, Jun Zhao, Huimei Han, Kwok-Yan Lam, Yang Liu", GLOBECOM 2022: 3265-3271,globecom
+32,A Multi-task Learning Approach for Predicting Intentions Using Smart Home IoT Services.,2022,"Bing Huang, Boyu Zhang, Quan Z. Sheng, Kwok-Yan Lam", ICSOC 2022: 413-421,icsoc
+33,Edge-Cloud Cooperation for DNN Inference via Reinforcement Learning and Supervised Learning.,2022,"Tinghao Zhang, Zhijun Li, Yongrui Chen, Kwok-Yan Lam, Jun Zhao", iThings/GreenCom/CPSCom/SmartData/Cybermatics 2022: 77-84,ithings
+34,Differentiated Security Architecture for Secure and Efficient Infotainment Data Communication in IoV Networks.,2022,"Jiani Fan, Lwin Khin Shar, Jiale Guo, Wenzhuo Yang, Dusit Niyato, Kwok-Yan Lam", NSS 2022: 283-304,nss
+35,Facial Landmark Predictions with Applications to Metaverse.,2022,"Qiao Han, Jun Zhao, Kwok-Yan Lam", WF-IoT 2022: 1-6,wf-iot
+36,Cybersecurity Challenges Of IoT-enabled Smart Cities: A Survey.,2022,"Jiani Fan, Wenzhuo Yang, Kwok-Yan Lam",05023 ,corr
+37,Analysis of Digital Sovereignty and Identity: From Digitization to Digitalization.,2022,"Kheng-Leong Tan, Chi-Hung Chi, Kwok-Yan Lam",10069 ,corr
+38,Secure Multi-Party Delegated Authorisation For Access and Sharing of Electronic Health Records.,2022,"Kheng-Leong Tan, Chi-Hung Chi, Kwok-Yan Lam",12837 ,corr
+39,Privacy-Preserving Aggregation in Federated Learning: A Survey.,2022,"Ziyao Liu, Jiale Guo, Wenzhuo Yang, Jiani Fan, Kwok-Yan Lam, Jun Zhao",17005 ,corr
+40,Efficient Dropout-resilient Aggregation for Privacy-preserving Machine Learning.,2022,"Ziyao Liu, Jiale Guo, Kwok-Yan Lam, Jun Zhao",17044 ,corr
+41,One-Class Knowledge Distillation for Face Presentation Attack Detection.,2022,"Zhi Li, Rizhao Cai, Haoliang Li, Kwok-Yan Lam, Yongjian Hu, Alex C. Kot",03792 ,corr
+42,Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion.,2022,"Chen Chen, Yufei Wang, Bing Li, Kwok-Yan Lam",07299 ,corr
+43,Resource Allocation and Resolution Control in the Metaverse with Mobile Augmented Reality.,2022,"Peiyuan Si, Jun Zhao, Huimei Han, Kwok-Yan Lam, Yang Liu",13871 ,corr
+44,Facial Landmark Predictions with Applications to Metaverse.,2022,"Qiao Han, Jun Zhao, Kwok-Yan Lam",14698 ,corr
+45,Edge-Cloud Cooperation for DNN Inference via Reinforcement Learning and Supervised Learning.,2022,"Tinghao Zhang, Zhijun Li, Yongrui Chen, Kwok-Yan Lam, Jun Zhao",05182 ,corr
+46,Traceable and Authenticable Image Tagging for Fake News Detection.,2022,"Ruohan Meng, Zhili Zhou, Qi Cui, Kwok-Yan Lam, Alex C. Kot",10923 ,corr
+47,Enhancing Federated Learning with spectrum allocation optimization and device selection.,2022,"Tinghao Zhang, Kwok-Yan Lam, Jun Zhao, Feng Li, Huimei Han, Norziana Jamil",13544 ,corr
+48,Local Differential Privacy for data collection and analysis.,2021,"Teng Wang, Jun Zhao, Zhi Hu, Xinyu Yang, Xuebin Ren, Kwok-Yan Lam", Neurocomputing 426: 114-133 ,ijon
+49,Blockchain for Future Smart Grid: A Comprehensive Survey.,2021,"Muhammad Baqer Mollah, Jun Zhao, Dusit Niyato, Kwok-Yan Lam, Xin Zhang, Amer M. Y. M. Ghias, Leong Hai Koh, Lei Yang", 8: 18-43 ,iotj
+50,Blockchain for the Internet of Vehicles Towards Intelligent Transportation Systems: A Survey.,2021,"Muhammad Baqer Mollah, Jun Zhao, Dusit Niyato, Yong Liang Guan, Chau Yuen, Sumei Sun, Kwok-Yan Lam, Leong Hai Koh", 8: 4157-4185 ,iotj
+51,Local Differential Privacy-Based Federated Learning for Internet of Things.,2021,"Yang Zhao, Jun Zhao, Mengmeng Yang, Teng Wang, Ning Wang, Lingjuan Lyu, Dusit Niyato, Kwok-Yan Lam", 8: 8836-8853 ,iotj
+52,A Blockchain-Based Approach for Saving and Tracking Differential-Privacy Cost.,2021,"Yang Zhao, Jun Zhao, Jiawen Kang, Zehang Zhang, Dusit Niyato, Shuyu Shi, Kwok-Yan Lam", 8: 8865-8882 ,iotj
+53,Privacy-Preserving Federated Learning for UAV-Enabled Networks: Learning-Based Joint Scheduling and Resource Management.,2021,"Helin Yang, Jun Zhao, Zehui Xiong, Kwok-Yan Lam, Sumei Sun, Liang Xiao", 39: 3144-3159 ,jsac
+54,Federated-Learning-Empowered Collaborative Data Sharing for Vehicular Edge Networks.,2021,"Xiuhua Li, Luxi Cheng, Chuan Sun, Kwok-Yan Lam, Xiaofei Wang, Feng Li", 35: 116-124 ,network
+55,Spectrum Sharing for 6G Integrated Satellite-Terrestrial Communication Networks Based on NOMA and CR.,2021,"Xin Liu, Kwok-Yan Lam, Feng Li, Jun Zhao, Li Wang, Tariq S. Durrani", 35: 28-34 ,network
+56,An Improved Vulnerability Exploitation Prediction Model with Novel Cost Function and Custom Trained Word Vector Embedding.,2021,"Mohammad Shamsul Hoque, Norziana Jamil, Nowshad Amin, Kwok-Yan Lam", Sensors 21: 4220 ,sensors
+57,Reconfigurable Intelligent Surface Aided Power Control for Physical-Layer Broadcasting.,2021,"Huimei Han, Jun Zhao, Wenchao Zhai, Zehui Xiong, Dusit Niyato, Marco Di Renzo, Quoc-Viet Pham, Weidang Lu, Kwok-Yan Lam", 69: 7821-7836 ,tcom
+58,Autonomous Vehicle: Security by Design.,2021,"Anupam Chattopadhyay, Kwok-Yan Lam, Yaswanth Tavva", 22: 7015-7029 ,tits
+59,Privacy Preserving Location-Aware Personalized Web Service Recommendations.,2021,"Shahriar Badsha, Xun Yi, Ibrahim Khalil, Dongxi Liu, Surya Nepal, Elisa Bertino, Kwok-Yan Lam", 14: 791-804 ,tsc
+60,Agent-Based Spectrum Management Scheme in Satellite Communication Systems.,2021,"Feng Li, Kwok-Yan Lam, Zhengguo Sheng, Weidang Lu, Xin Liu, Li Wang", 70: 2877-2881 ,tvt
+61,3D Beamforming Based on Deep Learning for Secure Communication in 5G and Beyond Wireless Networks.,2021,"Helin Yang, Kwok-Yan Lam, Jiangtian Nie, Jun Zhao, Sahil Garg, Liang Xiao, Zehui Xiong, Mohsen Guizani", GLOBECOM  2021: 1-6,globecom
+62,Effective Anomaly Detection Model Training with only Unlabeled Data by Weakly Supervised Learning Techniques.,2021,"Wenzhuo Yang, Kwok-Yan Lam", ICICS  2021: 402-425,icics
+63,UAV-Assisted 5G/6G Networks: Joint Scheduling and Resource Allocation Based on Asynchronous Reinforcement Learning.,2021,"Helin Yang, Jun Zhao, Jiangtian Nie, Neeraj Kumar, Kwok-Yan Lam, Zehui Xiong", INFOCOM Workshops 2021: 1-6,infocom
+64,Privacy-Enhanced Federated Learning with Weighted Aggregation.,2021,"Jiale Guo, Ziyao Liu, Kwok-Yan Lam, Jun Zhao, Yiqiang Chen", SocialSec 2021: 93-109,socialsec
+65,Deep Reinforcement Learning Based Resource Allocation for Heterogeneous Networks.,2021,"Helin Yang, Jun Zhao, Kwok-Yan Lam, Sahil Garg, Qingqing Wu, Zehui Xiong", WiMob 2021: 253-258,wimob
+66,Protecting Big Data Privacy Using Randomized Tensor Network Decomposition and Dispersed Tensor Computation.,2021,"Jenn-Bing Ong, Wee Keong Ng, Ivan Tjuawinata, Chao Li, Jielin Yang, Sai None Myne, Huaxiong Wang, Kwok-Yan Lam, C.-C. Jay Kuo",04194 ,corr
+67,Fair and Differentially Private Distributed Frequency Estimation.,2021,"Mengmeng Yang, Ivan Tjuawinata, Kwok-Yan Lam, Tianqing Zhu, Jun Zhao",05974 ,corr
+68,Asymmetric Modality Translation For Face Presentation Attack Detection.,2021,"Zhi Li, Haoliang Li, Xin Luo, Yongjian Hu, Kwok-Yan Lam, Alex C. Kot",09108 ,corr
+69,Volume-Hiding Dynamic Searchable Symmetric Encryption with Forward and Backward Privacy.,2021,"Yongjun Zhao, Huaxiong Wang, Kwok-Yan Lam", 2021: 786 ,iacr
+70,Resource Allocation in Satellite-Based Internet of Things Using Pattern Search Method.,2020,"Feng Li, Kwok-Yan Lam, Xin Liu, Li Wang", IEEE Access 8: 110908-110914 ,access
+71,Blockchain-based mechanism for fine-grained authorization in data crowdsourcing.,2020,"Haiying Ma, Elmo X. Huang, Kwok-Yan Lam", 106: 121-134 ,fgcs
+72,Spectrum Optimization for Satellite Communication Systems With Heterogeneous User Preferences.,2020,"Feng Li, Kwok-Yan Lam, Min Jia, Kanglian Zhao, Xiuhua Li, Li Wang", 14: 2187-2191 ,sj
+73,Advances and Emerging Challenges in Cognitive Internet-of-Things.,2020,"Feng Li, Kwok-Yan Lam, Xiuhua Li, Zhengguo Sheng, Jingyu Hua, Li Wang", Informatics 16: 5489-5496 ,tii
+74,Privacy-Preserving User Profile Matching in Social Networks.,2020,"Xun Yi, Elisa Bertino, Fang-Yu Rao, Kwok-Yan Lam, Surya Nepal, Athman Bouguettaya", 32: 1572-1585 ,tkde
+75,Spectral Efficiency Enhancement in Satellite Mobile Communications: A Game-Theoretical Approach.,2020,"Feng Li, Kwok-Yan Lam, Hsiao-Hwa Chen, Nan Zhao", 27: 200-205 ,wc
+76,"A Review on Malware Variants Detection Techniques for Threat Intelligence in Resource Constrained Devices: Existing Approaches, Limitations and Future Direction.",2020,"Collins Uchenna Chimeleze, Norziana Jamil, Roslan Ismail, Kwok-Yan Lam", ACeS 2020: 354-370,aces
+77,Feasibility of PUF-Based Authentication on ATtiny Devices with Off-the-Shelf SRAM.,2020,"Florian Gondesen, Sananda Mitra, Kwok-Yan Lam", CPSS@AsiaCCS 2020: 2-10,ccs
+78,New Threats Against Object Detector with Non-local Block.,2020,"Yi Huang, Fan Wang, Adams Wai-Kin Kong, Kwok-Yan Lam", ECCV  2020: 481-497,eccv
+79,Deep Reinforcement Learning Based Intelligent Reflecting Surface for Secure Wireless Communications.,2020,"Helin Yang, Yang Zhao, Zehui Xiong, Jun Zhao, Dusit Niyato, Kwok-Yan Lam, Qingqing Wu", GLOBECOM 2020: 1-6,globecom
+80,Resource Optimization in Satellite-Based Internet of Things.,2020,"Feng Li, Kwok-Yan Lam", ICAIIC 2020: 6-11,icaiic
+81,Unseen Face Presentation Attack Detection with Hypersphere Loss.,2020,"Zhi Li, Haoliang Li, Kwok-Yan Lam, Alex ChiChung Kot", ICASSP 2020: 2852-2856,icassp
+82,An Analysis of Blockchain Consistency in Asynchronous Networks: Deriving a Neat Bound.,2020,"Jun Zhao, Jing Tang, Zengxiang Li, Huaxiong Wang, Kwok-Yan Lam, Kaiping Xue", ICDCS 2020: 179-189,icdcs
+83,"Provable and Practical Security - 14th International Conference, ProvSec 2020, Singapore, November 29 - December 1, 2020, Proceedings.",2020,"Khoa Nguyen, Wenling Wu, Kwok-Yan Lam, Huaxiong Wang"," Lecture Notes in Computer Science 12505, Springer 2020, ISBN 978-3-030-62575-7 ",provsec
+84,Local Differential Privacy based Federated Learning for Internet of Things.,2020,"Yang Zhao, Jun Zhao, Mengmeng Yang, Teng Wang, Ning Wang, Lingjuan Lyu, Dusit Niyato, Kwok-Yan Lam",08856 ,corr
+85,Blockchain for the Internet of Vehicles towards Intelligent Transportation Systems: A Survey.,2020,"Muhammad Baqer Mollah, Jun Zhao, Dusit Niyato, Yong Liang Guan, Chau Yuen, Sumei Sun, Kwok-Yan Lam, Leong Hai Koh",06022 ,corr
+86,MPC-enabled Privacy-Preserving Neural Network Training against Malicious Attack.,2020,"Ziyao Liu, Ivan Tjuawinata, Chaoping Xing, Kwok-Yan Lam",12557 ,corr
+87,Local Differential Privacy and Its Applications: A Comprehensive Survey.,2020,"Mengmeng Yang, Lingjuan Lyu, Jun Zhao, Tianqing Zhu, Kwok-Yan Lam",03686 ,corr
+88,Secure Weighted Aggregation in Federated Learning.,2020,"Jiale Guo, Ziyao Liu, Kwok-Yan Lam, Jun Zhao, Yiqiang Chen, Chaoping Xing",08730 ,corr
+89,Privacy-Preserving Federated Learning for UAV-Enabled Networks: Learning-Based Joint Scheduling and Resource Management.,2020,"Helin Yang, Jun Zhao, Zehui Xiong, Kwok-Yan Lam, Sumei Sun, Liang Xiao",14197 ,corr
+90,Blockchain-Based Approach for Securing Spectrum Trading in Multibeam Satellite Systems.,2020,"Feng Li, Kwok-Yan Lam, Min Jia, Jun Zhao, Xiuhua Li, Li Wang",10681 ,corr
+91,Secure Hot Path Crowdsourcing with Local Differential Privacy under Fog Computing Architecture.,2020,"Mengmeng Yang, Ivan Tjuawinata, Kwok-Yan Lam, Jun Zhao, Lin Sun",13807 ,corr

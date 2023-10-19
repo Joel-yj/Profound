@@ -1,0 +1,107 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Region-adaptive Concept Aggregation for Few-shot Visual Recognition.,2023,"Mengya Han, Yibing Zhan, Baosheng Yu, Yong Luo, Han Hu, Bo Du, Yonggang Wen, Dacheng Tao", 20: 554-568 ,ijautcomp
+1,Automatic Transformation Search Against Deep Leakage From Gradients.,2023,"Wei Gao, Xu Zhang, Shangwei Guo, Tianwei Zhang, Tao Xiang, Han Qiu, Yonggang Wen, Yang Liu", 45: 10650-10668 ,pami
+2,Learning Relation Prototype From Unlabeled Texts for Long-Tail Relation Extraction.,2023,"Yixin Cao, Jun Kuang, Ming Gao, Aoying Zhou, Yonggang Wen, Tat-Seng Chua", 35: 1761-1774 ,tkde
+3,"A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications.",2023,"Jie Gui, Zhenan Sun, Yonggang Wen, Dacheng Tao, Jieping Ye", 35: 3313-3332 ,tkde
+4,Editorial.,2023,Yonggang Wen, 25: 1060 ,tmm
+5,Two-Stream Prototype Learning Network for Few-Shot Face Recognition Under Occlusions.,2023,"Xingyu Yang, Mengya Han, Yong Luo, Han Hu, Yonggang Wen", 25: 1555-1563 ,tmm
+6,Optimizing Performance of Federated Person Re-identification: Benchmarking and Analysis.,2023,"Weiming Zhuang, Xin Gan, Yonggang Wen, Shuai Zhang", 19: 38:1-38:18 ,tomccap
+7,Optimizing Data Center Energy Efficiency via Event-Driven Deep Reinforcement Learning.,2023,"Yongyi Ran, Xin Zhou, Han Hu, Yonggang Wen", 16: 1296-1309 ,tsc
+8,Optimizing Energy Efficiency for Data Center via Parameterized Deep Reinforcement Learning.,2023,"Yongyi Ran, Han Hu, Yonggang Wen, Xin Zhou", 16: 1310-1323 ,tsc
+9,FedABC: Targeting Fair Competition in Personalized Federated Learning.,2023,"Dui Wang, Li Shen, Yong Luo, Han Hu, Kehua Su, Yonggang Wen, Dacheng Tao", AAAI 2023: 10095-10103,aaai
+10,Discriminative Reasoning with Sparse Event Representation for Document-level Event-Event Relation Extraction.,2023,"Changsen Yuan, Heyan Huang, Yixin Cao, Yonggang Wen", ACL  2023: 16222-16234,acl
+11,"Lucid: A Non-intrusive, Scalable and Interpretable Scheduler for Deep Learning Training Jobs.",2023,"Qinghao Hu, Meng Zhang, Peng Sun, Yonggang Wen, Tianwei Zhang", ASPLOS  2023: 457-472,asplos
+12,Phyllis: Physics-Informed Lifelong Reinforcement Learning for Data Center Cooling Control.,2023,"Ruihang Wang, Zhiwei Cao, Xin Zhou, Yonggang Wen, Rui Tan", e-Energy 2023: 114-126,eenergy
+13,Toward Model-Assisted Safe Reinforcement Learning for Data Center Cooling Control: A Lyapunov-based Approach.,2023,"Zhiwei Cao, Ruihang Wang, Xin Zhou, Yonggang Wen", e-Energy 2023: 333-346,eenergy
+14,Hydro: Surrogate-Based Hyperparameter Tuning Service in Datacenters.,2023,"Qinghao Hu, Zhisheng Ye, Meng Zhang, Qiaoling Chen, Peng Sun, Yonggang Wen, Tianwei Zhang", OSDI 2023: 757-777,osdi
+15,FedABC: Targeting Fair Competition in Personalized Federated Learning.,2023,"Dui Wang, Li Shen, Yong Luo, Han Hu, Kehua Su, Yonggang Wen, Dacheng Tao",07450 ,corr
+16,Boosting Distributed Full-graph GNN Training with Asynchronous One-bit Communication.,2023,"Meng Zhang, Qinghao Hu, Peng Sun, Yonggang Wen, Tianwei Zhang",01277 ,corr
+17,FHA-Kitchens: A Novel Dataset for Fine-Grained Hand Action Recognition in Kitchen Scenes.,2023,"Ting Zhe, Yongqian Li, Jing Zhang, Yong Luo, Han Hu, Bo Du, Yonggang Wen, Dacheng Tao",10858 ,corr
+18,MAS: Towards Resource-Efficient Federated Multiple-Task Learning.,2023,"Weiming Zhuang, Yonggang Wen, Lingjuan Lyu, Shuai Zhang",11285 ,corr
+19,Rethinking the Localization in Weakly Supervised Object Localization.,2023,"Rui Xu, Yong Luo, Han Hu, Bo Du, Jialie Shen, Yonggang Wen",06161 ,corr
+20,PartSeg: Few-shot Part Segmentation via Part-aware Prompt Learning.,2023,"Mengya Han, Heliang Zheng, Chaoyue Wang, Yong Luo, Han Hu, Jing Zhang, Yonggang Wen",12757 ,corr
+21,Toward a Systematic Survey for Carbon Neutral Data Centers.,2022,"Zhiwei Cao, Xin Zhou, Han Hu, Zhi Wang, Yonggang Wen", Tutorials 24: 895-936 ,comsur
+22,FogChain: A Blockchain-Based Peer-to-Peer Solar Power Trading System Powered by Fog AI.,2022,"Guanyu Gao, Chengru Song, T. G. Thusitha Asela Bandara, Meng Shen, Fan Yang, Wolf Posdorfer, Dacheng Tao, Yonggang Wen", 9: 5200-5215 ,iotj
+23,EasyFL: A Low-Code Federated Learning Platform for Dummies.,2022,"Weiming Zhuang, Xin Gan, Yonggang Wen, Shuai Zhang", 9: 13740-13754 ,iotj
+24,GradientFlow: Optimizing Network Performance for Large-Scale Distributed DNN Training.,2022,"Peng Sun, Yonggang Wen, Ruobing Han, Wansen Feng, Shengen Yan", Big Data 8: 495-507 ,tbd
+25,CycleResume: A Cycle Learning Framework with Hybrid Attention for Fine-Grained Talent-Job Fit.,2022,"Zichen Zhang, Yong Luo, Yonggang Wen, Xinwen Zhang", CICAI  2022: 260-271,cicai
+26,Titan: a scheduler for foundation model fine-tuning workloads.,2022,"Wei Gao, Peng Sun, Yonggang Wen, Tianwei Zhang", SoCC 2022: 348-354,cloud
+27,Toward Physics-Guided Safe Deep Reinforcement Learning for Green Data Center Cooling Control.,2022,"Ruihang Wang, Xinyi Zhang, Xin Zhou, Yonggang Wen, Rui Tan", ICCPS 2022: 159-169,iccps
+28,Divergence-aware Federated Self-Supervised Learning.,2022,"Weiming Zhuang, Yonggang Wen, Shuai Zhang", ICLR 2022,iclr
+29,Federated Unsupervised Domain Adaptation for Face Recognition.,2022,"Weiming Zhuang, Xin Gan, Xuesen Zhang, Yonggang Wen, Shuai Zhang, Shuai Yi", ICME 2022: 1-6,icmcs
+30,Optimizing Federated Unsupervised Person Re-identification via Camera-aware Clustering.,2022,"Jiabei Liu, Weiming Zhuang, Yonggang Wen, Jun Huang, Wei Lin", MMSP 2022: 1-6,mmsp
+31,Nonlinear Multi-Model Reuse.,2022,"Yong Luo, Ling-Yu Duan, Yan Bai, Tongliang Liu, Yihang Lou, Yonggang Wen", MMSP 2022: 1-6,mmsp
+32,Reducio: model reduction for data center predictive digital twins via physics-guided machine learning.,2022,"Zhiwei Cao, Ruihang Wang, Xin Zhou, Yonggang Wen", BuildSys@SenSys 2022: 1-10,sensys
+33,Optimizing Data Centre Energy Efficiency via Event Driven Deep Reinforcement Learning.,2022,"Yongyi Ran, Xin Zhou, Han Hu, Yonggang Wen", SERVICES 2022: 20,services
+34,Primo: Practical Learning-Augmented Systems with Interpretable Models.,2022,"Qinghao Hu, Harsha Nori, Peng Sun, Yonggang Wen, Tianwei Zhang", USENIX Annual Technical Conference 2022: 519-538,usenix
+35,Federated Unsupervised Domain Adaptation for Face Recognition.,2022,"Weiming Zhuang, Xin Gan, Yonggang Wen, Xuesen Zhang, Shuai Zhang, Shuai Yi",04382 ,corr
+36,Divergence-aware Federated Self-Supervised Learning.,2022,"Weiming Zhuang, Yonggang Wen, Shuai Zhang",04385 ,corr
+37,"Deep Learning Workload Scheduling in GPU Datacenters: Taxonomy, Challenges and Vision.",2022,"Wei Gao, Qinghao Hu, Zhisheng Ye, Peng Sun, Xiaolin Wang, Yingwei Luo, Tianwei Zhang, Yonggang Wen",11913 ,corr
+38,Optimizing Performance of Federated Person Re-identification: Benchmarking and Analysis.,2022,"Weiming Zhuang, Xin Gan, Yonggang Wen, Shuai Zhang",12144 ,corr
+39,Smart Multi-tenant Federated Learning.,2022,"Weiming Zhuang, Yonggang Wen, Shuai Zhang",04202 ,corr
+40,Not All Instances Contribute Equally: Instance-adaptive Class Representation Learning for Few-Shot Visual Recognition.,2022,"Mengya Han, Yibing Zhan, Yong Luo, Bo Du, Han Hu, Yonggang Wen, Dacheng Tao",03034 ,corr
+41,Machine Learning for a Sustainable Energy Future.,2022,"Zhenpeng Yao, Yanwei Lum, Andrew Johnston, Luis Martin Mejia-Mendoza, Xin Zhou, Yonggang Wen, Alán Aspuru-Guzik, Edward H. Sargent, Zhi Wei Seh",10391 ,corr
+42,Toward Efficient Language Model Pretraining and Downstream Adaptation via Self-Evolution: A Case Study on SuperGLUE.,2022,"Qihuang Zhong, Liang Ding, Yibing Zhan, Yu Qiao, Yonggang Wen, Li Shen, Juhua Liu, Baosheng Yu, Bo Du, Yixin Chen, Xinbo Gao, Chunyan Miao, Xiaoou Tang, Dacheng Tao",01853 ,corr
+43,Video transcoding for adaptive bitrate streaming over edge-cloud continuum.,2021,"Guanyu Gao, Yonggang Wen", Networks 7: 598-604 ,dcan
+44,Demystifying Thermal Comfort in Smart Buildings: An Interpretable Machine Learning Approach.,2021,"Wei Zhang, Yonggang Wen, King-Jet Tseng, Guangyu Jin", 8: 8021-8031 ,iotj
+45,Toward Intelligent Multizone Thermal Control With Multiagent Deep Reinforcement Learning.,2021,"Jie Li, Wei Zhang, Guanyu Gao, Yonggang Wen, Guangyu Jin, George I. Christopoulos", 8: 11150-11162 ,iotj
+46,Toward a Wearable Crowdsource System to Monitor Respiratory Symptoms for Pandemic Early Warning.,2021,"Wei Zhang, Jie Li, Yonggang Wen, Yong Luo", 35: 56-63 ,network
+47,Joint IT-Facility Optimization for Green Data Centers via Deep Reinforcement Learning.,2021,"Xin Zhou, Ruihang Wang, Yonggang Wen, Rui Tan", 35: 255-262 ,network
+48,Cost Optimal Data Center Servers: A Voltage Scaling Approach.,2021,"Wei Zhang, Yonggang Wen, Loi Lei Lai, Fang Liu, Rui Fan", 9: 118-130 ,tcc
+49,Joint Deep Multi-View Learning for Image Clustering.,2021,"Yuan Xie, Bingqian Lin, Yanyun Qu, Cuihua Li, Wensheng Zhang, Lizhuang Ma, Yonggang Wen, Dacheng Tao", 33: 3594-3606 ,tkde
+50,Intelligent Trainer for Dyna-Style Model-Based Deep Reinforcement Learning.,2021,"Linsen Dong, Yuanlong Li, Xin Zhou, Yonggang Wen, Kyle Guan", 32: 2758-2771 ,tnn
+51,Deep Reinforcement Learning for Tropical Air Free-cooled Data Center Control.,2021,"Duc Van Le, Rongrong Wang, Yingbo Liu, Rui Tan, Yew-Wah Wong, Yonggang Wen", Networks 17: 24:1-24:28 ,tosn
+52,Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion.,2021,"Yixin Cao, Xiang Ji, Xin Lv, Juanzi Li, Yonggang Wen, Hanwang Zhang", ACL/IJCNLP  2021: 6855-6865,acl
+53,Chronus: A Novel Deadline-aware Scheduler for Deep Learning Training Jobs.,2021,"Wei Gao, Zhisheng Ye, Peng Sun, Yonggang Wen, Tianwei Zhang", SoCC 2021: 609-623,cloud
+54,Privacy-Preserving Collaborative Learning With Automatic Transformation Search.,2021,"Wei Gao, Shangwei Guo, Tianwei Zhang, Han Qiu, Yonggang Wen, Yang Liu", CVPR 2021: 114-123,cvpr
+55,Towards Cost-Optimal Energy Procurement for Cooling as a Service: A Data-Driven Approach.,2021,"Wei Zhang, Yonggang Wen, Fang Liu", GLOBECOM 2021: 1-6,globecom
+56,Collaborative Unsupervised Visual Representation Learning from Decentralized Data.,2021,"Weiming Zhuang, Xin Gan, Yonggang Wen, Shuai Zhang, Shuai Yi", ICCV 2021: 4892-4901,iccv
+57,Joint Optimization in Edge-Cloud Continuum for Federated Unsupervised Person Re-identification.,2021,"Weiming Zhuang, Yonggang Wen, Shuai Zhang", ACM Multimedia 2021: 433-441,mm
+58,Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers.,2021,"Wen Wang, Yang Cao, Jing Zhang, Fengxiang He, Zheng-Jun Zha, Yonggang Wen, Dacheng Tao", ACM Multimedia 2021: 1730-1738,mm
+59,Data-Free Ensemble Knowledge Distillation for Privacy-conscious Multimedia Model Compression.,2021,"Zhiwei Hao, Yong Luo, Han Hu, Jianping An, Yonggang Wen", ACM Multimedia 2021: 1803-1811,mm
+60,Missing Data Imputation for Solar Yield Prediction using Temporal Multi-Modal Variational Auto-Encoder.,2021,"Meng Shen, Huaizheng Zhang, Yixin Cao, Fan Yang, Yonggang Wen", ACM Multimedia 2021: 2558-2566,mm
+61,Characterization and prediction of deep learning workloads in large-scale GPU datacenters.,2021,"Qinghao Hu, Peng Sun, Shengen Yan, Yonggang Wen, Tianwei Zhang", SC 2021: 104,sc
+62,Toward explainable and interpretable building energy modelling: an explainable artificial intelligence approach.,2021,"Wei Zhang, Fang Liu, Yonggang Wen, Bernard Nee", BuildSys@SenSys 2021: 255-258,sensys
+63,On the Practicality of Differential Privacy in Federated Learning by Tuning Iteration Times.,2021,"Yao Fu, Yipeng Zhou, Di Wu, Shui Yu, Yonggang Wen, Chao Li",04163 ,corr
+64,A Serverless Cloud-Fog Platform for DNN-Based Video Analytics with Incremental Learning.,2021,"Huaizheng Zhang, Meng Shen, Yizheng Huang, Yonggang Wen, Yong Luo, Guanyu Gao, Kyle Guan",03012 ,corr
+65,EasyFL: A Low-code Federated Learning Platform For Dummies.,2021,"Weiming Zhuang, Xin Gan, Yonggang Wen, Shuai Zhang",07603 ,corr
+66,Towards Unsupervised Domain Adaptation for Deep Face Recognition under Privacy Constraints via Federated Learning.,2021,"Weiming Zhuang, Xin Gan, Yonggang Wen, Xuesen Zhang, Shuai Zhang, Shuai Yi",07606 ,corr
+67,ModelPS: An Interactive and Collaborative Platform for Editing Pre-trained Models at Scale.,2021,"Yuanming Li, Huaizheng Zhang, Shanshan Jiang, Fan Yang, Yonggang Wen, Yong Luo",08275 ,corr
+68,ModelCI-e: Enabling Continual Learning in Deep Learning Serving Systems.,2021,"Yizheng Huang, Huaizheng Zhang, Yonggang Wen, Peng Sun, Nguyen Binh Duong Ta",03122 ,corr
+69,Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers.,2021,"Wen Wang, Yang Cao, Jing Zhang, Fengxiang He, Zheng-Jun Zha, Yonggang Wen, Dacheng Tao",12636 ,corr
+70,Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion.,2021,"Yixin Cao, Xiang Ji, Xin Lv, Juanzi Li, Yonggang Wen, Hanwang Zhang",01387 ,corr
+71,Collaborative Unsupervised Visual Representation Learning from Decentralized Data.,2021,"Weiming Zhuang, Xin Gan, Yonggang Wen, Shuai Zhang, Shuai Yi",06492 ,corr
+72,Joint Optimization in Edge-Cloud Continuum for Federated Unsupervised Person Re-identification.,2021,"Weiming Zhuang, Yonggang Wen, Shuai Zhang",06493 ,corr
+73,Characterization and Prediction of Deep Learning Workloads in Large-Scale GPU Datacenters.,2021,"Qinghao Hu, Peng Sun, Shengen Yan, Yonggang Wen, Tianwei Zhang",01313 ,corr
+74,Carbon Neutrality in Data Center.,2021,"Zhiwei Cao, Xin Zhou, Han Hu, Zhi Wang, Yonggang Wen",09284 ,corr
+75,xTML: A Unified Heterogeneous Transfer Metric Learning Framework for Multimedia Applications [Application Notes].,2020,"Lu Liu, Yong Luo, Han Hu, Yonggang Wen, Dacheng Tao, Xin Yao", 15: 78-88 ,cim
+76,Deep neural networks for emerging multimedia computing and applications.,2020,"Shuqiang Jiang, Weiqing Min, Yonggang Wen, Qingming Huang, Shuicheng Yan", Neurocomputing 395: 117-118 ,ijon
+77,Transforming Device Fingerprinting for Wireless Security via Online Multitask Metric Learning.,2020,"Yong Luo, Han Hu, Yonggang Wen, Dacheng Tao", 7: 208-219 ,iotj
+78,DeepComfort: Energy-Efficient Thermal Comfort Control in Buildings Via Reinforcement Learning.,2020,"Guanyu Gao, Jie Li, Yonggang Wen", 7: 8472-8484 ,iotj
+79,Guest Editorial Special Issue on Advances in Artificial Intelligence and Machine Learning for Networking.,2020,"Prosper Chemouil, Pan Hui, Wolfgang Kellerer, Noura Limam, Rolf Stadler, Yonggang Wen", 38: 2229-2233 ,jsac
+80,GraphMP: I/O-Efficient Big Graph Analytics on a Single Commodity Machine.,2020,"Peng Sun, Yonggang Wen, Ta Nguyen Binh Duong, Xiaokui Xiao", Big Data 6: 816-829 ,tbd
+81,Transforming Cooling Optimization for Green Data Center via Deep Reinforcement Learning.,2020,"Yuanlong Li, Yonggang Wen, Dacheng Tao, Kyle Guan", 50: 2002-2013 ,tcyb
+82,DeepQoE: A Multimodal Learning Framework for Video Quality of Experience (QoE) Prediction.,2020,"Huaizheng Zhang, Linsen Dong, Guanyu Gao, Han Hu, Yonggang Wen, Kyle Guan", 22: 3210-3223 ,tmm
+83,Efficient Compute-Intensive Job Allocation in Data Centers via Deep Reinforcement Learning.,2020,"Deliang Yi, Xin Zhou, Yonggang Wen, Rui Tan", 31: 1474-1485 ,tpds
+84,Coordinating Workload Scheduling of Geo-Distributed Data Centers and Electricity Generation of Smart Grid.,2020,"Han Hu, Yonggang Wen, Lei Yin, Ling Qiu, Dusit Niyato", 13: 1007-1020 ,tsc
+85,Electricity Cost Minimization for Interruptible Workload in Datacenter Servers.,2020,"Wei Zhang, Yonggang Wen, Loi Lei Lai, Fang Liu, Rui Fan", 13: 1059-1071 ,tsc
+86,When Wireless Video Streaming Meets AI: A Deep Learning Approach.,2020,"Lu Liu, Han Hu, Yong Luo, Yonggang Wen", 27: 127-133 ,wc
+87,"Look, Read and Feel: Benchmarking Ads Understanding with Multimodal Multitask Learning.",2020,"Huaizheng Zhang, Yong Luo, Qiming Ai, Yonggang Wen, Han Hu", ACM Multimedia 2020: 430-438,mm
+88,Performance Optimization of Federated Person Re-identification via Benchmark Analysis.,2020,"Weiming Zhuang, Yonggang Wen, Xuesen Zhang, Xin Gan, Daiying Yin, Dongzhan Zhou, Shuai Zhang, Shuai Yi", ACM Multimedia 2020: 955-963,mm
+89,Deep Heterogeneous Multi-Task Metric Learning for Visual Recognition and Retrieval.,2020,"Shikang Gan, Yong Luo, Yonggang Wen, Tongliang Liu, Han Hu", ACM Multimedia 2020: 1837-1845,mm
+90,Semi-supervised Online Multi-Task Metric Learning for Visual Recognition and Retrieval.,2020,"Yangxi Li, Han Hu, Jin Li, Yong Luo, Yonggang Wen", ACM Multimedia 2020: 3377-3385,mm
+91,MLModelCI: An Automatic Cloud Platform for Efficient MLaaS.,2020,"Huaizheng Zhang, Yuanming Li, Yizheng Huang, Yonggang Wen, Jianxiong Yin, Kyle Guan", ACM Multimedia 2020: 4453-4456,mm
+92,Hysia: Serving DNN-Based Video-to-Retail Applications in Cloud.,2020,"Huaizheng Zhang, Yuanming Li, Qiming Ai, Yong Luo, Yonggang Wen, Yichao Jin, Ta Nguyen Binh Duong", ACM Multimedia 2020: 4457-4460,mm
+93,Real-Time Cooling Power Attribution for Co-Located Data Center Rooms with Distinct Temperatures.,2020,"Rongrong Wang, Duc Van Le, Rui Tan, Yew-Wah Wong, Yonggang Wen", BuildSys@SenSys 2020: 190-199,sensys
+94,Kalibre: Knowledge-based Neural Surrogate Model Calibration for Data Center Digital Twins.,2020,"Ruihang Wang, Xin Zhou, Linsen Dong, Yonggang Wen, Rui Tan, Li Chen, Guan Wang, Feng Zeng", BuildSys@SenSys 2020: 200-209,sensys
+95,An Urban Tropical Thermal Comfort Dataset for Smart Buildings.,2020,"Jie Li, Yonggang Wen, Wei Zhang", BuildSys@SenSys 2020: 318-319,sensys
+96,"A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications.",2020,"Jie Gui, Zhenan Sun, Yonggang Wen, Dacheng Tao, Jieping Ye",06937 ,corr
+97,Toward Automated Calibration of Data Center Digital Twins: A Neural Surrogate Approach.,2020,"Ruihang Wang, Yuanlong Li, Linsen Dong, Xin Zhou, Yonggang Wen, Rui Tan, Li Chen, Guan Wang, Feng Zeng",10681 ,corr
+98,MLModelCI: An Automatic Cloud Platform for Efficient MLaaS.,2020,"Huaizheng Zhang, Yuanming Li, Yizheng Huang, Yonggang Wen, Jianxiong Yin, Kyle Guan",05096 ,corr
+99,Hysia: Serving DNN-Based Video-to-Retail Applications in Cloud.,2020,"Huaizheng Zhang, Yuanming Li, Qiming Ai, Yong Luo, Yonggang Wen, Yichao Jin, Duong Nguyen Binh Ta",05117 ,corr
+100,Distributed Energy Trading and Scheduling among Microgrids via Multiagent Reinforcement Learning.,2020,"Guanyu Gao, Yonggang Wen, Xiaohu Wu, Ran Wang",04517 ,corr
+101,Performance Optimization for Federated Person Re-identification via Benchmark Analysis.,2020,"Weiming Zhuang, Yonggang Wen, Xuesen Zhang, Xin Gan, Daiying Yin, Dongzhan Zhou, Shuai Zhang, Shuai Yi",11560 ,corr
+102,No more 996: Understanding Deep Learning Inference Serving with an Automatic Benchmarking System.,2020,"Huaizheng Zhang, Yizheng Huang, Yonggang Wen, Jianxiong Yin, Kyle Guan",02327 ,corr
+103,Privacy-preserving Collaborative Learning with Automatic Transformation Search.,2020,"Wei Gao, Shangwei Guo, Tianwei Zhang, Han Qiu, Yonggang Wen, Yang Liu",12505 ,corr
+104,Learning Relation Prototype from Unlabeled Texts for Long-tail Relation Extraction.,2020,"Yixin Cao, Jun Kuang, Ming Gao, Aoying Zhou, Yonggang Wen, Tat-Seng Chua",13574 ,corr
+105,Deep Reinforcement Learning for Tropical Air Free-Cooled Data Center Control.,2020,"Duc Van Le, Rongrong Wang, Yingbo Liu, Rui Tan, Yew-Wah Wong, Yonggang Wen",06834 ,corr

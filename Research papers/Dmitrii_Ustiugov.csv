@@ -1,0 +1,9 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,"Proceedings of the 1st Workshop on SErverless Systems, Applications and MEthodologies, SESAME 2023, Rome, Italy, 8 May 2023.",2023,"Dmitrii Ustiugov, Rodrigo Bruno, Pedro Fonseca, Boris Grot, Antonio Barbalace", ACM 2023 ,sesame
+1,Lukewarm serverless functions: characterization and optimization.,2022,"David Schall, Artemiy Margaritov, Dmitrii Ustiugov, Andreas Sandberg, Boris Grot", ISCA 2022: 757-770,isca
+2,PTEMagnet: fine-grained physical memory reservation for faster page walks in public clouds.,2021,"Artemiy Margaritov, Dmitrii Ustiugov, Amna Shahab, Boris Grot", ASPLOS 2021: 211-223,asplos
+3,"Benchmarking, analysis, and optimization of serverless function snapshots.",2021,"Dmitrii Ustiugov, Plamen Petrov, Marios Kogias, Edouard Bugnion, Boris Grot", ASPLOS 2021: 559-572,asplos
+4,Analyzing Tail Latency in Serverless Clouds with STeLLAR.,2021,"Dmitrii Ustiugov, Theodor Amariucai, Boris Grot", IISWC 2021: 51-62,iiswc
+5,"Benchmarking, Analysis, and Optimization of Serverless Function Snapshots.",2021,"Dmitrii Ustiugov, Plamen Petrov, Marios Kogias, Edouard Bugnion, Boris Grot",09355 ,corr
+6,Bankrupt Covert Channel: Turning Network Predictability into Vulnerability.,2020,"Dmitrii Ustiugov, Plamen Petrov, M. R. Siavash Katebzadeh, Boris Grot", WOOT @ USENIX Security Symposium 2020,woot
+7,Bankrupt Covert Channel: Turning Network Predictability into Vulnerability.,2020,"Dmitrii Ustiugov, Plamen Petrov, M. R. Siavash Katebzadeh, Boris Grot",03854 ,corr

@@ -1,0 +1,149 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Classifying ambiguous identities in hidden-role Stochastic games with multi-agent reinforcement learning.,2023,"Shijie Han, Siyuan Li, Bo An, Wei Zhao, Peng Liu", 37: 35 ,aamas
+1,Effective Interpretable Policy Distillation via Critical Experience Point Identification.,2023,"Xiao Liu, Shuyang Liu, Bo An, Yang Gao, Shangdong Yang, Wenbin Li", 38: 28-36 ,expert
+2,Multi-agent dueling Q-learning with mean field and value decomposition.,2023,"Shifei Ding, Wei Du, Ling Ding, Lili Guo, Jian Zhang, Bo An", 139: 109436 ,pr
+3,Reinforcement Learning for Quantitative Trading.,2023,"Shuo Sun, Rundong Wang, Bo An", 14: 44:1-44:29 ,tist
+4,Multiple-Instance Learning From Unlabeled Bags With Pairwise Similarity.,2023,"Lei Feng, Senlin Shu, Yuzhou Cao, Lue Tao, Hongxin Wei, Tao Xiang, Bo An, Gang Niu", 35: 11599-11609 ,tkde
+5,PRUDEX-Compass: Towards Systematic Evaluation of Reinforcement Learning in Financial Markets.,2023,"Shuo Sun, Molei Qin, Xinrun Wang, Bo An", 2023 ,tmlr
+6,An Efficient Deep Reinforcement Learning Algorithm for Solving Imperfect Information Extensive-Form Games.,2023,"Linjian Meng, Zhenxing Ge, Pinzhuo Tian, Bo An, Yang Gao", AAAI 2023: 5823-5831,aaai
+7,Partial-Label Regression.,2023,"Xin Cheng, Deng-Bao Wang, Lei Feng, Min-Ling Zhang, Bo An", AAAI 2023: 7140-7147,aaai
+8,Solving Large-Scale Pursuit-Evasion Games Using Pre-trained Strategies.,2023,"Shuxin Li, Xinrun Wang, Youzhi Zhang, Wanqi Xue, Jakub Cerný, Bo An", AAAI 2023: 11586-11594,aaai
+9,Consistent Complementary-Label Learning via Order-Preserving Losses.,2023,"Shuqi Liu, Yuzhou Cao, Qiaozhen Zhang, Lei Feng, Bo An", AISTATS 2023: 8734-8748,aistats
+10,Structural Credit Assignment-Guided Coordinated MCTS: An Efficient and Scalable Method for Online Multiagent Planning.,2023,"Qian Che, Wanyuan Wang, Fengchen Wang, Tianchi Qiao, Xiang Liu, Jiuchuan Jiang, Bo An, Yichuan Jiang", AAMAS 2023: 543-551,atal
+11,Off-Beat Multi-Agent Reinforcement Learning.,2023,"Wei Qiu, Weixun Wang, Rundong Wang, Bo An, Yujing Hu, Svetlana Obraztsova, Zinovi Rabinovich, Jianye Hao, Yingfeng Chen, Changjie Fan", AAMAS 2023: 2424-2426,atal
+12,A Learning Approach to Complex Contagion Influence Maximization.,2023,"Haipeng Chen, Bryan Wilder, Wei Qiu, Bo An, Eric Rice, Milind Tambe", AAMAS 2023: 2622-2624,atal
+13,Finding Optimal Nash Equilibria in Multiplayer Games via Correlation Plans.,2023,"Youzhi Zhang, Bo An, V. S. Subrahmanian", AAMAS 2023: 2712-2714,atal
+14,RPM: Generalizable Multi-Agent Policies for Multi-Agent Reinforcement Learning.,2023,"Wei Qiu, Xiao Ma, Bo An, Svetlana Obraztsova, Shuicheng Yan, Zhongwen Xu", ICLR 2023,iclr
+15,Population-size-Aware Policy Optimization for Mean-Field Games.,2023,"Pengdeng Li, Xinrun Wang, Shuxin Li, Hau Chan, Bo An", ICLR 2023,iclr
+16,ResAct: Reinforcing Long-term Engagement in Sequential Recommendation with Residual Actor.,2023,"Wanqi Xue, Qingpeng Cai, Ruohan Zhan, Dong Zheng, Peng Jiang, Kun Gai, Bo An", ICLR 2023,iclr
+17,Weakly Supervised Regression with Interval Targets.,2023,"Xin Cheng, Yuzhou Cao, Ximing Li, Bo An, Lei Feng", ICML 2023: 5428-5448,icml
+18,Mitigating Memorization of Noisy Labels by Clipping the Model Prediction.,2023,"Hongxin Wei, Huiping Zhuang, Renchunzi Xie, Lei Feng, Gang Niu, Bo An, Yixuan Li", ICML 2023: 36868-36886,icml
+19,Controlling Type Confounding in Ad Hoc Teamwork with Instance-wise Teammate Feedback Rectification.,2023,"Dong Xing, Pengjie Gu, Qian Zheng, Xinrun Wang, Shanqi Liu, Longtao Zheng, Bo An, Gang Pan", ICML 2023: 38272-38285,icml
+20,Exploring Leximin Principle for Fair Core-Selecting Combinatorial Auctions: Payment Rule Design and Implementation.,2023,"Hao Cheng, Shufeng Kong, Yanchen Deng, Caihua Liu, Xiaohu Wu, Bo An, Chongjun Wang", IJCAI 2023: 2581-2588,ijcai
+21,Complex Contagion Influence Maximization: A Reinforcement Learning Approach.,2023,"Haipeng Chen, Bryan Wilder, Wei Qiu, Bo An, Eric Rice, Milind Tambe", IJCAI 2023: 5531-5540,ijcai
+22,Mastering Stock Markets with Efficient Mixture of Diversified Trading Experts.,2023,"Shuo Sun, Xinrun Wang, Wanqi Xue, Xiaoxuan Lou, Bo An", KDD 2023: 2109-2119,kdd
+23,PrefRec: Recommender Systems with Human Preferences for Reinforcing Long-term User Engagement.,2023,"Wanqi Xue, Qingpeng Cai, Zhenghai Xue, Shuo Sun, Shuchang Liu, Dong Zheng, Peng Jiang, Kun Gai, Bo An", KDD 2023: 2874-2884,kdd
+24,"Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2023, London, United Kingdom, 29 May 2023 - 2 June 2023.",2023,"Noa Agmon, Bo An, Alessandro Ricci, William Yeoh"," ACM 2023, ISBN 978-1-4503-9432-1 ",atal
+25,Reinforcement Learning from Diverse Human Preferences.,2023,"Wanqi Xue, Bo An, Shuicheng Yan, Zhongwen Xu",11774 ,corr
+26,PRUDEX-Compass: Towards Systematic Evaluation of Reinforcement Learning in Financial Markets.,2023,"Shuo Sun, Molei Qin, Xinrun Wang, Bo An",00586 ,corr
+27,Population-size-Aware Policy Optimization for Mean-Field Games.,2023,"Pengdeng Li, Xinrun Wang, Shuxin Li, Hau Chan, Bo An",03364 ,corr
+28,Towards Skilled Population Curriculum for Multi-Agent Reinforcement Learning.,2023,"Rundong Wang, Longtao Zheng, Wei Qiu, Bowei He, Bo An, Zinovi Rabinovich, Yujing Hu, Yingfeng Chen, Tangjie Lv, Changjie Fan",03429 ,corr
+29,On the Importance of Feature Separability in Predicting Out-Of-Distribution Error.,2023,"Renchunzi Xie, Hongxin Wei, Yuzhou Cao, Lei Feng, Bo An",15488 ,corr
+30,State Regularized Policy Optimization on Data with Dynamics Shift.,2023,"Zhenghai Xue, Qingpeng Cai, Shuchang Liu, Dong Zheng, Peng Jiang, Kun Gai, Bo An",03552 ,corr
+31,Synapse: Leveraging Few-Shot Exemplars for Human-Level Computer Control.,2023,"Longtao Zheng, Rundong Wang, Bo An",07863 ,corr
+32,Partial-Label Regression.,2023,"Xin Cheng, Deng-Bao Wang, Lei Feng, Min-Ling Zhang, Bo An",08968 ,corr
+33,Weakly Supervised Regression with Interval Targets.,2023,"Xin Cheng, Yuzhou Cao, Ximing Li, Bo An, Lei Feng",10458 ,corr
+34,Controlling Type Confounding in Ad Hoc Teamwork with Instance-wise Teammate Feedback Rectification.,2023,"Dong Xing, Pengjie Gu, Qian Zheng, Xinrun Wang, Shanqi Liu, Longtao Zheng, Bo An, Gang Pan",10944 ,corr
+35,IMM: An Imitative Reinforcement Learning Approach with Predictive Representation Learning for Automatic Market Making.,2023,"Hui Niu, Siyuan Li, Jiahao Zheng, Zhouchi Lin, Jian Li, Jian Guo, Bo An",08918 ,corr
+36,Efficient Last-iterate Convergence Algorithms in Solving Games.,2023,"Linjian Meng, Zhenxing Ge, Wenbin Li, Bo An, Yang Gao",11256 ,corr
+37,Market-GAN: Adding Control to Financial Market Data Generation with Semantic Context.,2023,"Haochong Xia, Shuo Sun, Xinrun Wang, Bo An",07708 ,corr
+38,Deep Reinforcement Learning for Quantitative Trading: Challenges and Opportunities.,2022,"Bo An, Shuo Sun, Rundong Wang", 37: 23-26 ,expert
+39,Planning sequential interventions to tackle depression in large uncertain social networks using deep reinforcement learning.,2022,"Aye Phyu Phyu Aung, Senthilnath Jayavelu, Xiaoli Li, Bo An", Neurocomputing 481: 182-192 ,ijon
+40,Regularized Matrix Factorization for Multilabel Learning With Missing Labels.,2022,"Lei Feng, Jun Huang, Senlin Shu, Bo An", 52: 3710-3721 ,tcyb
+41,SemiNLL: A Framework of Noisy-Label Learning by Semi-Supervised Learning.,2022,"Zhuowei Wang, Jing Jiang, Bo Han, Lei Feng, Bo An, Gang Niu, Guodong Long", 2022 ,tmlr
+42,Batch Crowdsourcing for Complex Tasks Based on Distributed Team Formation in E-Markets.,2022,"Jiuchuan Jiang, Kai Di, Bo An, Yichuan Jiang, Zhan Bu, Jie Cao", 33: 3600-3615 ,tpds
+43,NSGZero: Efficiently Learning Non-exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search.,2022,"Wanqi Xue, Bo An, Chai Kiat Yeo", AAAI 2022: 4646-4653,aaai
+44,GearNet: Stepwise Dual Learning for Weakly Supervised Domain Adaptation.,2022,"Renchunzi Xie, Hongxin Wei, Lei Feng, Bo An", AAAI 2022: 8717-8725,aaai
+45,Pretrained Cost Model for Distributed Constraint Optimization Problems.,2022,"Yanchen Deng, Shufeng Kong, Bo An", AAAI 2022: 9331-9340,aaai
+46,Online Collective Multiagent Planning by Offline Policy Reuse with Applications to City-Scale Mobility-on-Demand Systems.,2022,"Wanyuan Wang, Gerong Wu, Weiwei Wu, Yichuan Jiang, Bo An", AAMAS 2022: 1364-1372,atal
+47,Mis-spoke or mis-lead: Achieving Robustness in Multi-Agent Communicative Reinforcement Learning.,2022,"Wanqi Xue, Wei Qiu, Bo An, Zinovi Rabinovich, Svetlana Obraztsova, Chai Kiat Yeo", AAMAS 2022: 1418-1426,atal
+48,DeepScalper: A Risk-Aware Reinforcement Learning Framework to Capture Fleeting Intraday Trading Opportunities.,2022,"Shuo Sun, Wanqi Xue, Rundong Wang, Xu He, Junlei Zhu, Jian Li, Bo An", CIKM 2022: 1858-1867,cikm
+49,Multi-Faceted Hierarchical Multi-Task Learning for Recommender Systems.,2022,"Junning Liu, Xinjian Li, Bo An, Zijie Xia, Xu Wang", CIKM 2022: 3332-3341,cikm
+50,DO-GAN: A Double Oracle Framework for Generative Adversarial Networks.,2022,"Aye Phyu Phyu Aung, Xinrun Wang, Runsheng Yu, Bo An, Senthilnath Jayavelu, Xiaoli Li", CVPR 2022: 11265-11274,cvpr
+51,A Flexi Partner Selection Model for the Emergence of Cooperation in N-person Social Dilemmas.,2022,"Tu Gu, Bo An", DAI 2022: 15-28,dai2
+52,Online Ad Hoc Teamwork under Partial Observability.,2022,"Pengjie Gu, Mengchen Zhao, Jianye Hao, Bo An", ICLR 2022,iclr
+53,Learning Pseudometric-based Action Representations for Offline Reinforcement Learning.,2022,"Pengjie Gu, Mengchen Zhao, Chen Chen, Dong Li, Jianye Hao, Bo An", ICML 2022: 7902-7918,icml
+54,Open-Sampling: Exploring Out-of-Distribution data for Re-balancing Long-tailed datasets.,2022,"Hongxin Wei, Lue Tao, Renchunzi Xie, Lei Feng, Bo An", ICML 2022: 23615-23630,icml
+55,Mitigating Neural Network Overconfidence with Logit Normalization.,2022,"Hongxin Wei, Renchunzi Xie, Hao Cheng, Lei Feng, Bo An, Yixuan Li", ICML 2022: 23631-23644,icml
+56,Correlation-Based Algorithm for Team-Maxmin Equilibrium in Multiplayer Extensive-Form Games.,2022,"Youzhi Zhang, Bo An, V. S. Subrahmanian", IJCAI 2022: 606-612,ijcai
+57,L2E: Learning to Exploit Your Opponent.,2022,"Zhe Wu, Kai Li, Hang Xu, Yifan Zang, Bo An, Junliang Xing", IJCNN 2022: 1-8,ijcnn
+58,Generalizing Consistent Multi-Class Classification with Rejection to be Compatible with Arbitrary Losses.,2022,"Yuzhou Cao, Tianchi Cai, Lei Feng, Lihong Gu, Jinjie Gu, Bo An, Gang Niu, Masashi Sugiyama", NeurIPS 2022,nips
+59,Deep Attentive Belief Propagation: Integrating Reasoning and Learning for Solving Constraint Optimization Problems.,2022,"Yanchen Deng, Shufeng Kong, Caihua Liu, Bo An", NeurIPS 2022,nips
+60,"Alleviating ""Posterior Collapse"" in Deep Topic Models via Policy Gradient.",2022,"Yewen Li, Chaojie Wang, Zhibin Duan, Dongsheng Wang, Bo Chen, Bo An, Mingyuan Zhou", NeurIPS 2022,nips
+61,Out-of-Distribution Detection with An Adaptive Likelihood Ratio on Informative Hierarchical VAE.,2022,"Yewen Li, Chaojie Wang, Xiaobo Xia, Tongliang Liu, Xin Miao, Bo An", NeurIPS 2022,nips
+62,Quantal Correlated Equilibrium in Normal Form Games.,2022,"Jakub Cerný, Bo An, Allan N. Zhang", EC 2022: 210-239,sigecom
+63,"Intelligent Information Processing XI - 12th IFIP TC 12 International Conference, IIP 2022, Qingdao, China, May 27-30, 2022, Proceedings.",2022,"Zhongzhi Shi, Jean-Daniel Zucker, Bo An"," IFIP Advances in Information and Communication Technology 643, Springer 2022, ISBN 978-3-031-03947-8 ",iip
+64,GearNet: Stepwise Dual Learning for Weakly Supervised Domain Adaptation.,2022,"Renchunzi Xie, Hongxin Wei, Lei Feng, Bo An",06001 ,corr
+65,NSGZero: Efficiently Learning Non-Exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search.,2022,"Wanqi Xue, Bo An, Chai Kiat Yeo",07224 ,corr
+66,DeepScalper: A Risk-Aware Deep Reinforcement Learning Framework for Intraday Trading with Micro-level Market Embedding.,2022,"Shuo Sun, Rundong Wang, Xu He, Junlei Zhu, Jian Li, Bo An",09058 ,corr
+67,A Unified Perspective on Deep Equilibrium Finding.,2022,"Xinrun Wang, Jakub Cerný, Shuxin Li, Chang Yang, Zhuyun Yin, Hau Chan, Bo An",04930 ,corr
+68,Mitigating Neural Network Overconfidence with Logit Normalization.,2022,"Hongxin Wei, Renchunzi Xie, Hao Cheng, Lei Feng, Bo An, Yixuan Li",09310 ,corr
+69,Off-Beat Multi-Agent Reinforcement Learning.,2022,"Wei Qiu, Weixun Wang, Rundong Wang, Bo An, Yujing Hu, Svetlana Obraztsova, Zinovi Rabinovich, Jianye Hao, Yingfeng Chen, Changjie Fan",13718 ,corr
+70,ResAct: Reinforcing Long-term Engagement in Sequential Recommendation with Residual Actor.,2022,"Wanqi Xue, Qingpeng Cai, Ruohan Zhan, Dong Zheng, Peng Jiang, Bo An",02620 ,corr
+71,Open-Sampling: Exploring Out-of-Distribution data for Re-balancing Long-tailed datasets.,2022,"Hongxin Wei, Lue Tao, Renchunzi Xie, Lei Feng, Bo An",08802 ,corr
+72,Offline Equilibrium Finding.,2022,"Shuxin Li, Xinrun Wang, Jakub Cerný, Youzhi Zhang, Hau Chan, Bo An",05285 ,corr
+73,Quantitative Stock Investment by Routing Uncertainty-Aware Trading Experts: A Multi-Task Learning Approach.,2022,"Shuo Sun, Rundong Wang, Bo An",07578 ,corr
+74,Deep Attentive Belief Propagation: Integrating Reasoning and Learning for Solving Constraint Optimization Problems.,2022,"Yanchen Deng, Shufeng Kong, Caihua Liu, Bo An",12000 ,corr
+75,RPM: Generalizable Behaviors for Multi-Agent Reinforcement Learning.,2022,"Wei Qiu, Xiao Ma, Bo An, Svetlana Obraztsova, Shuicheng Yan, Zhongwen Xu",09646 ,corr
+76,PrefRec: Preference-based Recommender Systems for Reinforcing Long-term User Engagement.,2022,"Wanqi Xue, Qingpeng Cai, Zhenghai Xue, Shuo Sun, Shuchang Liu, Dong Zheng, Peng Jiang, Bo An",02779 ,corr
+77,Logit Clipping for Robust Learning against Label Noise.,2022,"Hongxin Wei, Huiping Zhuang, Renchunzi Xie, Lei Feng, Gang Niu, Bo An, Yixuan Li",04055 ,corr
+78,Electric vehicle charging strategy study and the application on charging station placement.,2021,"Yanhai Xiong, Bo An, Sarit Kraus", 35: 3 ,aamas
+79,Utility distribution matters: enabling fast belief propagation for multi-agent optimization with dense local utility function.,2021,"Yanchen Deng, Bo An", 35: 24 ,aamas
+80,Orientational variable-length strip covering problem: A branch-and-price-based algorithm.,2021,"Xiaoxuan Hu, Waiming Zhu, Huawei Ma, Bo An, Yanling Zhi, Yi Wu", 289: 254-269 ,eor
+81,Embedding-Augmented Generalized Matrix Factorization for Recommendation With Implicit Feedback.,2021,"Lei Feng, Hongxin Wei, Qingyu Guo, Zhuoyi Lin, Bo An", 36: 32-41 ,expert
+82,Toward Efficient City-Scale Patrol Planning Using Decomposition and Grafting.,2021,"Wanyuan Wang, Zichen Dong, Bo An, Yichuan Jiang", 22: 747-757 ,tits
+83,Group-Oriented Task Allocation for Crowdsourcing in Social Networks.,2021,"Jiuchuan Jiang, Bo An, Yichuan Jiang, Chenyan Zhang, Zhan Bu, Jie Cao", 51: 4417-4432 ,tsmc
+84,Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management.,2021,"Rundong Wang, Hongxin Wei, Bo An, Zhouyan Feng, Jun Yao", AAAI 2021: 626-633,aaai
+85,Computing Quantal Stackelberg Equilibrium in Extensive-Form Games.,2021,"Jakub Cerný, Viliam Lisý, Branislav Bosanský, Bo An", AAAI 2021: 5260-5268,aaai
+86,Complexity and Algorithms for Exploiting Quantal Opponents in Large Two-Player Games.,2021,"David Milec, Jakub Cerný, Viliam Lisý, Bo An", AAAI 2021: 5575-5583,aaai
+87,Computing Ex Ante Coordinated Team-Maxmin Equilibria in Zero-Sum Multiplayer Extensive-Form Games.,2021,"Youzhi Zhang, Bo An, Jakub Cerný", AAAI 2021: 5813-5821,aaai
+88,Personalized Adaptive Meta Learning for Cold-start User Preference Prediction.,2021,"Runsheng Yu, Yu Gong, Xu He, Yu Zhu, Qingwen Liu, Wenwu Ou, Bo An", AAAI 2021: 10772-10780,aaai
+89,Learning from Similarity-Confidence Data.,2021,"Yuzhou Cao, Lei Feng, Yitian Xu, Bo An, Gang Niu, Masashi Sugiyama", ICML 2021: 1272-1282,icml
+90,Pointwise Binary Classification with Pairwise Confidence Comparisons.,2021,"Lei Feng, Senlin Shu, Nan Lu, Bo Han, Miao Xu, Gang Niu, Bo An, Masashi Sugiyama", ICML 2021: 3252-3262,icml
+91,Neural Regret-Matching for Distributed Constraint Optimization Problems.,2021,"Yanchen Deng, Runsheng Yu, Xinrun Wang, Bo An", IJCAI 2021: 146-153,ijcai
+92,CFR-MIX: Solving Imperfect Information Extensive-Form Games with Combinatorial Action Space.,2021,"Shuxin Li, Youzhi Zhang, Xinrun Wang, Wanqi Xue, Bo An", IJCAI 2021: 3663-3669,ijcai
+93,Solving Large-Scale Extensive-Form Network Security Games via Neural Fictitious Self-Play.,2021,"Wanqi Xue, Youzhi Zhang, Shuxin Li, Xinrun Wang, Bo An, Chai Kiat Yeo", IJCAI 2021: 3713-3720,ijcai
+94,Multiple-Instance Learning from Similar and Dissimilar Bags.,2021,"Lei Feng, Senlin Shu, Yuzhou Cao, Lue Tao, Hongxin Wei, Tao Xiang, Bo An, Gang Niu", KDD 2021: 374-382,kdd
+95,Open-set Label Noise Can Improve Robustness Against Inherent Label Noise.,2021,"Hongxin Wei, Lue Tao, Renchunzi Xie, Bo An", NeurIPS 2021: 7978-7992,nips
+96,RMIX: Learning Risk-Sensitive Policies for Cooperative Reinforcement Learning Agents.,2021,"Wei Qiu, Xinrun Wang, Runsheng Yu, Rundong Wang, Xu He, Bo An, Svetlana Obraztsova, Zinovi Rabinovich", NeurIPS 2021: 23049-23062,nips
+97,Contingency-aware influence maximization: A reinforcement learning approach.,2021,"Haipeng Chen, Wei Qiu, Han-Ching Ou, Bo An, Milind Tambe", UAI 2021: 1535-1545,uai
+98,Learning from Similarity-Confidence Data.,2021,"Yuzhou Cao, Lei Feng, Yitian Xu, Bo An, Gang Niu, Masashi Sugiyama",06879 ,corr
+99,RMIX: Learning Risk-Sensitive Policies for Cooperative Reinforcement Learning Agents.,2021,"Wei Qiu, Xinrun Wang, Runsheng Yu, Xu He, Rundong Wang, Bo An, Svetlana Obraztsova, Zinovi Rabinovich",08159 ,corr
+100,DO-GAN: A Double Oracle Framework for Generative Adversarial Networks.,2021,"Aye Phyu Phyu Aung, Xinrun Wang, Runsheng Yu, Bo An, Senthilnath Jayavelu, Xiaoli Li",08577 ,corr
+101,L2E: Learning to Exploit Your Opponent.,2021,"Zhe Wu, Kai Li, Enmin Zhao, Hang Xu, Meng Zhang, Haobo Fu, Bo An, Junliang Xing",09381 ,corr
+102,CFR-MIX: Solving Imperfect Information Extensive-Form Games with Combinatorial Action Space.,2021,"Shuxin Li, Youzhi Zhang, Xinrun Wang, Wanqi Xue, Bo An",08440 ,corr
+103,Solving Large-Scale Extensive-Form Network Security Games via Neural Fictitious Self-Play.,2021,"Wanqi Xue, Youzhi Zhang, Shuxin Li, Xinrun Wang, Bo An, Chai Kiat Yeo",00897 ,corr
+104,On the Robustness of Average Losses for Partial-Label Learning.,2021,"Jiaqi Lv, Lei Feng, Miao Xu, Bo An, Gang Niu, Xin Geng, Masashi Sugiyama",06152 ,corr
+105,Contingency-Aware Influence Maximization: A Reinforcement Learning Approach.,2021,"Haipeng Chen, Wei Qiu, Han-Ching Ou, Bo An, Milind Tambe",07039 ,corr
+106,Multi-Class Classification from Single-Class Data with Confidences.,2021,"Yuzhou Cao, Lei Feng, Senlin Shu, Yitian Xu, Bo An, Gang Niu, Masashi Sugiyama",08864 ,corr
+107,Open-set Label Noise Can Improve Robustness Against Inherent Label Noise.,2021,"Hongxin Wei, Lue Tao, Renchunzi Xie, Bo An",10891 ,corr
+108,Mis-spoke or mis-lead: Achieving Robustness in Multi-Agent Communicative Reinforcement Learning.,2021,"Wanqi Xue, Wei Qiu, Bo An, Zinovi Rabinovich, Svetlana Obraztsova, Chai Kiat Yeo",03803 ,corr
+109,Reinforcement Learning for Quantitative Trading.,2021,"Shuo Sun, Rundong Wang, Bo An",13851 ,corr
+110,"Cooperation, Retaliation and Forgiveness in Revision Games.",2021,"Dong Hao, Qi Shi, Jinyan Su, Bo An",02271 ,corr
+111,Pretrained Cost Model for Distributed Constraint Optimization Problems.,2021,"Yanchen Deng, Shufeng Kong, Bo An",04187 ,corr
+112,Optimal Spot-Checking for Improving the Evaluation Quality of Crowdsourcing: Application to Peer Grading Systems.,2020,"Wanyuan Wang, Bo An, Yichuan Jiang", 7: 940-955 ,tcss
+113,Randomized Security Patrolling for Link Flooding Attack Detection.,2020,"Xiaobo Ma, Bo An, Mengchen Zhao, Xiapu Luo, Lei Xue, Zhenhua Li, Tony T. N. Miu, Xiaohong Guan", 17: 795-812 ,tdsc
+114,Context-Aware Reliable Crowdsourcing in Social Networks.,2020,"Jiuchuan Jiang, Bo An, Yichuan Jiang, Donghui Lin", 50: 617-632 ,tsmc
+115,Computing Team-Maxmin Equilibria in Zero-Sum Multiplayer Extensive-Form Games.,2020,"Youzhi Zhang, Bo An", AAAI 2020: 2318-2325,aaai
+116,We Mind Your Well-Being: Preventing Depression in Uncertain Social Networks by Sequential Interventions.,2020,"Aye Phyu Phyu Aung, Xinrun Wang, Bo An, Xiaoli Li", ICAPS 2020: 499-507,aips
+117,Combating Noisy Labels by Agreement: A Joint Training Method with Co-Regularization.,2020,"Hongxin Wei, Lei Feng, Xiangyu Chen, Bo An", CVPR 2020: 13723-13732,cvpr
+118,Context-Aware Multi-agent Coordination with Loose Couplings and Repeated Interaction.,2020,"Feifei Lin, Xu He, Bo An", DAI 2020: 103-125,dai2
+119,Battery Management for Automated Warehouses via Deep Reinforcement Learning.,2020,"Yanchen Deng, Bo An, Zongmin Qiu, Liuxi Li, Yong Wang, Yinghui Xu", DAI 2020: 126-139,dai2
+120,User detection of threats with different security measures.,2020,"Yoav Ben Yaakov, Joachim Meyer, Xinrun Wang, Bo An", ICHMS 2020: 1-6,ichms
+121,Learning Expensive Coordination: An Event-Based Deep RL Approach.,2020,"Zhenyu Shi, Runsheng Yu, Xinrun Wang, Rundong Wang, Youzhi Zhang, Hanjiang Lai, Bo An", ICLR 2020,iclr
+122,Learning with Multiple Complementary Labels.,2020,"Lei Feng, Takuo Kaneko, Bo Han, Gang Niu, Bo An, Masashi Sugiyama", ICML 2020: 3072-3081,icml
+123,Learning Efficient Multi-agent Communication: An Information Bottleneck Approach.,2020,"Rundong Wang, Xu He, Runsheng Yu, Wei Qiu, Bo An, Zinovi Rabinovich", ICML 2020: 9908-9918,icml
+124,Converging to Team-Maxmin Equilibria in Zero-Sum Multiplayer Games.,2020,"Youzhi Zhang, Bo An", ICML 2020: 11033-11043,icml
+125,Speeding Up Incomplete GDL-based Algorithms for Multi-agent Optimization with Dense Local Utilities.,2020,"Yanchen Deng, Bo An", IJCAI 2020: 31-38,ijcai
+126,Dinkelbach-Type Algorithm for Computing Quantal Stackelberg Equilibrium.,2020,"Jakub Cerný, Viliam Lisý, Branislav Bosanský, Bo An", IJCAI 2020: 246-253,ijcai
+127,Can Cross Entropy Loss Be Robust to Label Noise?,2020,"Lei Feng, Senlin Shu, Zhuoyi Lin, Fengmao Lv, Li Li, Bo An","Lei Feng, Senlin Shu, Zhuoyi Lin, Fengmao Lv, Li Li, Bo An: Can Cross Entropy Loss Be Robust to Label Noise? IJCAI 2020: 2206-2212",ijcai
+128,I²HRL: Interactive Influence-based Hierarchical Reinforcement Learning.,2020,"Rundong Wang, Runsheng Yu, Bo An, Zinovi Rabinovich", IJCAI 2020: 3131-3138,ijcai
+129,Provably Consistent Partial-Label Learning.,2020,"Lei Feng, Jiaqi Lv, Bo Han, Miao Xu, Gang Niu, Xin Geng, Bo An, Masashi Sugiyama", NeurIPS 2020,nips
+130,Contextual User Browsing Bandits for Large-Scale Online Mobile Recommendation.,2020,"Xu He, Bo An, Yanghua Li, Haikai Chen, Qingyu Guo, Xin Li, Zhirong Wang", RecSys 2020: 63-72,recsys
+131,Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication.,2020,"Xu He, Bo An, Yanghua Li, Haikai Chen, Rundong Wang, Xinrun Wang, Runsheng Yu, Xin Li, Zhirong Wang", RecSys 2020: 210-219,recsys
+132,Finite State Machines Play Extensive-Form Games.,2020,"Jakub Cerný, Branislav Bosanský, Bo An", EC 2020: 509-533,sigecom
+133,Learning Behaviors with Uncertain Human Feedback.,2020,"Xu He, Haipeng Chen, Bo An", UAI 2020: 131-140,uai
+134,"Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems, AAMAS '20, Auckland, New Zealand, May 9-13, 2020.",2020,"Amal El Fallah Seghrouchni, Gita Sukthankar, Bo An, Neil Yorke-Smith"," International Foundation for Autonomous Agents and Multiagent Systems 2020, ISBN 978-1-4503-7518-4 ",atal
+135,Combating noisy labels by agreement: A joint training method with co-regularization.,2020,"Hongxin Wei, Lei Feng, Xiangyu Chen, Bo An",02752 ,corr
+136,Learning Behaviors with Uncertain Human Feedback.,2020,"Xu He, Haipeng Chen, Bo An",04201 ,corr
+137,Provably Consistent Partial-Label Learning.,2020,"Lei Feng, Jiaqi Lv, Bo Han, Miao Xu, Gang Niu, Xin Geng, Bo An, Masashi Sugiyama",08929 ,corr
+138,Contextual User Browsing Bandits for Large-Scale Online Mobile Recommendation.,2020,"Xu He, Bo An, Yanghua Li, Haikai Chen, Qingyu Guo, Xin Li, Zhirong Wang",09368 ,corr
+139,Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication.,2020,"Xu He, Bo An, Yanghua Li, Haikai Chen, Rundong Wang, Xinrun Wang, Runsheng Yu, Xin Li, Zhirong Wang",09369 ,corr
+140,Computing Ex Ante Coordinated Team-Maxmin Equilibria in Zero-Sum Multiplayer Extensive-Form Games.,2020,"Youzhi Zhang, Bo An",12629 ,corr
+141,Complexity and Algorithms for Exploiting Quantal Opponents in Large Two-Player Games.,2020,"David Milec, Jakub Cerný, Viliam Lisý, Bo An",14521 ,corr
+142,Pointwise Binary Classification with Pairwise Confidence Comparisons.,2020,"Lei Feng, Senlin Shu, Nan Lu, Bo Han, Miao Xu, Gang Niu, Bo An, Masashi Sugiyama",01875 ,corr
+143,SemiNLL: A Framework of Noisy-Label Learning by Semi-Supervised Learning.,2020,"Zhuowei Wang, Jing Jiang, Bo Han, Lei Feng, Bo An, Gang Niu, Guodong Long",00925 ,corr
+144,Efficient Reservoir Management through Deep Reinforcement Learning.,2020,"Xinrun Wang, Tarun Nair, Haoyang Li, Yuh Sheng Reuben Wong, Nachiket Kelkar, Srinivas Vaidyanathan, Rajat Nayak, Bo An, Jagdish Krishnaswamy, Milind Tambe",03822 ,corr
+145,MetaInfoNet: Learning Task-Guided Information for Sample Reweighting.,2020,"Hongxin Wei, Lei Feng, Rundong Wang, Bo An",05273 ,corr
+146,Personalized Adaptive Meta Learning for Cold-start User Preference Prediction.,2020,"Runsheng Yu, Yu Gong, Xu He, Bo An, Yu Zhu, Qingwen Liu, Wenwu Ou",11842 ,corr
+147,Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management.,2020,"Rundong Wang, Hongxin Wei, Bo An, Zhouyan Feng, Jun Yao",12620 ,corr

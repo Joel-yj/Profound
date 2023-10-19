@@ -1,0 +1,651 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Blockchain Meets Metaverse and Digital Asset Management: A Comprehensive Survey.,2023,"Vu Tuan Truong, Long Bao Le, Dusit Niyato", IEEE Access 11: 26258-26288 ,access
+1,Incentive Mechanism Design for Mitigating Frontrunning and Transaction Reordering in Decentralized Exchanges.,2023,"Daniel Mawunyo Doe, Jing Li, Dusit Niyato, Li Wang, Zhu Han", IEEE Access 11: 96014-96028 ,access
+2,Slicing4Meta: An Intelligent Integration Architecture with Multi-Dimensional Network Resources for Metaverse-as-a-Service in Web 3.0.,2023,"Yi-Jing Liu, Hongyang Du, Dusit Niyato, Gang Feng, Jiawen Kang, Zehui Xiong", 61: 20-26 ,cm
+3,A Blockchain-Based Semantic Exchange Framework for Web 3.0 Toward Participatory Economy.,2023,"Yijing Lin, Zhipeng Gao, Yaofeng Tu, Hongyang Du, Dusit Niyato, Jiawen Kang, Hui Yang", 61: 94-100 ,cm
+4,"Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges.",2023,"Wanting Yang, Hongyang Du, Zi Qin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xuemin Shen, Chunyan Miao", Tutorials 25: 213-250 ,comsur
+5,"A Full Dive Into Realizing the Edge-Enabled Metaverse: Visions, Enabling Technologies, and Challenges.",2023,"Minrui Xu, Wei Chong Ng, Wei Yang Bryan Lim, Jiawen Kang, Zehui Xiong, Dusit Niyato, Qiang Yang, Xuemin Shen, Chunyan Miao", Tutorials 25: 656-700 ,comsur
+6,Editorial: First Quarter 2023 IEEE Communications Surveys and Tutorials.,2023,Dusit Niyato, Tutorials 25: i-vii ,comsur
+7,Editorial: Second Quarter 2023 IEEE Communications Surveys and Tutorials.,2023,Dusit Niyato, Tutorials 25: i-v ,comsur
+8,Editorial: Third Quarter 2023 IEEE Communications Surveys and Tutorials.,2023,Dusit Niyato, Tutorials 25: i-vi ,comsur
+9,"Joint Task Offloading, Resource Sharing and Computation Incentive for Edge Computing Networks.",2023,"Nan Zhao, Wei Du, Fan Ren, Yiyang Pei, Ying-Chang Liang, Dusit Niyato", 27: 258-262 ,icl
+10,Dynamic Offloading for Edge Computing-Assisted Metaverse Systems.,2023,"Tien-Hoa Nguyen, Le Van Huy, Bui Duc Son, Nguyen Cong Luong, Dusit Niyato", 27: 1749-1753 ,icl
+11,Secretive Coded Caching With Nonuniform Demands in Fog Radio Access Networks.,2023,"Qianli Tan, Yanxiang Jiang, Lingling Zhang, Ying Cui, Dusit Niyato, Fu-Chun Zheng, Xiaohu You", 27: 2252-2256 ,icl
+12,A Dynamic Hierarchical Framework for IoT-Assisted Digital Twin Synchronization in the Metaverse.,2023,"Yue Han, Dusit Niyato, Cyril Leung, Dong In Kim, Kun Zhu, Shaohan Feng, Xuemin Shen, Chunyan Miao", 10: 268-284 ,iotj
+13,"Correction to ""Privacy-Preserving Blockchain-Based Federated Learning for IoT Devices"".",2023,"Yang Zhao, Jun Zhao, Linshan Jiang, Rui Tan, Dusit Niyato, Zengxiang Li, Lingjuan Lyu, Yingbo Liu", 10: 973 ,iotj
+14,Stochastic Coded Offloading Scheme for Unmanned-Aerial-Vehicle-Assisted Edge Computing.,2023,"Wei Chong Ng, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Chunyan Miao, Zhu Han, Dong In Kim", 10: 5626-5643 ,iotj
+15,Robust Semisupervised Federated Learning for Images Automatic Recognition in Internet of Drones.,2023,"Zhe Zhang, Shiyao Ma, Zhaohui Yang, Zehui Xiong, Jiawen Kang, Yi Wu, Kejia Zhang, Dusit Niyato", 10: 5733-5746 ,iotj
+16,From Eye to Brain: A Proactive and Distributed Crowdsensing Framework for Federated Learning.,2023,"Hongjia Wu, Hui Zeng, Tongqing Zhou, Zhiping Cai, Zehui Xiong, Dusit Niyato, Zhu Han", 10: 8202-8214 ,iotj
+17,Understanding Security in Smart City Domains From the ANT-Centric Perspective.,2023,"Jiani Fan, Wenzhuo Yang, Ziyao Liu, Jiawen Kang, Dusit Niyato, Kwok-Yan Lam, Hongyang Du", 10: 11199-11223 ,iotj
+18,Blockchains for Artificial Intelligence of Things: A Comprehensive Survey.,2023,"Meng Shen, Aijing Gu, Jiawen Kang, Xiangyun Tang, Xiaodong Lin, Liehuang Zhu, Dusit Niyato", 10: 14483-14506 ,iotj
+19,Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis.,2023,"Jiawen Kang, Hongyang Du, Zonghang Li, Zehui Xiong, Shiyao Ma, Dusit Niyato, Yuan Li", 41: 186-201 ,jsac
+20,Imitation Learning-Based Implicit Semantic-Aware Communication Networks: Multi-Layer Representation and Collaborative Reasoning.,2023,"Yong Xiao, Zijian Sun, Guangming Shi, Dusit Niyato", 41: 639-658 ,jsac
+21,Guest Editorial Rate Splitting for Future Wireless Networks.,2023,"Bruno Clerckx, Yijie Mao, Eduard A. Jorswieck, Jinhong Yuan, David J. Love, Elza Erkip, Dusit Niyato", 41: 1259-1264 ,jsac
+22,"A Primer on Rate-Splitting Multiple Access: Tutorial, Myths, and Frequently Asked Questions.",2023,"Bruno Clerckx, Yijie Mao, Eduard A. Jorswieck, Jinhong Yuan, David J. Love, Elza Erkip, Dusit Niyato", 41: 1265-1308 ,jsac
+23,Task-Oriented Delay-Aware Multi-Tier Computing in Cell-Free Massive MIMO Systems.,2023,"Kunlun Wang, Dusit Niyato, Wen Chen, Arumugam Nallanathan", 41: 2000-2012 ,jsac
+24,Attention-Aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services.,2023,"Hongyang Du, Jiazhen Liu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, Dong In Kim", 41: 2158-2175 ,jsac
+25,Semantic Communications for Wireless Sensing: RIS-Aided Encoding and Self-Supervised Decoding.,2023,"Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, Xuemin Shen", 41: 2547-2562 ,jsac
+26,AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing.,2023,"Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim", 41: 2981-2997 ,jsac
+27,Privacy-Preserving Intelligent Resource Allocation for Federated Edge Learning in Quantum Internet.,2023,"Minrui Xu, Dusit Niyato, Zhaohui Yang, Zehui Xiong, Jiawen Kang, Dong In Kim, Xuemin Shen", 17: 142-157 ,jstsp
+28,Securing Federated Learning: A Covert Communication-Based Approach.,2023,"Yuan-Ai Xie, Jiawen Kang, Dusit Niyato, Nguyen Thi Thanh Van, Nguyen Cong Luong, Zhixin Liu, Han Yu", 37: 118-124 ,network
+29,Air-Ground Collaborative Edge Intelligence for Future Generation Networks.,2023,"Jianhang Tang, Jiangtian Nie, Yang Zhang, Yiqun Duan, Zehui Xiong, Dusit Niyato", 37: 118-125 ,network
+30,"Human Digital Twin for Personalized Healthcare: Vision, Architecture and Future Directions.",2023,"Samuel Dayo Okegbile, Jun Cai, Dusit Niyato, Changyan Yi", 37: 262-269 ,network
+31,Pricing for Reconfigurable Intelligent Surface Aided Wireless Networks: Models and Principles.,2023,"Yulan Gao, Yue Xiao, Xianfu Lei, Qiaonan Zhu, Dusit Niyato, Kai-Kit Wong, Pingzhi Fan, Rose Qingyang Hu", 37: 102-110 ,network
+32,Promoting the Sustainability of Blockchain in Web 3.0 and the Metaverse Through Diversified Incentive Mechanism Design.,2023,"Daniel Mawunyo Doe, Jing Li, Dusit Niyato, Zhen Gao, Jun Li, Zhu Han", 4: 171-184 ,ojcomps
+33,Location-Dependent Augmented Reality Services in Wireless Edge-Enabled Metaverse Systems.,2023,"Hongliang Zhang, Shiwen Mao, Dusit Niyato, Zhu Han", 4: 171-183 ,ojcs
+34,An Introduction to Point Cloud Compression Standards.,2023,"Anthony Chen, Shiwen Mao, Zhu Li, Minrui Xu, Hongliang Zhang, Dusit Niyato, Zhu Han", 27: 11-17 ,sigmobile
+35,"Guest Editorial: Introduction to Special Issue on ""Cloud-Edge-End Orchestrated Computing for Smart Grid"".",2023,"Ruilong Deng, Chee-Wooi Ten, Chaojie Li, Dusit Niyato, Fei Teng", 11: 1107-1110 ,tcc
+36,HFedMS: Heterogeneous Federated Learning With Memorable Data Semantics in Industrial Metaverse.,2023,"Shenglai Zeng, Zonghang Li, Hongfang Yu, Zhihao Zhang, Long Luo, Bo Li, Dusit Niyato", 11: 3055-3069 ,tcc
+37,Outage Probability Minimization in Secure NOMA Cognitive Radio Systems With UAV Relay: A Machine Learning Approach.,2023,"Van Nhan Vo, Le-Mai-Duyen Nguyen, Hung Tran, Viet-Hung Dang, Dusit Niyato, Dang Ngoc Cuong, Nguyen Cong Luong, Chakchai So-In", 9: 435-451 ,tccn
+38,Trajectory Design and Power Control for Joint Radar and Communication Enabled Multi-UAV Cooperative Detection Systems.,2023,"Tao Zhang, Kun Zhu, Shaoqiu Zheng, Dusit Niyato, Nguyen Cong Luong", 71: 158-172 ,tcom
+39,Covert Communication Assisted by UAV-IRS.,2023,"Chao Wang, Xinying Chen, Jianping An, Zehui Xiong, Chengwen Xing, Nan Zhao, Dusit Niyato", 71: 357-369 ,tcom
+40,Content Popularity Prediction Based on Quantized Federated Bayesian Learning in Fog Radio Access Networks.,2023,"Yunwei Tao, Yanxiang Jiang, Fu-Chun Zheng, Zhiheng Wang, Pengcheng Zhu, Meixia Tao, Dusit Niyato, Xiaohu You", 71: 893-907 ,tcom
+41,Coverage Enhancement in Millimeter-Wave Cellular Networks via Distributed IRSs.,2023,"Xiaoming Shi, Na Deng, Nan Zhao, Dusit Niyato", 71: 1153-1167 ,tcom
+42,The Meta Distribution of SINR in UAV-Assisted Cellular Networks.,2023,"Minwei Shi, Kai Yang, Dusit Niyato, Hang Yuan, He Zhou, Zhan Xu", 71: 1193-1206 ,tcom
+43,Joint Power Allocation and Rate Control for Rate Splitting Multiple Access Networks With Covert Communications.,2023,"Nguyen Quang Hieu, Dinh Thai Hoang, Dusit Niyato, Diep N. Nguyen, Dong In Kim, Abbas Jamalipour", 71: 2274-2287 ,tcom
+44,Generalized Tag-Based Physical-Layer Authentication Under Frequency Selective Fading Channels.,2023,"Hai Jun Tan, Ning Xie, Jian Lu, Dusit Niyato", 71: 2876-2890 ,tcom
+45,A Game-Based Incentive-Driven Offloading Framework for Dispersed Computing.,2023,"Hongjia Wu, Jiangtian Nie, Zehui Xiong, Zhiping Cai, Tongqing Zhou, Chau Yuen, Dusit Niyato", 71: 4034-4049 ,tcom
+46,Covert Federated Learning via Intelligent Reflecting Surfaces.,2023,"Jie Zheng, Haijun Zhang, Jiawen Kang, Ling Gao, Jie Ren, Dusit Niyato", 71: 4591-4604 ,tcom
+47,QoE Analysis and Resource Allocation for Wireless Metaverse Services.,2023,"Yuna Jiang, Jiawen Kang, Xiaohu Ge, Dusit Niyato, Zehui Xiong", 71: 4735-4750 ,tcom
+48,STAR-RIS-Enabled Secure Dual-Functional Radar-Communications: Joint Waveform and Reflective Beamforming Optimization.,2023,"Chao Wang, Chengcai Wang, Zan Li, Derrick Wing Kwan Ng, Kai-Kit Wong, Naofal Al-Dhahir, Dusit Niyato", 18: 4577-4592 ,tifs
+49,How to Mitigate DDoS Intelligently in SD-IoV: A Moving Target Defense Approach.,2023,"Tao Zhang, Changqiao Xu, Ping Zou, Haijiang Tian, Xiaohui Kuang, Shujie Yang, Lujie Zhong, Dusit Niyato", Informatics 19: 1097-1106 ,tii
+50,World State Attack to Blockchain Based IoV and Efficient Protection With Hybrid RSUs Architecture.,2023,"Zhen Gao, Dongbin Zhang, Jiuzhi Zhang, Lei Liu, Dusit Niyato, Victor C. M. Leung", 24: 9952-9965 ,tits
+51,"Auction-and-Learning Based Lagrange Coded Computing Model for Privacy-Preserving, Secure, and Resilient Mobile Edge Computing.",2023,"Alia Asheralieva, Dusit Niyato, Zehui Xiong", 22: 744-764 ,tmc
+52,Secure and Efficient Coded Multi-Access Edge Computing With Generalized Graph Neural Networks.,2023,"Alia Asheralieva, Dusit Niyato", 22: 5504-5524 ,tmc
+53,Guest Editorial The Nexus Between Edge Computing and AI for 6G Networks.,2023,"Zhi Zhou, Dusit Niyato, Zehui Xiong, Xiaowen Gong, Walid Saad, Xiaoming Fu", 10: 1186-1189 ,tnse
+54,Worker Assignment for Multiple Masters to Speed Up Coded Distributed Computing in Heterogeneous Clusters.,2023,"Daejin Kim, Hyegyeong Park, Dusit Niyato, Jun Kyun Choi", 16: 2283-2298 ,tsc
+55,Hierarchical Multi-Agent Deep Reinforcement Learning for Energy-Efficient Hybrid Computation Offloading.,2023,"Hang Zhou, Yusi Long, Shimin Gong, Kun Zhu, Dinh Thai Hoang, Dusit Niyato", 72: 986-1001 ,tvt
+56,Reliable Distributed Computing for Metaverse: A Hierarchical Game-Theoretic Approach.,2023,"Yuna Jiang, Jiawen Kang, Dusit Niyato, Xiaohu Ge, Zehui Xiong, Chunyan Miao, Xuemin Shen", 72: 1084-1100 ,tvt
+57,Load Distribution in Poisson Networks With Spatially Coupled Users.,2023,"Minwei Shi, Jianguo Li, Xiaozheng Gao, Kai Yang, Dusit Niyato, Zhu Han", 72: 1331-1336 ,tvt
+58,RIS-Aided 6G Communication System With Accurate Traceable User Mobility.,2023,"Peng Zhang, Jiayi Zhang, Huahua Xiao, Hongyang Du, Dusit Niyato, Bo Ai", 72: 2718-2722 ,tvt
+59,Distributed Mechanism Design in Continuous Space for Federated Learning Over Vehicular Networks.,2023,"Mina Montazeri, Hamed Kebriaei, Babak Nadjar Araabi, Jiawen Kang, Dusit Niyato", 72: 4196-4206 ,tvt
+60,Two-Hop Connectivity to the Roadside in a VANET Under the Random Connection Model.,2023,"Alexander P. Kartun-Giles, Konstantinos Koufos, Xiao Lu, Dusit Niyato", 72: 5508-5512 ,tvt
+61,Efficient Consensus and Elastic Resource Allocation Empowered Blockchain for Vehicular Networks.,2023,"Yijing Lin, Jiawen Kang, Dusit Niyato, Zhipeng Gao, Qian Wang", 72: 5513-5517 ,tvt
+62,Evolutionary Carrier Selection for Shared Truck Delivery Services.,2023,"Rakpong Kaewpuang, Suttinee Sawadsitang, Dusit Niyato, Han Yu", 72: 6778-6782 ,tvt
+63,Spatio-Temporal Analysis of D2D Networks in Finite Areas.,2023,"Minwei Shi, Mei Yang, Hang Yuan, Xiaozheng Gao, Kai Yang, Dusit Niyato", 72: 8239-8243 ,tvt
+64,Semantic Communication-Based Dynamic Resource Allocation in D2D Vehicular Networks.,2023,"Jiawei Su, Zhixin Liu, Yuanai Xie, Kai Ma, Hongyang Du, Jiawen Kang, Dusit Niyato", 72: 10784-10796 ,tvt
+65,Bayesian Optimization Enhanced Deep Reinforcement Learning for Trajectory Planning and Network Formation in Multi-UAV Networks.,2023,"Shimin Gong, Meng Wang, Bo Gu, Wenjie Zhang, Dinh Thai Hoang, Dusit Niyato", 72: 10933-10948 ,tvt
+66,Jamming-Based Covert Communication for Rate-Splitting Multiple Access.,2023,"Trung Thanh Nguyen, Nguyen Cong Luong, Shaohan Feng, Khaled M. Elbassioni, Dusit Niyato", 72: 11074-11079 ,tvt
+67,Digital Twin-Assisted Edge Computation Offloading in Industrial Internet of Things With NOMA.,2023,"Long Zhang, Han Wang, Hongmei Xue, Hongliang Zhang, Qilie Liu, Dusit Niyato, Zhu Han", 72: 11935-11950 ,tvt
+68,Deep Reinforcement Learning for Secrecy Energy Efficiency Maximization in RIS-Assisted Networks.,2023,"Yichi Zhang, Yang Lu, Ruichen Zhang, Bo Ai, Dusit Niyato", 72: 12413-12418 ,tvt
+69,Relay-Assisted Partial Interference Elimination Schemes for K-User Delay-Sensitive Networks.,2023,"Jingfu Li, Zehui Xiong, Dusit Niyato, Weifeng Su, Wenjiang Feng, Weiheng Jiang", 22: 1633-1647 ,twc
+70,Elastic Resource Allocation for Coded Distributed Computing Over Heterogeneous Wireless Edge Networks.,2023,"Cong Thanh Nguyen, Diep N. Nguyen, Dinh Thai Hoang, Khoa Tran Phan, Dusit Niyato, Hoang-Anh Pham, Eryk Dutkiewicz", 22: 2636-2649 ,twc
+71,Ensemble Distillation Based Adaptive Quantization for Supporting Federated Learning in Wireless Networks.,2023,"Yijing Liu, Gang Feng, Dusit Niyato, Shuang Qin, Jianhong Zhou, Xiaoqian Li, Xinyi Xu", 22: 4013-4027 ,twc
+72,Semantic-Aware Sensing Information Transmission for Metaverse: A Contest Theoretic Approach.,2023,"Jiacheng Wang, Hongyang Du, Zengshan Tian, Dusit Niyato, Jiawen Kang, Xuemin Shen", 22: 5214-5228 ,twc
+73,Covert Ambient Backscatter Communications With Multi-Antenna Tag.,2023,"Jiahao Liu, Jihong Yu, Dusit Niyato, Rongrong Zhang, Xiaozheng Gao, Jianping An", 22: 6199-6212 ,twc
+74,"Mobile Charging Services for the Internet of Electric Vehicles: Concepts, Scenarios, and Challenges.",2023,"Ran Wang, Hui Wang, Kun Zhu, Changyan Yi, Ping Wang, Dusit Niyato", 18: 110-119 ,vtm
+75,Secure Beamforming for IRS-Enhanced NOMA Networks.,2023,"Wei Wang, Yang Cao, Min Sheng, Jie Tang, Nan Zhao, Dusit Niyato, Kai-Kit Wong", 30: 134-140 ,wc
+76,Rethinking Wireless Communication Security in Semantic Internet of Things.,2023,"Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mohsen Guizani, Dong In Kim", 30: 36-43 ,wc
+77,Realizing the Metaverse with Edge Intelligence: A Match Made in Heaven.,2023,"Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xianbin Cao, Chunyan Miao, Sumei Sun, Qiang Yang", 30: 64-71 ,wc
+78,GoMORE: Global Model Reuse for Resource-Constrained Wireless Federated Learning.,2023,"Jiacheng Yao, Zhaohui Yang, Wei Xu, Mingzhe Chen, Dusit Niyato", 12: 1543-1547 ,wcl
+79,Optimal Auction for Effective Energy Management for UAV-assisted Metaverse Synchronization System.,2023,"Nguyen Cong Luong, Le Khac Chau, Nguyen Do Duy Anh, Nguyen Huu Sang, Shaohan Feng, Van-Dinh Nguyen, Dusit Niyato, Dong In Kim", CCNC 2023: 392-397,ccnc
+80,Economics of Semantic Communication in Metaverse: An Auction Approach.,2023,"Zi Qin Liew, Hongyang Du, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Han Yu", CCNC 2023: 398-403,ccnc
+81,Blockchain Technology for Participatory Publication of Archival Documents. Marco Polo's Diplomatic Codex as a Showcase.,2023,"Andrea Nanetti, Paola Benussi, Andrea Erboso, Dusit Niyato", HCI  2023: 548-558,hci
+82,Freshness-aware Incentive Mechanism for Mobile AI-Generated Content (AIGC) Networks.,2023,"Jinbo Wen, Jiawen Kang, Minrui Xu, Hongyang Du, Zehui Xiong, Yang Zhang, Dusit Niyato", ICCC 2023: 1-6,iccchina
+83,Adaptive Resource Allocation in Quantum Key Distribution (QKD) for Federated Learning.,2023,"Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, Zehui Xiong, Xuemin Sherman Shen", ICNC 2023: 71-76,iccnc
+84,Blockchain-Aided AI-Generated Content Services: Stackelberg Game-Based Content Caching Approach.,2023,"Yijing Lin, Zhipeng Gao, Hongyang Du, Dusit Niyato", ICWS 2023: 186-195,icws
+85,Reputation-Aware Opportunistic Budget Optimization for Auction-based Federation Learning.,2023,"Xavier Tan, Wei Yang Bryan Lim, Dusit Niyato, Han Yu", IJCNN 2023: 1-8,ijcnn
+86,Game Theoretic Resource Planning and Request Scheduling in Mobile Edge Computing Networks.,2023,"Bin Xiang, Jocelyne Elias, Fabio Martignon, Elisabetta Di Nitto, Dusit Niyato", IFIP Networking 2023: 1-9,networking
+87,Stochastic Qubit Resource Allocation for Quantum Cloud Computing.,2023,"Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, Zehui Xiong, Jiawen Kang", NOMS 2023: 1-5,noms
+88,Dynamic Resource Allocation for Metaverse Applications with Deep Reinforcement Learning.,2023,"Nam Hoai Chu, Diep N. Nguyen, Dinh Thai Hoang, Khoa T. Phan, Eryk Dutkiewicz, Dusit Niyato, Tao Shu", WCNC 2023: 1-6,wcnc
+89,Lightweight Wireless Sensing Through RIS and Inverse Semantic Communications.,2023,"Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, Xuemin Sherman Shen", WCNC 2023: 1-6,wcnc
+90,Optimization of Image Transmission in a Cooperative Semantic Communication Networks.,2023,"Wenjing Zhang, Yining Wang, Mingzhe Chen, Tao Luo, Dusit Niyato",00433 ,corr
+91,Enabling AI-Generated Content (AIGC) Services in Wireless Edge Networks.,2023,"Hongyang Du, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Xuemin Shen, Dong In Kim",03220 ,corr
+92,Evolutionary Carrier Selection for Shared Truck Delivery Services.,2023,"Rakpong Kaewpuang, Suttinee Sawadsitang, Dusit Niyato, Han Yu",03635 ,corr
+93,Generative AI-empowered Effective Physical-Virtual Synchronization in the Vehicular Metaverse.,2023,"Minrui Xu, Dusit Niyato, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han",07636 ,corr
+94,Blockchain-aided Secure Semantic Communication for AI-Generated Content in Metaverse.,2023,"Yijing Lin, Hongyang Du, Dusit Niyato, Jiangtian Nie, Jiayi Zhang, Yanyu Cheng, Zhaohui Yang",11289 ,corr
+95,"Metaverse for Wireless Systems: Architecture, Advances, Standardization, and Open Challenges.",2023,"Latif U. Khan, Mohsen Guizani, Dusit Niyato, Ala I. Al-Fuqaha, Mérouane Debbah",11441 ,corr
+96,The Meta Distribution of SINR in UAV-Assisted Cellular Networks.,2023,"Minwei Shi, Kai Yang, Dusit Niyato, Hang Yuan, He Zhou, Zhan Xu",12678 ,corr
+97,Distributed Traffic Synthesis and Classification in Edge Networks: A Federated Self-supervised Learning Approach.,2023,"Yong Xiao, Rong Xia, Yingyu Li, Guangming Shi, Diep N. Nguyen, Dinh Thai Hoang, Dusit Niyato, Marwan Krunz",00207 ,corr
+98,Covert D2D Communication Underlaying Cellular Network: A System-Level Security Perspective.,2023,"Shaohan Feng, Xiao Lu, Kun Zhu, Dusit Niyato, Ping Wang",01745 ,corr
+99,"Mobile Cell-Free Massive MIMO: Challenges, Solutions, and Future Directions.",2023,"Jiakang Zheng, Jiayi Zhang, Hongyang Du, Dusit Niyato, Bo Ai, Mérouane Debbah, Khaled B. Letaief",02566 ,corr
+100,Achieving Covert Communication in Large-Scale SWIPT-Enabled D2D Networks.,2023,"Shaohan Feng, Xiao Lu, Dusit Niyato, Ekram Hossain, Sumei Sun",08010 ,corr
+101,Generative AI-empowered Simulation for Autonomous Driving in Vehicular Mixed Reality Metaverses.,2023,"Minrui Xu, Dusit Niyato, Junlong Chen, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han",08418 ,corr
+102,Semantic Information Marketing in The Metaverse: A Learning-Based Contract Theory Framework.,2023,"Ismail Lotfi, Dusit Niyato, Sumei Sun, Dong In Kim, Xuemin Shen",11457 ,corr
+103,xURLLC-Aware Service Provisioning in Vehicular Networks: A Semantic Communication Perspective.,2023,"Le Xia, Yao Sun, Dusit Niyato, Daquan Feng, Lei Feng, Muhammad Ali Imran",11993 ,corr
+104,Dynamic Resource Allocation for Metaverse Applications with Deep Reinforcement Learning.,2023,"Nam Hoai Chu, Diep N. Nguyen, Dinh Thai Hoang, Khoa T. Phan, Eryk Dutkiewicz, Dusit Niyato, Tao Shu",13445 ,corr
+105,Blockchain-Empowered Lifecycle Management for AI-Generated Content (AIGC) Products in Edge Networks.,2023,"Yinqiu Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Chunyan Miao, Xuemin Shen, Abbas Jamalipour",02836 ,corr
+106,Epidemic Model-based Network Influential Node Ranking Methods: A Ranking Rationality Perspective.,2023,"Bing Zhang, Xuyang Zhao, Jiangtian Nie, Jianhang Tang, Yuling Chen, Yang Zhang, Dusit Niyato",12588 ,corr
+107,Building Resilient Web 3.0 with Quantum Information Technologies and Blockchain: An Ambilateral View.,2023,"Xiaoxu Ren, Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Chao Qiu, Xiaofei Wang",13050 ,corr
+108,Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks.,2023,"Hongyang Du, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Huawei Huang, Shiwen Mao",13052 ,corr
+109,AI-Generated 6G Internet Design: A Diffusion Model-based Learning Approach.,2023,"Yudong Huang, Minrui Xu, Xinyuan Zhang, Dusit Niyato, Zehui Xiong, Shuo Wang, Tao Huang",13869 ,corr
+110,Guiding AI-Generated Digital Content with Wireless Perception.,2023,"Jiacheng Wang, Hongyang Du, Dusit Niyato, Zehui Xiong, Jiawen Kang, Shiwen Mao, Xuemin Shen",14624 ,corr
+111,Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services.,2023,"Minrui Xu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han, Abbas Jamalipour, Dong In Kim, Xuemin Shen, Victor C. M. Leung, H. Vincent Poor",16129 ,corr
+112,Deep Generative Model and Its Applications in Efficient Wireless Network Management: A Tutorial and Case Study.,2023,"Yinqiu Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Abbas Jamalipour",17114 ,corr
+113,Joint Rate Allocation and Power Control for RSMA-Based Communication and Radar Coexistence Systems.,2023,"Trung Thanh Nguyen, Nguyen Cong Luong, Shaohan Feng, Tien-Hoa Nguyen, Khaled M. Elbassioni, Dusit Niyato, Dong In Kim",17392 ,corr
+114,FAST: Fidelity-Adjustable Semantic Transmission over Heterogeneous Wireless Networks.,2023,"Peichun Li, Guoliang Cheng, Jiawen Kang, Rong Yu, Liping Qian, Yuan Wu, Dusit Niyato",01857 ,corr
+115,Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks.,2023,"Hongyang Du, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Xuemin Shen, H. Vincent Poor",03446 ,corr
+116,Entangled Pair Resource Allocation under Uncertain Fidelity Requirements.,2023,"Rakpong Kaewpuang, Minrui Xu, Stephen John Turner, Dusit Niyato, Han Yu, Dong In Kim",04425 ,corr
+117,Task-Oriented Delay-Aware Multi-Tier Computing in Cell-free Massive MIMO Systems.,2023,"Kunlun Wang, Dusit Niyato, Wen Chen, Arumugam Nallanathan",07079 ,corr
+118,Edge Computing Empowered Tactile Internet for Human Digital Twin: Visions and Case Study.,2023,"Hao Xiang, Kun Wu, Jiayuan Chen, Changyan Yi, Jun Cai, Dusit Niyato, Xuemin Shen",07454 ,corr
+119,Sustainable AIGC Workload Scheduling of Geo-Distributed Data Centers: A Multi-Agent Reinforcement Learning Approach.,2023,"Siyue Zhang, Minrui Xu, Wei Yang Bryan Lim, Dusit Niyato",07948 ,corr
+120,Exploring Blockchain Technology through a Modular Lens: A Survey.,2023,"Minghui Xu, Yihao Guo, Chun-Chi Liu, Qin Hu, Dongxiao Yu, Zehui Xiong, Dusit Niyato, Xiuzhen Cheng",08283 ,corr
+121,Sparks of GPTs in Edge Intelligence for Metaverse: Caching and Inference for Mobile AIGC Services.,2023,"Minrui Xu, Dusit Niyato, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han",08782 ,corr
+122,DADFNet: Dual Attention and Dual Frequency-Guided Dehazing Network for Video-Empowered Intelligent Transportation.,2023,"Yu Guo, Ryan Wen Liu, Jiangtian Nie, Lingjuan Lyu, Zehui Xiong, Jiawen Kang, Han Yu, Dusit Niyato",09588 ,corr
+123,Maximize the Long-term Average Revenue of Network Slice Provider via Admission Control Among Heterogeneous Slices.,2023,"Miao Dai, Gang Sun, Hongfang Yu, Dusit Niyato",10057 ,corr
+124,"Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study.",2023,"Ruichen Zhang, Ke Xiong, Hongyang Du, Dusit Niyato, Jiawen Kang, Xuemin Shen, H. Vincent Poor",11098 ,corr
+125,MetaShard: A Novel Sharding Blockchain Platform for Metaverse Applications.,2023,"Cong T. Nguyen, Dinh Thai Hoang, Diep N. Nguyen, Yong Xiao, Dusit Niyato, Eryk Dutkiewicz",00367 ,corr
+126,A Unified Framework for Integrating Semantic Communication and AI-Generated Content in Metaverse.,2023,"Yijing Lin, Zhipeng Gao, Hongyang Du, Dusit Niyato, Jiawen Kang, Abbas Jamalipour, Xuemin Sherman Shen",11911 ,corr
+127,Joint Foundation Model Caching and Inference of Generative AI Services for Edge Intelligence.,2023,"Minrui Xu, Dusit Niyato, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han",12130 ,corr
+128,ESIA: An Efficient and Stable Identity Authentication for Internet of Vehicles.,2023,"Haoxiang Luo, Jin Zhang, Xinling Li, Zonghang Li, Hongfang Yu, Gang Sun, Dusit Niyato",17377 ,corr
+129,Spear or Shield: Leveraging Generative AI to Tackle Security Threats of Intelligent Network Services.,2023,"Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Kwok-Yan Lam, Yuguang Fang, Yonghui Li",02384 ,corr
+130,Effective Intrusion Detection in Highly Imbalanced IoT Networks with Lightweight S2CGAN-IDS.,2023,"Caihong Wang, Du Xu, Zonghang Li, Dusit Niyato",03707 ,corr
+131,GoMORE: Global Model Reuse for Resource-Constrained Wireless Federated Learning.,2023,"Jiacheng Yao, Zhaohui Yang, Wei Xu, Mingzhe Chen, Dusit Niyato",05380 ,corr
+132,Towards Quantum Federated Learning.,2023,"Chao Ren, Han Yu, Rudai Yan, Minrui Xu, Yuan Shen, Huihui Zhu, Dusit Niyato, Zhao Yang Dong, Leong Chuan Kwek",09912 ,corr
+133,YOLO-based Semantic Communication with Generative AI-aided Resource Allocation for Digital Twins Construction.,2023,"Baoxia Du, Hongyang Du, Haifeng Liu, Dusit Niyato, Peng Xin, Jun Yu, Mingyang Qi, You Tang",14138 ,corr
+134,Cost-Effective Task Offloading Scheduling for Hybrid Mobile Edge-Quantum Computing.,2023,"Ziqiang Ye, Yulan Gao, Yue Xiao, Minrui Xu, Han Yu, Dusit Niyato",14588 ,corr
+135,Multi-Agent Deep Reinforcement Learning for Dynamic Avatar Migration in AIoT-enabled Vehicular Metaverses with Trajectory Prediction.,2023,"Junlong Chen, Jiawen Kang, Minrui Xu, Zehui Xiong, Dusit Niyato, Chuan Chen, Abbas Jamalipour, Shengli Xie",14683 ,corr
+136,"Cell-Free XL-MIMO Meets Multi-Agent Reinforcement Learning: Architectures, Challenges, and Future Directions.",2023,"Zhilong Liu, Jiayi Zhang, Ziheng Liu, Hongyang Du, Zhe Wang, Dusit Niyato, Mohsen Guizani, Bo Ai",02827 ,corr
+137,Federated Learning-Empowered AI-Generated Content in Wireless Networks.,2023,"Xumin Huang, Peichun Li, Hongyang Du, Jiawen Kang, Dusit Niyato, Dong In Kim, Yuan Wu",07146 ,corr
+138,"A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications.",2023,"Zhe Wang, Jiayi Zhang, Hongyang Du, Dusit Niyato, Shuguang Cui, Bo Ai, Mérouane Debbah, Khaled B. Letaief, H. Vincent Poor",07340 ,corr
+139,A Revolution of Personalized Healthcare: Enabling Human Digital Twin with Mobile AIGC.,2023,"Jiayuan Chen, Changyan Yi, Hongyang Du, Dusit Niyato, Jiawen Kang, Jun Cai, Xuemin Shen",12115 ,corr
+140,Imperfect CSI: A Key Factor of Uncertainty to Over-the-Air Federated Learning.,2023,"Jiacheng Yao, Zhao-Hui Yang, Wei Xu, Dusit Niyato, Xiaohu You",12793 ,corr
+141,Elastic Entangled Pair and Qubit Resource Management in Quantum Cloud Computing.,2023,"Rakpong Kaewpuang, Minrui Xu, Dinh Thai Hoang, Dusit Niyato, Han Yu, Ruidong Li, Zehui Xiong, Jiawen Kang",13185 ,corr
+142,Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness.,2023,"Jiawen Kang, Jinbo Wen, Dongdong Ye, Bingkun Lai, Tianhao Wu, Zehui Xiong, Jiangtian Nie, Dusit Niyato, Yang Zhang, Shengli Xie",15975 ,corr
+143,Semantic Communications for Artificial Intelligence Generated Content (AIGC) Toward Effective Content Creation.,2023,"Guangyuan Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Xuemin Shen",04942 ,corr
+144,Beyond Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization.,2023,"Hongyang Du, Ruichen Zhang, Yinqiu Liu, Jiacheng Wang, Yijing Lin, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Bo Ai, Haibo Zhou, Dong In Kim",05384 ,corr
+145,Beyond Reality: The Pivotal Role of Generative AI in the Metaverse.,2023,"Vinay Chamola, Gaurang Bansal, Tridib Kumar Das, Vikas Hassija, Naga Siva Sai Reddy, Jiacheng Wang, Sherali Zeadally, Amir Hussain, F. Richard Yu, Mohsen Guizani, Dusit Niyato",06272 ,corr
+146,Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference.,2023,"Zeming Zhuang, Dingzhu Wen, Yuanming Shi, Guangxu Zhu, Sheng Wu, Dusit Niyato",06503 ,corr
+147,Vision-based Semantic Communications for Metaverse Services: A Contest Theoretic Approach.,2023,"Guangyuan Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Boon-Hee Soong",07618 ,corr
+148,"Flexible-Position MIMO for Wireless Communications: Fundamentals, Challenges, and Future Directions.",2023,"Jiakang Zheng, Jiayi Zhang, Hongyang Du, Dusit Niyato, Sumei Sun, Bo Ai, Khaled B. Letaief",14578 ,corr
+149,Robust Transceiver Design for Covert Integrated Sensing and Communications With Imperfect CSI.,2023,"Yuchen Zhang, Wanli Ni, Jianquan Wang, Wanbin Tang, Min Jia, Yonina C. Eldar, Dusit Niyato",15131 ,corr
+150,"Generative AI for Semantic Communication: Architecture, Challenges, and Outlook.",2023,"Le Xia, Yao Sun, Chengsi Liang, Lei Zhang, Muhammad Ali Imran, Dusit Niyato",15483 ,corr
+151,Vulnerability of Machine Learning Approaches Applied in IoT-based Smart Grid: A Review.,2023,"Zhenyong Zhang, Mengxiang Liu, Mingyang Sun, Ruilong Deng, Peng Cheng, Dusit Niyato, Mo-Yuen Chow, Jiming Chen",15736 ,corr
+152,Rate-Splitting for CF Massive MIMO Systems With Channel Aging.,2023,"Jiakang Zheng, Jiayi Zhang, Hongyang Du, Dusit Niyato, Dong In Kim, Bo Ai",16099 ,corr
+153,"Optimizing Mobile-Edge AI-Generated Everything (AIGX) Services by Prompt Engineering: Fundamental, Framework, and Case Study.",2023,"Yinqiu Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Shuguang Cui, Xuemin Shen, Ping Zhang",01065 ,corr
+154,A Unified Framework for Guiding Generative AI with Wireless Perception in Resource Constrained Mobile Edge Networks.,2023,"Jiacheng Wang, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Deepu Rajan, Shiwen Mao, Xuemin Shen",01426 ,corr
+155,Generative AI-aided Joint Training-free Secure Semantic Communications via Multi-modal Prompts.,2023,"Hongyang Du, Guangyuan Liu, Dusit Niyato, Jiayi Zhang, Jiawen Kang, Zehui Xiong, Bo Ai, Dong In Kim",02616 ,corr
+156,Task Freshness-aware Incentive Mechanism for Vehicle Twin Migration in Vehicular Metaverses.,2023,"Jinbo Wen, Jiawen Kang, Zehui Xiong, Yang Zhang, Hongyang Du, Yutao Jiao, Dusit Niyato",04703 ,corr
+157,Learning-based Incentive Mechanism for Task Freshness-aware Vehicular Twin Migration.,2023,"Junhong Zhang, Jiangtian Nie, Jinbo Wen, Jiawen Kang, Minrui Xu, Xiaofeng Luo, Dusit Niyato",04929 ,corr
+158,Multiagent Reinforcement Learning with an Attention Mechanism for Improving Energy Efficiency in LoRa Networks.,2023,"Xu Zhang, Ziqi Lin, Shimin Gong, Bo Gu, Dusit Niyato",08965 ,corr
+159,Artificial Intelligence for Web 3.0: A Comprehensive Survey.,2023,"Meng Shen, Zhehui Tan, Dusit Niyato, Yuzhi Liu, Jiawen Kang, Zehui Xiong, Liehuang Zhu, Wei Wang, Xuemin Shen",09972 ,corr
+160,Knowledge Base Aware Semantic Communication in Vehicular Networks.,2023,"Le Xia, Yao Sun, Dusit Niyato, Kairong Ma, Jiawen Kang, Muhammad Ali Imran",12461 ,corr
+161,Exploring Blockchain Technology through a Modular Lens: A Survey.,2023,"Minghui Xu, Yihao Guo, Chun-Chi Liu, Qin Hu, Dongxiao Yu, Zehui Xiong, Dusit Niyato, Xiuzhen Cheng", 2023: 1180 ,iacr
+162,Federated Learning Over Wireless Edge Networks.,2022,"Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Dusit Niyato, Chunyan Miao", 1-150,wn
+163,"Integrating Edge Intelligence and Blockchain - What, Why, and How.",2022,"Xiaofei Wang, Chao Qiu, Xiaoxu Ren, Zehui Xiong, Victor C. M. Leung, Dusit Niyato", 1-108,wn
+164,A Novel Joint Dataset and Incentive Management Mechanism for Federated Learning Over MEC.,2022,"Joohyung Lee, Daejin Kim, Dusit Niyato", IEEE Access 10: 30026-30038 ,access
+165,Applications of Blockchain in Business Processes: A Comprehensive Review.,2022,"Wattana Viriyasitavat, Li Da Xu, Dusit Niyato, Zhuming Bi, Danupol Hoonsopon", IEEE Access 10: 118900-118925 ,access
+166,Healthcare in Metaverse: A Survey on Current Metaverse Applications in Healthcare.,2022,"Gaurang Bansal, Karthik Rajgopal, Vinay Chamola, Zehui Xiong, Dusit Niyato", IEEE Access 10: 119914-119946 ,access
+167,"Digital-Twin-Enabled 6G: Vision, Architectural Trends, and Future Directions.",2022,"Latif U. Khan, Walid Saad, Dusit Niyato, Zhu Han, Choong Seon Hong", 60: 74-80 ,cm
+168,Joint time scheduling and transaction fee selection in blockchain-based RF-powered backscatter cognitive radio network.,2022,"Nguyen Cong Luong, Tran The Anh, Zehui Xiong, Dusit Niyato, Dong In Kim", Networks 214: 109135 ,cn
+169,Editorial: First Quarter 2022 IEEE Communications Surveys and Tutorials.,2022,Dusit Niyato, Tutorials 24: i-vi ,comsur
+170,Applications of Multi-Agent Reinforcement Learning in Future Internet: A Comprehensive Survey.,2022,"Tianxu Li, Kun Zhu, Nguyen Cong Luong, Dusit Niyato, Qihui Wu, Yang Zhang, Bing Chen", Tutorials 24: 1240-1279 ,comsur
+171,Editorial: Second Quarter 2022 IEEE Communications Surveys and Tutorials.,2022,Dusit Niyato, Tutorials 24: i-iv ,comsur
+172,Editorial: Third Quarter 2022 IEEE Communications Surveys and Tutorials.,2022,Dusit Niyato, Tutorials 24: i-v ,comsur
+173,Editorial: Fourth Quarter 2022 IEEE Communications Surveys and Tutorials.,2022,Dusit Tao Niyato, Tutorials 24: i-v ,comsur
+174,Federated Transfer Learning With Client Selection for Intrusion Detection in Mobile Edge Computing.,2022,"Yanyu Cheng, Jianyuan Lu, Dusit Niyato, Biao Lyu, Jiawen Kang, Shunmin Zhu", 26: 552-556 ,icl
+175,Spatial-Temporal Aggregation Graph Convolution Network for Efficient Mobile Cellular Traffic Prediction.,2022,"Nan Zhao, Aonan Wu, Yiyang Pei, Ying-Chang Liang, Dusit Niyato", 26: 587-591 ,icl
+176,Deep Reinforcement Learning for Resource Management in Blockchain-Enabled Federated Learning Network.,2022,"Nguyen Quang Hieu, The Anh Tran, Cong Luong Nguyen, Dusit Niyato, Dong In Kim, Erik Elmroth", 4: 137-141 ,ieeenl
+177,Cooperative Scheme for Backscatter-Aided Passive Relay Communications in Wireless-Powered D2D Networks.,2022,"Xiaozheng Gao, Dusit Niyato, Kai Yang, Jianping An", 9: 152-164 ,iotj
+178,6G Internet of Things: A Comprehensive Survey.,2022,"Dinh C. Nguyen, Ming Ding, Pubudu N. Pathirana, Aruna Seneviratne, Jun Li, Dusit Niyato, Octavia A. Dobre, H. Vincent Poor", 9: 359-383 ,iotj
+179,Soft-Health: Software-Defined Fog Architecture for IoT Applications in Healthcare.,2022,"Chandana Roy, Ruelia Saha, Sudip Misra, Dusit Niyato", 9: 2455-2462 ,iotj
+180,Slicing-Based Reliable Resource Orchestration for Secure Software-Defined Edge-Cloud Computing Systems.,2022,"Jianhang Tang, Jiangtian Nie, Zehui Xiong, Jun Zhao, Yang Zhang, Dusit Niyato", 9: 2637-2648 ,iotj
+181,Deep-Reinforcement-Learning-Based Predictive Maintenance Model for Effective Resource Management in Industrial IoT.,2022,"Kevin Shen-Hoong Ong, Wenbo Wang, Dusit Niyato, Thomas Friedrichs", 9: 5173-5188 ,iotj
+182,Joint UAV Placement and Data Delivery in Aerial Inspection Under Uncertainties.,2022,"Napat Ngoenriang, Stephen John Turner, Dusit Niyato, Sucha Supittayapornpong", 9: 6389-6403 ,iotj
+183,Jammer-Assisted Secure Precoding and Feedback Design for MIMO IoT Networks.,2022,"Zhiyao Tang, Liang Sun, Dusit Niyato, Yang Zhang, An Liu", 9: 12241-12257 ,iotj
+184,Dynamics in Coded Edge Computing for IoT: A Fractional Evolutionary Game Approach.,2022,"Yue Han, Dusit Niyato, Cyril Leung, Chunyan Miao, Dong In Kim", 9: 13978-13994 ,iotj
+185,Risk Adversarial Learning System for Connected and Autonomous Vehicle Charging.,2022,"Md. Shirajum Munir, Ki Tae Kim, Kyi Thar, Dusit Niyato, Choong Seon Hong", 9: 15184-15203 ,iotj
+186,Predictive Maintenance Model for IIoT-Based Manufacturing: A Transferable Deep Reinforcement Learning Approach.,2022,"Kevin Shen-Hoong Ong, Wenbo Wang, Nguyen Quang Hieu, Dusit Niyato, Thomas Friedrichs", 9: 15725-15741 ,iotj
+187,Data Heterogeneity-Robust Federated Learning via Group Client Selection in Industrial IoT.,2022,"Zonghang Li, Yihong He, Hongfang Yu, Jiawen Kang, Xiaoping Li, Zenglin Xu, Dusit Niyato", 9: 17844-17857 ,iotj
+188,Enhanced Modulation for Multiuser Molecular Communication in Internet of Nano Things.,2022,"Keyvan Aghababaiyan, Hamed Kebriaei, Vahid Shah-Mansouri, Behrouz Maham, Dusit Niyato", 9: 19787-19802 ,iotj
+189,Optimizing Age of Information and Security of the Next-Generation Internet of Everything Systems.,2022,"Alia Asheralieva, Dusit Niyato", 9: 20331-20351 ,iotj
+190,Secure Information Transmission for B5G HetNets: A Robust Game Approach.,2022,"Yuan-Ai Xie, Zhixin Liu, Sainan Wang, Jiawen Kang, Zehui Xiong, Kit Yan Chan, Dusit Niyato", 9: 21505-21519 ,iotj
+191,Resource-Efficient Federated Learning With Non-IID Data: An Auction Theoretic Approach.,2022,"Eunil Seo, Dusit Niyato, Erik Elmroth", 9: 25506-25524 ,iotj
+192,"6G-Enabled Edge AI for Metaverse: Challenges, Methods, and Future Research Directions.",2022,"Luyi Chang, Zhe Zhang, Pei Li, Shan Xi, Wei Guo, Yukang Shen, Zehui Xiong, Jiawen Kang, Dusit Niyato, Xiuquan Qiao, Yi Wu", Networks 7: 107-121 ,jcin
+193,A Hierarchical Incentive Design Toward Motivating Participation in Coded Federated Learning.,2022,"Jer Shyuan Ng, Wei Yang Bryan Lim, Zehui Xiong, Xianbin Cao, Dusit Niyato, Cyril Leung, Dong In Kim", 40: 359-375 ,jsac
+194,Adaptive Aggregate Transmission for Device-to-Multi-Device Aided Cooperative NOMA Networks.,2022,"Yao Xu, Jie Tang, Bo Li, Nan Zhao, Dusit Niyato, Kai-Kit Wong", 40: 1355-1370 ,jsac
+195,Performance Optimization for Semantic Communications: An Attention-Based Reinforcement Learning Approach.,2022,"Yining Wang, Mingzhe Chen, Tao Luo, Walid Saad, Dusit Niyato, H. Vincent Poor, Shuguang Cui", 40: 2598-2613 ,jsac
+196,Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication.,2022,"Hongyang Du, Dusit Niyato, Yuan-Ai Xie, Yanyu Cheng, Jiawen Kang, Dong In Kim", 40: 2962-2979 ,jsac
+197,Compact Learning Model for Dynamic Off-Chain Routing in Blockchain-Based IoT.,2022,"Zhenni Li, Wensheng Su, Minrui Xu, Rong Yu, Dusit Niyato, Shengli Xie", 40: 3615-3630 ,jsac
+198,Cognitive Carrier Resource Optimization for Internet-of-Vehicles in 5G-Enhanced Smart Cities.,2022,"Feng Li, Kwok-Yan Lam, Zhengwei Ni, Dusit Niyato, Xin Liu, Li Wang", 36: 174-180 ,network
+199,When Optimization Meets Machine Learning: The Case of IRS-Assisted Wireless Networks.,2022,"Shimin Gong, Jiaye Lin, Beichen Ding, Dusit Niyato, Dong In Kim, Mohsen Guizani", 36: 190-198 ,network
+200,From Single-Protocol to Large-Scale Multi-Protocol Quantum Networks.,2022,"Yuan Cao, Yongli Zhao, Jie Zhang, Qin Wang, Dusit Niyato, Lajos Hanzo", 36: 14-22 ,network
+201,"Secure Wirelessly Powered Networks at the Physical Layer: Challenges, Countermeasures, and Road Ahead.",2022,"Xiao Lu, Nguyen Cong Luong, Dinh Thai Hoang, Dusit Niyato, Yong Xiao, Ping Wang", IEEE 110: 193-209 ,pieee
+202,Transfer Learning for Wireless Networks: A Comprehensive Survey.,2022,"Cong T. Nguyen, Nguyen Van Huynh, Nam Hoai Chu, Yuris Mulya Saputra, Dinh Thai Hoang, Diep N. Nguyen, Quoc-Viet Pham, Dusit Niyato, Eryk Dutkiewicz, Won-Joo Hwang", IEEE 110: 1073-1115 ,pieee
+203,Challenges and Countermeasures for Adversarial Attacks on Deep Reinforcement Learning.,2022,"Inaam Ilahi, Muhammad Usama, Junaid Qadir, Muhammad Umar Janjua, Ala I. Al-Fuqaha, Dinh Thai Hoang, Dusit Niyato", 3: 90-109 ,tai
+204,Short-Packet Backscatter Assisted Wireless-Powered Relaying With NOMA: Mode Selection With Performance Estimation.,2022,"Xiao Lu, Ping Wang, Guangxia Li, Dusit Niyato, Zhengwei Li", 8: 216-231 ,tccn
+205,Robust Beamforming Optimization for Self-Sustainable Intelligent Reflecting Surface Assisted Wireless Networks.,2022,"Yuze Zou, Yusi Long, Shimin Gong, Dinh Thai Hoang, Wei Liu, Wenqing Cheng, Dusit Niyato", 8: 856-870 ,tccn
+206,Applications of Auction and Mechanism Design in Edge Computing: A Survey.,2022,"Houming Qiu, Kun Zhu, Nguyen Cong Luong, Changyan Yi, Dusit Niyato, Dong In Kim", 8: 1034-1058 ,tccn
+207,Incentive Mechanisms for Federated Learning: From Economic and Game Theoretic Perspective.,2022,"Xuezhen Tu, Kun Zhu, Nguyen Cong Luong, Dusit Niyato, Yang Zhang, Juan Li", 8: 1566-1593 ,tccn
+208,Towards Small AoI and Low Latency via Operator Content Platform: A Contract Theory-Based Pricing.,2022,"Xuying Zhou, Wei Wang, Naveed Ul Hassan, Chau Yuen, Dusit Niyato", 70: 366-378 ,tcom
+209,IRS-Assisted Secure UAV Transmission via Joint Trajectory and Beamforming Design.,2022,"Xiaowei Pang, Nan Zhao, Jie Tang, Celimuge Wu, Dusit Niyato, Kai-Kit Wong", 70: 1140-1152 ,tcom
+210,Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications.,2022,"Hongyang Du, Jiayi Zhang, Ke Guan, Dusit Niyato, Huiying Jiao, Zhiqin Wang, Thomas Kürner", 70: 3575-3593 ,tcom
+211,Transferable Deep Reinforcement Learning Framework for Autonomous Vehicles With Joint Radar-Data Communications.,2022,"Nguyen Quang Hieu, Dinh Thai Hoang, Dusit Niyato, Ping Wang, Dong In Kim, Chau Yuen", 70: 5164-5180 ,tcom
+212,IRS-Aided Secure NOMA Networks Against Internal and External Eavesdropping.,2022,"Hui Han, Yang Cao, Min Sheng, Nan Zhao, Junyu Liu, Dusit Niyato", 70: 7536-7548 ,tcom
+213,Physical Layer Authentication With High Compatibility Using an Encoding Approach.,2022,"Ning Xie, Wei Xiong, Mingrui Sha, Tianxing Hu, Peichang Zhang, Lei Huang, Dusit Niyato", 70: 8270-8285 ,tcom
+214,Secure Precoding Optimization for NOMA-Aided Integrated Sensing and Communication.,2022,"Zhutian Yang, Dongdong Li, Nan Zhao, Zhilu Wu, Yonghui Li, Dusit Niyato", 70: 8370-8382 ,tcom
+215,Intelligent Reflecting Surface-Assisted Bistatic Backscatter Networks: Joint Beamforming and Reflection Design.,2022,"Xiaolun Jia, Xiangyun Zhou, Dusit Niyato, Jun Zhao", 6: 799-814 ,tgcn
+216,When Information Freshness Meets Service Latency in Federated Learning: A Task-Aware Incentive Scheme for Smart Industries.,2022,"Wei Yang Bryan Lim, Zehui Xiong, Jiawen Kang, Dusit Niyato, Cyril Leung, Chunyan Miao, Xuemin Shen", Informatics 18: 457-466 ,tii
+217,A Joint Energy and Latency Framework for Transfer Learning Over 5G Industrial Edge Networks.,2022,"Bo Yang, Omobayode Fagbohungbe, Xuelin Cao, Chau Yuen, Lijun Qian, Dusit Niyato, Yan Zhang", Informatics 18: 531-541 ,tii
+218,Privacy-Preserving Anomaly Detection in Cloud Manufacturing Via Federated Transformer.,2022,"Shiyao Ma, Jiangtian Nie, Jiawen Kang, Lingjuan Lyu, Ryan Wen Liu, Ruihui Zhao, Ziyao Liu, Dusit Niyato", Informatics 18: 8977-8987 ,tii
+219,Revenue-Optimal Auction For Resource Allocation in Wireless Virtualization: A Deep Learning Approach.,2022,"Kun Zhu, Yuanyuan Xu, Qian Jun, Dusit Niyato", 21: 1374-1387 ,tmc
+220,Communication-Efficient and Cross-Chain Empowered Federated Learning for Artificial Intelligence of Things.,2022,"Jiawen Kang, Xuandi Li, Jiangtian Nie, Yi Liu, Minrui Xu, Zehui Xiong, Dusit Niyato, Qiang Yan", 9: 2966-2977 ,tnse
+221,On Sidechain-Assisted Transaction Service Management for Internet of Things: A Random Contract Approach.,2022,"Jing Li, Tingting Liu, Dusit Niyato, Jun Li, Zhu Han", 9: 3437-3453 ,tnse
+222,Towards Communication-Efficient and Attack-Resistant Federated Edge Learning for Industrial Internet of Things.,2022,"Yi Liu, Ruihui Zhao, Jiawen Kang, Abdulsalam Yassine, Dusit Niyato, Jialiang Peng", 22: 59:1-59:22 ,toit
+223,Decentralized Edge Intelligence: A Dynamic Resource Allocation Framework for Hierarchical Federated Learning.,2022,"Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Jiangming Jin, Yang Zhang, Dusit Niyato, Cyril Leung, Chunyan Miao", 33: 536-550 ,tpds
+224,Reputation-Aware Hedonic Coalition Formation for Efficient Serverless Hierarchical Federated Learning.,2022,"Jer Shyuan Ng, Wei Yang Bryan Lim, Zehui Xiong, Xianbin Cao, Jiangming Jin, Dusit Niyato, Cyril Leung, Chunyan Miao", 33: 2675-2686 ,tpds
+225,Joint Pricing and Security Investment in Cloud Security Service Market With User Interdependency.,2022,"Shaohan Feng, Zehui Xiong, Dusit Niyato, Ping Wang, Shaun Shuxun Wang, Xuemin Sherman Shen", 15: 1461-1472 ,tsc
+226,Learning to Schedule Joint Radar-Communication With Deep Multi-Agent Reinforcement Learning.,2022,"Joash Lee, Dusit Niyato, Yong Liang Guan, Dong In Kim", 71: 406-422 ,tvt
+227,Artificial-Noise-Aided Coordinated Secure Transmission Design in Multi-Cell Multi-Antenna Networks With Limited Feedback.,2022,"Zhiyao Tang, Liang Sun, Xinyu Tian, Dusit Niyato, Yang Zhang", 71: 1750-1765 ,tvt
+228,A Double Auction Mechanism for Resource Allocation in Coded Vehicular Edge Computing.,2022,"Jer Shyuan Ng, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Cyril Leung, Chunyan Miao", 71: 1832-1845 ,tvt
+229,Access Management in Joint Sensing and Communication Systems: Efficiency Versus Fairness.,2022,"Trung Thanh Nguyen, Khaled M. Elbassioni, Nguyen Cong Luong, Dusit Niyato, Dong In Kim", 71: 5128-5142 ,tvt
+230,Efficient Federated Learning With Spike Neural Networks for Traffic Sign Recognition.,2022,"Kan Xie, Zhe Zhang, Bo Li, Jiawen Kang, Dusit Niyato, Shengli Xie, Yi Wu", 71: 9980-9992 ,tvt
+231,Intelligent Resource Allocation in Joint Radar-Communication With Graph Neural Networks.,2022,"Joash Lee, Yanyu Cheng, Dusit Niyato, Yong Liang Guan, David González G.", 71: 11120-11135 ,tvt
+232,VRepChain: A Decentralized and Privacy-Preserving Reputation System for Social Internet of Vehicles Based on Blockchain.,2022,"Yuan Liu, Zehui Xiong, Qin Hu, Dusit Niyato, Jie Zhang, Chunyan Miao, Cyril Leung, Zhihong Tian", 71: 13242-13253 ,tvt
+233,Optimization-Driven Hierarchical Learning Framework for Wireless Powered Backscatter-Aided Relay Communications.,2022,"Shimin Gong, Yuze Zou, Jing Xu, Dinh Thai Hoang, Bin Lyu, Dusit Niyato", 21: 1378-1391 ,twc
+234,Decentralized Learning for Channel Allocation in IoT Networks Over Unlicensed Bandwidth as a Contextual Multi-Player Multi-Armed Bandit Game.,2022,"Wenbo Wang, Amir Leshem, Dusit Niyato, Zhu Han", 21: 3162-3178 ,twc
+235,Learning to Optimize User Association and Spectrum Allocation With Partial Observation in mmWave-Enabled UAV Networks.,2022,"Chaoqiong Fan, Changyang She, Hengsheng Zhang, Bin Li, Chenglin Zhao, Dusit Niyato", 21: 5873-5888 ,twc
+236,Dynamic Network Service Selection in Intelligent Reflecting Surface-Enabled Wireless Systems: Game Theory Approaches.,2022,"Nguyen Thi Thanh Van, Nguyen Cong Luong, Shaohan Feng, Huy T. Nguyen, Kun Zhu, Thien Van Luong, Dusit Niyato", 21: 5947-5961 ,twc
+237,Multi-Agent Deep Reinforcement Learning for Task Offloading in UAV-Assisted Mobile Edge Computing.,2022,"Nan Zhao, Zhiyang Ye, Yiyang Pei, Ying-Chang Liang, Dusit Niyato", 21: 6949-6960 ,twc
+238,Mean-Field Artificial Noise Assistance and Uplink Power Control in Covert IoT Systems.,2022,"Shaohan Feng, Xiao Lu, Sumei Sun, Dusit Niyato", 21: 7358-7373 ,twc
+239,Federated Spectrum Learning for Reconfigurable Intelligent Surfaces-Aided Wireless Edge Networks.,2022,"Bo Yang, Xuelin Cao, Chongwen Huang, Chau Yuen, Marco Di Renzo, Yong Liang Guan, Dusit Niyato, Lijun Qian, Mérouane Debbah", 21: 9610-9626 ,twc
+240,Intelligence Reflecting Surface-Aided Integrated Data and Energy Networking Coexisting D2D Communications.,2022,"Nguyen Thi Thanh Van, Huy Thanh Nguyen, Nguyen Cong Luong, Ngo Manh Tien, Dusit Niyato, Dong In Kim", 21: 10035-10049 ,twc
+241,Artificial Intelligence for Autonomous Vehicular Communication Networks [From the Guest Editors].,2022,"Li-Chun Wang, Haris Gacanin, Dusit Niyato, Yu-Jia Chen, Chun-Hung Liu, Alagan Anpalagan", 17: 83-84 ,vtm
+242,"Reconfigurable Intelligent Surface-Aided Joint Radar and Covert Communications: Fundamentals, Optimization, and Challenges.",2022,"Hongyang Du, Jiawen Kang, Dusit Niyato, Jiayi Zhang, Dong In Kim", 17: 54-64 ,vtm
+243,Symbiotic Communications: Where Marconi Meets Darwin.,2022,"Ying-Chang Liang, Ruizhe Long, Qianqian Zhang, Dusit Niyato", 29: 144-150 ,wc
+244,Blockchain and 6G: The Future of Secure and Ubiquitous Communication.,2022,"Ali Hussain Khan, Naveed Ul Hassan, Chau Yuen, Jun Zhao, Dusit Niyato, Yan Zhang, H. Vincent Poor", 29: 194-201 ,wc
+245,Secure and Trusted Collaborative Learning Based on Blockchain for Artificial Intelligence of Things.,2022,"Xiangyun Tang, Liehuang Zhu, Meng Shen, Jialiang Peng, Jiawen Kang, Dusit Niyato, Ahmed A. Abd El-Latif", 29: 14-22 ,wc
+246,Secure and Reliable Transfer Learning Framework for 6G-Enabled Internet of Vehicles.,2022,"Minrui Xu, Dinh Thai Hoang, Jiawen Kang, Dusit Niyato, Qiang Yan, Dong In Kim", 29: 132-139 ,wc
+247,Semantic Communication Meets Edge Intelligence.,2022,"Wanting Yang, Zi Qin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xianbin Cao, Khaled B. Letaief", 29: 28-35 ,wc
+248,Guest Editorial: Coexistence of Drone and Terrestrial Networks.,2022,"Gagangeet Singh Aujla, Harpreet S. Dhillon, Dusit Niyato, Chiranjib Saha", 29: 12-13 ,wc
+249,Semantic Information Market For The Metaverse: An Auction Based Approach.,2022,"Ismail Lotfi, Dusit Niyato, Sumei Sun, Dong In Kim, Melike Erol-Kantarci, Chunyan Miao", FNWF 2022: 628-633,5gwf
+250,CrowdFL: A Marketplace for Crowdsourced Federated Learning.,2022,"Daifei Feng, Cicilia Helena, Wei Yang Bryan Lim, Jer Shyuan Ng, Hongchao Jiang, Zehui Xiong, Jiawen Kang, Han Yu, Dusit Niyato, Chunyan Miao", AAAI 2022: 13164-13166,aaai
+251,Dynamic Incentive Mechanism Design for COVID-19 Social Distancing.,2022,"Xuan Rong Zane Ho, Wei Yang Bryan Lim, Hongchao Jiang, Jer Shyuan Ng, Han Yu, Zehui Xiong, Dusit Niyato, Chunyan Miao", AAAI 2022: 13173-13175,aaai
+252,Blockchain-based Federated Learning for Industrial Metaverses: Incentive Scheme with Optimal AoI.,2022,"Jiawen Kang, Dongdong Ye, Jiangtian Nie, Jiang Xiao, Xianjun Deng, Siming Wang, Zehui Xiong, Rong Yu, Dusit Niyato", Blockchain 2022: 71-78,blockchain2
+253,Resource Allocation in Quantum Key Distribution (QKD) for Space-Air-Ground Integrated Networks.,2022,"Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, Zehui Xiong", CAMAD 2022: 71-76,camad
+254,Edge Computing-Enabled Multi-Sensor Data Fusion for Intelligent Surveillance in Maritime Transportation Systems.,2022,"Jingxiang Qu, Ryan Wen Liu, Jiangtian Nie, Xianjun Deng, Zehui Xiong, Yang Zhang, Han Yu, Dusit Niyato", DASC/PiCom/CBDCom/CyberSciTech 2022: 1-8,dasc
+255,Heterogeneous Federated Learning via Grouped Sequential-to-Parallel Training.,2022,"Shenglai Zeng, Zonghang Li, Hongfang Yu, Yihong He, Zenglin Xu, Dusit Niyato, Han Yu", DASFAA  2022: 455-471,dasfaa
+256,Message from the General Chairs: EUC 2022.,2022,"Dusit Niyato, Zhu Han, Tony Q. S. Quek", EUC 2022: viii,euc
+257,Multi-Resource Allocation for On-Device Distributed Federated Learning Systems.,2022,"Yulan Gao, Ziqiang Ye, Han Yu, Zehui Xiong, Yue Xiao, Dusit Niyato", GLOBECOM 2022: 160-165,globecom
+258,Cooperative Edge Caching via Federated Deep Deterministic Policy Gradient Learning in Fog-RANs.,2022,"Yu Wang, Yanxiang Jiang, Fu-Chun Zheng, Dusit Niyato, Xiaohu You", GLOBECOM  2022: 371-376,globecom
+259,AoI-aware Scheduling and Trajectory Optimization for Multi-UAV-assisted Wireless Networks.,2022,"Yusi Long, Wenjie Zhang, Shimin Gong, Xiaoling Luo, Dusit Niyato", GLOBECOM 2022: 2163-2168,globecom
+260,Adaptive Quantization based on Ensemble Distillation to Support FL enabled Edge Intelligence.,2022,"Yi-Jing Liu, Shuang Qin, Gang Feng, Dusit Niyato, Yao Sun, Jianhong Zhou", GLOBECOM 2022: 2194-2199,globecom
+261,Performance Analysis of Jammer-Aided Covert RIS-NOMA Systems.,2022,"Yanyu Cheng, Jianyuan Lu, Dusit Niyato, Biao Lyu, Minrui Xu, Shunmin Zhu", GLOBECOM 2022: 2716-2721,globecom
+262,Computation Offloading and Energy Harvesting Schemes for Sum Rate Maximization in Space-Air-Ground Networks.,2022,"Yongkang Gong, Haipeng Yao, Zehui Xiong, Song Guo, F. Richard Yu, Dusit Niyato", GLOBECOM 2022: 3941-3946,globecom
+263,Optimal Targeted Advertising Strategy for Secure Wireless Edge Metaverse.,2022,"Hongyang Du, Dusit Niyato, Chunyan Miao, Jiawen Kang, Dong In Kim", GLOBECOM 2022: 4346-4351,globecom
+264,IRS-Aided Secure MISO-NOMA Networks Towards Internal and External Eavesdropping.,2022,"Hui Han, Yang Cao, Min Sheng, Junyu Liu, Nan Zhao, Dusit Niyato", GLOBECOM 2022: 4364-4370,globecom
+265,Stochastic Resource Allocation in Quantum Key Distribution for Secure Federated Learning.,2022,"Minrui Xu, Wei Chong Ng, Dusit Niyato, Han Yu, Chunyan Miao, Dong In Kim, Xuemin Sherman Shen", GLOBECOM 2022: 4377-4382,globecom
+266,UAV-Assisted Networks With Underlaid Ambient Backscattering: Modeling and Outage Analysis.,2022,"Xu Jiang, Min Sheng, Nan Zhao, Junyu Liu, Dusit Niyato, F. Richard Yu", GLOBECOM 2022: 4947-4952,globecom
+267,Optimization of Image Transmission in Semantic Communication Networks.,2022,"Wenjing Zhang, Yining Wang, Mingzhe Chen, Tao Luo, Dusit Niyato", GLOBECOM 2022: 5965-5970,globecom
+268,Economics of Semantic Communication System in Wireless Powered Internet of Things.,2022,"Zi Qin Liew, Yanyu Cheng, Wei Yang Bryan Lim, Dusit Niyato, Chunyan Miao, Sumei Sun", ICASSP 2022: 8637-8641,icassp
+269,User-Centric Blockchain for Industry 5.0 Applications.,2022,"Hulin Yang, Alia Asheralieva, Jin Zhang, Md. Monjurul Karim, Dusit Niyato, Khuhawar Arif Raza", ICC Workshops 2022: 25-30,icc
+270,Covert Communication for Jammer-aided Multi-Antenna UAV Networks.,2022,"Hongyang Du, Dusit Niyato, Yuan-Ai Xie, Yanyu Cheng, Jiawen Kang, Dong In Kim", ICC 2022: 91-96,icc
+271,Evolutionary Model Owner Selection for Federated Learning with Heterogeneous Privacy Budgets.,2022,"Wei Yang Bryan Lim, Jer Shyuan Ng, Jiangtian Nie, Qin Hu, Zehui Xiong, Dusit Niyato, Chunyan Miao", ICC 2022: 980-985,icc
+272,A Dynamic Resource Allocation Framework for Synchronizing Metaverse with IoT Service and Data.,2022,"Yue Han, Dusit Niyato, Cyril Leung, Chunyan Miao, Dong In Kim", ICC 2022: 1196-1201,icc
+273,UAV-assisted Wireless Power Charging for Efficient Hybrid Coded Edge Computing Network.,2022,"Jer Shyuan Ng, Wei Chong Ng, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Cyril Leung, Chunyan Miao", ICC 2022: 4037-4042,icc
+274,Retrospective Interference Regeneration Schemes for Relay-Aided K-user MIMO Broadcast Networks.,2022,"Jingfu Li, Zehui Xiong, Wenjiang Feng, Weiheng Jiang, Dusit Niyato", ICC 2022: 5153-5158,icc
+275,Unified Resource Allocation Framework for the Edge Intelligence-Enabled Metaverse.,2022,"Wei Chong Ng, Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Dusit Niyato, Chunyan Miao", ICC 2022: 5214-5219,icc
+276,Wireless Edge-Empowered Metaverse: A Learning-Based Incentive Mechanism for Virtual Reality.,2022,"Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Chunyan Miao, Dong In Kim", ICC 2022: 5220-5225,icc
+277,AIS Data-Based Efficient Ship Trajectory Clustering.,2022,"Ruli Xu, Ryan Wen Liu, Jiangtian Nie, Xianjun Deng, Zehui Xiong, Wenchao Jiang, Han Yu, Dusit Niyato", ISPA/BDCloud/SocialCom/SustainCom 2022: 581-588,bdcloud
+278,Energy Minimization for Wireless Powered Data Offloading in IRS-assisted MEC for Vehicular Networks.,2022,"Yuanzheng Tan, Yusi Long, Songhan Zhao, Shimin Gong, Dinh Thai Hoang, Dusit Niyato", IWCMC 2022: 731-736,iwcmc
+279,Differentiated Security Architecture for Secure and Efficient Infotainment Data Communication in IoV Networks.,2022,"Jiani Fan, Lwin Khin Shar, Jiale Guo, Wenzhuo Yang, Dusit Niyato, Kwok-Yan Lam", NSS 2022: 283-304,nss
+280,Dynamic Target Acceleration Estimation Using CSI.,2022,"Jiacheng Wang, Zengshan Tian, Xiaolong Yang, Mu Zhou, Jiamin Huang, Dusit Niyato", VTC Spring 2022: 1-5,vtc
+281,Deep Reinforcement Learning for Time Allocation and Directional Transmission in Joint Radar-Communication.,2022,"Joash Lee, Yanyu Cheng, Dusit Niyato, Yong Liang Guan, G. David Gonzalez", WCNC 2022: 2559-2564,wcnc
+282,IRS-Assisted UAV Covert Communication via Location and Power Optimization.,2022,"Chao Wang, Xinying Chen, Jianping An, Zehui Xiong, Chengwen Xing, Nan Zhao, Dusit Niyato", WCSP 2022: 275-280,wcsp
+283,Joint Precoding and Jamming Design for Secure Transmission in NOMA-ISAC Networks.,2022,"Dongdong Li, Zhutian Yang, Nan Zhao, Zhilu Wu, Yonghui Li, Dusit Niyato", WCSP 2022: 764-769,wcsp
+284,Robust Semi-supervised Federated Learning for Images Automatic Recognition in Internet of Drones.,2022,"Zhe Zhang, Shiyao Ma, Zhaohui Yang, Zehui Xiong, Jiawen Kang, Yi Wu, Kejia Zhang, Dusit Niyato",01230 ,corr
+285,Realizing the Metaverse with Edge Intelligence: A Match Made in Heaven.,2022,"Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xianbin Cao, Chunyan Miao, Sumei Sun, Qiang Yang",01634 ,corr
+286,Heterogeneous Federated Learning via Grouped Sequential-to-Parallel Training.,2022,"Shenglai Zeng, Zonghang Li, Hongfang Yu, Yihong He, Zenglin Xu, Dusit Niyato, Han Yu",12976 ,corr
+287,Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert Communication.,2022,"Hongyang Du, Dusit Niyato, Yuan-Ai Xie, Yanyu Cheng, Jiawen Kang, Dong In Kim",00973 ,corr
+288,Data Heterogeneity-Robust Federated Learning via Group Client Selection in Industrial IoT.,2022,"Zonghang Li, Yihong He, Hongfang Yu, Jiawen Kang, Xiaoping Li, Zenglin Xu, Dusit Niyato",01512 ,corr
+289,Semantic Communication Meets Edge Intelligence.,2022,"Wanting Yang, Zi Qin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xianbin Cao, Khaled B. Letaief",06471 ,corr
+290,Stochastic Coded Offloading Scheme for Unmanned Aerial Vehicle-Assisted Edge Computing.,2022,"Wei Chong Ng, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Chunyan Miao, Zhu Han, Dong In Kim",11697 ,corr
+291,"Reconfigurable Intelligent Surface-Aided Joint Radar and Covert Communications: Fundamentals, Optimization, and Challenges.",2022,"Hongyang Du, Jiawen Kang, Dusit Niyato, Jiayi Zhang, Dong In Kim",02704 ,corr
+292,A Dynamic Hierarchical Framework for IoT-assisted Metaverse Synchronization.,2022,"Yue Han, Dusit Niyato, Cyril Leung, Dong In Kim, Kun Zhu, Shaohan Feng, Xuemin Sherman Shen, Chunyan Miao",03969 ,corr
+293,"A Full Dive into Realizing the Edge-enabled Metaverse: Visions, Enabling Technologies, and Challenges.",2022,"Minrui Xu, Wei Chong Ng, Wei Yang Bryan Lim, Jiawen Kang, Zehui Xiong, Dusit Niyato, Qiang Yang, Xuemin Sherman Shen, Chunyan Miao",05471 ,corr
+294,An Effective Framework of Private Ethereum Blockchain Networks for Smart Grid.,2022,"Do Hai Son, Tran Thi Thuy Quynh, Tran Viet Khoa, Dinh Thai Hoang, Nguyen Linh Trung, Nguyen Viet Ha, Dusit Niyato, Diep N. Nguyen, Eryk Dutkiewicz",14633 ,corr
+295,Joint Power Allocation and Rate Control for Rate Splitting Multiple Access Networks with Covert Communications.,2022,"Nguyen Quang Hieu, Dinh Thai Hoang, Dusit Niyato, Diep N. Nguyen, Dong In Kim, Abbas Jamalipour",16807 ,corr
+296,Privacy-preserving Anomaly Detection in Cloud Manufacturing via Federated Transformer.,2022,"Shiyao Ma, Jiangtian Nie, Jiawen Kang, Lingjuan Lyu, Ryan Wen Liu, Ruihui Zhao, Ziyao Liu, Dusit Niyato",00843 ,corr
+297,Semantic Information Market For The Metaverse: An Auction Based Approach.,2022,"Ismail Lotfi, Dusit Niyato, Sumei Sun, Dong In Kim, Melike Erol-Kantarci, Chunyan Miao",04878 ,corr
+298,"6G-enabled Edge AI for Metaverse: Challenges, Methods, and Future Research Directions.",2022,"Luyi Chang, Zhe Zhang, Pei Li, Shan Xi, Wei Guo, Yukang Shen, Zehui Xiong, Jiawen Kang, Dusit Niyato, Xiuquan Qiao, Yi Wu",06192 ,corr
+299,"Quantum-Secured Space-Air-Ground Integrated Networks: Concept, Framework, and Case Study.",2022,"Minrui Xu, Dusit Niyato, Zehui Xiong, Jiawen Kang, Xianbin Cao, Xuemin Sherman Shen, Chunyan Miao",08673 ,corr
+300,Federated Spectrum Learning for Reconfigurable Intelligent Surfaces-Aided Wireless Edge Networks.,2022,"Bo Yang, Xuelin Cao, Chongwen Huang, Chau Yuen, Marco Di Renzo, Yong Liang Guan, Dusit Niyato, Lijun Qian, Mérouane Debbah",10791 ,corr
+301,Efficient Federated Learning with Spike Neural Networks for Traffic Sign Recognition.,2022,"Kan Xie, Zhe Zhang, Bo Li, Jiawen Kang, Dusit Niyato, Shengli Xie, Yi Wu",14315 ,corr
+302,Blockchain-based Federated Learning for Industrial Metaverses: Incentive Scheme with Optimal AoI.,2022,"Jiawen Kang, Dongdong Ye, Jiangtian Nie, Jiang Xiao, Xianjun Deng, Siming Wang, Zehui Xiong, Rong Yu, Dusit Niyato",07384 ,corr
+303,Content Popularity Prediction Based on Quantized Federated Bayesian Learning in Fog Radio Access Networks.,2022,"Yunwei Tao, Yanxiang Jiang, Fu-Chun Zheng, Pengcheng Zhu, Dusit Niyato, Xiaohu You",12258 ,corr
+304,"Metaverse for Wireless Systems: Vision, Enablers, Architecture, and Future Directions.",2022,"Latif U. Khan, Zhu Han, Dusit Niyato, Ekram Hossain, Choong Seon Hong",00413 ,corr
+305,"Semantic Communications for 6G Future Internet: Fundamentals, Applications, and Challenges.",2022,"Wanting Yang, Hongyang Du, Zi Qin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xuemin Sherman Shen, Chunyan Miao",00427 ,corr
+306,Exploring Attention-Aware Network Resource Allocation for Customized Metaverse Services.,2022,"Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Xuemin Shen, Dong In Kim",00369 ,corr
+307,Rethinking Quality of Experience for Metaverse Services: A Consumer-based Economics Perspective.,2022,"Hongyang Du, Bohao Ma, Dusit Niyato, Jiawen Kang",01076 ,corr
+308,Economics of Semantic Communication System: An Auction Approach.,2022,"Zi Qin Liew, Hongyang Du, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Chunyan Miao, Dong In Kim",05040 ,corr
+309,Attention-aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services.,2022,"Hongyang Du, Jiazhen Liu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, Dong In Kim",05438 ,corr
+310,Slicing4Meta: An Intelligent Integration Framework with Multi-dimensional Network Resources for Metaverse-as-a-Service in Web 3.0.,2022,"Yi-Jing Liu, Hongyang Du, Dusit Niyato, Gang Feng, Jiawen Kang, Zehui Xiong",06081 ,corr
+311,Resource Allocation in Quantum Key Distribution (QKD) for Space-Air-Ground Integrated Networks.,2022,"Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, Zehui Xiong",08009 ,corr
+312,Performance Optimization for Semantic Communications: An Attention-based Reinforcement Learning Approach.,2022,"Yining Wang, Mingzhe Chen, Tao Luo, Walid Saad, Dusit Niyato, H. Vincent Poor, Shuguang Cui",08239 ,corr
+313,On The Robustness of Channel Allocation in Joint Radar And Communication Systems: An Auction Approach.,2022,"Ismail Lotfi, Hongyang Du, Dusit Niyato, Sumei Sun, Dong In Kim",09821 ,corr
+314,Adaptive Resource Allocation in Quantum Key Distribution (QKD) for Federated Learning.,2022,"Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, Zehui Xiong, Xuemin Sherman Shen",11270 ,corr
+315,Stochastic Resource Allocation for Semantic Communication-aided Virtual Transportation Networks in the Metaverse.,2022,"Wei Chong Ng, Hongyang Du, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Chunyan Miao",14661 ,corr
+316,"A Primer on Rate-Splitting Multiple Access: Tutorial, Myths, and Frequently Asked Questions.",2022,"Bruno Clerckx, Yijie Mao, Eduard A. Jorswieck, Jinhong Yuan, David J. Love, Elza Erkip, Dusit Niyato",00491 ,corr
+317,Cooperative Resource Management in Quantum Key Distribution (QKD) Networks for Semantic Communication.,2022,"Rakpong Kaewpuang, Minrui Xu, Wei Yang Bryan Lim, Dusit Niyato, Han Yu, Jiawen Kang, Xuemin Sherman Shen",11957 ,corr
+318,"Extremely Large-Scale MIMO: Fundamentals, Challenges, Solutions, and Future Directions.",2022,"Zhe Wang, Jiayi Zhang, Hongyang Du, Wei E. I. Sha, Bo Ai, Dusit Niyato, Mérouane Debbah",12131 ,corr
+319,Securing Large-Scale D2D Networks Using Covert Communication and Friendly Jamming.,2022,"Shaohan Feng, Xiao Lu, Sumei Sun, Dusit Niyato, Ekram Hossain",15170 ,corr
+320,Optimal Stochastic Resource Allocation for Distributed Quantum Computing.,2022,"Napat Ngoenriang, Minrui Xu, Sucha Supittayapornpong, Dusit Niyato, Han Yu, Xuemin Shen",02886 ,corr
+321,DQC2O: Distributed Quantum Computing for Collaborative Optimization in Future Networks.,2022,"Napat Ngoenriang, Minrui Xu, Jiawen Kang, Dusit Niyato, Han Yu, Xuemin Shen",02887 ,corr
+322,Privacy-preserving Intelligent Resource Allocation for Federated Edge Learning in Quantum Internet.,2022,"Minrui Xu, Dusit Niyato, Zhaohui Yang, Zehui Xiong, Jiawen Kang, Dong In Kim, Xuemin Shen",04308 ,corr
+323,Rethinking Wireless Communication Security in Semantic Internet of Things.,2022,"Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mohsen Guizani, Dong In Kim",04474 ,corr
+324,Stochastic Qubit Resource Allocation for Quantum Cloud Computing.,2022,"Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, Zehui Xiong, Jiawen Kang",12343 ,corr
+325,A Unified Blockchain-Semantic Framework for Wireless Edge Intelligence Enabled Web 3.0.,2022,"Yijing Lin, Zhipeng Gao, Hongyang Du, Dusit Niyato, Jiawen Kang, Ruilong Deng, Xuemin Sherman Shen",15130 ,corr
+326,Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning.,2022,"Yong Xiao, Zijian Sun, Guangming Shi, Dusit Niyato",16118 ,corr
+327,Pricing for Reconfigurable Intelligent Surface Aided Wireless Networks: Models and Principles.,2022,"Yulan Gao, Yue Xiao, Xianfu Lei, Qiaonan Zhu, Dusit Niyato, Kai-Kit Wong, Pingzhi Fan, Rose Qingyang Hu",00480 ,corr
+328,Multi-Resource Allocation for On-Device Distributed Federated Learning Systems.,2022,"Yulan Gao, Ziqiang Ye, Han Yu, Zehui Xiong, Yue Xiao, Dusit Niyato",00481 ,corr
+329,Holographic-Type Communication for Digital Twin: A Learning-based Auction Approach.,2022,"Xiuyu Zhang, Minrui Xu, Rui Tan, Dusit Niyato",01016 ,corr
+330,"Towards Green Metaverse Networking Technologies, Advancements and Future Directions.",2022,"Siyue Zhang, Wei Yang Bryan Lim, Wei Chong Ng, Zehui Xiong, Dusit Niyato, Xuemin Sherman Shen, Chunyan Miao",03057 ,corr
+331,HFedMS: Heterogeneous Federated Learning with Memorable Data Semantics in Industrial Metaverse.,2022,"Shenglai Zeng, Zonghang Li, Hongfang Yu, Zhihao Zhang, Long Luo, Bo Li, Dusit Niyato",03300 ,corr
+332,"Machine Learning for Metaverse-enabled Wireless Systems: Vision, Requirements, and Challenges.",2022,"Latif U. Khan, Ibrar Yaqoob, Khaled Salah, Choong Seon Hong, Dusit Niyato, Zhu Han, Mohsen Guizani",03703 ,corr
+333,Learning-based Sustainable Multi-User Computation Offloading for Mobile Edge-Quantum Computing.,2022,"Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mingzhe Chen",06681 ,corr
+334,EPViSA: Efficient Auction Design for Real-time Physical-Virtual Synchronization in the Metaverse.,2022,"Minrui Xu, Dusit Niyato, Benjamin Wright, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han",06838 ,corr
+335,When Quantum Information Technologies Meet Blockchain in Web 3.0.,2022,"Minrui Xu, Xiaoxu Ren, Dusit Niyato, Jiawen Kang, Chao Qiu, Zehui Xiong, Xiaofei Wang, Victor C. M. Leung",15941 ,corr
+336,A Blockchain-based Semantic Exchange Framework for Web 3.0 toward Participatory Economy.,2022,"Yijing Lin, Zhipeng Gao, Yaofeng Tu, Hongyang Du, Dusit Niyato, Jiawen Kang, Hui Yang",16662 ,corr
+337,Full-Life Cycle Intent-Driven Network Verification: Challenges and Approaches.,2022,"Yanbo Song, Chungang Yang, Jiaming Zhang, Xinru Mi, Dusit Niyato",09944 ,corr
+338,Hierarchical Deep Reinforcement Learning for Age-of-Information Minimization in IRS-aided and Wireless-powered Wireless Networks.,2022,"Shimin Gong, Leiyang Cui, Bo Gu, Bin Lyu, Dinh Thai Hoang, Dusit Niyato",13390 ,corr
+339,Bayesian Optimization Enhanced Deep Reinforcement Learning for Trajectory Planning and Network Formation in Multi-UAV Networks.,2022,"Shimin Gong, Meng Wang, Bo Gu, Wenjie Zhang, Dinh Thai Hoang, Dusit Niyato",13396 ,corr
+340,Wireless Semantic Communication: A Networking Perspective.,2022,"Le Xia, Yao Sun, Dusit Niyato, Xiaoqian Li, Muhammad Ali Imran",14142 ,corr
+341,AI-Assisted MAC for Reconfigurable Intelligent-Surface-Aided Wireless Networks: Challenges and Opportunities.,2021,"Xuelin Cao, Bo Yang, Chongwen Huang, Chau Yuen, Marco Di Renzo, Zhu Han, Dusit Niyato, H. Vincent Poor, Lajos Hanzo", 59: 21-27 ,cm
+342,Joint Communication and Computation Design for UAV-Enabled Aerial Computing.,2021,"Jiequ Ji, Kun Zhu, Dusit Niyato", 59: 73-79 ,cm
+343,"Intelligent Communications for Tactile Internet in 6G: Requirements, Technologies, and Challenges.",2021,"Zhanwei Hou, Changyang She, Yonghui Li, Dusit Niyato, Mischa Dohler, Branka Vucetic", 59: 82-88 ,cm
+344,Computation offloading and content caching and delivery in Vehicular Edge Network: A survey.,2021,"Rudzidatul Akmam Dziyauddin, Dusit Niyato, Nguyen Cong Luong, Ahmad Ariff Aizuddin Mohd Atan, Mohd Azri Mohd Izhar, Marwan Hadri Azmi, Salwani Mohd Daud", Networks 197: 108228 ,cn
+345,Editorial: First Quarter 2021 IEEE Communications Surveys and Tutorials.,2021,Dusit Tao Niyato, Tutorials 23: 1-6 ,comsur
+346,Editorial: Second Quarter 2021 IEEE Communications Surveys and Tutorials.,2021,Dusit Tao Niyato, Tutorials 23: 662-667 ,comsur
+347,Radio Resource Management in Joint Radar and Communication: A Comprehensive Survey.,2021,"Nguyen Cong Luong, Xiao Lu, Dinh Thai Hoang, Dusit Niyato, Dong In Kim", Tutorials 23: 780-814 ,comsur
+348,Editorial: Third Quarter 2021 IEEE Communications Surveys and Tutorials.,2021,Dusit Tao Niyato, Tutorials 23: 1425-1429 ,comsur
+349,"A Comprehensive Survey on Coded Distributed Computing: Fundamentals, Challenges, and Networking Applications.",2021,"Jer Shyuan Ng, Wei Yang Bryan Lim, Nguyen Cong Luong, Zehui Xiong, Alia Asheralieva, Dusit Niyato, Cyril Leung, Chunyan Miao", Tutorials 23: 1800-1837 ,comsur
+350,IEEE Communications Surveys and Tutorials.,2021,Dusit Tao Niyato, Tutorials 23: 2058-2063 ,comsur
+351,"Big Data Resource Management & Networks: Taxonomy, Survey, and Future Directions.",2021,"Feras M. Awaysheh, Mamoun Alazab, Sahil Garg, Dusit Niyato, Christos V. Verikoukis", Tutorials 23: 2098-2130 ,comsur
+352,"Fast, Reliable, and Secure Drone Communication: A Comprehensive Survey.",2021,"Vikas Hassija, Vinay Chamola, Adhar Agrawal, Adit Goyal, Nguyen Cong Luong, Dusit Niyato, Fei Richard Yu, Mohsen Guizani", Tutorials 23: 2802-2832 ,comsur
+353,Decentralized Online Learning With Compressed Communication for Near-Sensor Data Analytics.,2021,"Guangxia Li, Jia Liu, Xiao Lu, Peilin Zhao, Yulong Shen, Dusit Niyato", 25: 2958-2962 ,icl
+354,Optimal Mechanism Design in the Sponsored Content Service Market.,2021,"Mina Montazeri, Hamed Kebriaei, Babak Nadjar Araabi, Dusit Niyato", 25: 3051-3054 ,icl
+355,Adaptive Task Offloading in Coded Edge Computing: A Deep Reinforcement Learning Approach.,2021,"Nguyen Van Tam, Nguyen Quang Hieu, Nguyen Thi Thanh Van, Nguyen Cong Luong, Dusit Niyato, Dong In Kim", 25: 3878-3882 ,icl
+356,Blockchain for Future Smart Grid: A Comprehensive Survey.,2021,"Muhammad Baqer Mollah, Jun Zhao, Dusit Niyato, Kwok-Yan Lam, Xin Zhang, Amer M. Y. M. Ghias, Leong Hai Koh, Lei Yang", 8: 18-43 ,iotj
+357,Joint Trajectory Design and Resource Allocation for Secure Transmission in Cache-Enabled UAV-Relaying Networks With D2D Communications.,2021,"Jiequ Ji, Kun Zhu, Dusit Niyato, Ran Wang", 8: 1557-1571 ,iotj
+358,Privacy-Preserving Blockchain-Based Federated Learning for IoT Devices.,2021,"Yang Zhao, Jun Zhao, Linshan Jiang, Rui Tan, Dusit Niyato, Zengxiang Li, Lingjuan Lyu, Yingbo Liu", 8: 1817-1829 ,iotj
+359,Guest Editorial: Special Issue on Blockchain and Edge Computing Techniques for Emerging IoT Applications.,2021,"Victor C. M. Leung, Xiaofei Wang, F. Richard Yu, Dusit Niyato, Tarik Taleb, Sangheon Pack", 8: 2082-2086 ,iotj
+360,Blockchain for the Internet of Vehicles Towards Intelligent Transportation Systems: A Survey.,2021,"Muhammad Baqer Mollah, Jun Zhao, Dusit Niyato, Yong Liang Guan, Chau Yuen, Sumei Sun, Kwok-Yan Lam, Leong Hai Koh", 8: 4157-4185 ,iotj
+361,Incentive-Based Coded Distributed Computing Management for Latency Reduction in IoT Services - A Game Theoretic Approach.,2021,"Nakyoung Kim, DaeJin Kim, Joohyung Lee, Dusit Niyato, Jun Kyun Choi", 8: 8259-8278 ,iotj
+362,Energy Consumption Minimization in UAV-Assisted Mobile-Edge Computing Systems: Joint Resource Allocation and Trajectory Design.,2021,"Jiequ Ji, Kun Zhu, Changyan Yi, Dusit Niyato", 8: 8570-8584 ,iotj
+363,Local Differential Privacy-Based Federated Learning for Internet of Things.,2021,"Yang Zhao, Jun Zhao, Mengmeng Yang, Teng Wang, Ning Wang, Lingjuan Lyu, Dusit Niyato, Kwok-Yan Lam", 8: 8836-8853 ,iotj
+364,A Blockchain-Based Approach for Saving and Tracking Differential-Privacy Cost.,2021,"Yang Zhao, Jun Zhao, Jiawen Kang, Zehang Zhang, Dusit Niyato, Shuyu Shi, Kwok-Yan Lam", 8: 8865-8882 ,iotj
+365,LEO-Satellite-Assisted UAV: Joint Trajectory and Data Collection for Internet of Remote Things in 6G Aerial Access Networks.,2021,"Ziye Jia, Min Sheng, Jiandong Li, Dusit Niyato, Zhu Han", 8: 9814-9826 ,iotj
+366,Contract-Theoretic Pricing for Security Deposits in Sharded Blockchain With Internet of Things (IoT).,2021,"Jing Li, Tingting Liu, Dusit Niyato, Ping Wang, Jun Li, Zhu Han", 8: 10052-10070 ,iotj
+367,Cost-Effective Active Sparse Urban Sensing: Adversarial Autoencoder Approach.,2021,"Kun Zhu, Aijin Zhang, Dusit Niyato", 8: 12064-12078 ,iotj
+368,Federated Learning Meets Blockchain in Edge Computing: Opportunities and Challenges.,2021,"Dinh C. Nguyen, Ming Ding, Quoc-Viet Pham, Pubudu N. Pathirana, Long Bao Le, Aruna Seneviratne, Jun Li, Dusit Niyato, H. Vincent Poor", 8: 12806-12825 ,iotj
+369,Throughput-Efficient Lagrange Coded Private Blockchain for Secured IoT Systems.,2021,"Alia Asheralieva, Dusit Niyato", 8: 14874-14895 ,iotj
+370,Dynamic Contract Design for Federated Learning in Smart Healthcare Applications.,2021,"Wei Yang Bryan Lim, Sahil Garg, Zehui Xiong, Dusit Niyato, Cyril Leung, Chunyan Miao, Mohsen Guizani", 8: 16853-16862 ,iotj
+371,Secure Communication Framework for Blockchain-Based Internet of Drones-Enabled Aerial Computing Deployment.,2021,"Mohammad Wazid, Basudeb Bera, Ashok Kumar Das, Sahil Garg, Dusit Niyato, M. Shamim Hossain", 4: 120-126 ,iotm
+372,A survey on the role of Internet of Things for adopting and promoting Agriculture 4.0.,2021,"Meghna Raj, Shashank Gupta, Vinay Chamola, Anubhav Elhence, Tanya Garg, Mohammed Atiquzzaman, Dusit Niyato", 187: 103107 ,jnca
+373,Reconfigurable Intelligent Surface-Assisted Aerial-Terrestrial Communications via Multi-Task Learning.,2021,"Xuelin Cao, Bo Yang, Chongwen Huang, Chau Yuen, Marco Di Renzo, Dusit Niyato, Zhu Han", 39: 3035-3050 ,jsac
+374,Dynamic Edge Association and Resource Allocation in Self-Organizing Hierarchical Federated Learning Networks.,2021,"Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Dusit Niyato, Chunyan Miao, Dong In Kim", 39: 3640-3653 ,jsac
+375,Securing Data Sharing from the Sky: Integrating Blockchains into Drones in 5G and Beyond.,2021,"Jiawen Kang, Zehui Xiong, Dusit Niyato, Shengli Xie, Dong In Kim", 35: 78-85 ,network
+376,Toward Smart Security Enhancement of Federated Learning Networks.,2021,"Junjie Tan, Ying-Chang Liang, Nguyen Cong Luong, Dusit Niyato", 35: 340-347 ,network
+377,Network Slicing for 5G with UE State Based Allocation and Blockchain Approach.,2021,"Gorla Praveen, Vinay Chamola, Vikas Hassija, Dusit Niyato", 35: 184-190 ,network
+378,Converged Reconfigurable Intelligent Surface and Mobile Edge Computing for Space Information Networks.,2021,"Xuelin Cao, Bo Yang, Chongwen Huang, Chau Yuen, Yan Zhang, Dusit Niyato, Zhu Han", 35: 42-48 ,network
+379,UAV-Assisted Communication Efficient Federated Learning in the Era of the Artificial Intelligence of Things.,2021,"Wei Yang Bryan Lim, Sahil Garg, Zehui Xiong, Yang Zhang, Dusit Niyato, Cyril Leung, Chunyan Miao", 35: 188-195 ,network
+380,"Spectrum-Learning-Aided Reconfigurable Intelligent Surfaces for ""Green"" 6G Networks.",2021,"Bo Yang, Xuelin Cao, Chongwen Huang, Yong Liang Guan, Chau Yuen, Marco Di Renzo, Dusit Niyato, Mérouane Debbah, Lajos Hanzo", 35: 20-26 ,network
+381,On Coordination of Smart Grid and Cooperative Cloud Providers.,2021,"Monireh Mohebbi Moghaddam, Mohammad Hossein Manshaei, Mehdi Naderi Soorki, Walid Saad, Maziar Goudarzi, Dusit Niyato", 15: 672-683 ,sj
+382,Dynamic Resource Management to Defend Against Advanced Persistent Threats in Fog Computing: A Game Theoretic Approach.,2021,"Shaohan Feng, Zehui Xiong, Dusit Niyato, Ping Wang", 9: 995-1007 ,tcc
+383,UAV-Assisted Wireless Energy and Data Transfer With Deep Reinforcement Learning.,2021,"Zehui Xiong, Yang Zhang, Wei Yang Bryan Lim, Jiawen Kang, Dusit Niyato, Cyril Leung, Chunyan Miao", 7: 85-99 ,tccn
+384,Bayesian Reinforcement Learning and Bayesian Deep Learning for Blockchains With Mobile Edge Computing.,2021,"Alia Asheralieva, Dusit Niyato", 7: 319-335 ,tccn
+385,Detection of Sleeping Cells in Self-Organizing Cellular Networks: An Adversarial Auto-Encoder Method.,2021,"Tao Zhang, Kun Zhu, Dusit Niyato", 7: 739-751 ,tccn
+386,IEEE TCCN Special Section Editorial: Convergence of Collaborative Distributed Machine Learning and Edge Computing Toward Intelligent Networking.,2021,"Dusit Niyato, Kaibin Huang, Mehdi Bennis, Miao Pan, Zehui Xiong, Long Bao Le, Dong In Kim, Li-Chun Wang", 7: 1016-1020 ,tccn
+387,Age of Information Aware Content Resale Mechanism With Edge Caching.,2021,"Xuying Zhou, Wei Wang, Naveed Ul Hassan, Chau Yuen, Dusit Niyato", 69: 5269-5282 ,tcom
+388,Meta Distribution of the SINR for mmWave Cellular Networks With Clusters.,2021,"Minwei Shi, Xiaozheng Gao, Kai Yang, Dusit Niyato, Zhu Han", 69: 6956-6970 ,tcom
+389,Reflection Resource Management for Intelligent Reflecting Surface Aided Wireless Networks.,2021,"Yulan Gao, Chao Yong, Zehui Xiong, Jun Zhao, Yue Xiao, Dusit Niyato", 69: 6971-6986 ,tcom
+390,UAV-Relayed Covert Communication Towards a Flying Warden.,2021,"Xinying Chen, Min Sheng, Nan Zhao, Wei Xu, Dusit Niyato", 69: 7659-7672 ,tcom
+391,Reconfigurable Intelligent Surface Aided Power Control for Physical-Layer Broadcasting.,2021,"Huimei Han, Jun Zhao, Wenchao Zhai, Zehui Xiong, Dusit Niyato, Marco Di Renzo, Quoc-Viet Pham, Weidang Lu, Kwok-Yan Lam", 69: 7821-7836 ,tcom
+392,UAV-Assisted Time-Efficient Data Collection via Uplink NOMA.,2021,"Wei Wang, Nan Zhao, Li Chen, Xin Liu, Yunfei Chen, Dusit Niyato", 69: 7851-7863 ,tcom
+393,Modeling of Multilayer Multicontent Latent Tree and Its Applications.,2021,"Chia-Yu Lin, Yu-Fang Chiu, Li-Chun Wang, Dusit Niyato", 8: 5-19 ,tcss
+394,Distributed Resource Allocation in RF-Powered Cognitive Ambient Backscatter Networks.,2021,"Kun Zhu, Longteng Xu, Dusit Niyato", 5: 1657-1668 ,tgcn
+395,Joint Auction-Coalition Formation Framework for Communication-Efficient Federated Learning in UAV-Enabled Internet of Vehicles.,2021,"Jer Shyuan Ng, Wei Yang Bryan Lim, Hong-Ning Dai, Zehui Xiong, Jianqiang Huang, Dusit Niyato, Xian-Sheng Hua, Cyril Leung, Chunyan Miao", 22: 2326-2344 ,tits
+396,Towards Federated Learning in UAV-Enabled Internet of Vehicles: A Multi-Dimensional Contract-Matching Approach.,2021,"Wei Yang Bryan Lim, Jianqiang Huang, Zehui Xiong, Jiawen Kang, Dusit Niyato, Xian-Sheng Hua, Cyril Leung, Chunyan Miao", 22: 5140-5154 ,tits
+397,Radio Resource Sharing and Edge Caching with Latency Constraint for Local 5G Operator: Geometric Programming Meets Stackelberg Game.,2021,"Tachporn Sanguanpuak, Dusit Niyato, Nandana Rajatheva, Matti Latva-aho", 20: 707-721 ,tmc
+398,Learning-Based Mobile Edge Computing Resource Management to Support Public Blockchain Networks.,2021,"Alia Asheralieva, Dusit Niyato", 20: 1092-1109 ,tmc
+399,Dynamic Model for Network Selection in Next Generation HetNets With Memory-Affecting Rational Users.,2021,"Shaohan Feng, Dusit Niyato, Xiao Lu, Ping Wang, Dong In Kim", 20: 1365-1379 ,tmc
+400,Contract Design in Hierarchical Game for Sponsored Content Service Market.,2021,"Zehui Xiong, Jun Zhao, Yang Zhang, Dusit Niyato, Junshan Zhang", 20: 2763-2778 ,tmc
+401,Toward an Automated Auction Framework for Wireless Federated Learning Services Market.,2021,"Yutao Jiao, Ping Wang, Dusit Niyato, Bin Lin, Dong In Kim", 20: 3034-3048 ,tmc
+402,Socially-Aware-Clustering-Enabled Federated Learning for Edge Networks.,2021,"Latif U. Khan, Zhu Han, Dusit Niyato, Choong Seon Hong", 18: 2641-2658 ,tnsm
+403,Cyber Insurance Design for Validator Rotation in Sharded Blockchain Networks: A Hierarchical Game-Based Approach.,2021,"Jing Li, Dusit Niyato, Choong Seon Hong, Kyung-Joon Park, Li Wang, Zhu Han", 18: 3092-3106 ,tnsm
+404,On Cyber Risk Management of Blockchain Networks: A Game Theoretic Approach.,2021,"Shaohan Feng, Wenbo Wang, Zehui Xiong, Dusit Niyato, Ping Wang, Shaun Shuxun Wang", 14: 1492-1504 ,tsc
+405,Brain Storm Optimization-Based Edge Caching in Fog Radio Access Networks.,2021,"Yanxiang Jiang, Xuan Chen, Fu-Chun Zheng, Dusit Niyato, Xiaohu You", 70: 1807-1820 ,tvt
+406,Optimizing Task Assignment for Reliable Blockchain-Empowered Federated Edge Learning.,2021,"Jiawen Kang, Zehui Xiong, Xuandi Li, Yang Zhang, Dusit Niyato, Cyril Leung, Chunyan Miao", 70: 1910-1923 ,tvt
+407,Fast and Secure Computational Offloading With Lagrange Coded Mobile Edge Computing.,2021,"Alia Asheralieva, Dusit Niyato", 70: 4924-4942 ,tvt
+408,A Hierarchical Game Model for OFDM Integrated Radar and Communication Systems.,2021,"Huy Thanh Nguyen, Dinh Thai Hoang, Nguyen Cong Luong, Dusit Niyato, Dong In Kim", 70: 5077-5082 ,tvt
+409,Dynamic Network Service Selection in IRS-Assisted Wireless Networks: A Game Theory Approach.,2021,"Nguyen Cong Luong, Nguyen Thi Thanh Van, Shaohan Feng, Huy Thanh Nguyen, Dusit Niyato, Dong In Kim", 70: 5160-5165 ,tvt
+410,Shipper Cooperation in Stochastic Drone Delivery: A Dynamic Bayesian Game Approach.,2021,"Suttinee Sawadsitang, Dusit Niyato, Puay Siew Tan, Ping Wang, Sarana Nutanong", 70: 7437-7452 ,tvt
+411,UAV-Aided Covert Communication With a Multi-Antenna Jammer.,2021,"Xinying Chen, Ning Zhang, Jie Tang, Mingqian Liu, Nan Zhao, Dusit Niyato", 70: 11619-11631 ,tvt
+412,Protecting Multi-Function Wireless Systems From Jammers With Backscatter Assistance: An Intelligent Strategy.,2021,"Ismail Lotfi, Dusit Niyato, Sumei Sun, Dinh Thai Hoang, Yonghui Li, Dong In Kim", 70: 11812-11826 ,tvt
+413,Latency Minimization in Covert Communication-Enabled Federated Learning Network.,2021,"Nguyen Thi Thanh Van, Nguyen Cong Luong, Huy Thanh Nguyen, Shaohan Feng, Dusit Niyato, Dong In Kim", 70: 13447-13452 ,tvt
+414,Deep Reinforcement Learning-Based Intelligent Reflecting Surface for Secure Wireless Communications.,2021,"Helin Yang, Zehui Xiong, Jun Zhao, Dusit Niyato, Liang Xiao, Qingqing Wu", 20: 375-388 ,twc
+415,A Multi-Leader Multi-Follower Game-Based Analysis for Incentive Mechanisms in Socially-Aware Mobile Crowdsensing.,2021,"Jiangtian Nie, Jun Luo, Zehui Xiong, Dusit Niyato, Ping Wang, H. Vincent Poor", 20: 1457-1471 ,twc
+416,Intelligent Reflecting Surface Assisted Anti-Jamming Communications: A Fast Reinforcement Learning Approach.,2021,"Helin Yang, Zehui Xiong, Jun Zhao, Dusit Niyato, Qingqing Wu, H. Vincent Poor, Massimo Tornatore", 20: 1963-1974 ,twc
+417,Deep Reinforcement Learning Based Massive Access Management for Ultra-Reliable Low-Latency Communications.,2021,"Helin Yang, Zehui Xiong, Jun Zhao, Dusit Niyato, Chau Yuen, Ruilong Deng", 20: 2977-2990 ,twc
+418,Improper Gaussian Signaling for D2D Communication Coexisting MISO Cellular Networks.,2021,"Huy Thanh Nguyen, Hoang Duong Tuan, Dusit Niyato, Dong In Kim, H. Vincent Poor", 20: 5186-5198 ,twc
+419,Dual-UAV Enabled Secure Data Collection With Propulsion Limitation.,2021,"Ran Zhang, Xiaowei Pang, Weidang Lu, Nan Zhao, Yunfei Chen, Dusit Niyato", 20: 7445-7459 ,twc
+420,eICIC Configuration of Downlink and Uplink Decoupling With SWIPT in 5G Dense IoT HetNets.,2021,"Jie Zheng, Ling Gao, Haijun Zhang, Dusit Niyato, Jie Ren, Hai Wang, Hongbo Guo, Zheng Wang", 20: 8274-8287 ,twc
+421,Optimal Status Update for Caching Enabled IoT Networks: A Dueling Deep R-Network Approach.,2021,"Chao Xu, Yiping Xie, Xijun Wang, Howard H. Yang, Dusit Niyato, Tony Q. S. Quek", 20: 8438-8454 ,twc
+422,Blockchain and Artificial Intelligence for Dynamic Resource Sharing in 6G and Beyond.,2021,"Shisheng Hu, Ying-Chang Liang, Zehui Xiong, Dusit Niyato", 28: 145-151 ,wc
+423,Covert Communication in UAV-Assisted Air-Ground Networks.,2021,"Xu Jiang, Xinying Chen, Jie Tang, Nan Zhao, Xiu Yin Zhang, Dusit Niyato, Kai-Kit Wong", 28: 190-197 ,wc
+424,When UAV Meets IRS: Expanding Air-Ground Networks via Passive Reflection.,2021,"Xiaowei Pang, Min Sheng, Nan Zhao, Jie Tang, Dusit Niyato, Kai-Kit Wong", 28: 164-170 ,wc
+425,Reconfigurable Holographic Surfaces for Future Wireless Communications.,2021,"Ruoqi Deng, Boya Di, Hongliang Zhang, Dusit Niyato, Zhu Han, H. Vincent Poor, Lingyang Song", 28: 126-131 ,wc
+426,Federated Learning for Industrial Internet of Things in Future Industries.,2021,"Dinh C. Nguyen, Ming Ding, Pubudu N. Pathirana, Aruna Seneviratne, Jun Li, Dusit Niyato, H. Vincent Poor", 28: 192-199 ,wc
+427,A Deep Reinforcement Learning Approach for Backscatter-Assisted Relay Communications.,2021,"Tran The Anh, Nguyen Cong Luong, Dusit Niyato", 10: 166-169 ,wcl
+428,A Novel Joint Mobile Cache and Power Management Scheme for Energy-Efficient Mobile Augmented Reality Service in Mobile Edge Computing.,2021,"Yong-Jun Seo, Joohyung Lee, Jungyeon Hwang, Dusit Niyato, Hong-Shik Park, Jun Kyun Choi", 10: 1061-1065 ,wcl
+429,Throughput Maximization for IRS-Assisted Wireless Powered Hybrid NOMA and TDMA.,2021,"Dingcai Zhang, Qingqing Wu, Miao Cui, Guangchi Zhang, Dusit Niyato", 10: 1944-1948 ,wcl
+430,Mixed Numerology Interference Recognition Approach for 5G NR.,2021,"Fan Wu, Rui Tan, Cong Zhang, Wenhao Fan, Xi Chen, Dusit Niyato, Yuan'an Liu", 10: 2135-2139 ,wcl
+431,Optimal Power Allocation for Rate Splitting Communications With Deep Reinforcement Learning.,2021,"Nguyen Quang Hieu, Dinh Thai Hoang, Dusit Niyato, Dong In Kim", 10: 2820-2823 ,wcl
+432,AI-Empowered Decision Support for COVID-19 Social Distancing.,2021,"Hongchao Jiang, Wei Yang Bryan Lim, Jer Shyuan Ng, Harold Ze Chie Teng, Han Yu, Zehui Xiong, Dusit Niyato, Chunyan Miao", AAAI 2021: 16044-16047,aaai
+433,A Blockchain-Enabled Quantitative Approach to Trust and Reputation Management with Sparse Evidence.,2021,"Leonid Zeynalvand, Tie Luo, Ewa Andrejczuk, Dusit Niyato, Sin G. Teo, Jie Zhang", AAMAS 2021: 1707-1708,atal
+434,An Incentive Mechanism for Resource Allocation in Coded Distributed Computing.,2021,"Jer Shyuan Ng, Wei Yang Bryan Lim, Zehui Xiong, Sahil Garg, Dusit Niyato, Cyril Leung", BigDataSE 2021: 15-22,bigdatase
+435,Jamming Mitigation in JRC Systems via Deep Reinforcement Learning and Backscatter-supported Intelligent Deception Strategy.,2021,"Ismail Lotfi, Dusit Niyato, Sumei Sun, Dinh Thai Hoang, Dong In Kim, Ying-Chang Liang", ICCCS 2021: 1053-1058,ccoms
+436,Auction-based Federated Learning using Software-defined Networking for resource efficiency.,2021,"Eunil Seo, Dusit Niyato, Erik Elmroth", CNSM 2021: 42-48,cnsm
+437,Finite-Blocklength Multi-Antenna Covert Communication Aided By A UAV Relay.,2021,"Xinying Chen, Min Sheng, Nan Zhao, Wei Xu, Dusit Niyato", GLOBECOM 2021: 1-6,globecom
+438,Social Welfare Maximization Auction in Joint Radar Communication Systems for Autonomous Vehicles.,2021,"Ismail Lotfi, Dusit Niyato, Sumei Sun, Dong In Kim", GLOBECOM 2021: 1-6,globecom
+439,Optimal Stochastic Coded Computation Offloading in Unmanned Aerial Vehicles Network.,2021,"Wei Chong Ng, Wei Yang Bryan Lim, Jer Shyuan Ng, Suttinee Sawadsitang, Zehui Xiong, Dusit Niyato", GLOBECOM 2021: 1-6,globecom
+440,Throughput-Efficient Blockchain for Internet-of-Vehicles.,2021,"Weiquan Ni, Alia Asheralieva, Carsten Maple, Md. Monjurul Karim, Dusit Niyato, Qiang Yan", GLOBECOM  2021: 1-6,globecom
+441,Multi-objective Mobile Charging Scheduling on the Internet of Electric Vehicles: a DRL Approach.,2021,"Hui Wang, Ran Wang, Hu Xu, Kun Zhu, Changyan Yi, Dusit Niyato", GLOBECOM 2021: 1-6,globecom
+442,Secure Federated Learning Based on Coded Distributed Computing.,2021,"Shaoliang Zhu, Alia Asheralieva, Md. Monjurul Karim, Dusit Niyato, Khuhawar Arif Raza", GLOBECOM  2021: 1-7,globecom
+443,Semi-Supervised Federated Learning with non-IID Data: Algorithm and System Design.,2021,"Zhe Zhang, Shiyao Ma, Jiangtian Nie, Yi Wu, Qiang Yan, Xiaoke Xu, Dusit Niyato", HPCC/DSS/SmartCity/DependSys 2021: 157-164,hpcc
+444,Joint Energy and Computation Workload Management for Geo-Distributed Data Centers in Smart Grid.,2021,"Zizhen Li, Ran Wang, Kun Zhu, Changyan Yi, Linfeng Liu, Dusit Niyato", HPCC/DSS/SmartCity/DependSys 2021: 2410-2416,hpcc
+445,UAV-Aided Multi-Antenna Covert Communication Against Multiple Wardens.,2021,"Xinying Chen, Zheng Chang, Jie Tang, Nan Zhao, Dusit Niyato", ICC 2021: 1-6,icc
+446,Optimizing Intelligent Reflecting Surface-Base Station Association for Mobile Networks.,2021,"Dongzi Jin, Yong Xiao, Yingyu Li, Guangming Shi, Dusit Niyato", ICC 2021: 1-6,icc
+447,Collaborative Coded Computation Offloading: An All-pay Auction Approach.,2021,"Jer Shyuan Ng, Wei Yang Bryan Lim, Sahil Garg, Zehui Xiong, Dusit Niyato, Mohsen Guizani, Cyril Leung", ICC 2021: 1-6,icc
+448,Deep-learning Based Auction Resource Allocation in Coded Computation Offloading for Internet-of-Things.,2021,"Jer Shyuan Ng, Wei Yang Bryan Lim, Zehui Xiong, Sahil Garg, Dusit Niyato, Cyril Leung", ICC Workshops 2021: 1-5,icc
+449,Cooperative UAV-Assisted Secure Uplink Communications With Propulsion Power Limitation.,2021,"Ran Zhang, Xiaowei Pang, Weidang Lu, Nan Zhao, Mingqian Liu, Yunfei Chen, Dusit Niyato", ICC 2021: 1-6,icc
+450,Predictive Analytics for COVID-19 Social Distancing.,2021,"Harold Ze Chie Teng, Hongchao Jiang, Xuan Rong Zane Ho, Wei Yang Bryan Lim, Jer Shyuan Ng, Han Yu, Zehui Xiong, Dusit Niyato, Chunyan Miao", IJCAI 2021: 5016-5019,ijcai
+451,Communication-efficient and Scalable Decentralized Federated Edge Learning.,2021,"Austine Zong Han Yapp, Hong Soo Nicholas Koh, Yan Ting Lai, Jiawen Kang, Xuandi Li, Jer Shyuan Ng, Hongchao Jiang, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato", IJCAI 2021: 5032-5035,ijcai
+452,Message from the GreenCom 2021 General Chairs and Program Chairs: iThings-GreenCom-CPSCom-SmartData-Cybermatics 2021.,2021,"Dusit Niyato, Yan Zhang, Sheng Wen", iThings/GreenCom/CPSCom/SmartData/Cybermatics 2021: xxiv,ithings
+453,Learning to Schedule Joint Radar-Communication Requests for Optimal Information Freshness.,2021,"Joash Lee, Dusit Niyato, Yong Liang Guan, Dong In Kim", IV 2021: 8-15,ivs
+454,Opportunistic Coded Distributed Computing: An Evolutionary Game Approach.,2021,"Han Yu, Dusit Niyato, Cyril Leung, Dong In Kim", IWCMC 2021: 1430-1435,iwcmc
+455,A Hierarchical Incentive Mechanism for Coded Federated Learning.,2021,"Jer Shyuan Ng, Wei Yang Bryan Lim, Zehui Xiong, Xianjun Deng, Yang Zhang, Dusit Niyato, Cyril Leung", MSN 2021: 17-24,msn
+456,Augmented Human Intelligence for Decision Making in Maintenance Risk Taking Tasks using Reinforcement Learning.,2021,"Kevin Shen-Hoong Ong, Wenbo Wang, Thomas Friedrichs, Dusit Niyato", SMC 2021: 3114-3120,smc
+457,Dynamic Edge Association in Hierarchical Federated Learning Networks.,2021,"Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Sahil Garg, Yang Zhang, Dusit Niyato, Chunyan Miao", TrustCom 2021: 1124-1131,trustcom
+458,Boosting Secret Key Generation for IRS-Assisted Symbiotic Radio Communications.,2021,"Yang Liu, Meng Wang, Jing Xu, Shimin Gong, Dinh Thai Hoang, Dusit Niyato", VTC Spring 2021: 1-6,vtc
+459,Robust Beamforming for IRS-assisted Wireless Communications under Channel Uncertainty.,2021,"Yongchang Deng, Yuze Zou, Shimin Gong, Bin Lyu, Dinh Thai Hoang, Dusit Niyato", WCNC 2021: 1-6,wcnc
+460,Optimization of Function Chaining on the Edge for IoT applications.,2021,"Mohamed-Idriss Khaledi, Makhlouf Hadji, Salah Eddine El Ayoubi, Dusit Niyato", WCNC 2021: 1-7,wcnc
+461,Multi-Leader Multi-Follower Game-based Incentive Scheme for Socially-Aware Mobile Crowdsensing.,2021,"Jiangtian Nie, Jun Luo, Zehui Xiong, Dusit Niyato, Ping Wang, Yang Zhang", WCNC 2021: 1-6,wcnc
+462,Time-Efficient Uplink Data Collection for UAV-assisted NOMA networks.,2021,"Wei Wang, Nan Zhao, Li Chen, Xin Liu, Yunfei Chen, Dusit Niyato", WCNC 2021: 1-6,wcnc
+463,Joint Trajectory and Beamforming Optimization for Secure UAV Transmission Aided by IRS.,2021,"Xiaowei Pang, Nan Zhao, Jie Tang, Dusit Niyato, Kai-Kit Wong", WCSP 2021: 1-6,wcsp
+464,Accelerating Low-Cost Edge-Based Real-Time Video Analytics using Task Scheduling.,2021,"Kevin Shen-Hoong Ong, Dusit Niyato, Chakchai So-In, Thomas Friedrichs", WF-IoT 2021: 598-603,wf-iot
+465,A Double Auction Mechanism for Coded Distributed Computing in Smart Vehicles.,2021,"Jer Shyuan Ng, Wei Yang Bryan Lim, Zehui Xiong, Sahil Garg, Yang Zhang, Dusit Niyato, Cyril Leung", WINSYS 2021: 107-114,winsys
+466,"Intelligent Information and Database Systems - 13th Asian Conference, ACIIDS 2021, Phuket, Thailand, April 7-10, 2021, Proceedings.",2021,"Ngoc Thanh Nguyen, Suphamit Chittayasothorn, Dusit Niyato, Bogdan Trawinski"," Lecture Notes in Computer Science 12672, Springer 2021, ISBN 978-3-030-73279-0 ",aciids
+467,Ambient Backscatter-Assisted Wireless-Powered Relaying.,2021,"Xiao Lu, Dusit Niyato, Hai Jiang, Ekram Hossain, Ping Wang",01639 ,corr
+468,Learning Rate Optimization for Federated Learning Exploiting Over-the-air Computation.,2021,"Chunmei Xu, Shengheng Liu, Zhaohui Yang, Yongming Huang, Dusit Niyato, Kai-Kit Wong",02946 ,corr
+469,Transfer Learning for Future Wireless Networks: A Comprehensive Survey.,2021,"Cong T. Nguyen, Nguyen Van Huynh, Nam Hoai Chu, Yuris Mulya Saputra, Dinh Thai Hoang, Diep N. Nguyen, Quoc-Viet Pham, Dusit Niyato, Eryk Dutkiewicz, Won-Joo Hwang",07572 ,corr
+470,A Game-theoretic Approach Towards Collaborative Coded Computation Offloading.,2021,"Jer Shyuan Ng, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Cyril Leung, Dong In Kim, Junshan Zhang, Qiang Yang",08667 ,corr
+471,"Digital-Twin-Enabled 6G: Vision, Architectural Trends, and Future Directions.",2021,"Latif U. Khan, Walid Saad, Dusit Niyato, Zhu Han, Choong Seon Hong",12169 ,corr
+472,Dynamic Network Service Selection in Intelligent Reflecting Surface-Enabled Wireless Systems: Game Theory Approaches.,2021,"Nguyen Thi Thanh Van, Nguyen Cong Luong, Shaohan Feng, Huy Thanh Nguyen, Kun Zhu, Thien Van Luong, Dusit Niyato",06424 ,corr
+473,Symbiotic Communications: Where Marconi Meets Darwin.,2021,"Ying-Chang Liang, Ruizhe Long, Qianqian Zhang, Dusit Niyato",16142 ,corr
+474,Federated Learning Meets Blockchain in Edge Computing: Opportunities and Challenges.,2021,"Dinh C. Nguyen, Ming Ding, Quoc-Viet Pham, Pubudu N. Pathirana, Long Bao Le, Aruna Seneviratne, Jun Li, Dusit Niyato, H. Vincent Poor",01776 ,corr
+475,Optimizing the Long-Term Average Reward for Continuing MDPs: A Technical Report.,2021,"Chao Xu, Yiping Xie, Xijun Wang, Howard H. Yang, Dusit Niyato, Tony Q. S. Quek",06139 ,corr
+476,Reconfigurable Intelligent Surface-Assisted Aerial-Terrestrial Communications via Multi-Task Learning.,2021,"Xuelin Cao, Bo Yang, Chongwen Huang, Chau Yuen, Marco Di Renzo, Dusit Niyato, Zhu Han",06758 ,corr
+477,A Joint Energy and Latency Framework for Transfer Learning over 5G Industrial Edge Networks.,2021,"Bo Yang, Omobayode Fagbohungbe, Xuelin Cao, Chau Yuen, Lijun Qian, Dusit Niyato, Yan Zhang",09382 ,corr
+478,Throughput Maximization for IRS-Assisted Wireless Powered Hybrid NOMA and TDMA.,2021,"Dingcai Zhang, Qingqing Wu, Miao Cui, Guangchi Zhang, Dusit Niyato",13265 ,corr
+479,AI-Assisted MAC for Reconfigurable Intelligent Surface-Aided Wireless Networks: Challenges and Opportunities.,2021,"Xuelin Cao, Bo Yang, Chongwen Huang, Chau Yuen, Marco Di Renzo, Zhu Han, Dusit Niyato, H. Vincent Poor, Lajos Hanzo",00437 ,corr
+480,"Fast, Reliable, and Secure Drone Communication: A Comprehensive Survey.",2021,"Vikas Hassija, Vinay Chamola, Adhar Agrawal, Adit Goyal, Nguyen Cong Luong, Dusit Niyato, F. Richard Yu, Mohsen Guizani",01347 ,corr
+481,Applications of Auction and Mechanism Design in Edge Computing: A Survey.,2021,"Houming Qiu, Kun Zhu, Nguyen Cong Luong, Changyan Yi, Dusit Niyato, Dong In Kim",03559 ,corr
+482,Transferable Deep Reinforcement Learning Framework for Autonomous Vehicles with Joint Radar-Data Communications.,2021,"Nguyen Quang Hieu, Dinh Thai Hoang, Dusit Niyato, Ping Wang, Dong In Kim, Chau Yuen",13670 ,corr
+483,Federated Learning for Industrial Internet of Things in Future Industries.,2021,"Dinh C. Nguyen, Ming Ding, Pubudu N. Pathirana, Aruna Seneviratne, Jun Li, Dusit Niyato, H. Vincent Poor",14659 ,corr
+484,Converged Reconfigurable Intelligent Surface and Mobile Edge Computing for Space Information Networks.,2021,"Xuelin Cao, Bo Yang, Chongwen Huang, Chau Yuen, Yan Zhang, Dusit Niyato, Zhu Han",04248 ,corr
+485,Blockchain and 6G: The Future of Secure and Ubiquitous Communication.,2021,"Ali Hussain Khan, Naveed Ul Hassan, Chau Yuen, Jun Zhao, Dusit Niyato, Yan Zhang, H. Vincent Poor",05673 ,corr
+486,Optimal Status Update for Caching Enabled IoT Networks: A Dueling Deep R-Network Approach.,2021,"Chao Xu, Yiping Xie, Xijun Wang, Howard H. Yang, Dusit Niyato, Tony Q. S. Quek",06945 ,corr
+487,Optimizing Intelligent Reflecting Surface-Base Station Association for Mobile Networks.,2021,"Dongzi Jin, Yong Xiao, Yingyu Li, Guangming Shi, Dusit Niyato",12883 ,corr
+488,Optimal Power Allocation for Rate Splitting Communications with Deep Reinforcement Learning.,2021,"Nguyen Quang Hieu, Dinh Thai Hoang, Dusit Niyato, Dong In Kim",00238 ,corr
+489,Risk Adversarial Learning System for Connected and Autonomous Vehicle Charging.,2021,"Md. Shirajum Munir, Ki Tae Kim, Kyi Thar, Dusit Niyato, Choong Seon Hong",01466 ,corr
+490,Dynamics in Coded Edge Computing for IoT: A Fractional Evolutionary Game Approach.,2021,"Yue Han, Dusit Niyato, Cyril Leung, Chunyan Miao, Dong In Kim",13586 ,corr
+491,Economics of Semantic Communication System in Wireless Powered Internet of Things.,2021,"Zi Qin Liew, Yanyu Cheng, Wei Yang Bryan Lim, Dusit Niyato, Chunyan Miao, Sumei Sun",01423 ,corr
+492,Securing Federated Learning: A Covert Communication-based Approach.,2021,"Yuan-Ai Xie, Jiawen Kang, Dusit Niyato, Nguyen Thi Thanh Van, Nguyen Cong Luong, Zhixin Liu, Han Yu",02221 ,corr
+493,Semi-Supervised Federated Learning with non-IID Data: Algorithm and System Design.,2021,"Zhe Zhang, Shiyao Ma, Jiangtian Nie, Yi Wu, Qiang Yan, Xiaoke Xu, Dusit Niyato",13388 ,corr
+494,Applications of Multi-Agent Reinforcement Learning in Future Internet: A Comprehensive Survey.,2021,"Tianxu Li, Kun Zhu, Nguyen Cong Luong, Dusit Niyato, Qihui Wu, Yang Zhang, Bing Chen",13484 ,corr
+495,Unified Resource Allocation Framework for the Edge Intelligence-Enabled Metaverse.,2021,"Wei Chong Ng, Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Dusit Niyato, Chunyan Miao",14325 ,corr
+496,Optimal Stochastic Coded Computation Offloading in Unmanned Aerial Vehicles Network.,2021,"Wei Chong Ng, Wei Yang Bryan Lim, Jer Shyuan Ng, Suttinee Sawadsitang, Zehui Xiong, Dusit Niyato",14873 ,corr
+497,A Dynamic Resource Allocation Framework for Synchronizing Metaverse with IoT Service and Data.,2021,"Yue Han, Dusit Niyato, Cyril Leung, Chunyan Miao, Dong In Kim",00431 ,corr
+498,Optimal Targeted Advertising Strategy For Secure Wireless Edge Metaverse.,2021,"Hongyang Du, Dusit Niyato, Jiawen Kang, Dong In Kim, Chunyan Miao",00511 ,corr
+499,Wireless Edge-Empowered Metaverse: A Learning-Based Incentive Mechanism for Virtual Reality.,2021,"Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Chunyan Miao, Dong In Kim",03776 ,corr
+500,Access Management in Joint Sensing and Communication Systems: Efficiency versus Fairness.,2021,"Trung Thanh Nguyen, Khaled M. Elbassioni, Nguyen Cong Luong, Dusit Niyato, Dong In Kim",04217 ,corr
+501,Secure and Reliable Transfer Learning Framework for 6G-enabled Internet of Vehicles.,2021,"Minrui Xu, Dinh Thai Hoang, Jiawen Kang, Dusit Niyato, Qiang Yan, Dong In Kim",05804 ,corr
+502,Intelligence Reflecting Surface-Aided Integrated Data and Energy Networking Coexisting D2D Communications.,2021,"Nguyen Thi Thanh Van, Huy T. Nguyen, Nguyen Cong Luong, Ngo Manh Tien, Dusit Niyato, Dong In Kim",08956 ,corr
+503,Reliable Coded Distributed Computing for Metaverse Services: Coalition Formation and Incentive Mechanism Design.,2021,"Yuna Jiang, Jiawen Kang, Dusit Niyato, Xiaohu Ge, Zehui Xiong, Chunyan Miao",10548 ,corr
+504,Incentive Mechanisms for Federated Learning: From Economic and Game Theoretic Perspective.,2021,"Xuezhen Tu, Kun Zhu, Nguyen Cong Luong, Dusit Niyato, Yang Zhang, Juan Li",11850 ,corr
+505,Edge AI - Convergence of Edge Computing and Artificial Intelligence.,2020,"Xiaofei Wang, Yiwen Han, Victor C. M. Leung, Dusit Niyato, Xueqiang Yan, Xu Chen", 3-149,6331-4.html
+506,"Spectrum Intelligent Radio: Technology, Development, and Future Trends.",2020,"Peng Cheng, Zhuo Chen, Ming Ding, Yonghui Li, Branka Vucetic, Dusit Niyato", 58: 12-18 ,cm
+507,A Machine-Learning-Based Auction for Resource Trading in Fog Computing.,2020,"Nguyen Cong Luong, Yutao Jiao, Ping Wang, Dusit Niyato, Dong In Kim, Zhu Han", 58: 82-88 ,cm
+508,Convergence of Edge Computing and Deep Learning: A Comprehensive Survey.,2020,"Xiaofei Wang, Yiwen Han, Victor C. M. Leung, Dusit Niyato, Xueqiang Yan, Xu Chen", Tutorials 22: 869-904 ,comsur
+509,Federated Learning in Mobile Edge Networks: A Comprehensive Survey.,2020,"Wei Yang Bryan Lim, Nguyen Cong Luong, Dinh Thai Hoang, Yutao Jiao, Ying-Chang Liang, Qiang Yang, Dusit Niyato, Chunyan Miao", Tutorials 22: 2031-2063 ,comsur
+510,Toward Smart Wireless Communications via Intelligent Reflecting Surfaces: A Contemporary Survey.,2020,"Shimin Gong, Xiao Lu, Dinh Thai Hoang, Dusit Niyato, Lei Shu, Dong In Kim, Ying-Chang Liang", Tutorials 22: 2283-2314 ,comsur
+511,A Sustainable Incentive Scheme for Federated Learning.,2020,"Han Yu, Zelei Liu, Yang Liu, Tianjian Chen, Mingshu Cong, Xi Weng, Dusit Niyato, Qiang Yang", 35: 58-69 ,expert
+512,Active Learning-Based Fault Diagnosis in Self-Organizing Cellular Networks.,2020,"Meng Chen, Kun Zhu, Ran Wang, Dusit Niyato", 24: 1734-1737 ,icl
+513,Spatial-Temporal Attention-Convolution Network for Citywide Cellular Traffic Prediction.,2020,"Nan Zhao, Zhiyang Ye, Yiyang Pei, Ying-Chang Liang, Dusit Niyato", 24: 2532-2536 ,icl
+514,Distributed Dynamic Resource Management and Pricing in the IoT Systems With Blockchain-as-a-Service and UAV-Enabled Mobile Edge Computing.,2020,"Alia Asheralieva, Dusit Niyato", 7: 1974-1993 ,iotj
+515,A Stackelberg Game Approach for Sponsored Content Management in Mobile Data Market With Network Effects.,2020,"Zehui Xiong, Shaohan Feng, Dusit Niyato, Ping Wang, Yang Zhang, Bin Lin", 7: 5184-5201 ,iotj
+516,Mean Field Game for Equilibrium Analysis of Mining Computational Power in Blockchains.,2020,"Amirheckmat Taghizadeh, Hamed Kebriaei, Dusit Niyato", 7: 7625-7635 ,iotj
+517,Privacy-Preserving Traffic Flow Prediction: A Federated Learning Approach.,2020,"Yi Liu, James J. Q. Yu, Jiawen Kang, Dusit Niyato, Shuyu Zhang", 7: 7751-7763 ,iotj
+518,Completion Time and Energy Optimization in the UAV-Enabled Mobile-Edge Computing System.,2020,"Cheng Zhan, Han Hu, Xiufeng Sui, Zhi Liu, Dusit Niyato", 7: 7808-7822 ,iotj
+519,Market Analysis of Distributed Learning Resource Management for Internet of Things: A Game-Theoretic Approach.,2020,"Joohyung Lee, DaeJin Kim, Dusit Niyato", 7: 8430-8439 ,iotj
+520,Capitalizing Backscatter-Aided Hybrid Relay Communications With Wireless Energy Harvesting.,2020,"Shimin Gong, Yuze Zou, Dinh Thai Hoang, Jing Xu, Wenqing Cheng, Dusit Niyato", 7: 8709-8721 ,iotj
+521,Data Services Sales Design With Mixed Bundling Strategy: A Multidimensional Adverse Selection Approach.,2020,"Yanru Zhang, Dusit Niyato, Ping Wang, Zhu Han", 7: 8826-8836 ,iotj
+522,Hierarchical Incentive Mechanism Design for Federated Machine Learning in Mobile Networks.,2020,"Wei Yang Bryan Lim, Zehui Xiong, Chunyan Miao, Dusit Niyato, Qiang Yang, Cyril Leung, H. Vincent Poor", 7: 9575-9588 ,iotj
+523,Guest Editorial Special Issue on Internet of Things for Smart Ocean.,2020,"Bin Lin, Lian Zhao, Himal A. Suraweera, Tom H. Luan, Dusit Niyato, Dinh Thai Hoang", 7: 9675-9677 ,iotj
+524,Reputation-Based Coalition Formation for Secure Self-Organized and Scalable Sharding in IoT Blockchains With Mobile-Edge Computing.,2020,"Alia Asheralieva, Dusit Niyato", 7: 11830-11850 ,iotj
+525,A Dynamic Reliability-Aware Service Placement for Network Function Virtualization (NFV).,2020,"Mohammad Karimzadeh-Farshbafan, Vahid Shah-Mansouri, Dusit Niyato", 38: 318-333 ,jsac
+526,Optimal Pricing of Internet of Things: A Machine Learning Approach.,2020,"Mohammad Abu Alsheikh, Dinh Thai Hoang, Dusit Niyato, Derek Leong, Ping Wang, Zhu Han", 38: 669-684 ,jsac
+527,Dynamic Game and Pricing for Data Sponsored 5G Systems With Memory Effect.,2020,"Shaohan Feng, Dusit Niyato, Xiao Lu, Ping Wang, Dong In Kim", 38: 750-765 ,jsac
+528,Information Trading in Internet of Things for Smart Cities: A Market-Oriented Analysis.,2020,"Yang Zhang, Zehui Xiong, Dusit Niyato, Ping Wang, Zhu Han", 34: 122-129 ,network
+529,The Best of Both Worlds: A General Architecture for Data Management in Blockchain-enabled Internet-of-Things.,2020,"Zehui Xiong, Yang Zhang, Nguyen Cong Luong, Dusit Niyato, Ping Wang, Nadra Guizani", 34: 166-173 ,network
+530,Deep Reinforcement Learning for Backscatter-Aided Data Offloading in Mobile Edge Computing.,2020,"Shimin Gong, Yutong Xie, Jing Xu, Dusit Niyato, Ying-Chang Liang", 34: 106-113 ,network
+531,Intelligent Reflecting Surface Enabled Covert Communications in Wireless Networks.,2020,"Xiao Lu, Ekram Hossain, Taniya Shafique, Shaohan Feng, Hai Jiang, Dusit Niyato", 34: 148-155 ,network
+532,AI-Chain: Blockchain Energized Edge Intelligence for Beyond 5G Networks.,2020,"Chao Qiu, Haipeng Yao, Xiaofei Wang, Ni Zhang, F. Richard Yu, Dusit Niyato", 34: 62-69 ,network
+533,Artificial-Intelligence-Enabled Intelligent 6G Networks.,2020,"Helin Yang, Arokiaswami Alphones, Zehui Xiong, Dusit Niyato, Jun Zhao, Kaishun Wu", 34: 272-280 ,network
+534,Traffic-Aware Multiple Association in Ultradense Networks: A State-Based Potential Game.,2020,"Xinwei Wang, Liying Li, Jiandong Li, Chungang Yang, Lingxia Wang, Dusit Niyato", 14: 4356-4367 ,sj
+535,Distributed Resource Allocation for Data Center Networks: A Hierarchical Game Approach.,2020,"Huaqing Zhang, Yong Xiao, Shengrong Bu, F. Richard Yu, Dusit Niyato, Zhu Han", 8: 778-789 ,tcc
+536,Redundant Sniffer Deployment for Multi-Channel Wireless Network Forensics With Unreliable Conditions.,2020,"Jing Xu, Shimin Gong, Yuze Zou, Wei Liu, Kai Zeng, Dusit Niyato", 6: 394-407 ,tccn
+537,An Artificial Intelligence Framework for Slice Deployment and Orchestration in 5G Networks.,2020,"Ghina Dandachi, Antonio De Domenico, Dinh Thai Hoang, Dusit Niyato", 6: 858-871 ,tccn
+538,A Game-Theoretic Analysis for Complementary and Substitutable IoT Services Delivery With Externalities.,2020,"Yang Zhang, Zehui Xiong, Dusit Niyato, Ping Wang, H. Vincent Poor, Dong In Kim", 68: 615-629 ,tcom
+539,Intelligent Sharing for LTE and WiFi Systems in Unlicensed Bands: A Deep Reinforcement Learning Approach.,2020,"Junjie Tan, Lin Zhang, Ying-Chang Liang, Dusit Niyato", 68: 2793-2808 ,tcom
+540,Probabilistic Cache Placement in UAV-Assisted Networks With D2D Connections: Performance Analysis and Trajectory Optimization.,2020,"Jiequ Ji, Kun Zhu, Dusit Niyato, Ran Wang", 68: 6331-6345 ,tcom
+541,"Joint Communication, Computation, Caching, and Control in Big Data Multi-Access Edge Computing.",2020,"Anselme Ndikumana, Nguyen Hoang Tran, Tai Manh Ho, Zhu Han, Walid Saad, Dusit Niyato, Choong Seon Hong", 19: 1359-1374 ,tmc
+542,An Analysis of Service Bundles of Mobile Network Operators with Free Services Included.,2020,"Masoud Asghari, Saleh Yousefi, Dusit Niyato", 19: 1789-1803 ,tmc
+543,Unmanned Aircraft System Aided Adaptive Video Streaming: A Joint Optimization Approach.,2020,"Cheng Zhan, Han Hu, Zhi Wang, Rongfei Fan, Dusit Niyato", 22: 795-807 ,tmm
+544,Reward Optimization for Content Providers With Mobile Data Subsidization: A Hierarchical Game Approach.,2020,"Zehui Xiong, Jun Zhao, Dusit Niyato, Ruilong Deng, Junshan Zhang", 7: 2363-2377 ,tnse
+545,Reliability Aware Service Placement Using a Viterbi-Based Algorithm.,2020,"Mohammad Karimzadeh-Farshbafan, Vahid Shah-Mansouri, Dusit Niyato", 17: 622-636 ,tnsm
+546,Reliable and Efficient Multimedia Service Optimization for Edge Computing-Based 5G Networks: Game Theoretic Approaches.,2020,"Tengfei Cao, Changqiao Xu, Junping Du, Yawen Li, Han Xiao, Changhui Gong, Lujie Zhong, Dusit Niyato", 17: 1610-1625 ,tnsm
+547,Combining Contract Theory and Lyapunov Optimization for Content Sharing With Edge Caching and Device-to-Device Communications.,2020,"Alia Asheralieva, Dusit Niyato", 28: 1213-1226 ,ton
+548,Cloud/Edge Computing Service Management in Blockchain Networks: Multi-Leader Multi-Follower Game-Based ADMM for Pricing.,2020,"Zehui Xiong, Jiawen Kang, Dusit Niyato, Ping Wang, H. Vincent Poor", 13: 356-367 ,tsc
+549,Coordinating Workload Scheduling of Geo-Distributed Data Centers and Electricity Generation of Smart Grid.,2020,"Han Hu, Yonggang Wen, Lei Yin, Ling Qiu, Dusit Niyato", 13: 1007-1020 ,tsc
+550,Mechanism Design for Wireless Powered Spatial Crowdsourcing Networks.,2020,"Yutao Jiao, Ping Wang, Dusit Niyato, Bin Lin, Dong In Kim", 69: 920-934 ,tvt
+551,A Bandit Approach for Mode Selection in Ambient Backscatter-Assisted Wireless-Powered Relaying.,2020,"Guangxia Li, Xiao Lu, Dusit Niyato", 69: 9190-9195 ,tvt
+552,Robust Secure Transmission and Power Transfer in Heterogeneous Networks With Confidential Information.,2020,"Zhixin Liu, Sainan Wang, Yang Liu, Yu Wang, Xinping Guan, Dusit Niyato", 69: 11192-11205 ,tvt
+553,Wireless Powered Intelligent Reflecting Surfaces for Enhancing Wireless Communications.,2020,"Yuze Zou, Shimin Gong, Jing Xu, Wenqing Cheng, Dinh Thai Hoang, Dusit Niyato", 69: 12369-12373 ,tvt
+554,Novel QoS-Guaranteed Orchestration Scheme for Energy-Efficient Mobile Augmented Reality Applications in Multi-Access Edge Computing.,2020,"Jaewon Ahn, Joohyung Lee, Dusit Niyato, Hong-Shik Park", 69: 13631-13645 ,tvt
+555,Dynamic Pricing for Revenue Maximization in Mobile Social Data Market With Network Effects.,2020,"Zehui Xiong, Dusit Niyato, Ping Wang, Zhu Han, Yang Zhang", 19: 1722-1737 ,twc
+556,"Joint Cache Placement, Flight Trajectory, and Transmission Power Optimization for Multi-UAV Assisted Wireless Networks.",2020,"Jiequ Ji, Kun Zhu, Dusit Niyato, Ran Wang", 19: 5389-5403 ,twc
+557,A Multi-Dimensional Contract Approach for Data Rewarding in Mobile Networks.,2020,"Zehui Xiong, Jiawen Kang, Dusit Niyato, Ping Wang, H. Vincent Poor, Shengli Xie", 19: 5779-5793 ,twc
+558,Design of Ambient Backscatter Training for Wireless Power Transfer.,2020,"Sahar Idrees, Xiangyun Zhou, Salman Durrani, Dusit Niyato", 19: 6316-6330 ,twc
+559,Deep Learning-Based Edge Caching in Fog Radio Access Networks.,2020,"Yanxiang Jiang, Haojie Feng, Fu-Chun Zheng, Dusit Niyato, Xiaohu You", 19: 8442-8454 ,twc
+560,Reliable Federated Learning for Mobile Networks.,2020,"Jiawen Kang, Zehui Xiong, Dusit Niyato, Yuze Zou, Yang Zhang, Mohsen Guizani", 27: 72-80 ,wc
+561,"""Borrowing Arrows with Thatched Boats"": The Art of Defeating Reactive Jammers in IoT Networks.",2020,"Dinh Thai Hoang, Diep N. Nguyen, Mohammad Abu Alsheikh, Shimin Gong, Eryk Dutkiewicz, Dusit Niyato, Zhu Han", 27: 79-87 ,wc
+562,A Secure Federated Learning Framework for 5G Networks.,2020,"Yi Liu, Jialiang Peng, Jiawen Kang, Abdullah M. Iliyasu, Dusit Niyato, Ahmed A. Abd El-Latif", 27: 24-31 ,wc
+563,Contract Design for Time Resource Assignment and Pricing in Backscatter-Assisted RF-Powered Networks.,2020,"Xiaozheng Gao, Dusit Niyato, Ping Wang, Kai Yang, Jianping An", 9: 42-46 ,wcl
+564,A Generative Adversarial Learning-Based Approach for Cell Outage Detection in Self-Organizing Cellular Networks.,2020,"Tao Zhang, Kun Zhu, Dusit Niyato", 9: 171-174 ,wcl
+565,IRS-Based Wireless Jamming Attacks: When Jammers Can Attack Without Power.,2020,"Bin Lyu, Dinh Thai Hoang, Shimin Gong, Dusit Niyato, Dong In Kim", 9: 1663-1667 ,wcl
+566,iRDRC: An Intelligent Real-Time Dual-Functional Radar-Communication System for Automotive Vehicles.,2020,"Nguyen Quang Hieu, Dinh Thai Hoang, Nguyen Cong Luong, Dusit Niyato", 9: 2140-2143 ,wcl
+567,Towards the Future Data Market: Reward Optimization in Mobile Data Subsidization.,2020,"Zehui Xiong, Jun Zhao, Jiawen Kang, Dusit Niyato, Ruilong Deng, Shengli Xie", 6GN 2020: 173-189,5gwn
+568,A Fairness-aware Incentive Scheme for Federated Learning.,2020,"Han Yu, Zelei Liu, Yang Liu, Tianjian Chen, Mingshu Cong, Xi Weng, Dusit Niyato, Qiang Yang", AIES 2020: 393-399,aies
+569,Scalable and Communication-Efficient Decentralized Federated Edge Learning with Multi-blockchain Framework.,2020,"Jiawen Kang, Zehui Xiong, Chunxiao Jiang, Yi Liu, Song Guo, Yang Zhang, Dusit Niyato, Cyril Leung, Chunyan Miao", BlockSys 2020: 152-165,blocksys
+570,Training Task Allocation in Federated Edge Learning: A Matching-Theoretic Approach.,2020,"Jiawen Kang, Zehui Xiong, Dusit Niyato, Zhiguang Cao, Amir Leshem", CCNC 2020: 1-6,ccnc
+571,Hierarchical Cooperative Caching in Fog Radio Access Networks: A Brain Storm optimization Approach.,2020,"Xuan Chen, Yanxiang Jiang, Baotian Fan, Fu-Chun Zheng, Dusit Niyato, Xiaohu You", GLOBECOM 2020: 1-6,globecom
+572,A Stackelberg Game Approach to Resource Allocation for IRS-aided Communications.,2020,"Yulan Gao, Chao Yong, Zehui Xiong, Dusit Niyato, Yue Xiao, Jun Zhao", GLOBECOM 2020: 1-6,globecom
+573,Resource Allocation for Intelligent Reflecting Surface Aided Cooperative Communications.,2020,"Yulan Gao, Chao Yong, Zehui Xiong, Dusit Niyato, Yue Xiao, Jun Zhao", GLOBECOM 2020: 1-6,globecom
+574,Joint Resource Allocation and Trajectory Design for UAV-assisted Mobile Edge Computing Systems.,2020,"Jiequ Ji, Kun Zhu, Changyan Yi, Ran Wang, Dusit Niyato", GLOBECOM 2020: 1-6,globecom
+575,Peer Effect-based Demand Response in Smart Grid: A Game Theoretical Approach.,2020,"Ang Ji, Ran Wang, Kun Zhu, Zehui Xiong, Dusit Niyato", GLOBECOM 2020: 1-6,globecom
+576,Intelligent Reflecting Surface-Aided Backscatter Communications.,2020,"Xiaolun Jia, Jun Zhao, Xiangyun Zhou, Dusit Niyato", GLOBECOM 2020: 1-6,globecom
+577,Multi-Dimensional Contract-Matching for Federated Learning in UAV-Enabled Internet of Vehicles.,2020,"Wei Yang Bryan Lim, Jianqiang Huang, Zehui Xiong, Jiawen Kang, Dusit Niyato, Xian-Sheng Hua, Cyril Leung, Chunyan Miao", GLOBECOM 2020: 1-6,globecom
+578,Deep Reinforcement Learning for Robust Beamforming in IRS-assisted Wireless Communications.,2020,"Jiaye Lin, Yuze Zou, Xiaoru Dong, Shimin Gong, Dinh Thai Hoang, Dusit Niyato", GLOBECOM 2020: 1-6,globecom
+579,Communication-Efficient Federated Learning for Anomaly Detection in Industrial Internet of Things.,2020,"Yi Liu, Neeraj Kumar, Zehui Xiong, Wei Yang Bryan Lim, Jiawen Kang, Dusit Niyato", GLOBECOM 2020: 1-6,globecom
+580,Multi-agent Actor-Critic Reinforcement Learning Based In-network Load Balance.,2020,"Tianle Mai, Haipeng Yao, Zehui Xiong, Song Guo, Dusit Tao Niyato", GLOBECOM 2020: 1-6,globecom
+581,Communication-Efficient Federated Learning in UAV-enabled IoV: A Joint Auction-Coalition Approach.,2020,"Jer Shyuan Ng, Wei Yang Bryan Lim, Hong-Ning Dai, Zehui Xiong, Jianqiang Huang, Dusit Niyato, Xian-Sheng Hua, Cyril Leung, Chunyan Miao", GLOBECOM 2020: 1-6,globecom
+582,Intelligent Reflecting Surface Assisted Anti-Jamming Communications Based on Reinforcement Learning.,2020,"Helin Yang, Zehui Xiong, Jun Zhao, Dusit Niyato, Qingqing Wu, Massimo Tornatore, Stefano Secci", GLOBECOM 2020: 1-6,globecom
+583,Deep Reinforcement Learning Based Intelligent Reflecting Surface for Secure Wireless Communications.,2020,"Helin Yang, Yang Zhao, Zehui Xiong, Jun Zhao, Dusit Niyato, Kwok-Yan Lam, Qingqing Wu", GLOBECOM 2020: 1-6,globecom
+584,Deep Reinforcement Learning for Trajectory Design and Power Allocation in UAV Networks.,2020,"Nan Zhao, Yiqiang Cheng, Yiyang Pei, Ying-Chang Liang, Dusit Niyato", ICC 2020: 1-6,icc
+585,Reconfigurable Intelligent Surface for MISO Systems with Proportional Rate Constraints.,2020,"Yulan Gao, Chao Yong, Zehui Xiong, Dusit Niyato, Yue Xiao, Jun Zhao", ICC 2020: 1-7,icc
+586,Intelligent Reflecting Surface Aided Network: Power Control for Physical-Layer Broadcasting.,2020,"Huimei Han, Jun Zhao, Dusit Niyato, Marco Di Renzo, Quoc-Viet Pham", ICC 2020: 1-7,icc
+587,A Retrodirective Wireless Power Transfer Scheme for Ambient Backscatter Systems.,2020,"Sahar Idrees, Xiangyun Zhou, Salman Durrani, Dusit Niyato", ICC 2020: 1-6,icc
+588,Joint Cache and Trajectory Optimization for Secure UAV-relaying with Underlaid D2D Communications.,2020,"Jiequ Ji, Kun Zhu, Dusit Niyato, Ran Wang", ICC 2020: 1-6,icc
+589,A Contract-Theoretic Cyber Insurance for Withdraw Delay in the Blockchain Networks with Shards.,2020,"Jing Li, Dusit Niyato, Choong Seon Hong, Kyung-Joon Park, Li Wang, Zhu Han", ICC 2020: 1-7,icc
+590,A Generative Learning Approach for Spatio-temporal Modeling in Connected Vehicular Network.,2020,"Rong Xia, Yong Xiao, Yingyu Li, Marwan Krunz, Dusit Niyato", ICC 2020: 1-6,icc
+591,A Distributed Reinforcement Learning Approach to In-network Congestion Control.,2020,"Tianle Mai, Haipeng Yao, Xing Zhang, Zehui Xiong, Dusit Niyato", ICCC 2020: 817-822,iccchina
+592,Robust Federated Learning Approach for Travel Mode Identification from Non-IID GPS Trajectories.,2020,"Yuanshao Zhu, Shuyu Zhang, Yi Liu, Dusit Niyato, James J. Q. Yu", ICPADS 2020: 585-592,icpads
+593,"Demo Abstract: Distributed, Scalable, and Transparent Data Management Framework for Energy Market: A Blockchain Approach.",2020,"Kongrath Suankaewmanee, Pei Sin Ng, Dusit Niyato", IoTDI 2020: 272-273,iotdi
+594,An incentive scheme for federated learning in the sky.,2020,"Wei Yang Bryan Lim, Zehui Xiong, Jiawen Kang, Dusit Niyato, Yang Zhang, Cyril Leung, Chunyan Miao", DroneCom@MOBICOM 2020: 55-60,mobicom
+595,Dynamic Resource Allocation for Hierarchical Federated Learning.,2020,"Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Dusit Niyato, Song Guo, Cyril Leung, Chunyan Miao", MSN 2020: 153-160,msn
+596,Demand-Side Scheduling Based on Multi-Agent Deep Actor-Critic Learning for Smart Grids.,2020,"Joash Lee, Wenbo Wang, Dusit Niyato", SmartGridComm 2020: 1-6,smartgridcomm
+597,Memory-affecting Network Selection in Next Generation HetNets.,2020,"Shaohan Feng, Dusit Niyato, Xiao Lu, Ping Wang, Dong In Kim", VTC Spring 2020: 1-6,vtc
+598,Incentive Mechanism Design for Federated Learning in the Internet of Vehicles.,2020,"Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Jianqiang Huang, Xian-Sheng Hua, Chunyan Miao", VTC Fall 2020: 1-5,vtc
+599,Incentive Mechanism for Socially-Aware Mobile Crowdsensing: A Bayesian Stackelberg Game.,2020,"Jiangtian Nie, Jun Luo, Zehui Xiong, Dusit Niyato, Ping Wang, Yang Zhang", WASA  2020: 394-406,wasa
+600,A Coalition Game for Backscatter-Aided Passive Relay Communications in Wireless-Powered D2D Networks.,2020,"Xiaozheng Gao, Dusit Niyato, Kai Yang, Jianping An", WCNC 2020: 1-6,wcnc
+601,Incentive Mechanism Design for Mobile Data Rewards using Multi-Dimensional Contract.,2020,"Zehui Xiong, Wei Yang Bryan Lim, Jiawen Kang, Dusit Niyato, Ping Wang, Chunyan Miao", WCNC 2020: 1-6,wcnc
+602,Joint Energy Beamforming and Optimization for Intelligent Reflecting Surface Enhanced Communications.,2020,"Yuze Zou, Shimin Gong, Jing Xu, Wenqing Cheng, Dinh Thai Hoang, Dusit Niyato", WCNC Workshops 2020: 1-6,wcnc
+603,Optimization-driven Hierarchical Deep Reinforcement Learning for Hybrid Relaying Communications.,2020,"Yuze Zou, Yutong Xie, Canhui Zhang, Shimin Gong, Dinh Thai Hoang, Dusit Niyato", WCNC 2020: 1-6,wcnc
+604,Resource Allocation in Mobility-Aware Federated Learning Networks: A Deep Reinforcement Learning Approach.,2020,"Huy Thanh Nguyen, Nguyen Cong Luong, Jun Zhao, Chau Yuen, Dusit Niyato", WF-IoT 2020: 1-6,wf-iot
+605,Predictive Maintenance for Edge-Based Sensor Networks: A Deep Reinforcement Learning Approach.,2020,"Kevin Shen-Hoong Ong, Dusit Niyato, Chau Yuen", WF-IoT 2020: 1-6,wf-iot
+606,"Spectrum Intelligent Radio: Technology, Development, and Future Trends.",2020,"Peng Cheng, Zhuo Chen, Ming Ding, Yonghui Li, Branka Vucetic, Dusit Niyato",00207 ,corr
+607,IRS-based Wireless Jamming Attacks: When Jammers can Attack without Power.,2020,"Bin Lyu, Dinh Thai Hoang, Shimin Gong, Dusit Niyato, Dong In Kim",01887 ,corr
+608,Joint Time Scheduling and Transaction Fee Selection in Blockchain-based RF-Powered Backscatter Cognitive Radio Network.,2020,"Tran The Anh, Nguyen Cong Luong, Zehui Xiong, Dusit Niyato, Dong In Kim",03336 ,corr
+609,A Coalition Formation Game Framework for Peer-to-Peer Energy Trading.,2020,"Wayes Tushar, Tapan Kumar Saha, Chau Yuen, M. Imran Azim, Thomas Morstyn, H. Vincent Poor, Dusit Niyato, Richard Bean",08588 ,corr
+610,A Blockchain-Based Approach for Saving and Tracking Differential-Privacy Cost.,2020,"Yang Zhao, Jun Zhao, Jiawen Kang, Zehang Zhang, Dusit Niyato, Shuyu Shi",09259 ,corr
+611,Challenges and Countermeasures for Adversarial Attacks on Deep Reinforcement Learning.,2020,"Inaam Ilahi, Muhammad Usama, Junaid Qadir, Muhammad Umar Janjua, Ala I. Al-Fuqaha, Dinh Thai Hoang, Dusit Niyato",09684 ,corr
+612,Capitalizing Backscatter-Aided Hybrid Relay Communications with Wireless Energy Harvesting.,2020,"Shimin Gong, Yuze Zou, Dinh Thai Hoang, Jing Xu, Wenqing Cheng, Dusit Niyato",10180 ,corr
+613,Deep Reinforcement Learning for Backscatter-Aided Data Offloading in Mobile Edge Computing.,2020,"Shimin Gong, Yutong Xie, Jing Xu, Dusit Niyato, Ying-Chang Liang",10183 ,corr
+614,Reconfigurable Intelligent Surface for MISO Systems with Proportional Rate Constraints.,2020,"Yulan Gao, Chao Yong, Zehui Xiong, Dusit Niyato, Yue Xiao, Jun Zhao",10845 ,corr
+615,Reflection Resource Management for Intelligent Reflecting Surface Aided Wireless Networks.,2020,"Yulan Gao, Chao Yong, Zehui Xiong, Jun Zhao, Yue Xiao, Dusit Niyato",00331 ,corr
+616,Shipper Cooperation in Stochastic Drone Delivery: A Dynamic Bayesian Game Approach.,2020,"Suttinee Sawadsitang, Dusit Niyato, Puay Siew Tan, Ping Wang, Sarana Nutanong",03118 ,corr
+617,Optimal Pricing of Internet of Things: A Machine Learning Approach.,2020,"Mohammad Abu Alsheikh, Dinh Thai Hoang, Dusit Niyato, Derek Leong, Ping Wang, Zhu Han",05929 ,corr
+618,A Retrodirective Wireless Power Transfer Scheme for Ambient Backscatter Systems.,2020,"Sahar Idrees, Xiangyun Zhou, Salman Durrani, Dusit Niyato",06019 ,corr
+619,A Generative Learning Approach for Spatio-temporal Modeling in Connected Vehicular Network.,2020,"Rong Xia, Yong Xiao, Yingyu Li, Marwan Krunz, Dusit Niyato",07004 ,corr
+620,Privacy-preserving Traffic Flow Prediction: A Federated Learning Approach.,2020,"Yi Liu, James J. Q. Yu, Jiawen Kang, Dusit Niyato, Shuyu Zhang",08725 ,corr
+621,Mechanism Design for Wireless Powered Spatial Crowdsourcing Networks.,2020,"Yutao Jiao, Ping Wang, Dusit Niyato, Bin Lin, Dong In Kim",12228 ,corr
+622,Decentralized Learning for Channel Allocation in IoT Networks over Unlicensed Bandwidth as a Contextual Multi-player Multi-armed Bandit Game.,2020,"Wenbo Wang, Amir Leshem, Dusit Niyato, Zhu Han",13314 ,corr
+623,On Coordination of Smart Grid and Cooperative Cloud Providers.,2020,"Monireh Mohebbi Moghaddam, Mohammad Hossein Manshaei, Mehdi Naderi Soorki, Walid Saad, Maziar Goudarzi, Dusit Niyato",13675 ,corr
+624,Towards Federated Learning in UAV-Enabled Internet of Vehicles: A Multi-Dimensional Contract-Matching Approach.,2020,"Wei Yang Bryan Lim, Jianqiang Huang, Zehui Xiong, Jiawen Kang, Dusit Niyato, Xian-Sheng Hua, Cyril Leung, Chunyan Miao",03877 ,corr
+625,Resource Management for Blockchain-enabled Federated Learning: A Deep Reinforcement Learning Approach.,2020,"Nguyen Quang Hieu, Tran The Anh, Nguyen Cong Luong, Dusit Niyato, Dong In Kim, Erik Elmroth",04104 ,corr
+626,Local Differential Privacy based Federated Learning for Internet of Things.,2020,"Yang Zhao, Jun Zhao, Mengmeng Yang, Teng Wang, Ning Wang, Lingjuan Lyu, Dusit Niyato, Kwok-Yan Lam",08856 ,corr
+627,Intelligent Reflecting Surface-Aided Backscatter Communications.,2020,"Xiaolun Jia, Jun Zhao, Xiangyun Zhou, Dusit Niyato",09059 ,corr
+628,Demand-Side Scheduling Based on Deep Actor-Critic Learning for Smart Grids.,2020,"Joash Lee, Wenbo Wang, Dusit Niyato",01979 ,corr
+629,A Secure Federated Learning Framework for 5G Networks.,2020,"Yi Liu, Jialiang Peng, Jiawen Kang, Abdullah M. Iliyasu, Dusit Niyato, Ahmed A. Abd El-Latif",05752 ,corr
+630,A Bandit Approach for Mode Selection in Ambient Backscatter-Assisted Wireless-Powered Relaying.,2020,"Guangxia Li, Xiao Lu, Dusit Niyato",06629 ,corr
+631,Optimization-driven Deep Reinforcement Learning for Robust Beamforming in IRS-assisted Wireless Communications.,2020,"Jiaye Lin, Yuze Zou, Xiaoru Dong, Shimin Gong, Dinh Thai Hoang, Dusit Niyato",11885 ,corr
+632,Two-Hop Connectivity to the Roadside in a VANET Under the Random Connection Model.,2020,"Alexander P. Kartun-Giles, Konstantinos Koufos, Xiao Lu, Nicolas Privault, Dusit Niyato",14407 ,corr
+633,Incentive Mechanism Design for Resource Sharing in Collaborative Edge Learning.,2020,"Wei Yang Bryan Lim, Jer Shyuan Ng, Zehui Xiong, Dusit Niyato, Cyril Leung, Chunyan Miao, Qiang Yang",00511 ,corr
+634,"Federated Learning for 6G Communications: Challenges, Methods, and Future Directions.",2020,"Yi Liu, Xingliang Yuan, Zehui Xiong, Jiawen Kang, Xiaofei Wang, Dusit Niyato",02931 ,corr
+635,Cognitive Radio Network Throughput Maximization with Deep Reinforcement Learning.,2020,"Kevin Shen-Hoong Ong, Yang Zhang, Dusit Niyato",03165 ,corr
+636,Predictive Maintenance for Edge-Based Sensor Networks: A Deep Reinforcement Learning Approach.,2020,"Kevin Shen-Hoong Ong, Dusit Niyato, Chau Yuen",03313 ,corr
+637,iRDRC: An Intelligent Real-time Dual-functional Radar-Communication System for Automotive Vehicles.,2020,"Nguyen Quang Hieu, Dinh Thai Hoang, Nguyen Cong Luong, Dusit Niyato",05673 ,corr
+638,Blockchain for the Internet of Vehicles towards Intelligent Transportation Systems: A Survey.,2020,"Muhammad Baqer Mollah, Jun Zhao, Dusit Niyato, Yong Liang Guan, Chau Yuen, Sumei Sun, Kwok-Yan Lam, Leong Hai Koh",06022 ,corr
+639,Joint Auction-Coalition Formation Framework for Communication-Efficient Federated Learning in UAV-Enabled Internet of Vehicles.,2020,"Jer Shyuan Ng, Wei Yang Bryan Lim, Hong-Ning Dai, Zehui Xiong, Jianqiang Huang, Dusit Niyato, Xian-Sheng Hua, Cyril Leung, Chunyan Miao",06378 ,corr
+640,Radio Resource Management in Joint Radar and Communication: A Comprehensive Survey.,2020,"Nguyen Cong Luong, Xiao Lu, Dinh Thai Hoang, Dusit Niyato, Dong In Kim",13146 ,corr
+641,Dynamic Network Service Selection in IRS-Assisted Wireless Networks: A Game Theory Approach.,2020,"Nguyen Cong Luong, Nguyen Thi Thanh Van, Shaohan Feng, Huy Thanh Nguyen, Dusit Niyato, Dong In Kim",01239 ,corr
+642,Scalable and Communication-efficient Decentralized Federated Edge Learning with Multi-blockchain Framework.,2020,"Jiawen Kang, Zehui Xiong, Chunxiao Jiang, Yi Liu, Song Guo, Yang Zhang, Dusit Niyato, Cyril Leung, Chunyan Miao",04743 ,corr
+643,Toward Smart Security Enhancement of Federated Learning Networks.,2020,"Junjie Tan, Ying-Chang Liang, Nguyen Cong Luong, Dusit Niyato",08330 ,corr
+644,A Survey of Coded Distributed Computing.,2020,"Jer Shyuan Ng, Wei Yang Bryan Lim, Nguyen Cong Luong, Zehui Xiong, Alia Asheralieva, Dusit Niyato, Cyril Leung, Chunyan Miao",09048 ,corr
+645,Optimization-driven Machine Learning for Intelligent Reflecting Surfaces Assisted Wireless Networks.,2020,"Shimin Gong, Jiaye Lin, Jinbei Zhang, Dusit Niyato, Dong In Kim, Mohsen Guizani",12938 ,corr
+646,Intelligent Reflecting Surface-Assisted Bistatic Backscatter Networks: Joint Beamforming and Reflection Design.,2020,"Xiaolun Jia, Xiangyun Zhou, Dusit Niyato, Jun Zhao",08947 ,corr
+647,Towards Communication-efficient and Attack-Resistant Federated Edge Learning for Industrial Internet of Things.,2020,"Yi Liu, Ruihui Zhao, Jiawen Kang, Abdulsalam Yassine, Dusit Niyato, Jialiang Peng",04436 ,corr
+648,Collaborative Coded Computation Offloading: An All-pay Auction Approach.,2020,"Jer Shyuan Ng, Wei Yang Bryan Lim, Sahil Garg, Zehui Xiong, Dusit Niyato, Mohsen Guizani, Cyril Leung",04854 ,corr
+649,A Stackelberg Game Approach to Resource Allocation for IRS-aided Communications.,2020,"Yulan Gao, Chao Yong, Zehui Xiong, Dusit Niyato, Yue Xiao, Jun Zhao",08989 ,corr

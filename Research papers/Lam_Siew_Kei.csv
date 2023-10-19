@@ -1,0 +1,54 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Computer vision framework for crack detection of civil infrastructure - A review.,2023,"Dihao Ai, Guiyuan Jiang, Siew-Kei Lam, Peilan He, Chengwu Li", 117: 105478 ,eaai
+1,Hardware-Efficient Scheme for Trailer Robot Parking by Truck Robot in an Indoor Environment with Rendezvous.,2023,"Divya Vani G, Srinivasa Rao Karumuri, Chinnaiah M. C., Siew-Kei Lam, Janardhan Narambhatlu, Sanjay Dubey", Sensors 23: 5097 ,sensors
+2,Two-Level Scheduling Algorithms for Deep Neural Network Inference in Vehicular Networks.,2023,"Yalan Wu, Jigang Wu, Mianyang Yao, Bosheng Liu, Long Chen, Siew Kei Lam", 24: 9324-9343 ,tits
+3,Blockchain-Based Secure Key Management for Mobile Edge Computing.,2023,"Jiaxing Li, Jigang Wu, Long Chen, Jin Li, Siew-Kei Lam", 22: 100-114 ,tmc
+4,DNN Model Theft Through Trojan Side-Channel on Edge FPGA Accelerator.,2023,"Srivatsan Chandrasekar, Siew-Kei Lam, Srikanthan Thambipillai", ARC 2023: 146-158,arc
+5,Multi-fold Correlation Attention Network for Predicting Traffic Speeds with Heterogeneous Frequency.,2022,"Yidan Sun, Guiyuan Jiang, Siew-Kei Lam, Peilan He, Fangxin Ning", 124: 108977 ,asc
+6,ML-MMAS: Self-learning ant colony optimization for multi-criteria journey planning.,2022,"Peilan He, Guiyuan Jiang, Siew-Kei Lam, Yidan Sun", 609: 1052-1074 ,isci
+7,Decoupled self-supervised label augmentation for fully-supervised image classification.,2022,"Wanshun Gao, Meiqing Wu, Siew-Kei Lam, Qihui Xia, Jianhua Zou", 235: 107605 ,kbs
+8,A Multi-Scale Attributes Attention Model for Transport Mode Identification.,2022,"Guiyuan Jiang, Siew-Kei Lam, Peilan He, Changhai Ou, Dihao Ai", 23: 152-164 ,tits
+9,A Unified Multi-Task Learning Architecture for Fast and Accurate Pedestrian Detection.,2022,"Chengju Zhou, Meiqing Wu, Siew-Kei Lam", 23: 982-996 ,tits
+10,Learning Traffic Network Embeddings for Predicting Congestion Propagation.,2022,"Yidan Sun, Guiyuan Jiang, Siew-Kei Lam, Peilan He", 23: 11591-11604 ,tits
+11,Enhanced Multi-Task Learning Architecture for Detecting Pedestrian at Far Distance.,2022,"Chengju Zhou, Meiqing Wu, Siew-Kei Lam", 23: 15588-15604 ,tits
+12,Exploring Public Transport Transfer Opportunities for Pareto Search of Multicriteria Journeys.,2022,"Peilan He, Guiyuan Jiang, Siew-Kei Lam, Yidan Sun, Fangxin Ning", 23: 22895-22908 ,tits
+13,Fast Semantic-Aware Motion State Detection for Visual SLAM in Dynamic Environment.,2022,"Gaurav Singh, Meiqing Wu, Do Van Minh, Siew-Kei Lam", 23: 23014-23030 ,tits
+14,Reinforced Continual Learning for Graphs.,2022,"Appan Rakaraddi, Siew-Kei Lam, Mahardhika Pratama, Marcus de Carvalho", CIKM 2022: 1666-1674,cikm
+15,Reinforced Continual Learning for Graphs.,2022,"Appan Rakaraddi, Siew Kei Lam, Mahardhika Pratama, Marcus de Carvalho",01556 ,corr
+16,Snowball: Another View on Side-Channel Key Recovery Tools.,2022,"Jiangshan Long, Changhai Ou, Zhu Wang, Shihui Zheng, Fei Yan, Fan Zhang, Siew-Kei Lam", 2022: 728 ,iacr
+17,Passenger-centric vehicle routing for first-mile transportation considering request uncertainty.,2021,"Fangxin Ning, Guiyuan Jiang, Siew-Kei Lam, Changhai Ou, Peilan He, Yidan Sun", 570: 241-261 ,isci
+18,ACSL: Adaptive correlation-driven sparsity learning for deep neural network compression.,2021,"Wei He, Meiqing Wu, Siew-Kei Lam", Neural Networks 144: 465-477 ,nn
+19,SNR-Centric Power Trace Extractors for Side-Channel Attacks.,2021,"Changhai Ou, Siew-Kei Lam, Degang Sun, Xinping Zhou, Kexin Qiao, Qu Wang", 40: 620-632 ,tcad
+20,The Science of Guessing in Collision-Optimized Divide-and-Conquer Attacks.,2021,"Changhai Ou, Siew-Kei Lam, Guiyuan Jiang", 40: 1039-1051 ,tcad
+21,Information Entropy-Based Leakage Profiling.,2021,"Changhai Ou, Xinping Zhou, Siew-Kei Lam, Chengju Zhou, Fangxin Ning", 40: 1052-1062 ,tcad
+22,Multiple-Differential Mechanism for Collision-Optimized Divide-and-Conquer Attacks.,2021,"Changhai Ou, Chengju Zhou, Siew-Kei Lam, Guiyuan Jiang", 16: 418-430 ,tifs
+23,XDIVINSA: eXtended DIVersifying INStruction Agent to Mitigate Power Side-Channel Leakage.,2021,"Thinh Hung Pham, Ben Marshall, Alexander Fell, Siew-Kei Lam, Daniel Page", ASAP 2021: 179-186,asap
+24,Cache-Aware Dynamic Skewed Tree for Fast Memory Authentication.,2021,"Saru Vig, Siew-Kei Lam, Rohan Juneja", ASP-DAC 2021: 402-407,aspdac
+25,Edge Accelerator for Lifelong Deep Learning using Streaming Linear Discriminant Analysis.,2021,"Duvindu Piyasena, Siew-Kei Lam, Meiqing Wu", FCCM 2021: 259,fccm
+26,Accelerating Continual Learning on Edge FPGA.,2021,"Duvindu Piyasena, Siew-Kei Lam, Meiqing Wu", FPL 2021: 294-300,fpl
+27,Self-Growing Spatial Graph Network for Context-Aware Pedestrian Trajectory Prediction.,2021,"Sirin Haddad, Siew-Kei Lam", ICIP 2021: 1029-1033,icip
+28,Predicting Traffic Congestion Evolution: A Deep Meta Learning Approach.,2021,"Yidan Sun, Guiyuan Jiang, Siew Kei Lam, Peilan He", IJCAI 2021: 3031-3037,ijcai
+29,Learning Congestion Propagation Behaviors for Traffic Prediction.,2021,"Yidan Sun, Peilan He, Guiyuan Jiang, Siew-Kei Lam", ITSC 2021: 2175-2180,itsc
+30,Hierarchical Loop Closure Detection for Long-term Visual SLAM with Semantic-Geometric Descriptors.,2021,"Gaurav Singh, Meiqing Wu, Siew-Kei Lam, Do Van Minh", ITSC 2021: 2909-2916,itsc
+31,CAP: Context-Aware Pruning for Semantic Segmentation.,2021,"Wei He, Meiqing Wu, Mingfu Liang, Siew-Kei Lam", WACV 2021: 959-968,wacv
+32,Multi-fold Correlation Attention Network for Predicting Traffic Speeds with Heterogeneous Frequency.,2021,"Yidan Sun, Guiyuan Jiang, Siew-Kei Lam, Peilan He, Fangxin Ning",09083 ,corr
+33,XDIVINSA: eXtended DIVersifying INStruction Agent to Mitigate Power Side-Channel Leakage.,2021,"Thinh Hung Pham, Ben Marshall, Alexander Fell, Siew-Kei Lam, Daniel Page", 2021: 1053 ,iacr
+34,CoTree: Push the Limits of Conquerable Space in Collision-Optimized Side-Channel Attacks.,2021,"Changhai Ou, Debiao He, Zhu Wang, Kexin Qiao, Shihui Zheng, Siew-Kei Lam", 2021: 1582 ,iacr
+35,Multiple-Choice Hardware/Software Partitioning for Tree Task-Graph on MPSoC.,2020,"Wenjun Shi, Jigang Wu, Guiyuan Jiang, Siew-Kei Lam", 63: 688-700 ,cj
+36,Learning heterogeneous traffic patterns for travel time prediction of bus journeys.,2020,"Peilan He, Guiyuan Jiang, Siew-Kei Lam, Yidan Sun", 512: 1394-1406 ,isci
+37,Improving accuracy of HPC-based malware classification for embedded platforms using gradient descent optimization.,2020,"Manaar Alam, Debdeep Mukhopadhyay, Sai Praveen Kadiyala, Siew-Kei Lam, Thambipillai Srikanthan", 10: 289-303 ,jce
+38,IROS 2019 Lifelong Robotic Vision: Object Recognition Challenge [Competitions].,2020,"Heechul Bae, Eoin Brophy, Rosa H. M. Chan, Baoquan Chen, Fan Feng, Gabriele Graffieti, Vidit Goel, Xinyue Hao, Hyonyoung Han, Sathursan Kanagarajah, Somesh Kumar, Siew-Kei Lam, Tin Lun Lam, Chuanlin Lan, Qi Liu, Vincenzo Lomonaco, Liang Ma, Davide Maltoni, German Ignacio Parisi, Lorenzo Pellegrini, Duvindu Piyasena, Shiliang Pu, Qi She, Debdoot Sheet, Soonyong Song, Youngsung Son, Zhengwei Wang, Tomas E. Ward, Jianwen Wu, Meiqing Wu, Di Xie, Yangsheng Xu, Lin Yang, Qihan Yang, Qiaoyong Zhong, Liguang Zhou", 27: 11-16 ,ram
+39,A Lightweight Detection Algorithm For Collision-Optimized Divide-and-Conquer Attacks.,2020,"Changhai Ou, Siew-Kei Lam, Chengju Zhou, Guiyuan Jiang, Fan Zhang", Computers 69: 1694-1706 ,tc
+40,A First Study of Compressive Sensing for Side-Channel Leakage Sampling.,2020,"Changhai Ou, Chengju Zhou, Siew-Kei Lam", 39: 2166-2177 ,tcad
+41,Hardware Performance Counter-Based Fine-Grained Malware Detection.,2020,"Sai Praveen Kadiyala, Pranav Jadhav, Siew-Kei Lam, Thambipillai Srikanthan", 19: 38:1-38:17 ,tecs
+42,Peak-Hour Vehicle Routing for First-Mile Transportation: Problem Formulation and Algorithms.,2020,"Guiyuan Jiang, Siew-Kei Lam, Fangxin Ning, Peilan He, Jidong Xie", 21: 3308-3321 ,tits
+43,Group Cost-Sensitive BoostLR With Vector Form Decorrelated Filters for Pedestrian Detection.,2020,"Chengju Zhou, Meiqing Wu, Siew-Kei Lam", 21: 5022-5035 ,tits
+44,Designing Energy-Efficient MPSoC with Untrustworthy 3PIP Cores.,2020,"Yidan Sun, Guiyuan Jiang, Siew-Kei Lam, Fangxin Ning", 31: 51-63 ,tpds
+45,DISSECT: Dynamic Skew-and-Split Tree for Memory Authentication.,2020,"Saru Vig, Rohan Juneja, Siew-Kei Lam", DATE 2020: 1538-1543,date
+46,Dynamically Growing Neural Network Architecture for Lifelong Deep Learning on the Edge.,2020,"Duvindu Piyasena, Miyuru Thathsara, Sathursan Kanagarajah, Siew Kei Lam, Meiqing Wu", FPL 2020: 262-268,fpl
+47,Evaluating the Merits of Ranking in Structured Network Pruning.,2020,"Kuldeep Sharma, Nirmala Ramakrishnan, Alok Prakash, Siew Kei Lam, Thambipillai Srikanthan", ICDCS 2020: 1389-1396,icdcs
+48,Self-Growing Spatial Graph Networks for Pedestrian Trajectory Prediction.,2020,"Sirin Haddad, Siew-Kei Lam", WACV 2020: 1140-1148,wacv
+49,Fusing Semantics and Motion State Detection for Robust Visual SLAM.,2020,"Gaurav Singh, Meiqing Wu, Siew-Kei Lam", WACV 2020: 2753-2762,wacv
+50,IROS 2019 Lifelong Robotic Vision Challenge - Lifelong Object Recognition Report.,2020,"Qi She, Fan Feng, Qi Liu, Rosa H. M. Chan, Xinyue Hao, Chuanlin Lan, Qihan Yang, Vincenzo Lomonaco, German Ignacio Parisi, Heechul Bae, Eoin Brophy, Baoquan Chen, Gabriele Graffieti, Vidit Goel, Hyonyoung Han, Sathursan Kanagarajah, Somesh Kumar, Siew-Kei Lam, Tin Lun Lam, Liang Ma, Davide Maltoni, Lorenzo Pellegrini, Duvindu Piyasena, Shiliang Pu, Debdoot Sheet, Soonyong Song, Youngsung Son, Zhengwei Wang, Tomas E. Ward, Jianwen Wu, Meiqing Wu, Di Xie, Yangsheng Xu, Lin Yang, Qiaoyong Zhong, Liguang Zhou",14774 ,corr
+51,Graph2Kernel Grid-LSTM: A Multi-Cued Model for Pedestrian Trajectory Prediction by Learning Adaptive Neighborhoods.,2020,"Sirin Haddad, Siew Kei Lam",01915 ,corr
+52,Self-Growing Spatial Graph Network for Context-Aware Pedestrian Trajectory Prediction.,2020,"Sirin Haddad, Siew-Kei Lam",06320 ,corr

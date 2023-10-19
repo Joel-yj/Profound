@@ -1,0 +1,146 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,"Editorial for Special Issue on Large-scale Pre-training: Data, Models, and Fine-tuning.",2023,"Ji-Rong Wen, Zi Huang, Hanwang Zhang", 20: 145-146 ,ijautcomp
+1,Compositional Prompting Video-language Models to Understand Procedure in Instructional Videos.,2023,"Guyue Hu, Bin He, Hanwang Zhang", 20: 249-262 ,ijautcomp
+2,Learning to Collocate Visual-Linguistic Neural Modules for Image Captioning.,2023,"Xu Yang, Hanwang Zhang, Chongyang Gao, Jianfei Cai", 131: 82-100 ,ijcv
+3,Deconfounded Image Captioning: A Causal Retrospect.,2023,"Xu Yang, Hanwang Zhang, Jianfei Cai", 45: 12996-13010 ,pami
+4,Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering.,2023,"Long Chen, Yuhang Zheng, Yulei Niu, Hanwang Zhang, Jun Xiao", 45: 13218-13234 ,pami
+5,Cross-GCN: Enhancing Graph Convolutional Network with $k$k-Order Feature Interactions.,2023,"Fuli Feng, Xiangnan He, Hanwang Zhang, Tat-Seng Chua", 35: 225-236 ,tkde
+6,Causal Interventional Training for Image Recognition.,2023,"Wei Qin, Hanwang Zhang, Richang Hong, Ee-Peng Lim, Qianru Sun", 25: 1033-1044 ,tmm
+7,VL-NMS: Breaking Proposal Bottlenecks in Two-stage Visual-language Matching.,2023,"Chenchi Zhang, Wenbo Ma, Jun Xiao, Hanwang Zhang, Jian Shao, Yueting Zhuang, Long Chen", 19: 166:1-166:24 ,tomccap
+8,Debiased Fine-Tuning for Vision-Language Models by Prompt Regularization.,2023,"Beier Zhu, Yulei Niu, Saeil Lee, Minhoe Hur, Hanwang Zhang", AAAI 2023: 3834-3842,aaai
+9,Hypothetical Training for Robust Machine Reading Comprehension of Tabular Context.,2023,"Moxin Li, Wenjie Wang, Fuli Feng, Hanwang Zhang, Qifan Wang, Tat-Seng Chua", ACL  2023: 1220-1236,acl
+10,Counterfactual Active Learning for Out-of-Distribution Generalization.,2023,"Xun Deng, Wenjie Wang, Fuli Feng, Hanwang Zhang, Xiangnan He, Yong Liao", ACL  2023: 11362-11377,acl
+11,Semantic Scene Completion with Cleaner Self.,2023,"Fengyun Wang, Dong Zhang, Hanwang Zhang, Jinhui Tang, Qianru Sun", CVPR 2023: 867-877,cvpr
+12,Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery.,2023,"Muli Yang, Liancheng Wang, Cheng Deng, Hanwang Zhang", CVPR 2023: 3459-3468,cvpr
+13,Unbiased Multiple Instance Learning for Weakly Supervised Video Anomaly Detection.,2023,"Hui Lv, Zhongqi Yue, Qianru Sun, Bin Luo, Zhen Cui, Hanwang Zhang", CVPR 2023: 8022-8031,cvpr
+14,Compositional Prompt Tuning with Motion Cues for Open-vocabulary Video Relation Detection.,2023,"Kaifeng Gao, Long Chen, Hanwang Zhang, Jun Xiao, Qianru Sun", ICLR 2023,iclr
+15,Learning Trajectory-Word Alignments for Video-Language Tasks.,2023,"Xu Yang, Zhangzikang Li, Haiyang Xu, Hanwang Zhang, Qinghao Ye, Chenliang Li, Ming Yan, Yu Zhang, Fei Huang, Songfang Huang",01953 ,corr
+16,Adaptively Clustering Neighbor Elements for Image Captioning.,2023,"Zihua Wang, Xu Yang, Haiyang Xu, Hanwang Zhang, Chenliang Li, Songfang Huang, Fei Huang, Yu Zhang",01955 ,corr
+17,Debiased Fine-Tuning for Vision-language Models by Prompt Regularization.,2023,"Beier Zhu, Yulei Niu, Saeil Lee, Minhoe Hur, Hanwang Zhang",12429 ,corr
+18,Compositional Prompt Tuning with Motion Cues for Open-vocabulary Video Relation Detection.,2023,"Kaifeng Gao, Long Chen, Hanwang Zhang, Jun Xiao, Qianru Sun",00268 ,corr
+19,Semantic Scene Completion with Cleaner Self.,2023,"Fengyun Wang, Dong Zhang, Hanwang Zhang, Jinhui Tang, Qianru Sun",09977 ,corr
+20,Unbiased Multiple Instance Learning for Weakly Supervised Video Anomaly Detection.,2023,"Hui Lv, Zhongqi Yue, Qianru Sun, Bin Luo, Zhen Cui, Hanwang Zhang",12369 ,corr
+21,Equivariant Similarity for Vision-Language Foundation Models.,2023,"Tan Wang, Kevin Lin, Linjie Li, Chung-Ching Lin, Zhengyuan Yang, Hanwang Zhang, Zicheng Liu, Lijuan Wang",14465 ,corr
+22,Decoupled Kullback-Leibler Divergence Loss.,2023,"Jiequan Cui, Zhuotao Tian, Zhisheng Zhong, Xiaojuan Qi, Bei Yu, Hanwang Zhang",13948 ,corr
+23,An Overview of Challenges in Egocentric Text-Video Retrieval.,2023,"Burak Satar, Hongyuan Zhu, Hanwang Zhang, Joo Hwee Lim",04345 ,corr
+24,Fast Diffusion Model.,2023,"Zike Wu, Pan Zhou, Kenji Kawaguchi, Hanwang Zhang",06991 ,corr
+25,DisCo: Disentangled Control for Referring Human Dance Generation in Real World.,2023,"Tan Wang, Linjie Li, Kevin Lin, Chung-Ching Lin, Zhengyuan Yang, Hanwang Zhang, Zicheng Liu, Lijuan Wang",00040 ,corr
+26,Random Boxes Are Open-world Object Detectors.,2023,"Yanghao Wang, Zhongqi Yue, Xian-Sheng Hua, Hanwang Zhang",08249 ,corr
+27,Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions.,2023,"Juncheng Li, Kaihang Pan, Zhiqi Ge, Minghe Gao, Hanwang Zhang, Wei Ji, Wenqiao Zhang, Tat-Seng Chua, Siliang Tang, Yueting Zhuang",04152 ,corr
+28,Invariant Training 2D-3D Joint Hard Samples for Few-Shot Point Cloud Recognition.,2023,"Xuanyu Yi, Jiajun Deng, Qianru Sun, Xian-Sheng Hua, Joo-Hwee Lim, Hanwang Zhang",09694 ,corr
+29,Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models.,2023,"Hao Fei, Shengqiong Wu, Wei Ji, Hanwang Zhang, Tat-Seng Chua",13812 ,corr
+30,Towards Debiasing Frame Length Bias in Text-Video Retrieval via Causal Intervention.,2023,"Burak Satar, Hongyuan Zhu, Hanwang Zhang, Joo Hwee Lim",09311 ,corr
+31,Make the U in UDA Matter: Invariant Consistency Learning for Unsupervised Domain Adaptation.,2023,"Zhongqi Yue, Hanwang Zhang, Qianru Sun",12742 ,corr
+32,Tuning Multi-mode Token-level Prompt Alignment across Modalities.,2023,"Dongsheng Wang, Miaoge Li, Xinyang Liu, Mingsheng Xu, Bo Chen, Hanwang Zhang",13847 ,corr
+33,PR-NET: Progressively-refined neural network for image manipulation localization.,2022,"Zenan Shi, Chaoqun Chang, Haipeng Chen, Xiaoyu Du, Hanwang Zhang", 37: 3166-3188 ,ijis
+34,Learning to Compose and Reason with Language Tree Structures for Visual Grounding.,2022,"Richang Hong, Daqing Liu, Xiaoyu Mo, Xiangnan He, Hanwang Zhang", 44: 684-696 ,pami
+35,Context-Aware Visual Policy Network for Fine-Grained Image Captioning.,2022,"Zheng-Jun Zha, Daqing Liu, Hanwang Zhang, Yongdong Zhang, Feng Wu", 44: 710-722 ,pami
+36,Auto-Encoding and Distilling Scene Graphs for Image Captioning.,2022,"Xu Yang, Hanwang Zhang, Jianfei Cai", 44: 2313-2327 ,pami
+37,Editorial paper for Pattern Recognition Letters VSI on cross model understanding for visual question answering.,2022,"Shaohua Wan, Zan Gao, Hanwang Zhang, Xiaojun Chang, Chen Chen, Anastasios Tefas", 160: 9-10 ,prl
+38,Guest Editorial Introduction to the Special Section on Video and Language.,2022,"Tao Mei, Jason J. Corso, Gunhee Kim, Jiebo Luo, Chunhua Shen, Hanwang Zhang", 32: 1-4 ,tcsv
+39,Discriminative Style Learning for Cross-Domain Image Captioning.,2022,"Jin Yuan, Shuai Zhu, Shuyin Huang, Hanwang Zhang, Yaoqiang Xiao, Zhiyong Li, Meng Wang", 31: 1723-1736 ,tip
+40,Align R-CNN: A Pairwise Head Network for Visual Relationship Detection.,2022,"Mitra Tajrobehkar, Kaihua Tang, Hanwang Zhang, Joo-Hwee Lim", 24: 1266-1276 ,tmm
+41,Deconfounded Visual Grounding.,2022,"Jianqiang Huang, Yu Qin, Jiaxin Qi, Qianru Sun, Hanwang Zhang", AAAI 2022: 998-1006,aaai
+42,Cross-Domain Empirical Risk Minimization for Unbiased Long-Tailed Classification.,2022,"Beier Zhu, Yulei Niu, Xian-Sheng Hua, Hanwang Zhang", AAAI 2022: 3589-3597,aaai
+43,Learning to Imagine: Integrating Counterfactual Thinking in Neural Discrete Reasoning.,2022,"Moxin Li, Fuli Feng, Hanwang Zhang, Xiangnan He, Fengbin Zhu, Tat-Seng Chua", ACL  2022: 57-69,acl
+44,KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base.,2022,"Shulin Cao, Jiaxin Shi, Liangming Pan, Lunyiu Nie, Yutong Xiang, Lei Hou, Juanzi Li, Bin He, Hanwang Zhang", ACL  2022: 6101-6119,acl
+45,Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation.,2022,"Zhaozheng Chen, Tan Wang, Xiongwei Wu, Xian-Sheng Hua, Hanwang Zhang, Qianru Sun", CVPR 2022: 959-968,cvpr
+46,Class Is Invariant to Context and Vice Versa: On Learning Invariance for Out-Of-Distribution Generalization.,2022,"Jiaxin Qi, Kaihua Tang, Qianru Sun, Xian-Sheng Hua, Hanwang Zhang", ECCV  2022: 92-109,eccv
+47,Equivariance and Invariance Inductive Bias for Learning from Insufficient Data.,2022,"Tan Wang, Qianru Sun, Sugiri Pranata, Jayashree Karlekar, Hanwang Zhang", ECCV  2022: 241-258,eccv
+48,NICO Challenge: Out-of-Distribution Generalization for Image Recognition Challenges.,2022,"Xingxuan Zhang, Yue He, Tan Wang, Jiaxin Qi, Han Yu, Zimu Wang, Jie Peng, Renzhe Xu, Zheyan Shen, Yulei Niu, Hanwang Zhang, Peng Cui", ECCV Workshops  2022: 433-450,eccv
+49,Invariant Feature Learning for Generalized Long-Tailed Classification.,2022,"Kaihua Tang, Mingyuan Tao, Jiaxin Qi, Zhenguang Liu, Hanwang Zhang", ECCV  2022: 709-726,eccv
+50,Identifying Hard Noise in Long-Tailed Sample Distribution.,2022,"Xuanyu Yi, Kaihua Tang, Xian-Sheng Hua, Joo-Hwee Lim, Hanwang Zhang", ECCV  2022: 739-756,eccv
+51,On Non-Random Missing Labels in Semi-Supervised Learning.,2022,"Xinting Hu, Yulei Niu, Chunyan Miao, Xian-Sheng Hua, Hanwang Zhang", ICLR 2022,iclr
+52,Certified Robustness Against Natural Language Attacks by Causal Intervention.,2022,"Haiteng Zhao, Chang Ma, Xinshuai Dong, Anh Tuan Luu, Zhi-Hong Deng, Hanwang Zhang", ICML 2022: 26958-26970,icml
+53,Respecting Transfer Gap in Knowledge Distillation.,2022,"Yulei Niu, Long Chen, Chang Zhou, Hanwang Zhang", NeurIPS 2022,nips
+54,Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation.,2022,"Zhaozheng Chen, Tan Wang, Xiongwei Wu, Xian-Sheng Hua, Hanwang Zhang, Qianru Sun",00962 ,corr
+55,Certified Robustness Against Natural Language Attacks by Causal Intervention.,2022,"Haiteng Zhao, Chang Ma, Xinshuai Dong, Anh Tuan Luu, Zhi-Hong Deng, Hanwang Zhang",12331 ,corr
+56,Prompt-aligned Gradient for Prompt Tuning.,2022,"Beier Zhu, Yulei Niu, Yucheng Han, Yue Wu, Hanwang Zhang",14865 ,corr
+57,RoME: Role-aware Mixture-of-Expert Transformer for Text-to-Video Retrieval.,2022,"Burak Satar, Hongyuan Zhu, Hanwang Zhang, Joo Hwee Lim",12845 ,corr
+58,Exploiting Semantic Role Contextualized Video Features for Multi-Instance Text-Video Retrieval EPIC-KITCHENS-100 Multi-Instance Retrieval Challenge 2022.,2022,"Burak Satar, Hongyuan Zhu, Hanwang Zhang, Joo Hwee Lim",14381 ,corr
+59,On Non-Random Missing Labels in Semi-Supervised Learning.,2022,"Xinting Hu, Yulei Niu, Chunyan Miao, Xian-Sheng Hua, Hanwang Zhang",14923 ,corr
+60,Invariant Feature Learning for Generalized Long-Tailed Classification.,2022,"Kaihua Tang, Mingyuan Tao, Jiaxin Qi, Zhenguang Liu, Hanwang Zhang",09504 ,corr
+61,Equivariance and Invariance Inductive Bias for Learning from Insufficient Data.,2022,"Tan Wang, Qianru Sun, Sugiri Pranata, Jayashree Karlekar, Hanwang Zhang",12258 ,corr
+62,NICEST: Noisy Label Correction and Training for Robust Scene Graph Generation.,2022,"Lin Li, Long Chen, Hanrong Shi, Hanwang Zhang, Yi Yang, Wei Liu, Jun Xiao",13316 ,corr
+63,Identifying Hard Noise in Long-Tailed Sample Distribution.,2022,"Xuanyu Yi, Kaihua Tang, Xian-Sheng Hua, Joo-Hwee Lim, Hanwang Zhang",13378 ,corr
+64,Class Is Invariant to Context and Vice Versa: On Learning Invariance for Out-Of-Distribution Generalization.,2022,"Jiaxin Qi, Kaihua Tang, Qianru Sun, Xian-Sheng Hua, Hanwang Zhang",03462 ,corr
+65,Learning to Collocate Visual-Linguistic Neural Modules for Image Captioning.,2022,"Xu Yang, Hanwang Zhang, Chongyang Gao, Jianfei Cai",01338 ,corr
+66,Respecting Transfer Gap in Knowledge Distillation.,2022,"Yulei Niu, Long Chen, Chang Zhou, Hanwang Zhang",12787 ,corr
+67,Attention-based Class Activation Diffusion for Weakly-Supervised Semantic Segmentation.,2022,"Jianqiang Huang, Jian Wang, Qianru Sun, Hanwang Zhang",10931 ,corr
+68,Evaluating and Mitigating Static Bias of Action Representations in the Background and the Foreground.,2022,"Haoxin Li, Yue Wu, Yuan Liu, Hanwang Zhang, Boyang Li",12883 ,corr
+69,Variational Context: Exploiting Visual and Textual Context for Grounding Referring Expressions.,2021,"Yulei Niu, Hanwang Zhang, Zhiwu Lu, Shih-Fu Chang", 43: 347-359 ,pami
+70,Self-Adaptive Neural Module Transformer for Visual Question Answering.,2021,"Huasong Zhong, Jingyuan Chen, Chen Shen, Hanwang Zhang, Jianqiang Huang, Xian-Sheng Hua", 23: 1264-1273 ,tmm
+71,Introduction to the Special Issue on Fine-grained Visual Computing.,2021,"Shaohua Wan, Zan Gao, Hanwang Zhang, Xiaojun Chang", 17: 11:1-11:3 ,tomccap
+72,Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding.,2021,"Long Chen, Wenbo Ma, Jun Xiao, Hanwang Zhang, Shih-Fu Chang", AAAI 2021: 1036-1044,aaai
+73,Empowering Language Understanding with Counterfactual Reasoning.,2021,"Fuli Feng, Jizhi Zhang, Xiangnan He, Hanwang Zhang, Tat-Seng Chua", ACL/IJCNLP  2021: 2226-2236,acl
+74,Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion.,2021,"Yixin Cao, Xiang Ji, Xin Lv, Juanzi Li, Yonggang Wen, Hanwang Zhang", ACL/IJCNLP  2021: 6855-6865,acl
+75,Distilling Causal Effect of Data in Class-Incremental Learning.,2021,"Xinting Hu, Kaihua Tang, Chunyan Miao, Xian-Sheng Hua, Hanwang Zhang", CVPR 2021: 3957-3966,cvpr
+76,The Blessings of Unlabeled Background in Untrimmed Videos.,2021,"Yuan Liu, Jingyuan Chen, Zhenfang Chen, Bing Deng, Jianqiang Huang, Hanwang Zhang", CVPR 2021: 6176-6185,cvpr
+77,Causal Attention for Vision-Language Tasks.,2021,"Xu Yang, Hanwang Zhang, Guojun Qi, Jianfei Cai", CVPR 2021: 9847-9857,cvpr
+78,Counterfactual VQA: A Cause-Effect Look at Language Bias.,2021,"Yulei Niu, Kaihua Tang, Hanwang Zhang, Zhiwu Lu, Xian-Sheng Hua, Ji-Rong Wen", CVPR 2021: 12700-12710,cvpr
+79,Counterfactual Zero-Shot and Open-Set Visual Recognition.,2021,"Zhongqi Yue, Tan Wang, Qianru Sun, Xian-Sheng Hua, Hanwang Zhang", CVPR 2021: 15404-15414,cvpr
+80,TransferNet: An Effective and Transparent Framework for Multi-hop Question Answering over Relation Graph.,2021,"Jiaxin Shi, Shulin Cao, Lei Hou, Juanzi Li, Hanwang Zhang", EMNLP  2021: 4149-4158,emnlp
+81,Auto-Parsing Network for Image Captioning and Visual Question Answering.,2021,"Xu Yang, Chongyang Gao, Hanwang Zhang, Jianfei Cai", ICCV 2021: 2177-2187,iccv
+82,Causal Attention for Unbiased Visual Recognition.,2021,"Tan Wang, Chang Zhou, Qianru Sun, Hanwang Zhang", ICCV 2021: 3071-3080,iccv
+83,Self-Regulation for Semantic Segmentation.,2021,"Dong Zhang, Hanwang Zhang, Jinhui Tang, Xian-Sheng Hua, Qianru Sun", ICCV 2021: 6933-6943,iccv
+84,Transporting Causal Mechanisms for Unsupervised Domain Adaptation.,2021,"Zhongqi Yue, Qianru Sun, Xian-Sheng Hua, Hanwang Zhang", ICCV 2021: 8579-8588,iccv
+85,How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?,2021,"Xinshuai Dong, Anh Tuan Luu, Min Lin, Shuicheng Yan, Hanwang Zhang","Xinshuai Dong, Anh Tuan Luu, Min Lin, Shuicheng Yan, Hanwang Zhang: How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness? NeurIPS 2021: 4356-4369",nips
+86,Introspective Distillation for Robust Question Answering.,2021,"Yulei Niu, Hanwang Zhang", NeurIPS 2021: 16292-16304,nips
+87,Self-Supervised Learning Disentangled Group Representation as Feature.,2021,"Tan Wang, Zhongqi Yue, Jianqiang Huang, Qianru Sun, Hanwang Zhang", NeurIPS 2021: 18225-18240,nips
+88,Clicks can be Cheating: Counterfactual Recommendation for Mitigating Clickbait Issue.,2021,"Wenjie Wang, Fuli Feng, Xiangnan He, Hanwang Zhang, Tat-Seng Chua", SIGIR 2021: 1288-1297,sigir
+89,"MMAsia 2020: ACM Multimedia Asia, Virtual Event / Singapore, 7-9 March, 2021.",2021,"Tat-Seng Chua, Jingdong Wang, Qi Tian, Cathal Gurrin, Jia Jia, Hanwang Zhang, Qianru Sun"," ACM 2021, ISBN 978-1-4503-8308-0 ",mmasia
+90,Counterfactual Zero-Shot and Open-Set Visual Recognition.,2021,"Zhongqi Yue, Tan Wang, Hanwang Zhang, Qianru Sun, Xian-Sheng Hua",00887 ,corr
+91,Distilling Causal Effect of Data in Class-Incremental Learning.,2021,"Xinting Hu, Kaihua Tang, Chunyan Miao, Xian-Sheng Hua, Hanwang Zhang",01737 ,corr
+92,Causal Attention for Vision-Language Tasks.,2021,"Xu Yang, Hanwang Zhang, Guojun Qi, Jianfei Cai",03493 ,corr
+93,The Blessings of Unlabeled Background in Untrimmed Videos.,2021,"Yuan Liu, Jingyuan Chen, Zhenfang Chen, Bing Deng, Jianqiang Huang, Hanwang Zhang",13183 ,corr
+94,TransferNet: An Effective and Transparent Framework for Multi-hop Question Answering over Relation Graph.,2021,"Jiaxin Shi, Shulin Cao, Lei Hou, Juanzi Li, Hanwang Zhang",07302 ,corr
+95,VL-NMS: Breaking Proposal Bottlenecks in Two-Stage Visual-Language Matching.,2021,"Wenbo Ma, Long Chen, Hanwang Zhang, Jian Shao, Yueting Zhuang, Jun Xiao",05636 ,corr
+96,Empowering Language Understanding with Counterfactual Reasoning.,2021,"Fuli Feng, Jizhi Zhang, Xiangnan He, Hanwang Zhang, Tat-Seng Chua",03046 ,corr
+97,Adversarial Visual Robustness by Causal Intervention.,2021,"Kaihua Tang, Mingyuan Tao, Hanwang Zhang",09534 ,corr
+98,Transporting Causal Mechanisms for Unsupervised Domain Adaptation.,2021,"Zhongqi Yue, Qianru Sun, Xian-Sheng Hua, Hanwang Zhang",11055 ,corr
+99,Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion.,2021,"Yixin Cao, Xiang Ji, Xin Lv, Juanzi Li, Yonggang Wen, Hanwang Zhang",01387 ,corr
+100,Causal Attention for Unbiased Visual Recognition.,2021,"Tan Wang, Chang Zhou, Qianru Sun, Hanwang Zhang",08782 ,corr
+101,Self-Regulation for Semantic Segmentation.,2021,"Dong Zhang, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, Qianru Sun",09702 ,corr
+102,Auto-Parsing Network for Image Captioning and Visual Question Answering.,2021,"Xu Yang, Chongyang Gao, Hanwang Zhang, Jianfei Cai",10568 ,corr
+103,Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering.,2021,"Long Chen, Yuhang Zheng, Yulei Niu, Hanwang Zhang, Jun Xiao",01013 ,corr
+104,Self-Supervised Learning Disentangled Group Representation as Feature.,2021,"Tan Wang, Zhongqi Yue, Jianqiang Huang, Qianru Sun, Hanwang Zhang",15255 ,corr
+105,Introspective Distillation for Robust Question Answering.,2021,"Yulei Niu, Hanwang Zhang",01026 ,corr
+106,How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?,2021,"Xinshuai Dong, Luu Anh Tuan, Min Lin, Shuicheng Yan, Hanwang Zhang",11668 ,corr
+107,Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification.,2021,"Beier Zhu, Yulei Niu, Xian-Sheng Hua, Hanwang Zhang",14380 ,corr
+108,Deconfounded Visual Grounding.,2021,"Jianqiang Huang, Yu Qin, Jiaxin Qi, Qianru Sun, Hanwang Zhang",15324 ,corr
+109,Fast Discrete Collaborative Multi-Modal Hashing for Large-Scale Multimedia Retrieval.,2020,"Chaoqun Zheng, Lei Zhu, Xu Lu, Jingjing Li, Zhiyong Cheng, Hanwang Zhang", 32: 2171-2184 ,tkde
+110,Multi-Level Policy and Reward-Based Deep Reinforcement Learning Framework for Image Captioning.,2020,"Ning Xu, Hanwang Zhang, An-An Liu, Weizhi Nie, Yuting Su, Jie Nie, Yongdong Zhang", 22: 1372-1383 ,tmm
+111,General Partial Label Learning via Dual Bipartite Graph Autoencoder.,2020,"Brian Chen, Bo Wu, Alireza Zareian, Hanwang Zhang, Shih-Fu Chang", AAAI 2020: 10502-10509,aaai
+112,Visual Commonsense Representation Learning via Causal Inference.,2020,"Tan Wang, Jianqiang Huang, Hanwang Zhang, Qianru Sun", CVPR Workshops 2020: 1547-1550,cvpr
+113,Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration.,2020,"Yang He, Yuhang Ding, Ping Liu, Linchao Zhu, Hanwang Zhang, Yi Yang", CVPR 2020: 2006-2015,cvpr
+114,Unbiased Scene Graph Generation From Biased Training.,2020,"Kaihua Tang, Yulei Niu, Jianqiang Huang, Jiaxin Shi, Hanwang Zhang", CVPR 2020: 3713-3722,cvpr
+115,More Grounded Image Captioning by Distilling Image-Text Matching Model.,2020,"Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang", CVPR 2020: 4776-4785,cvpr
+116,Iterative Context-Aware Graph Inference for Visual Dialog.,2020,"Dan Guo, Hui Wang, Hanwang Zhang, Zheng-Jun Zha, Meng Wang", CVPR 2020: 10052-10061,cvpr
+117,Visual Commonsense R-CNN.,2020,"Tan Wang, Jianqiang Huang, Hanwang Zhang, Qianru Sun", CVPR 2020: 10757-10767,cvpr
+118,Counterfactual Samples Synthesizing for Robust Visual Question Answering.,2020,"Long Chen, Xin Yan, Jun Xiao, Hanwang Zhang, Shiliang Pu, Yueting Zhuang", CVPR 2020: 10797-10806,cvpr
+119,Two Causal Principles for Improving Visual Dialog.,2020,"Jiaxin Qi, Yulei Niu, Jianqiang Huang, Hanwang Zhang", CVPR 2020: 10857-10866,cvpr
+120,Learning to Segment the Tail.,2020,"Xinting Hu, Yi Jiang, Kaihua Tang, Jingyuan Chen, Chunyan Miao, Hanwang Zhang", CVPR 2020: 14042-14051,cvpr
+121,Feature Pyramid Transformer.,2020,"Dong Zhang, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun", ECCV  2020: 323-339,eccv
+122,Occlusion-Aware GAN for Face De-Occlusion in the Wild.,2020,"Jiayuan Dong, Liyan Zhang, Hanwang Zhang, Weichen Liu", ICME 2020: 1-6,icmcs
+123,Hierarchical Scene Graph Encoder-Decoder for Image Paragraph Captioning.,2020,"Xu Yang, Chongyang Gao, Hanwang Zhang, Jianfei Cai", ACM Multimedia 2020: 4181-4189,mm
+124,Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect.,2020,"Kaihua Tang, Jianqiang Huang, Hanwang Zhang", NeurIPS 2020,nips
+125,Interventional Few-Shot Learning.,2020,"Zhongqi Yue, Hanwang Zhang, Qianru Sun, Xian-Sheng Hua", NeurIPS 2020,nips
+126,Causal Intervention for Weakly-Supervised Semantic Segmentation.,2020,"Dong Zhang, Hanwang Zhang, Jinhui Tang, Xian-Sheng Hua, Qianru Sun", NeurIPS 2020,nips
+127,Stochastic Dynamics for Video Infilling.,2020,"Qiangeng Xu, Hanwang Zhang, Weiyue Wang, Peter N. Belhumeur, Ulrich Neumann", WACV 2020: 2703-2712,wacv
+128,General Partial Label Learning via Dual Bipartite Graph Autoencoder.,2020,"Brian Chen, Bo Wu, Alireza Zareian, Hanwang Zhang, Shih-Fu Chang",01290 ,corr
+129,Unbiased Scene Graph Generation from Biased Training.,2020,"Kaihua Tang, Yulei Niu, Jianqiang Huang, Jiaxin Shi, Hanwang Zhang",11949 ,corr
+130,Visual Commonsense R-CNN.,2020,"Tan Wang, Jianqiang Huang, Hanwang Zhang, Qianru Sun",12204 ,corr
+131,Cross-GCN: Enhancing Graph Convolutional Network with k-Order Feature Interactions.,2020,"Fuli Feng, Xiangnan He, Hanwang Zhang, Tat-Seng Chua",02587 ,corr
+132,Deconfounded Image Captioning: A Causal Retrospect.,2020,"Xu Yang, Hanwang Zhang, Jianfei Cai",03923 ,corr
+133,Counterfactual Samples Synthesizing for Robust Visual Question Answering.,2020,"Long Chen, Xin Yan, Jun Xiao, Hanwang Zhang, Shiliang Pu, Yueting Zhuang",06576 ,corr
+134,More Grounded Image Captioning by Distilling Image-Text Matching Model.,2020,"Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang",00390 ,corr
+135,Learning to Segment the Tail.,2020,"Xinting Hu, Yi Jiang, Kaihua Tang, Jingyuan Chen, Chunyan Miao, Hanwang Zhang",00900 ,corr
+136,Iterative Context-Aware Graph Inference for Visual Dialog.,2020,"Dan Guo, Hui Wang, Hanwang Zhang, Zheng-Jun Zha, Meng Wang",02194 ,corr
+137,Counterfactual VQA: A Cause-Effect Look at Language Bias.,2020,"Yulei Niu, Kaihua Tang, Hanwang Zhang, Zhiwu Lu, Xian-Sheng Hua, Ji-Rong Wen",04315 ,corr
+138,KQA Pro: A Large Diagnostic Dataset for Complex Question Answering over Knowledge Base.,2020,"Jiaxin Shi, Shulin Cao, Liangming Pan, Yutong Xiang, Lei Hou, Juanzi Li, Hanwang Zhang, Bin He",03875 ,corr
+139,Feature Pyramid Transformer.,2020,"Dong Zhang, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun",09451 ,corr
+140,Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding.,2020,"Long Chen, Wenbo Ma, Jun Xiao, Hanwang Zhang, Wei Liu, Shih-Fu Chang",01449 ,corr
+141,"""Click"" Is Not Equal to ""Like"": Counterfactual Recommendation for Mitigating Clickbait Issue.",2020,"Wenjie Wang, Fuli Feng, Xiangnan He, Hanwang Zhang, Tat-Seng Chua",09945 ,corr
+142,Causal Intervention for Weakly-Supervised Semantic Segmentation.,2020,"Dong Zhang, Hanwang Zhang, Jinhui Tang, Xiansheng Hua, Qianru Sun",12547 ,corr
+143,Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect.,2020,"Kaihua Tang, Jianqiang Huang, Hanwang Zhang",12991 ,corr
+144,Interventional Few-Shot Learning.,2020,"Zhongqi Yue, Hanwang Zhang, Qianru Sun, Xian-Sheng Hua",13000 ,corr

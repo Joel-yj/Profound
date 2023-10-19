@@ -1,0 +1,8 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,MIGPerf: A Comprehensive Benchmark for Deep Learning Training and Inference Workloads on Multi-Instance GPUs.,2023,"Huaizheng Zhang, Yuanming Li, Wencong Xiao, Yizheng Huang, Xing Di, Jianxiong Yin, Simon See, Yong Luo, Chiew Tong Lau, Yang You",00407 ,corr
+1,Active-Learning-as-a-Service: An Efficient MLOps System for Data-Centric AI.,2022,"Yizheng Huang, Huaizheng Zhang, Yuanming Li, Chiew Tong Lau, Yang You",09109 ,corr
+2,MG-Join: A Scalable Join for Massively Parallel Multi-GPU Architectures.,2021,"Johns Paul, Shengliang Lu, Bingsheng He, Chiew Tong Lau", SIGMOD Conference 2021: 1413-1425,sigmod
+3,Classification of Travel Patterns Including Wandering Based on Bi-directional Long Short-Term Memory Networks.,2021,"Nhu Khue Vuong, Yong Liu, Syin Chan, Chiew Tong Lau, Zhenghua Chen, Min Wu, Xiaoli Li", Generalization with Deep Learning 2021: 279-301,collections
+4,Revisiting hash join on graphics processors: a decade later.,2020,"Johns Paul, Bingsheng He, Shengliang Lu, Chiew Tong Lau", Distributed Parallel Databases 38: 771-793 ,dpd
+5,Improving Execution Efficiency of Just-in-time Compilation based Query Processing on GPUs.,2020,"Johns Paul, Bingsheng He, Shengliang Lu, Chiew Tong Lau", 14: 202-214 ,pvldb
+6,Deep learning with long short-term memory networks for classification of dementia related travel patterns.,2020,"Nhu Khue Vuong, Yong Liu, Syin Chan, Chiew Tong Lau, Zhenghua Chen, Min Wu, Xiaoli Li", EMBC 2020: 5563-5566,embc

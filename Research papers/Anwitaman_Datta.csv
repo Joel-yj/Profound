@@ -1,0 +1,24 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,On parsimony and clustering.,2023,"Frédérique E. Oggier, Anwitaman Datta", 9: e1339 ,peerj-cs
+1,PIEChain - A Practical Blockchain Interoperability Framework.,2023,"Daniël Reijsbergen, Aung Maw, Jingchi Zhang, Tien Tuan Anh Dinh, Anwitaman Datta",09735 ,corr
+2,CroCoDai: A Stablecoin for Cross-Chain Commerce.,2023,"Daniël Reijsbergen, Bretislav Hajek, Tien Tuan Anh Dinh, Jussi Keppo, Hank Korth, Anwitaman Datta",09754 ,corr
+3,GovernR: Provenance and Confidentiality Guarantees In Research Data Repositories.,2023,"Anwitaman Datta, Chua Chiah Soon, Wangfan Gu",14041 ,corr
+4,BlockChain I/O: Enabling Cross-Chain Commerce.,2023,"Anwitaman Datta, Daniël Reijsbergen, Jingchi Zhang, Suman Majumder",02163 ,corr
+5,Misinformation Concierge: A Proof-of-Concept with Curated Twitter Dataset on COVID-19 Vaccination.,2023,"Shakshi Sharma, Anwitaman Datta, Vigneshwaran Shankaran, Rajesh Sharma",00639 ,corr
+6,Blockchain-enabled Data Governance for Privacy-Preserved Sharing of Confidential Data.,2023,"Jingchi Zhang, Anwitaman Datta",04125 ,corr
+7,A Modular Framework for Centrality and Clustering in Complex Networks.,2022,"Frédérique E. Oggier, Silivanxay Phetsouvanh, Anwitaman Datta", IEEE Access 10: 40001-40026 ,access
+8,Concurrency Control and Consistency Over Erasure Coded Data.,2022,"Anwitaman Datta, Frédérique E. Oggier", IEEE Access 10: 118617-118638 ,access
+9,Quorums over codes.,2022,"Anwitaman Datta, Frédérique E. Oggier", 161: 1-19 ,jpdc
+10,FaCov: COVID-19 Viral News and Rumors Fact-Check Articles Dataset.,2022,"Shakshi Sharma, Ekanshi Agrawal, Rajesh Sharma, Anwitaman Datta", ICWSM 2022: 1312-1321,icwsm
+11,1DLT: Rapid Deployment of Secure and Efficient EVM-Based Blockchains.,2022,"Simone Bottoni, Anwitaman Datta, Federico Franzoni, Emanuele Ragnoli, Roberto Ripamonti, Christian Rondanini, Gokhan Sagirlar, Alberto Trombetta", Tokenomics 2022: 3:1-3:15,tokenomics
+12,QPQ 1DLT: A system for the rapid deployment of secure and efficient EVM-based blockchains.,2022,"Simone Bottoni, Anwitaman Datta, Federico Franzoni, Emanuele Ragnoli, Roberto Ripamonti, Christian Rondanini, Gokhan Sagirlar, Alberto Trombetta",07665 ,corr
+13,Utility-Driven k-Anonymization of Public Transport User Data.,2021,"Bhawani Shanker Bhati, Jordan Ivanchev, Iva Bojic, Anwitaman Datta, David Eckhoff", IEEE Access 9: 23608-23623 ,access
+14,QLOC: Quorums With Local Reconstruction Codes.,2021,"Anwitaman Datta, Adamas Aqsa Fahreza, Frédérique E. Oggier", IEEE Access 9: 93298-93314 ,access
+15,Analysis of multi-input multi-output transactions in the Bitcoin network.,2021,"Silivanxay Phetsouvanh, Anwitaman Datta, Frédérique E. Oggier", 33 ,concurrency
+16,On Grid Quorums for Erasure Coded Data.,2021,"Frédérique E. Oggier, Anwitaman Datta", Entropy 23: 177 ,entropy
+17,On unlinkability and denial of service attacks resilience of whistleblower platforms.,2021,"Silivanxay Phetsouvanh, Anwitaman Datta, Alwen Tiu", 118: 438-452 ,fgcs
+18,Renyi entropy driven hierarchical graph clustering.,2021,"Frédérique E. Oggier, Anwitaman Datta", 7: e366 ,peerj-cs
+19,Centrality informed embedding of networks for temporal feature extraction.,2021,"Frédérique E. Oggier, Anwitaman Datta", 11: 12 ,snam
+20,Misleading the Covid-19 vaccination discourse on Twitter: An exploratory study of infodemic around the pandemic.,2021,"Shakshi Sharma, Rajesh Sharma, Anwitaman Datta",10735 ,corr
+21,A Modular Framework for Centrality and Clustering in Complex Networks.,2021,"Frédérique E. Oggier, Silivanxay Phetsouvanh, Anwitaman Datta",11623 ,corr
+22,An ego network analysis of sextortionists.,2020,"Frédérique E. Oggier, Anwitaman Datta, Silivanxay Phetsouvanh", 10: 44 ,snam

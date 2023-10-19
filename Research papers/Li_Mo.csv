@@ -1,0 +1,33 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,ST4ML: Machine Learning Oriented Spatio-Temporal Data Processing at Scale.,2023,"Kaiqi Liu, Panrong Tong, Mo Li, Yue Wu, Jianqiang Huang", Data 1: 87:1-87:28 ,pacmmod
+1,CrowdAtlas: Estimating Crowd Distribution within the Urban Rail Transit System.,2023,"Jinlong E, Mo Li, Jianqiang Huang", Data 17: 48:1-48:24 ,tkdd
+2,Channel Adapted Antenna Augmentation for Improved Wi-Fi Throughput.,2023,"Yanbo Zhang, Weiping Sun, Yidong Ren, Sung-Ju Lee, Mo Li", 22: 6297-6310 ,tmc
+3,Predicting the Impact of Disruptions to Urban Rail Transit Systems.,2023,"Xiaoyun Mo, Chu Cao, Mo Li, David Z. W. Wang", Networks 19: 2:1-2:17 ,tosn
+4,LMAC: Efficient Carrier-Sense Multiple Access for LoRa.,2023,"Amalinda Gamage, Jansen Christian Liando, Chaojie Gu, Rui Tan, Mo Li, Olivier Seller", Networks 19: 44:1-44:27 ,tosn
+5,XCopy: Boosting Weak Links for Reliable LoRa Communication.,2023,"Xianjin Xia, Qianwu Chen, Ningning Hou, Yuanqing Zheng, Mo Li", MobiCom 2023: 14:1-14:15,mobicom
+6,SiFall: Practical Online Fall Detection with RF Sensing.,2023,"Sijie Ji, Yaxiong Xie, Mo Li",03773 ,corr
+7,LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications.,2022,"Huatao Xu, Pengfei Zhou, Rui Tan, Mo Li, Guobin Shen", 26: 39-42 ,sigmobile
+8,Attack-aware Synchronization-free Data Timestamping in LoRaWAN.,2022,"Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang", Networks 18: 10:1-10:31 ,tosn
+9,Introduction to the Special Issue on Low Power Wide Area Networks.,2022,"Mo Li, Jiliang Wang, Swarun Kumar, Yuanqing Zheng", Networks 18: 58e:1-58e:2 ,tosn
+10,Experience: adopting indoor outdoor detection in on-demand food delivery business.,2022,"Pengfei Zhou, Yi Ding, Yang Li, Mo Li, Guobin Shen, Tian He", MobiCom 2022: 94-105,mobicom
+11,Passive DSSS: Empowering the Downlink Communication for Backscatter Systems.,2022,"Songfan Li, Hui Zheng, Chong Zhang, Yihang Song, Shen Yang, Minghua Chen, Li Lu, Mo Li", NSDI 2022: 913-928,nsdi
+12,Predicting Abnormal Events in Urban Rail Transit Systems with Multivariate Point Process.,2022,"Xiaoyun Mo, Mingqian Li, Mo Li", PAKDD  2022: 41-53,pakdd
+13,PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference.,2022,"Linshan Jiang, Qun Song, Rui Tan, Mo Li", SenSys 2022: 164-178,sensys
+14,SiFall: Practical Online Fall Detection with RF Sensing.,2022,"Sijie Ji, Yaxiong Xie, Mo Li", SenSys 2022: 563-577,sensys
+15,Enhancing Deep Learning Performance of Massive MIMO CSI Feedback.,2022,"Sijie Ji, Mo Li",11333 ,corr
+16,PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference.,2022,"Linshan Jiang, Qun Song, Rui Tan, Mo Li",06716 ,corr
+17,Last-Mile School Shuttle Planning With Crowdsensed Student Trajectories.,2021,"Panrong Tong, Wan Du, Mo Li, Jianqiang Huang, Wenqiang Wang, Zheng Qin", 22: 293-306 ,tits
+18,EchoWrite: An Acoustic-Based Finger Input System Without Training.,2021,"Kaishun Wu, Qiang Yang, Baojie Yuan, Yongpan Zou, Rukhsana Ruby, Mo Li", 20: 1789-1803 ,tmc
+19,UniLoc: A Unified Mobile Localization Framework Exploiting Scheme Diversity.,2021,"Wan Du, Panrong Tong, Mo Li", 20: 2505-2517 ,tmc
+20,CLNet: Complex Input Lightweight Neural Network Designed for Massive MIMO CSI Feedback.,2021,"Sijie Ji, Mo Li", 10: 2318-2322 ,wcl
+21,Traffic Flow Prediction with Vehicle Trajectories.,2021,"Mingqian Li, Panrong Tong, Mo Li, Zhongming Jin, Jianqiang Huang, Xian-Sheng Hua", AAAI 2021: 294-302,aaai
+22,CrowdAtlas: Estimating Crowd Distribution within the Urban Rail Transit System.,2021,"Jinlong E, Mo Li, Jianqiang Huang", ICDE 2021: 2219-2224,icde
+23,Predicting the Impact of Disruptions to Urban Rail Transit Systems.,2021,"Xiaoyun Mo, Chu Cao, Mo Li, David Z. W. Wang", ICDE 2021: 2249-2254,icde
+24,Generating Mobility Trajectories with Retained Data Utility.,2021,"Chu Cao, Mo Li", KDD 2021: 2610-2620,kdd
+25,Large-scale vehicle trajectory reconstruction with camera sensing network.,2021,"Panrong Tong, Mingqian Li, Mo Li, Jianqiang Huang, Xiansheng Hua", MobiCom 2021: 188-200,mobicom
+26,LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications.,2021,"Huatao Xu, Pengfei Zhou, Rui Tan, Mo Li, Guobin Shen", SenSys 2021: 220-233,sensys
+27,CQNet: Complex Input Quantized Neural Network designed for Massive MIMO CSI Feedback.,2021,"Sijie Ji, Weiping Sun, Mo Li",07507 ,corr
+28,Attack-Aware Synchronization-Free Data Timestamping in LoRaWAN.,2021,"Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang",04833 ,corr
+29,Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN.,2020,"Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang", ICDCS 2020: 100-110,icdcs
+30,Internet-of-microchips: direct radio-to-bus communication with SPI backscatter.,2020,"Songfan Li, Chong Zhang, Yihang Song, Hui Zheng, Lu Liu, Li Lu, Mo Li", MobiCom 2020: 25:1-25:14,mobicom
+31,LMAC: efficient carrier-sense multiple access for LoRa.,2020,"Amalinda Gamage, Jansen Christian Liando, Chaojie Gu, Rui Tan, Mo Li", MobiCom 2020: 43:1-43:13,mobicom

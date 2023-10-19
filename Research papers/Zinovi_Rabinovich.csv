@@ -1,0 +1,18 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Off-Beat Multi-Agent Reinforcement Learning.,2023,"Wei Qiu, Weixun Wang, Rundong Wang, Bo An, Yujing Hu, Svetlana Obraztsova, Zinovi Rabinovich, Jianye Hao, Yingfeng Chen, Changjie Fan", AAMAS 2023: 2424-2426,atal
+1,Poisoning the Well: Can We Simultaneously Attack a Group of Learning Agents?,2023,"Ridhima Bector, Hang Xu, Abhay Aradhya, Chai Quek, Zinovi Rabinovich","Ridhima Bector, Hang Xu, Abhay Aradhya, Chai Quek, Zinovi Rabinovich: Poisoning the Well: Can We Simultaneously Attack a Group of Learning Agents? IJCAI 2023: 3470-3478",ijcai
+2,Towards Skilled Population Curriculum for Multi-Agent Reinforcement Learning.,2023,"Rundong Wang, Longtao Zheng, Wei Qiu, Bowei He, Bo An, Zinovi Rabinovich, Yujing Hu, Yingfeng Chen, Tangjie Lv, Changjie Fan",03429 ,corr
+3,Policy Resilience to Environment Poisoning Attacks on Reinforcement Learning.,2023,"Hang Xu, Xinghua Qu, Zinovi Rabinovich",12151 ,corr
+4,Spiking Pitch Black: Poisoning an Unknown Environment to Attack Unknown Reinforcement Learners.,2022,"Hang Xu, Xinghua Qu, Zinovi Rabinovich", AAMAS 2022: 1409-1417,atal
+5,Mis-spoke or mis-lead: Achieving Robustness in Multi-Agent Communicative Reinforcement Learning.,2022,"Wanqi Xue, Wei Qiu, Bo An, Zinovi Rabinovich, Svetlana Obraztsova, Chai Kiat Yeo", AAMAS 2022: 1418-1426,atal
+6,Reaching Consensus Under a Deadline.,2022,"Marina Bannikova, Lihi Dery, Svetlana Obraztsova, Zinovi Rabinovich, Jeffrey S. Rosenschein", AAMAS 2022: 1920-1922,atal
+7,Off-Beat Multi-Agent Reinforcement Learning.,2022,"Wei Qiu, Weixun Wang, Rundong Wang, Bo An, Yujing Hu, Svetlana Obraztsova, Zinovi Rabinovich, Jianye Hao, Yingfeng Chen, Changjie Fan",13718 ,corr
+8,Reaching consensus under a deadline.,2021,"Marina Bannikova, Lihi Dery, Svetlana Obraztsova, Zinovi Rabinovich, Jeffrey S. Rosenschein", 35: 9 ,aamas
+9,Protecting elections by recounting ballots.,2021,"Edith Elkind, Jiarui Gan, Svetlana Obraztsova, Zinovi Rabinovich, Alexandros A. Voudouris", 290: 103401 ,ai
+10,Transferable Environment Poisoning: Training-time Attack on Reinforcement Learning.,2021,"Hang Xu, Rundong Wang, Lev Raizman, Zinovi Rabinovich", AAMAS 2021: 1398-1406,atal
+11,RMIX: Learning Risk-Sensitive Policies for Cooperative Reinforcement Learning Agents.,2021,"Wei Qiu, Xinrun Wang, Runsheng Yu, Rundong Wang, Xu He, Bo An, Svetlana Obraztsova, Zinovi Rabinovich", NeurIPS 2021: 23049-23062,nips
+12,RMIX: Learning Risk-Sensitive Policies for Cooperative Reinforcement Learning Agents.,2021,"Wei Qiu, Xinrun Wang, Runsheng Yu, Xu He, Rundong Wang, Bo An, Svetlana Obraztsova, Zinovi Rabinovich",08159 ,corr
+13,Mis-spoke or mis-lead: Achieving Robustness in Multi-Agent Communicative Reinforcement Learning.,2021,"Wanqi Xue, Wei Qiu, Bo An, Zinovi Rabinovich, Svetlana Obraztsova, Chai Kiat Yeo",03803 ,corr
+14,New Algorithms for Continuous Distributed Constraint Optimization Problems.,2020,"Khoi D. Hoang, William Yeoh, Makoto Yokoo, Zinovi Rabinovich", AAMAS 2020: 502-510,atal
+15,Learning Efficient Multi-agent Communication: An Information Bottleneck Approach.,2020,"Rundong Wang, Xu He, Runsheng Yu, Wei Qiu, Bo An, Zinovi Rabinovich", ICML 2020: 9908-9918,icml
+16,I²HRL: Interactive Influence-based Hierarchical Reinforcement Learning.,2020,"Rundong Wang, Runsheng Yu, Bo An, Zinovi Rabinovich", IJCAI 2020: 3131-3138,ijcai

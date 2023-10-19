@@ -1,0 +1,102 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,A transformer-based deep neural network model for SSVEP classification.,2023,"Jianbo Chen, Yangsong Zhang, Yudong Pan, Peng Xu, Cuntai Guan", Neural Networks 164: 521-534 ,nn
+1,E-Key: An EEG-Based Biometric Authentication and Driving Fatigue Detection System.,2023,"Tao Xu, Hongtao Wang, Guanyong Lu, Feng Wan, Mengqi Deng, Peng Qi, Anastasios Bezerianos, Cuntai Guan, Yu Sun", 14: 864-877 ,taffco
+2,TSception: Capturing Temporal Dynamics and Spatial Asymmetry From EEG for Emotion Recognition.,2023,"Yi Ding, Neethu Robinson, Su Zhang, Qiuhao Zeng, Cuntai Guan", 14: 2238-2250 ,taffco
+3,Quantifying Explainability of Saliency Methods in Deep Neural Networks With a Synthetic Dataset.,2023,"Erico Tjoa, Cuntai Guan", 4: 858-870 ,tai
+4,Effects of Cognitive Distraction on Upper Limb Movement Decoding From EEG Signals.,2023,"Weijie Fei, Luzheng Bi, Jiarong Wang, Shengchao Xia, Xinan Fan, Cuntai Guan", 70: 166-174 ,tbe
+5,Robust Bayesian Estimation of EEG-Based Brain Causality Networks.,2023,"Ke Liu, Qin Lai, Peiyang Li, Zhuliang Yu, Bin Xiao, Cuntai Guan, Wei Wu", 70: 1879-1890 ,tbe
+6,OCTAve: 2D En Face Optical Coherence Tomography Angiography Vessel Segmentation in Weakly-Supervised Learning With Locality Augmentation.,2023,"Amrest Chinkamol, Vetit Kanjaras, Phattarapong Sawangjai, Yitian Zhao, Thapanun Sudhawiyangkul, Chantana Chantrapornchai, Cuntai Guan, Theerawit Wilaiprasitporn", 70: 1931-1942 ,tbe
+7,ADAST: Attentive Cross-Domain EEG-Based Sleep Staging Framework With Iterative Self-Training.,2023,"Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee-Keong Kwoh, Xiaoli Li, Cuntai Guan", 7: 210-221 ,tetci
+8,Video Based Cocktail Causal Container for Blood Pressure Classification and Blood Glucose Prediction.,2023,"Chuanhao Zhang, Emil Jovanov, Hongen Liao, Yuan-Ting Zhang, Benny Lo, Yuan Zhang, Cuntai Guan", Health Informatics 27: 1118-1128 ,titb
+9,LE-UDA: Label-Efficient Unsupervised Domain Adaptation for Medical Image Segmentation.,2023,"Ziyuan Zhao, Fangcheng Zhou, Kaixin Xu, Zeng Zeng, Cuntai Guan, S. Kevin Zhou", Medical Imaging 42: 633-646 ,tmi
+10,Efficient Representation Learning for Inner Speech Domain Generalization.,2023,"Han Wei Ng, Cuntai Guan", CAIP  2023: 131-141,caip
+11,Multimodal Continuous Emotion Recognition: A Technical Report for ABAW5.,2023,"Su Zhang, Ziyuan Zhao, Cuntai Guan", CVPR Workshops 2023: 5764-5769,cvpr
+12,SemiGNN-PPI: Self-Ensembling Multi-Graph Neural Network for Efficient and Generalizable Protein-Protein Interaction Prediction.,2023,"Ziyuan Zhao, Peisheng Qian, Xulei Yang, Zeng Zeng, Cuntai Guan, Tam Wai Leong, Xiaoli Li", IJCAI 2023: 4984-4992,ijcai
+13,Multimodal Continuous Emotion Recognition: A Technical Report for ABAW5.,2023,"Su Zhang, Ziyuan Zhao, Cuntai Guan",10335 ,corr
+14,MS-MT: Multi-Scale Mean Teacher with Contrastive Unpaired Translation for Cross-Modality Vestibular Schwannoma and Cochlea Segmentation.,2023,"Ziyuan Zhao, Kaixin Xu, Huai Zhe Yeo, Xulei Yang, Cuntai Guan",15826 ,corr
+15,Interpretable and Robust AI in EEG Systems: A Survey.,2023,"Xinliang Zhou, Chenyu Liu, Liming Zhai, Ziyu Jia, Cuntai Guan, Yang Liu",10755 ,corr
+16,Meta-hallucinator: Towards Few-Shot Cross-Modality Cardiac Image Segmentation.,2023,"Ziyuan Zhao, Fangcheng Zhou, Zeng Zeng, Cuntai Guan, S. Kevin Zhou",06978 ,corr
+17,SemiGNN-PPI: Self-Ensembling Multi-Graph Neural Network for Efficient and Generalizable Protein-Protein Interaction Prediction.,2023,"Ziyuan Zhao, Peisheng Qian, Xulei Yang, Zeng Zeng, Cuntai Guan, Tam Wai Leong, Xiaoli Li",08316 ,corr
+18,Aggregating Intrinsic Information to Enhance BCI Performance through Federated Learning.,2023,"Rui Liu, Yuanyuan Chen, Anran Li, Yi Ding, Han Yu, Cuntai Guan",11636 ,corr
+19,MASA-TCN: Multi-anchor Space-aware Temporal Convolutional Neural Networks for Continuous and Discrete EEG Emotion Recognition.,2023,"Yi Ding, Su Zhang, Chuangao Tang, Cuntai Guan",16207 ,corr
+20,ME-PLAN: A deep prototypical learning with local attention network for dynamic micro-expression recognition.,2022,"Sirui Zhao, Huaying Tang, Shifeng Liu, Yangsong Zhang, Hao Wang, Tong Xu, Enhong Chen, Cuntai Guan", Neural Networks 153: 427-443 ,nn
+21,Visual-to-EEG cross-modal knowledge distillation for continuous emotion recognition.,2022,"Su Zhang, Chuangao Tang, Cuntai Guan", 130: 108833 ,pr
+22,Design a Novel BCI for Neurorehabilitation Using Concurrent LFP and EEG Features: A Case Study.,2022,"Zhao Feng, Yi Sun, Linze Qian, Yu Qi, Yueming Wang, Cuntai Guan, Yu Sun", 69: 1554-1563 ,tbe
+23,MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification.,2022,"Phairot Autthasan, Rattanaphon Chaisaen, Thapanun Sudhawiyangkul, Phurin Rangpong, Suktipol Kiatthaveephong, Nat Dilokthanakul, Gun Bhakdisongkhram, Huy Phan, Cuntai Guan, Theerawit Wilaiprasitporn", 69: 2105-2118 ,tbe
+24,Robust Traffic Prediction From Spatial-Temporal Data Based on Conditional Distribution Learning.,2022,"Zeng Zeng, Wei Zhao, Peisheng Qian, Yingjie Zhou, Ziyuan Zhao, Cen Chen, Cuntai Guan", 52: 13458-13471 ,tcyb
+25,Spatio-Spectral Feature Representation for Motor Imagery Classification Using Convolutional Neural Networks.,2022,"Ji-Seon Bang, Min-Ho Lee, Siamac Fazli, Cuntai Guan, Seong-Whan Lee", 33: 3038-3049 ,tnn
+26,Continuous Emotion Recognition using Visual-audio-linguistic Information: A Technical Report for ABAW3.,2022,"Su Zhang, Ruyi An, Yi Ding, Cuntai Guan", CVPR Workshops 2022: 2375-2380,cvpr
+27,Self-supervised Assisted Active Learning for Skin Lesion Segmentation.,2022,"Ziyuan Zhao, Wenjing Lu, Zeng Zeng, Kaixin Xu, Bharadwaj Veeravalli, Cuntai Guan", EMBC 2022: 5043-5046,embc
+28,MMGL: Multi-Scale Multi-View Global-Local Contrastive Learning for Semi-Supervised Cardiac Image Segmentation.,2022,"Ziyuan Zhao, Jinxuan Hu, Zeng Zeng, Xulei Yang, Peisheng Qian, Bharadwaj Veeravalli, Cuntai Guan", ICIP 2022: 401-405,icip
+29,ACT-NET: Asymmetric Co-Teacher Network for Semi-Supervised Memory-Efficient Medical Image Segmentation.,2022,"Ziyuan Zhao, Andong Zhu, Zeng Zeng, Bharadwaj Veeravalli, Cuntai Guan", ICIP 2022: 1426-1430,icip
+30,MATN: Multi-model Attention Network for Gait Prediction from EEG.,2022,"Xi Fu, Liming Zhao, Cuntai Guan", IJCNN 2022: 1-8,ijcnn
+31,TESANet: Self-attention network for olfactory EEG classification.,2022,"Chengxuan Tong, Yi Ding, Kevin Lim Jun Liang, Zhuo Zhang, Haihong Zhang, Cuntai Guan", IJCNN 2022: 1-7,ijcnn
+32,Meta-hallucinator: Towards Few-Shot Cross-Modality Cardiac Image Segmentation.,2022,"Ziyuan Zhao, Fangcheng Zhou, Zeng Zeng, Cuntai Guan, S. Kevin Zhou", MICCAI  2022: 128-139,miccai
+33,Online Adaptive CNN: a Session-to-session Transfer Learning Approach for Non-stationary EEG.,2022,"Shuailei Zhang, Dezhi Zheng, Ning Tang, Effie Chew, Rosary Yuting Lim, Kai Keng Ang, Cuntai Guan", SSCI 2022: 164-170,ssci
+34,Improving Deep Neural Network Classification Confidence using Heatmap-based eXplainable AI.,2022,"Erico Tjoa, Hong Jing Khok, Tushar Chouhan, Cuntai Guan",00009 ,corr
+35,Deep Optimal Transport on SPD Manifolds for Domain Adaptation.,2022,"Ce Ju, Cuntai Guan",05745 ,corr
+36,Tensor-CSPNet: A Novel Geometric Deep Learning Framework for Motor Imagery Classification.,2022,"Ce Ju, Cuntai Guan",02472 ,corr
+37,MT-UDA: Towards Unsupervised Cross-modality Medical Image Segmentation with Limited Source Labels.,2022,"Ziyuan Zhao, Kaixin Xu, Shumeng Li, Zeng Zeng, Cuntai Guan",12454 ,corr
+38,Continuous Emotion Recognition using Visual-audio-linguistic information: A Technical Report for ABAW3.,2022,"Su Zhang, Ruyi An, Yi Ding, Cuntai Guan",13031 ,corr
+39,Self-supervised Assisted Active Learning for Skin Lesion Segmentation.,2022,"Ziyuan Zhao, Wenjing Lu, Zeng Zeng, Kaixin Xu, Bharadwaj Veeravalli, Cuntai Guan",07021 ,corr
+40,MMGL: Multi-Scale Multi-View Global-Local Contrastive learning for Semi-supervised Cardiac Image Segmentation.,2022,"Ziyuan Zhao, Jinxuan Hu, Zeng Zeng, Xulei Yang, Peisheng Qian, Bharadwaj Veeravalli, Cuntai Guan",01883 ,corr
+41,ACT-Net: Asymmetric Co-Teacher Network for Semi-supervised Memory-efficient Medical Image Segmentation.,2022,"Ziyuan Zhao, Andong Zhu, Zeng Zeng, Bharadwaj Veeravalli, Cuntai Guan",01900 ,corr
+42,OCTAve: 2D en face Optical Coherence Tomography Angiography Vessel Segmentation in Weakly-Supervised Learning with Locality Augmentation.,2022,"Amrest Chinkamol, Vetit Kanjaras, Phattarapong Sawangjai, Yitian Zhao, Thapanun Sudhawiyangkul, Chantana Chantrapornchai, Cuntai Guan, Theerawit Wilaiprasitporn",12238 ,corr
+43,Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification.,2022,"Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li, Cuntai Guan",06616 ,corr
+44,A Transformer-based deep neural network model for SSVEP classification.,2022,"Jianbo Chen, Yangsong Zhang, Yudong Pan, Peng Xu, Cuntai Guan",04172 ,corr
+45,Graph Neural Networks on SPD Manifolds for Motor Imagery Classification: A Perspective from the Time-Frequency Analysis.,2022,"Ce Ju, Cuntai Guan",02641 ,corr
+46,Decomposing 3D Neuroimaging into 2+1D Processing for Schizophrenia Recognition.,2022,"Mengjiao Hu, Xudong Jiang, Kang Sim, Juan Helen Zhou, Cuntai Guan",11557 ,corr
+47,LE-UDA: Label-efficient unsupervised domain adaptation for medical image segmentation.,2022,"Ziyuan Zhao, Fangcheng Zhou, Kaixin Xu, Zeng Zeng, Cuntai Guan, S. Kevin Zhou",02078 ,corr
+48,Neurorehabilitation From a Distance: Can Intelligent Technology Support Decentralized Access to Quality Therapy?,2021,"Olivier Lambercy, Rea Lehner, Karen Sui Geok Chua, Seng Kwee Wee, Deshan Kumar Rajeswaran, Christopher Wee Keong Kuah, Wei Tech Ang, Phyllis Liang, Domenico Campolo, Asif Hussain, Gabriel Aguirre-Ollinger, Cuntai Guan, Christoph M. Kanzler, Nicole Wenderoth, Roger Gassert"," Kanzler, Nicole Wenderoth, Roger Gassert: Neurorehabilitation From a Distance: Can Intelligent Technology Support Decentralized Access to Quality Therapy? Frontiers Robotics AI 8: 612415 ",firai
+49,fMRI-SI-STBF: An fMRI-informed Bayesian electromagnetic spatio-temporal extended source imaging.,2021,"Ke Liu, Zhu Liang Yu, Wei Wu, Xun Chen, Zhenghui Gu, Cuntai Guan", Neurocomputing 462: 14-30 ,ijon
+50,WiFi-Sleep: Sleep Stage Monitoring Using Commodity Wi-Fi Devices.,2021,"Bohan Yu, Yuxiang Wang, Kai Niu, Youwei Zeng, Tao Gu, Leye Wang, Cuntai Guan, Daqing Zhang", 8: 13900-13913 ,iotj
+51,Adaptive transfer learning for EEG motor imagery classification with deep Convolutional Neural Network.,2021,"Kaishuo Zhang, Neethu Robinson, Seong-Whan Lee, Cuntai Guan", Neural Networks 136: 1-10 ,nn
+52,An end-to-end 3D convolutional neural network for decoding attentive mental state.,2021,"Yangsong Zhang, Huan Cai, Li Nie, Peng Xu, Sirui Zhao, Cuntai Guan", Neural Networks 144: 129-137 ,nn
+53,Decoding Single-Hand and Both-Hand Movement Directions From Noninvasive Neural Signals.,2021,"Jiarong Wang, Luzheng Bi, Weijie Fei, Cuntai Guan", 68: 1932-1940 ,tbe
+54,DSAL: Deeply Supervised Active Learning From Strong and Weak Labelers for Biomedical Image Segmentation.,2021,"Ziyuan Zhao, Zeng Zeng, Kaixin Xu, Cen Chen, Cuntai Guan", Health Informatics 25: 3744-3751 ,titb
+55,Generative Adversarial Networks-Based Data Augmentation for Brain-Computer Interface.,2021,"Fatemeh Fahimi, Strahinja Dosen, Kai Keng Ang, Natalie Mrachacz-Kersting, Cuntai Guan", 32: 4039-4051 ,tnn
+56,A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI.,2021,"Erico Tjoa, Cuntai Guan", 32: 4793-4813 ,tnn
+57,Learning Generalized Representations of EEG between Multiple Cognitive Attention Tasks.,2021,"Yi Ding, Nigel Wei Jun Ang, Aung Aung Phyo Wai, Cuntai Guan", EMBC 2021: 306-310,embc
+58,Performance Evaluation of Compressed Deep CNN for Motor Imagery Classification using EEG.,2021,"R. Vishnupriya, Neethu Robinson, Ramasubba Reddy M, Cuntai Guan", EMBC 2021: 795-799,embc
+59,Hierarchical Consistency Regularized Mean Teacher for Semi-supervised 3D Left Atrium Segmentation.,2021,"Shumeng Li, Ziyuan Zhao, Kaixin Xu, Zeng Zeng, Cuntai Guan", EMBC 2021: 3395-3398,embc
+60,A Study of Visual Search based Calibration Protocol for EEG Attention Detection.,2021,"Aung Aung Phyo Wai, Jee Ern Tchen, Cuntai Guan", EMBC 2021: 5792-5795,embc
+61,Investigation on Robustness of EEG-based Brain-Computer Interfaces.,2021,"Aarthy Nagarajan, Neethu Robinson, Cuntai Guan", EMBC 2021: 6334-6340,embc
+62,Continuous Emotion Recognition with Audio-visual Leader-follower Attentive Fusion.,2021,"Su Zhang, Yi Ding, Ziquan Wei, Cuntai Guan", ICCVW 2021: 3560-3567,iccvw
+63,Time-Series Representation Learning via Temporal and Contextual Contrasting.,2021,"Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li, Cuntai Guan", IJCAI 2021: 2352-2359,ijcai
+64,MT-UDA: Towards Unsupervised Cross-modality Medical Image Segmentation with Limited Source Labels.,2021,"Ziyuan Zhao, Kaixin Xu, Shumeng Li, Zeng Zeng, Cuntai Guan", MICCAI  2021: 293-303,miccai
+65,DSAL: Deeply Supervised Active Learning from Strong and Weak Labelers for Biomedical Image Segmentation.,2021,"Ziyuan Zhao, Zeng Zeng, Kaixin Xu, Cen Chen, Cuntai Guan",09057 ,corr
+66,MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification.,2021,"Phairot Autthasan, Rattanaphon Chaisaen, Thapanun Sudhawiyangkul, Phurin Rangpong, Suktipol Kiatthaveephong, Nat Dilokthanakul, Gun Bhakdisongkhram, Huy Phan, Cuntai Guan, Theerawit Wilaiprasitporn",03814 ,corr
+67,Convolutional Neural Network Interpretability with General Pattern Theory.,2021,"Erico Tjoa, Cuntai Guan",04247 ,corr
+68,A Pilot Study on Visually-Stimulated Cognitive Tasks for EEG-Based Dementia Recognition Using Frequency and Time Features.,2021,"Supavit Kongwudhikunakorn, Suktipol Kiatthaveephong, Kamonwan Thanontip, Pitshaporn Leelaarporn, Maytus Piriyajitakonkij, Thananya Charoenpattarawut, Phairot Autthasan, Rattanaphon Chaisaen, Pathitta Dujada, Thapanun Sudhawiyangkul, Cuntai Guan, Vorapun Senanarong, Theerawit Wilaiprasitporn",03854 ,corr
+69,FBCNet: A Multi-view Convolutional Neural Network for Brain-Computer Interface.,2021,"Ravikiran Mane, Effie Chew, Karen Sui Geok Chua, Kai Keng Ang, Neethu Robinson, A. Prasad Vinod, Seong-Whan Lee, Cuntai Guan",01233 ,corr
+70,TSception: Capturing Temporal Dynamics and Spatial Asymmetry from EEG for Emotion Recognition.,2021,"Yi Ding, Neethu Robinson, Qiuhao Zeng, Cuntai Guan",02935 ,corr
+71,LGGNet: Learning from Local-Global-Graph Representations for Brain-Computer Interface.,2021,"Yi Ding, Neethu Robinson, Qiuhao Zeng, Cuntai Guan",02786 ,corr
+72,Hierarchical Consistency Regularized Mean Teacher for Semi-supervised 3D Left Atrium Segmentation.,2021,"Shumeng Li, Ziyuan Zhao, Kaixin Xu, Zeng Zeng, Cuntai Guan",10369 ,corr
+73,Time-Series Representation Learning via Temporal and Contextual Contrasting.,2021,"Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li, Cuntai Guan",14112 ,corr
+74,Audio-visual Attentive Fusion for Continuous Emotion Recognition.,2021,"Su Zhang, Yi Ding, Ziquan Wei, Cuntai Guan",01175 ,corr
+75,Adversarial Domain Adaptation with Self-Training for EEG-based Sleep Stage Classification.,2021,"Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li, Cuntai Guan",04470 ,corr
+76,Two Instances of Interpretable Neural Network for Universal Approximations.,2021,"Erico Tjoa, Cuntai Guan",15026 ,corr
+77,Self Reward Design with Fine-grained Interpretability.,2021,"Erico Tjoa, Cuntai Guan",15034 ,corr
+78,A Brain-Computer Interface Framework Based on Compressive Sensing and Deep Learning.,2020,"Ritu Ranjan Shrivastwa, Vikramkumar Pudi, Duo Chen, Rosa Q. So, Anupam Chattopadhyay, Cuntai Guan", 9: 90-96 ,cem
+79,Assessment of the Efficacy of EEG-Based MI-BCI With Visual Feedback and EEG Correlates of Mental Fatigue for Upper-Limb Stroke Rehabilitation.,2020,"Ruyi Foong, Ning Tang, Effie Chew, Karen Sui Geok Chua, Kai Keng Ang, Chai Quek, Cuntai Guan, Kok Soon Phua, Christopher Wee Keong Kuah, Deshmukh Arun Vishwanath, Lester Hon Lum Yam, Deshan Kumar Rajeswaran", 67: 786-795 ,tbe
+80,Brain-Computer Interface-Based Soft Robotic Glove Rehabilitation for Stroke.,2020,"Nicholas Cheng, Kok Soon Phua, Hwa Sen Lai, Pui Kit Tam, Ka Yin Tang, Cheng Kai Kei, Raye Chen-Hua Yeow, Kai Keng Ang, Cuntai Guan, Jeong Hoon Lim", 67: 3339-3351 ,tbe
+81,A Context-Aware Locality Measure for Inlier Pool Enrichment in Stepwise Image Registration.,2020,"Su Zhang, Wanjing Zhao, Xuying Hao, Yang Yang, Cuntai Guan", 29: 4281-4295 ,tip
+82,Subject-Independent Brain-Computer Interfaces Based on Deep Convolutional Neural Networks.,2020,"O-Yeon Kwon, Min-Ho Lee, Cuntai Guan, Seong-Whan Lee", 31: 3839-3852 ,tnn
+83,BCI Facilitates the Improvement of Cognitive Functions in Children and Elderly.,2020,"Cuntai Guan, Choon Guan Lim, Daniel Fung, Juan Helen Zhou, Ranga Krishnan, Tih Shih Lee", BCI 2020: 1-2,bci3
+84,Interpreting mechanisms of prediction for skin cancer diagnosis using multi-task learning.,2020,"Davide Coppola, Hwee Kuan Lee, Cuntai Guan", CVPR Workshops 2020: 3162-3171,cvpr
+85,Emotion Recognition with Refined Labels for Deep Learning.,2020,"Su Zhang, Cuntai Guan", EMBC 2020: 108-111,embc
+86,Minimizing Hybrid Dice Loss for Highly Imbalanced 3D Neuroimage Segmentation.,2020,"Yuhao Lu, Juan Helen Zhou, Cuntai Guan", EMBC 2020: 1059-1062,embc
+87,Deep Learning for Neuroimaging Segmentation with a Novel Data Augmentation Strategy.,2020,"Wenshan Wu, Yuhao Lu, Ravikiran Mane, Cuntai Guan", EMBC 2020: 1516-1519,embc
+88,Brain MRI-based 3D Convolutional Neural Networks for Classification of Schizophrenia and Controls.,2020,"Mengjiao Hu, Kang Sim, Juan Helen Zhou, Xudong Jiang, Cuntai Guan", EMBC 2020: 1742-1745,embc
+89,A Multi-view CNN with Novel Variance Layer for Motor Imagery Brain Computer Interface.,2020,"Ravikiran Mane, Neethu Robinson, A. Prasad Vinod, Seong-Whan Lee, Cuntai Guan", EMBC 2020: 2950-2953,embc
+90,Generalizability of EEG-based Mental Attention Modeling with Multiple Cognitive Tasks.,2020,"Aung Aung Phyo Wai, Maokang Dou, Cuntai Guan", EMBC 2020: 2959-2962,embc
+91,Effects of Stimulus Spatial Resolution on SSVEP Responses under Overt and Covert Attention.,2020,"Aung Aung Phyo Wai, Jun Cong Lee, Tao Yang, Rosa Q. So, Cuntai Guan", EMBC 2020: 3019-3022,embc
+92,Federated Transfer Learning for EEG Signal Classification.,2020,"Ce Ju, Dashan Gao, Ravikiran Mane, Ben Tan, Yang Liu, Cuntai Guan", EMBC 2020: 3040-3045,embc
+93,TSception: A Deep Learning Framework for Emotion Detection Using EEG.,2020,"Yi Ding, Neethu Robinson, Qiuhao Zeng, Duo Chen, Aung Aung Phyo Wai, Tih Shih Lee, Cuntai Guan", IJCNN 2020: 1-7,ijcnn
+94,Optimizing Filter-bank Canonical Correlation Analysis for fast response SSVEP Brain-Computer Interface (BCI).,2020,"Aung Aung Phyo Wai, Heng Guo, Ying Chi, Lei Zhang, Xian-Sheng Hua, Cuntai Guan", IJCNN 2020: 1-8,ijcnn
+95,Deep Multi-Task Learning for SSVEP Detection and Visual Response Mapping.,2020,"Hong Jing Khok, Victor Teck Chang Koh, Cuntai Guan", SMC 2020: 1280-1285,smc
+96,Brain MRI-based 3D Convolutional Neural Networks for Classification of Schizophrenia and Controls.,2020,"Mengjiao Hu, Kang Sim, Juan Helen Zhou, Xudong Jiang, Cuntai Guan",08818 ,corr
+97,TSception: A Deep Learning Framework for Emotion Detection Using EEG.,2020,"Yi Ding, Neethu Robinson, Qiuhao Zeng, Duo Chen, Aung Aung Phyo Wai, Tih Shih Lee, Cuntai Guan",02965 ,corr
+98,Federated Transfer Learning for EEG Signal Classification.,2020,"Ce Ju, Dashan Gao, Ravikiran Mane, Ben Tan, Yang Liu, Cuntai Guan",12321 ,corr
+99,Generalization on the Enhancement of Layerwise Relevance Interpretability of Deep Neural Network.,2020,"Erico Tjoa, Cuntai Guan",02516 ,corr
+100,Quantifying Explainability of Saliency Methods in Deep Neural Networks.,2020,"Erico Tjoa, Cuntai Guan",02899 ,corr

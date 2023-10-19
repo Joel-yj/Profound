@@ -1,0 +1,62 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,A universal transfer network for machinery fault diagnosis.,2023,"Xiaolei Yu, Zhibin Zhao, Xingwu Zhang, Shaohua Tian, Chee-Keong Kwoh, Xiaoli Li, Xuefeng Chen", 151: 103976 ,cii
+1,Virulence network of interacting domains of influenza a and mouse proteins.,2023,"Teng Ann Ng, Shamima Rashid, Chee Keong Kwoh", 3 ,fbinf
+2,Directed collaboration patterns in funded teams: A perspective of knowledge flow.,2023,"Bentao Zou, Yuefen Wang, Chee Keong Kwoh, Yonghua Cen", 60: 103237 ,ipm
+3,ViPal: A framework for virulence prediction of influenza viruses with prior viral knowledge using genomic sequences.,2023,"Rui Yin, Zihan Luo, Pei Zhuang, Min Zeng, Min Li, Zhuoyi Lin, Chee Keong Kwoh", Informatics 142: 104388 ,jbi
+4,Empirical Study of Protein Feature Representation on Deep Belief Networks Trained With Small Data for Secondary Structure Prediction.,2023,"Shamima Rashid, Suresh Sundaram, Chee Keong Kwoh", 20: 955-966 ,tcbb
+5,ADAST: Attentive Cross-Domain EEG-Based Sleep Staging Framework With Iterative Self-Training.,2023,"Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee-Keong Kwoh, Xiaoli Li, Cuntai Guan", 7: 210-221 ,tetci
+6,ADATIME: A Benchmarking Suite for Domain Adaptation on Time Series Data.,2023,"Mohamed Ragab, Emadeldeen Eldele, Wee Ling Tan, Chuan-Sheng Foo, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li", Data 17: 106:1-106:18 ,tkdd
+7,Attention Over Self-Attention: Intention-Aware Re-Ranking With Dynamic Transformer Encoders for Recommendation.,2023,"Zhuoyi Lin, Sheng Zang, Rundong Wang, Zhu Sun, J. Senthilnath, Chi Xu, Chee Keong Kwoh", 35: 7782-7795 ,tkde
+8,Label-efficient Time Series Representation Learning: A Review.,2023,"Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li",06433 ,corr
+9,Adaptive Stylization Modulation for Domain Generalized Semantic Segmentation.,2023,"Gabriel Tjio, Ping Liu, Chee-Keong Kwoh, Joey Tianyi Zhou",09347 ,corr
+10,Generating Reliable Pixel-Level Labels for Source Free Domain Adaptation.,2023,"Gabriel Tjio, Ping Liu, Yawei Luo, Chee Keong Kwoh, Joey Tianyi Zhou",00893 ,corr
+11,"Graph representation learning in bioinformatics: trends, methods and applications.",2022,"Hai-Cheng Yi, Zhu-Hong You, De-Shuang Huang, Chee Keong Kwoh", 23 ,bib
+12,A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods.,2022,"Rui Yin, Xianghe Zhu, Min Zeng, Pengfei Wu, Min Li, Chee Keong Kwoh", 23 ,bib
+13,Jupytope: computational extraction of structural properties of viral epitopes.,2022,"Shamima Rashid, Teng Ann Ng, Chee Keong Kwoh", 23 ,bib
+14,Pre-training graph neural networks for link prediction in biomedical networks.,2022,"Yahui Long, Min Wu, Yong Liu, Yuan Fang, Chee Keong Kwoh, Jinmiao Chen, Jiawei Luo, Xiaoli Li", 38: 2254-2262 ,bioinformatics
+15,An Efficient Multiresolution Clustering for Motif Discovery in Complex Networks.,2022,"Mahdi Pursalim, Kwoh Chee Keong", 19: 284-294 ,tcbb
+16,IAV-CNN: A 2D Convolutional Neural Network Model to Predict Antigenic Variants of Influenza A Virus.,2022,"Rui Yin, Nyi Nyi Thwin, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh", 19: 3497-3506 ,tcbb
+17,Toward Multidiversified Ensemble Clustering of High-Dimensional Data: From Subspaces to Metrics and Beyond.,2022,"Dong Huang, Chang-Dong Wang, Jian-Huang Lai, Chee Keong Kwoh", 52: 12231-12244 ,tcyb
+18,Conditional Contrastive Domain Generalization for Fault Diagnosis.,2022,"Mohamed Ragab, Zhenghua Chen, Wenyu Zhang, Emadeldeen Eldele, Min Wu, Chee Keong Kwoh, Xiaoli Li", 71: 1-12 ,tim
+19,A heterogeneous graph cross-omics attention model for single-cell representation learning.,2022,"Yue Liu, Junfeng Zhang, Shulin Wang, Wei Zhang, Xiangxiang Zeng, Chee Keong Kwoh", BIBM 2022: 270-275,bibm
+20,Rotating Machinery Fault Diagnosis Based on Multi-sensor Information Fusion Using Graph Attention Network.,2022,"Chenyang Li, Chee Keong Kwoh, Xiaoli Li, Lingfei Mo, Ruqiang Yan", ICARCV 2022: 678-683,icarcv
+21,"IEEE Symposium Series on Computational Intelligence, SSCI 2022, Singapore, December 4-7, 2022.",2022,"Hisao Ishibuchi, Chee-Keong Kwoh, Ah-Hwee Tan, Dipti Srinivasan, Chunyan Miao, Anupam Trivedi, Keeley A. Crockett"," IEEE 2022, ISBN 978-1-6654-8768-9 ",ssci
+22,Attention over Self-attention: Intention-aware Re-ranking with Dynamic Transformer Encoders for Recommendation.,2022,"Zhuoyi Lin, Sheng Zang, Rundong Wang, Zhu Sun, Chi Xu, Chee Keong Kwoh",05333 ,corr
+23,ADATIME: A Benchmarking Suite for Domain Adaptation on Time Series Data.,2022,"Mohamed Ragab, Emadeldeen Eldele, Wee Ling Tan, Chuan-Sheng Foo, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li",08321 ,corr
+24,Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification.,2022,"Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li, Cuntai Guan",06616 ,corr
+25,Self-supervised Learning for Label-Efficient Sleep Stage Classification: A Comprehensive Evaluation.,2022,"Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li",06286 ,corr
+26,CoTMix: Contrastive Domain Adaptation for Time-Series via Temporal Mixup.,2022,"Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li",01555 ,corr
+27,DeepCPP: a deep neural network based on nucleotide bias information and minimum distribution similarity feature selection for RNA coding potential prediction.,2021,"Yu Zhang, Cangzhi Jia, Melissa Jane Fullwood, Chee Keong Kwoh", 22: 2073-2084 ,bib
+28,Recent advances in network-based methods for disease gene prediction.,2021,"Sezin Kircali Ata, Min Wu, Yuan Fang, Le Ou-Yang, Chee Keong Kwoh, Xiaoli Li", 22 ,bib
+29,Predicting the interaction biomolecule types for lncRNA: an ensemble deep learning approach.,2021,"Yu Zhang, Cangzhi Jia, Chee Keong Kwoh", 22 ,bib
+30,Chromatin loop anchors predict transcript and exon usage.,2021,"Yu Zhang, Yichao Cai, Xavier Roca, Chee Keong Kwoh, Melissa Jane Fullwood", 22 ,bib
+31,VirPreNet: a weighted ensemble convolutional neural network for the virulence prediction of influenza A virus using all eight segments.,2021,"Rui Yin, Zihan Luo, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh", 37: 737-743 ,bioinformatics
+32,Graph contextualized attention network for predicting synthetic lethality in human cancers.,2021,"Yahui Long, Min Wu, Yong Liu, Jie Zheng, Chee Keong Kwoh, Jiawei Luo, Xiaoli Li", 37: 2432-2440 ,bioinformatics
+33,Class similarity network for coding and long non-coding RNA classification.,2021,"Yu Zhang, Yahui Long, Chee Keong Kwoh", 22: 609 ,bmcbi
+34,Attention-based sequence to sequence model for machine remaining useful life prediction.,2021,"Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Ruqiang Yan, Xiaoli Li", Neurocomputing 466: 58-68 ,ijon
+35,GLIMG: Global and local item graphs for top-N recommender systems.,2021,"Zhuoyi Lin, Lei Feng, Rui Yin, Chi Xu, Chee Keong Kwoh", 580: 1-14 ,isci
+36,Contrastive Adversarial Domain Adaptation for Machine Remaining Useful Life Prediction.,2021,"Mohamed Ragab, Zhenghua Chen, Min Wu, Chuan Sheng Foo, Chee Keong Kwoh, Ruqiang Yan, Xiaoli Li", Informatics 17: 5239-5249 ,tii
+37,Adversarial Multiple-Target Domain Adaptation for Fault Classification.,2021,"Mohamed Ragab, Zhenghua Chen, Min Wu, Haoliang Li, Chee-Keong Kwoh, Ruqiang Yan, Xiaoli Li", 70: 1-11 ,tim
+38,Multi-View Collaborative Network Embedding.,2021,"Sezin Kircali Ata, Yuan Fang, Min Wu, Jiaqi Shi, Chee Keong Kwoh, Xiaoli Li", Data 15: 39:1-39:18 ,tkdd
+39,Enhanced Ensemble Clustering via Fast Propagation of Cluster-Wise Similarities.,2021,"Dong Huang, Chang-Dong Wang, Hongxing Peng, Jianhuang Lai, Chee-Keong Kwoh", 51: 508-520 ,tsmc
+40,Time-Series Representation Learning via Temporal and Contextual Contrasting.,2021,"Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li, Cuntai Guan", IJCAI 2021: 2352-2359,ijcai
+41,Time-Series Representation Learning via Temporal and Contextual Contrasting.,2021,"Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li, Cuntai Guan",14112 ,corr
+42,Adversarial Domain Adaptation with Self-Training for EEG-based Sleep Stage Classification.,2021,"Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li, Cuntai Guan",04470 ,corr
+43,Self-supervised Autoregressive Domain Adaptation for Time Series Data.,2021,"Mohamed Ragab, Emadeldeen Eldele, Zhenghua Chen, Min Wu, Chee-Keong Kwoh, Xiaoli Li",14834 ,corr
+44,DL-CRISPR: A Deep Learning Method for Off-Target Activity Prediction in CRISPR/Cas9 With Data Augmentation.,2020,"Yu Zhang, Yahui Long, Rui Yin, Chee Keong Kwoh", IEEE Access 8: 76610-76617 ,access
+45,Heterogeneous information network and its application to human health and disease.,2020,"Pingjian Ding, Wenjue Ouyang, Jiawei Luo, Chee-Keong Kwoh", 21: 1327-1346 ,bib
+46,Tempel: time-series mutation prediction of influenza A viruses via attention-based recurrent neural networks.,2020,"Rui Yin, Emil Luusua, Jan Dabrowski, Yu Zhang, Chee Keong Kwoh", 36: 2697-2704 ,bioinformatics
+47,Predicting human microbe-drug associations via graph convolutional network with conditional random field.,2020,"Yahui Long, Min Wu, Chee Keong Kwoh, Jiawei Luo, Xiaoli Li", 36: 4918-4927 ,bioinformatics
+48,A random forest based computational model for predicting novel lncRNA-disease associations.,2020,"Dengju Yao, Xiaojuan Zhan, Xiaorong Zhan, Chee Keong Kwoh, Peng Li, Jinke Wang", 21: 126 ,bmcbi
+49,Deep learning based DNA: RNA triplex forming potential prediction.,2020,"Yu Zhang, Yahui Long, Chee Keong Kwoh", 21: 522 ,bmcbi
+50,Time series computational prediction of vaccines for influenza A H3N2 with recurrent neural networks.,2020,"Rui Yin, Yu Zhang, Xinrui Zhou, Chee Keong Kwoh", 18: 2040002:1-2040002:17 ,jbcb
+51,Ultra-Scalable Spectral Clustering and Ensemble Clustering.,2020,"Dong Huang, Chang-Dong Wang, Jian-Sheng Wu, Jian-Huang Lai, Chee-Keong Kwoh", 32: 1212-1226 ,tkde
+52,Predicting Drugs for COVID-19/SARS-CoV-2 via Heterogeneous Graph Attention Networks.,2020,"Yahui Long, Yu Zhang, Min Wu, Shaoliang Peng, Chee Keong Kwoh, Jiawei Luo, Xiaoli Li", BIBM 2020: 455-459,bibm
+53,Information Theory-Based Feature Selection: Minimum Distribution Similarity with Removed Redundancy.,2020,"Yu Zhang, Zhuoyi Lin, Chee Keong Kwoh", ICCS  2020: 3-17,iccS
+54,Adversarial Transfer Learning for Machine Remaining Useful Life Prediction.,2020,"Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li", ICPHM 2020: 1-7,icphm
+55,Spectral Clustering by Subspace Randomization and Graph Fusion for High-Dimensional Data.,2020,"Xiaosha Cai, Dong Huang, Chang-Dong Wang, Chee-Keong Kwoh", PAKDD  2020: 330-342,pakdd
+56,Multi-View Collaborative Network Embedding.,2020,"Sezin Kircali Ata, Yuan Fang, Min Wu, Jiaqi Shi, Chee Keong Kwoh, Xiaoli Li",08189 ,corr
+57,Attention Sequence to Sequence Model for Machine Remaining Useful Life Prediction.,2020,"Mohamed Ragab, Zhenghua Chen, Min Wu, Chee-Keong Kwoh, Ruqiang Yan, Xiaoli Li",09868 ,corr
+58,Recent Advances in Network-based Methods for Disease Gene Prediction.,2020,"Sezin Kircali Ata, Min Wu, Yuan Fang, Le Ou-Yang, Chee Keong Kwoh, Xiaoli Li",10848 ,corr
+59,GLIMG: Global and Local Item Graphs for Top-N Recommender Systems.,2020,"Zhuoyi Lin, Lei Feng, Rui Yin, Chi Xu, Chee-Keong Kwoh",14018 ,corr
+60,COMET: Convolutional Dimension Interaction for Deep Matrix Factorization.,2020,"Zhuoyi Lin, Lei Feng, Xingzhi Guo, Rui Yin, Chee Keong Kwoh, Chi Xu",14129 ,corr

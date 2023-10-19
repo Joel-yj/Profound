@@ -1,0 +1,12 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,A Scalable Systolic Accelerator for Estimation of the Spectral Correlation Density Function and Its FPGA Implementation.,2023,"Xiangwei Li, Douglas L. Maskell, Carol Jingyi Li, Philip H. W. Leong, David Boland", 16: 9:1-9:24 ,trets
+1,Approximator: A Software Tool for Automatic Generation of Approximate Arithmetic Circuits.,2022,"Padmanabhan Balasubramanian, Raunaq Nayar, Okkar Min, Douglas L. Maskell", 11: 11 ,computers
+2,Coarse Grained FPGA Overlay for Rapid Just-In-Time Accelerator Compilation.,2022,"Abhishek Kumar Jain, Douglas L. Maskell, Suhaib A. Fahmy", 33: 1478-1490 ,tpds
+3,"An Approximate Adder With a Near-Normal Error Distribution: Design, Error Analysis and Practical Application.",2021,"Padmanabhan Balasubramanian, Raunaq Nayar, Douglas L. Maskell, Nikos E. Mastorakis", IEEE Access 9: 4518-4530 ,access
+4,An Approximate Adder with Reduced Error and Optimized Design Metrics.,2021,"Padmanabhan Balasubramanian, Raunaq Nayar, Douglas L. Maskell", APCCAS 2021: 21-24,apccas
+5,Image Compression using Approximate Addition.,2021,"Raunaq Nayar, Padmanabhan Balasubramanian, Douglas Leslie Maskell", TENCON 2021: 1-6,tencon
+6,Gate-Level Static Approximate Adders.,2021,"P. Balasubramanian, Raunaq Nayar, Douglas L. Maskell",09320 ,corr
+7,Energy Efficient In-memory Integer Multiplication Based on Racetrack Memory.,2020,"Tao Luo, Wei Zhang, Bingsheng He, Cheng Liu, Douglas L. Maskell", ICDCS 2020: 1409-1414,icdcs
+8,High Throughput Accelerator Interface Framework for a Linear Time-Multiplexed FPGA Overlay.,2020,"Xiangwei Li, Kizheppatt Vipin, Douglas L. Maskell, Suhaib A. Fahmy, Abhishek Kumar Jain", ISCAS 2020: 1-5,iscas
+9,Hardware Optimized Approximate Adder with Normal Error Distribution.,2020,"Raunaq Nayar, Padmanabhan Balasubramanian, Douglas L. Maskell", ISVLSI 2020: 84-89,isvlsi
+10,Area Optimized Quasi Delay Insensitive Majority Voter for TMR Applications.,2020,"P. Balasubramanian, Douglas L. Maskell, Nikos E. Mastorakis",05685 ,corr

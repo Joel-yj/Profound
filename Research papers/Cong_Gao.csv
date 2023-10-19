@@ -1,0 +1,70 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Effectiveness Perspectives and a Deep Relevance Model for Spatial Keyword Queries.,2023,"Shang Liu, Gao Cong, Kaiyu Feng, Wanli Gu, Fuzheng Zhang", Data 1: 11:1-11:25 ,pacmmod
+1,The RLR-Tree: A Reinforcement Learning Based R-Tree for Spatial Data.,2023,"Tu Gu, Kaiyu Feng, Gao Cong, Cheng Long, Zheng Wang, Sheng Wang", Data 1: 63:1-63:26 ,pacmmod
+2,Mining Geospatial Relationships from Text.,2023,"Pasquale Balsebre, Dezhong Yao, Gao Cong, Weiming Huang, Zhen Hai", Data 1: 93:1-93:26 ,pacmmod
+3,WISK: A Workload-aware Learned Index for Spatial Keyword Queries.,2023,"Yufan Sheng, Xin Cao, Yixiang Fang, Kaiqi Zhao, Jianzhong Qi, Gao Cong, Wenjie Zhang", Data 1: 187:1-187:27 ,pacmmod
+4,Towards Designing and Learning Piecewise Space-Filling Curves.,2023,"Jiangneng Li, Zheng Wang, Gao Cong, Cheng Long, Han Mao Kiah, Bin Cui", 16: 2158-2171 ,pvldb
+5,Similar Sports Play Retrieval With Deep Reinforcement Learning.,2023,"Zheng Wang, Cheng Long, Gao Cong", 35: 4253-4266 ,tkde
+6,Region Embedding With Intra and Inter-View Contrastive Learning.,2023,"Liang Zhang, Cheng Long, Gao Cong", 35: 9031-9036 ,tkde
+7,Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning.,2023,"Qianru Zhang, Zheng Wang, Cheng Long, Chao Huang, Siu-Ming Yiu, Yiding Liu, Gao Cong, Jieming Shi", ICDE 2023: 246-258,icde
+8,Multivariate Time-series Imputation with Disentangled Temporal Representations.,2023,"Shuai Liu, Xiucheng Li, Gao Cong, Yile Chen, Yue Jiang", ICLR 2023,iclr
+9,Urban Region Representation Learning with OpenStreetMap Building Footprints.,2023,"Yi Li, Weiming Huang, Gao Cong, Hao Wang, Zheng Wang", KDD 2023: 1363-1373,kdd
+10,Improving the Inference of Topic Models via Infinite Latent State Replications.,2023,"Daniel Rugeles, Zhen Hai, Juan Felipe Carmona, Manoranjan Dash, Gao Cong",12974 ,corr
+11,WISK: A Workload-aware Learned Index for Spatial Keyword Queries.,2023,"Yufan Sheng, Xin Cao, Yixiang Fang, Kaiqi Zhao, Jianzhong Qi, Gao Cong, Wenjie Zhang",14287 ,corr
+12,On the Opportunities and Challenges of Foundation Models for Geospatial Artificial Intelligence.,2023,"Gengchen Mai, Weiming Huang, Jin Sun, Suhang Song, Deepak Mishra, Ninghao Liu, Song Gao, Tianming Liu, Gao Cong, Yingjie Hu, Chris Cundy, Ziyuan Li, Rui Zhu, Ni Lao",06798 ,corr
+13,"A Survey on Trajectory Data Management, Analytics, and Learning.",2022,"Sheng Wang, Zhifeng Bao, J. Shane Culpepper, Gao Cong", 54: 39:1-39:36 ,csur
+14,QueryFormer: A Tree Transformer Model for Query Plan Representation.,2022,"Yue Zhao, Gao Cong, Jiachen Shi, Chunyan Miao", 15: 1658-1670 ,pvldb
+15,ABC: Attributed Bipartite Co-clustering.,2022,"Junghoon Kim, Kaiyu Feng, Gao Cong, Diwen Zhu, Wenyuan Yu, Chunyan Miao", 15: 2134-2147 ,pvldb
+16,Example-based Spatial Pattern Matching.,2022,"Yue Chen, Kaiyu Feng, Gao Cong, Han Mao Kiah", 15: 2572-2584 ,pvldb
+17,Learned Index Benefits: Machine Learning Based Index Performance Estimation.,2022,"Jiachen Shi, Gao Cong, Xiaoli Li", 15: 3950-3962 ,pvldb
+18,Let Trajectories Speak Out the Traffic Bottlenecks.,2022,"Hui Luo, Zhifeng Bao, Gao Cong, J. Shane Culpepper, Nguyen Lu Dang Khoa", 13: 8:1-8:21 ,tist
+19,A Synopsis Based Approach for Itemset Frequency Estimation over Massive Multi-Transaction Stream.,2022,"Guangtao Wang, Gao Cong, Ying Zhang, Zhen Hai, Jieping Ye", Data 16: 29:1-29:30 ,tkdd
+20,PGeoTopic: A Distributed Solution for Mining Geographical Topic Models.,2022,"Kaiqi Zhao, Gao Cong, Xiucheng Li", 34: 881-893 ,tkde
+21,Deterministic Inference of Topic Models via Maximal Latent State Replication.,2022,"Daniel Rugeles, Zhen Hai, Manoranjan Dash, Gao Cong", 34: 1684-1695 ,tkde
+22,A Linear Time Approach to Computing Time Series Similarity Based on Deep Metric Learning.,2022,"Di Yao, Gao Cong, Chao Zhang, Xuying Meng, Rongchang Duan, Jingping Bi", 34: 4554-4571 ,tkde
+23,Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting.,2022,"Shengnan Guo, Youfang Lin, Huaiyu Wan, Xiucheng Li, Gao Cong", 34: 5415-5428 ,tkde
+24,Unsupervised Selectivity Estimation by Integrating Gaussian Mixture Models and an Autoregressive Model.,2022,"Zizhong Meng, Peizhi Wu, Gao Cong, Rong Zhu, Shuai Ma", EDBT 2022: 2:247-2:259,edbt
+25,TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation.,2022,"Di Yao, Haonan Hu, Lun Du, Gao Cong, Shi Han, Jingping Bi", KDD 2022: 2275-2285,kdd
+26,Entity Resolution with Hierarchical Graph Attention Networks.,2022,"Dezhong Yao, Yuhong Gu, Gao Cong, Hai Jin, Xinqiao Lv", SIGMOD Conference 2022: 429-442,sigmod
+27,DMCS : Density Modularity based Community Search.,2022,"Junghoon Kim, Siqiang Luo, Gao Cong, Wenyuan Yu", SIGMOD Conference 2022: 889-903,sigmod
+28,SAM: Database Generation from Query Workloads with Supervised Autoregressive Models.,2022,"Jingyi Yang, Peizhi Wu, Gao Cong, Tieying Zhang, Xiao He", SIGMOD Conference 2022: 1542-1555,sigmod
+29,The Datasets Dilemma: How Much Do We Really Know About Recommendation Datasets?,2022,"Jin Yao Chin, Yile Chen, Gao Cong","Jin Yao Chin, Yile Chen, Gao Cong: The Datasets Dilemma: How Much Do We Really Know About Recommendation Datasets? WSDM 2022: 141-149",wsdm
+30,Geospatial Entity Resolution.,2022,"Pasquale Balsebre, Dezhong Yao, Gao Cong, Zhen Hai", WWW 2022: 3061-3070,www
+31,Points-of-Interest Relationship Inference with Spatial-enriched Graph Neural Networks.,2022,"Yile Chen, Xiucheng Li, Gao Cong, Cheng Long, Zhifeng Bao, Shang Liu, Wanli Gu, Fuzheng Zhang",13686 ,corr
+32,DMCS : Density Modularity based Community Search.,2022,"Junghoon Kim, Siqiang Luo, Gao Cong, Wenyuan Yu",07720 ,corr
+33,Not All Neighbors Are Worth Attending to: Graph Selective Attention Networks for Semi-supervised Learning.,2022,"Tiantian He, Haicang Zhou, Yew-Soon Ong, Gao Cong",07715 ,corr
+34,Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning.,2022,"Qianru Zhang, Zheng Wang, Cheng Long, Chao Huang, Siu-Ming Yiu, Yiding Liu, Gao Cong, Jieming Shi",08415 ,corr
+35,Region Embedding with Intra and Inter-View Contrastive Learning.,2022,"Liang Zhang, Cheng Long, Gao Cong",08975 ,corr
+36,Points-of-Interest Relationship Inference with Spatial-enriched Graph Neural Networks.,2021,"Yile Chen, Xiucheng Li, Gao Cong, Cheng Long, Zhifeng Bao, Shang Liu, Wanli Gu, Fuzheng Zhang", 15: 504-512 ,pvldb
+37,Cardinality Estimation in DBMS: A Comprehensive Benchmark Evaluation.,2021,"Yuxing Han, Ziniu Wu, Peizhi Wu, Rong Zhu, Jingyi Yang, Liang Wei Tan, Kai Zeng, Gao Cong, Yanzhao Qin, Andreas Pfadler, Zhengping Qian, Jingren Zhou, Jiangneng Li, Bin Cui", 15: 752-765 ,pvldb
+38,Similar Trajectory Search with Spatio-Temporal Deep Representation Learning.,2021,"David Alexander Tedjopurnomo, Xiucheng Li, Zhifeng Bao, Gao Cong, Farhana Murtaza Choudhury, A. Kai Qin", 12: 77:1-77:26 ,tist
+39,Location- and keyword-based querying of geo-textual data: a survey.,2021,"Zhida Chen, Lisi Chen, Gao Cong, Christian S. Jensen", 30: 603-640 ,vldb
+40,Robust Road Network Representation Learning: When Traffic Patterns Meet Traveling Semantics.,2021,"Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long, Yiding Liu, Arun Kumar Chandran, Richard Ellison", CIKM 2021: 211-220,cikm
+41,STAR: A Cache-based Distributed Warehouse System for Spatial Data Streams.,2021,"Zhida Chen, Gao Cong, Walid G. Aref", SIGSPATIAL/GIS 2021: 606-615,gis
+42,Trajectory Simplification with Reinforcement Learning.,2021,"Zheng Wang, Cheng Long, Gao Cong", ICDE 2021: 684-695,icde
+43,Error-Bounded Online Trajectory Simplification with Multi-Agent Reinforcement Learning.,2021,"Zheng Wang, Cheng Long, Gao Cong, Qianru Zhang", KDD 2021: 1758-1768,kdd
+44,A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation.,2021,"Peizhi Wu, Gao Cong", SIGMOD Conference 2021: 2009-2022,sigmod
+45,Sinkhorn Collaborative Filtering.,2021,"Xiucheng Li, Jin Yao Chin, Yile Chen, Gao Cong", WWW 2021: 582-592,www
+46,"Proceedings of the CIKM 2021 Workshops co-located with 30th ACM International Conference on Information and Knowledge Management (CIKM 2021), Gold Coast, Queensland, Australia, November 1-5, 2021.",2021,"Gao Cong, Maya Ramanath",org 2021 ,cikm
+47,The RLR-Tree: A Reinforcement Learning Based R-Tree for Spatial Data.,2021,"Tu Gu, Kaiyu Feng, Gao Cong, Cheng Long, Zheng Wang, Sheng Wang",04541 ,corr
+48,Global Context Enhanced Graph Neural Networks for Session-based Recommendation.,2021,"Ziyang Wang, Wei Wei, Gao Cong, Xiao-Li Li, Xian-Ling Mao, Minghui Qiu",05081 ,corr
+49,A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation.,2021,"Peizhi Wu, Gao Cong",12295 ,corr
+50,Let Trajectories Speak Out the Traffic Bottlenecks.,2021,"Hui Luo, Zhifeng Bao, Gao Cong, J. Shane Culpepper, Nguyen Lu Dang Khoa",12948 ,corr
+51,Cardinality Estimation in DBMS: A Comprehensive Benchmark Evaluation.,2021,"Yuxing Han, Ziniu Wu, Peizhi Wu, Rong Zhu, Jingyi Yang, Liang Wei Tan, Kai Zeng, Gao Cong, Yanzhao Qin, Andreas Pfadler, Zhengping Qian, Jingren Zhou, Jiangneng Li, Bin Cui",05877 ,corr
+52,Modeling Marked Temporal Point Process Using Multi-relation Structure RNN.,2020,"Hongyun Cai, Thanh Tung Nguyen, Yan Li, Vincent W. Zheng, Binbin Chen, Gao Cong, Xiaoli Li", 12: 499-512 ,cogcom
+53,SSTD: A Distributed System on Streaming Spatio-Textual Data.,2020,"Yue Chen, Zhida Chen, Gao Cong, Ahmed R. Mahmood, Walid G. Aref", 13: 2284-2296 ,pvldb
+54,Efficient and Effective Similar Subtrajectory Search with Deep Reinforcement Learning.,2020,"Zheng Wang, Cheng Long, Gao Cong, Yiding Liu", 13: 2312-2325 ,pvldb
+55,SURGE: Continuous Detection of Bursty Regions Over a Stream of Spatial Objects.,2020,"Kaiyu Feng, Tao Guo, Gao Cong, Sourav S. Bhowmick, Shuai Ma", 32: 2254-2268 ,tkde
+56,Structural Relationship Representation Learning with Graph Embedding for Personalized Product Search.,2020,"Shang Liu, Wanli Gu, Gao Cong, Fuzheng Zhang", CIKM 2020: 915-924,cikm
+57,Spatial Transition Learning on Road Networks with Deep Probabilistic Models.,2020,"Xiucheng Li, Gao Cong, Yun Cheng", ICDE 2020: 349-360,icde
+58,Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling.,2020,"Yiding Liu, Kaiqi Zhao, Gao Cong, Zhifeng Bao", ICDE 2020: 949-960,icde
+59,Global Context Enhanced Graph Neural Networks for Session-based Recommendation.,2020,"Ziyang Wang, Wei Wei, Gao Cong, Xiao-Li Li, Xianling Mao, Minghui Qiu", SIGIR 2020: 169-178,sigir
+60,HME: A Hyperbolic Metric Embedding Approach for Next-POI Recommendation.,2020,"Shanshan Feng, Lucas Vinh Tran, Gao Cong, Lisi Chen, Jing Li, Fan Li", SIGIR 2020: 1429-1438,sigir
+61,Densely Connected User Community and Location Cluster Search in Location-Based Social Networks.,2020,"Junghoon Kim, Tao Guo, Kaiyu Feng, Gao Cong, Arijit Khan, Farhana Murtaza Choudhury", SIGMOD Conference 2020: 2199-2209,sigmod
+62,STAR: A Distributed Stream Warehouse System for Spatial Data.,2020,"Zhida Chen, Gao Cong, Walid G. Aref", SIGMOD Conference 2020: 2761-2764,sigmod
+63,Context-aware Deep Model for Joint Mobility and Time Prediction.,2020,"Yile Chen, Cheng Long, Gao Cong, Chenliang Li", WSDM 2020: 106-114,wsdm
+64,HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems.,2020,"Lucas Vinh Tran, Yi Tay, Shuai Zhang, Gao Cong, Xiaoli Li", WSDM 2020: 609-617,wsdm
+65,Efficient and Effective Similar Subtrajectory Search with Deep Reinforcement Learning.,2020,"Zheng Wang, Cheng Long, Gao Cong, Yiding Liu",02542 ,corr
+66,"A Survey on Trajectory Data Management, Analytics, and Learning.",2020,"Sheng Wang, Zhifeng Bao, J. Shane Culpepper, Gao Cong",11547 ,corr
+67,Exploring Global Information for Session-based Recommendation.,2020,"Ziyang Wang, Wei Wei, Gao Cong, Xiao-Li Li, Xian-Ling Mao, Minghui Qiu, Shanshan Feng",10173 ,corr
+68,Exploiting Repeated Behavior Pattern and Long-term Item dependency for Session-based Recommendation.,2020,"Ziyang Wang, Wei Wei, Gao Cong, Xian-Ling Mao, Xiao-Li Li, Shanshan Feng",05422 ,corr

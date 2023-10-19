@@ -1,0 +1,95 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Lightweight Hardware Accelerator for Post-Quantum Digital Signature CRYSTALS-Dilithium.,2023,"Naina Gupta, Arpan Jati, Anupam Chattopadhyay, Gautam Jha", 70: 3234-3243 ,tcasI
+1,Pushing the Limits of Generic Side-Channel Attacks on LWE-based KEMs - Parallel PC Oracle Attacks on Kyber KEM and Beyond.,2023,"Gokulnath Rajendran, Prasanna Ravi, Jan-Pieter D'Anvers, Shivam Bhasin, Anupam Chattopadhyay", 2023: 418-446 ,tches
+2,Fiddling the Twiddle Constants - Fault Injection Analysis of the Number Theoretic Transform.,2023,"Prasanna Ravi, Bolin Yang, Shivam Bhasin, Fan Zhang, Anupam Chattopadhyay", 2023: 447-481 ,tches
+3,Hardware Trojan Detection using Transition Probability with Minimal Test Vectors.,2023,"Anindan Mondal, Shubrojyoti Karmakar, Mahabub Hasan Mahalat, Suchismita Roy, Bibhash Sen, Anupam Chattopadhyay", 22: 11:1-11:21 ,tecs
+4,Hardware Security Primitives Using Passive RRAM Crossbar Array: Novel TRNG and PUF Designs.,2023,"Simranjeet Singh, Furqan Zahoor, Gokulnath Rajendran, Sachin B. Patkar, Anupam Chattopadhyay, Farhad Merchant", ASP-DAC 2023: 449-454,aspdac
+5,Integrated Architecture for Neural Networks and Security Primitives using RRAM Crossbar.,2023,"Simranjeet Singh, Furqan Zahoor, Gokulnath Rajendran, Vikas Rana, Sachin B. Patkar, Anupam Chattopadhyay, Farhad Merchant", NEWCAS 2023: 1-5,newcas
+6,A Higher Radix Architecture for Quantum Carry-lookahead Adder.,2023,"Siyi Wang, Anubhab Baksi, Anupam Chattopadhyay",02921 ,corr
+7,Security and Privacy Issues for Urban Smart Traffic Infrastructure.,2023,"Anubhab Baksi, Ahmed Ibrahim Samir Khalil, Anupam Chattopadhyay",08429 ,corr
+8,Integrated Architecture for Neural Networks and Security Primitives using RRAM Crossbar.,2023,"Simranjeet Singh, Furqan Zahoor, Gokulnath Rajendran, Vikas Rana, Sachin B. Patkar, Anupam Chattopadhyay, Farhad Merchant",13531 ,corr
+9,DORCIS: Depth Optimized Quantum Implementation of Substitution Boxes.,2023,"Matthew Chun, Anubhab Baksi, Anupam Chattopadhyay", 2023: 286 ,iacr
+10,AI Attacks AI: Recovering Neural Network architecture from NVDLA using AI-assisted Side Channel Attack.,2023,"Naina Gupta, Arpan Jati, Anupam Chattopadhyay", 2023: 368 ,iacr
+11,Quantum Implementation of ASCON Linear Layer.,2023,"Soham Roy, Anubhab Baksi, Anupam Chattopadhyay", 2023: 617 ,iacr
+12,Finding Desirable Substitution Box with SASQUATCH.,2023,"Manas Wadhwa, Anubhab Baksi, Kai Hu, Anupam Chattopadhyay, Takanori Isobe, Dhiman Saha", 2023: 742 ,iacr
+13,BAKSHEESH: Similar Yet Different From GIFT.,2023,"Anubhab Baksi, Jakub Breier, Anupam Chattopadhyay, Tomas Gerlich, Sylvain Guilley, Naina Gupta, Kai Hu, Takanori Isobe, Arpan Jati, Petr Jedlicka, Hyunjun Kim, Fukang Liu, Zdenek Martinasek, Kosei Sakamoto, Hwajeong Seo, Rentaro Shiba, Ritu Ranjan Shrivastwa", 2023: 750 ,iacr
+14,Lattice-based Key-sharing Schemes: A Survey.,2022,"Prasanna Ravi, James Howe, Anupam Chattopadhyay, Shivam Bhasin", 54: 9:1-9:39 ,csur
+15,The Bitlet Model: A Parameterized Analytical Model to Compare PIM and CPU Systems.,2022,"Ronny Ronen, Adi Eliahu, Orian Leitersdorf, Natan Peled, Kunal Korgaonkar, Anupam Chattopadhyay, Ben Perach, Shahar Kvatinsky", 18: 43:1-43:29 ,jetc
+16,Will You Cross the Threshold for Me? Generic Side-Channel Assisted Chosen-Ciphertext Attacks on NTRU-based KEMs.,2022,"Prasanna Ravi, Martianus Frederic Ezerman, Shivam Bhasin, Anupam Chattopadhyay, Sujoy Sinha Roy", 2022: 722-761 ,tches
+17,On Exploiting Message Leakage in (Few) NIST PQC Candidates for Practical Message Recovery Attacks.,2022,"Prasanna Ravi, Shivam Bhasin, Sujoy Sinha Roy, Anupam Chattopadhyay", 17: 684-699 ,tifs
+18,Efficient Loop Abort Fault Attacks on Supersingular Isogeny based Key Exchange (SIKE).,2022,"Piyush Beegala, Debapriya Basu Roy, Prasanna Ravi, Shivam Bhasin, Anupam Chattopadhyay, Debdeep Mukhopadhyay", DFT 2022: 1-6,dft
+19,TextBack: Watermarking Text Classifiers using Backdooring.,2022,"Nandish Chattopadhyay, Rajan Kataria, Anupam Chattopadhyay", DSD 2022: 340-347,dsd
+20,ROFL: RObust privacy preserving Federated Learning.,2022,"Nandish Chattopadhyay, Arpit Singh, Anupam Chattopadhyay", ICDCS Workshops 2022: 125-132,icdcs
+21,Improved Quantum Analysis of SPECK and LowMC.,2022,"Kyungbae Jang, Anubhab Baksi, Hyunji Kim, Hwajeong Seo, Anupam Chattopadhyay", INDOCRYPT 2022: 517-540,indocrypt
+22,Security and Quantum Computing: An Overview.,2022,"Prasanna Ravi, Anupam Chattopadhyay, Shivam Bhasin", LATS 2022: 1-6,latw
+23,How Many Cameras Do You Need? Adversarial Attacks and Countermeasures for Robust Perception in Autonomous Vehicles.,2022,"Tu Anh Ngo, Reuben Jon Chia, Jonathan Chan, Nandish Chattopadhyay, Anupam Chattopadhyay", SPACE 2022: 249-263,space
+24,Robust Perception for Autonomous Vehicles using Dimensionality Reduction.,2022,"Shivam Garg, Nandish Chattopadhyay, Anupam Chattopadhyay", TrustCom 2022: 1516-1521,trustcom
+25,PA-PUF: A Novel Priority Arbiter PUF.,2022,"Simranjeet Singh, Srinivasu Bodapati, Sachin B. Patkar, Rainer Leupers, Anupam Chattopadhyay, Farhad Merchant", VLSI-SoC 2022: 1-6,vlsi
+26,"VLSI-SoC: Technology Advancement on SoC Design - 29th IFIP WG 10.5/IEEE International Conference on Very Large Scale Integration, VLSI-SoC 2021, Singapore, October 4-8, 2021, Revised and Extended Selected Papers.",2022,"Victor Grimblatt, Chip-Hong Chang, Ricardo Reis, Anupam Chattopadhyay, Andrea Calimera"," IFIP Advances in Information and Communication Technology 661, Springer 2022, ISBN 978-3-031-16817-8 ",vlsi
+27,Optimal Codeword Construction for DNA-based Finite Automata.,2022,"Anupam Chattopadhyay, Arnab Chakrabarti",01926 ,corr
+28,PA-PUF: A Novel Priority Arbiter PUF.,2022,"Simranjeet Singh, Srinivasu Bodapati, Sachin B. Patkar, Rainer Leupers, Anupam Chattopadhyay, Farhad Merchant",10526 ,corr
+29,Hardware Security Primitives using Passive RRAM Crossbar Array: Novel TRNG and PUF Designs.,2022,"Simranjeet Singh, Furqan Zahoor, Gokulnath Rajendran, Sachin B. Patkar, Anupam Chattopadhyay, Farhad Merchant",03526 ,corr
+30,Lightweight Hardware Accelerator for Post-Quantum Digital Signature CRYSTALS-Dilithium.,2022,"Naina Gupta, Arpan Jati, Anupam Chattopadhyay, Gautam Jha", 2022: 496 ,iacr
+31,Quantum Implementation and Analysis of DEFAULT.,2022,"Kyungbae Jang, Anubhab Baksi, Jakub Breier, Hwajeong Seo, Anupam Chattopadhyay", 2022: 647 ,iacr
+32,Quantum Analysis of AES.,2022,"Kyungbae Jang, Anubhab Baksi, Hyunji Kim, Gyeongju Song, Hwajeong Seo, Anupam Chattopadhyay", 2022: 683 ,iacr
+33,"Side-channel and Fault-injection attacks over Lattice-based Post-quantum Schemes (Kyber, Dilithium): Survey and New Results.",2022,"Prasanna Ravi, Anupam Chattopadhyay, Anubhab Baksi", 2022: 737 ,iacr
+34,Fiddling the Twiddle Constants - Fault Injection Analysis of the Number Theoretic Transform.,2022,"Prasanna Ravi, Bolin Yang, Shivam Bhasin, Fan Zhang, Anupam Chattopadhyay", 2022: 824 ,iacr
+35,Pushing the Limits of Generic Side-Channel Attacks on LWE-based KEMs - Parallel PC Oracle Attacks on Kyber KEM and Beyond.,2022,"Gokulnath Rajendran, Prasanna Ravi, Jan-Pieter D'Anvers, Shivam Bhasin, Anupam Chattopadhyay", 2022: 931 ,iacr
+36,Security and Quantum Computing: An Overview.,2022,"Prasanna Ravi, Anupam Chattopadhyay, Shivam Bhasin", 2022: 1372 ,iacr
+37,Improved Quantum Analysis of SPECK and LowMC (Full Version).,2022,"Kyungbae Jang, Anubhab Baksi, Hyunji Kim, Hwajeong Seo, Anupam Chattopadhyay", 2022: 1427 ,iacr
+38,Backdooring Post-Quantum Cryptography: Kleptographic Attacks on Lattice-based KEMs.,2022,"Prasanna Ravi, Shivam Bhasin, Anupam Chattopadhyay, Aikata, Sujoy Sinha Roy", 2022: 1681 ,iacr
+39,Differential fault location identification by machine learning.,2021,"Anubhab Baksi, Santanu Sarkar, Akhilesh Siddhanti, Ravi Anand, Anupam Chattopadhyay", 6: 17-24 ,caaitrit
+40,A survey on adversarial attacks and defences.,2021,"Anirban Chakraborty, Manaar Alam, Vishal Dey, Anupam Chattopadhyay, Debdeep Mukhopadhyay", 6: 25-45 ,caaitrit
+41,"MemEnc: A Lightweight, Low-Power, and Transparent Memory Encryption Engine for IoT.",2021,"Naina Gupta, Arpan Jati, Anupam Chattopadhyay", 8: 7182-7191 ,iotj
+42,Autonomous Vehicle: Security by Design.,2021,"Anupam Chattopadhyay, Kwok-Yan Lam, Yaswanth Tavva", 22: 7015-7029 ,tits
+43,"PQC Acceleration Using GPUs: FrodoKEM, NewHope, and Kyber.",2021,"Naina Gupta, Arpan Jati, Amit Kumar Chauhan, Anupam Chattopadhyay", 32: 575-586 ,tpds
+44,On the Cost of ASIC Hardware Crackers: A SHA-1 Case Study.,2021,"Anupam Chattopadhyay, Mustafa Khairallah, Gaëtan Leurent, Zakaria Najm, Thomas Peyrin, Vesselin Velichkov", CT-RSA 2021: 657-681,ctrsa
+45,Feeding Three Birds With One Scone: A Generic Duplication Based Countermeasure To Fault Attacks.,2021,"Anubhab Baksi, Shivam Bhasin, Jakub Breier, Anupam Chattopadhyay, Vinay B. Y. Kumar", DATE 2021: 561-564,date
+46,Perspectives on Emerging Computation-in-Memory Paradigms.,2021,"Shubham Rai, Mengyun Liu, Anteneh Gebregiorgis, Debjyoti Bhattacharjee, Krishnendu Chakrabarty, Said Hamdioui, Anupam Chattopadhyay, Jens Trommer, Akash Kumar", DATE 2021: 1925-1934,date
+47,ROWBACK: RObust Watermarking for neural networks using BACKdoors.,2021,"Nandish Chattopadhyay, Anupam Chattopadhyay", ICMLA 2021: 1728-1735,icmla
+48,Three Input Exclusive-OR Gate Support for Boyar-Peralta's Algorithm.,2021,"Anubhab Baksi, Vishnu Asutosh Dasu, Banashri Karmakar, Anupam Chattopadhyay, Takanori Isobe", INDOCRYPT 2021: 141-158,indocrypt
+49,On Threat of Hardware Trojan to Post-Quantum Lattice-Based Schemes: A Key Recovery Attack on SABER and Beyond.,2021,"Prasanna Ravi, Suman Deb, Anubhab Baksi, Anupam Chattopadhyay, Shivam Bhasin, Avi Mendelson", SPACE 2021: 81-103,space
+50,Robustness Against Adversarial Attacks Using Dimensionality.,2021,"Nandish Chattopadhyay, Subhrojyoti Chatterjee, Anupam Chattopadhyay", SPACE 2021: 226-241,space
+51,In Quest for Fast and Secure SoC.,2021,"Naina Gupta, Anupam Chattopadhyay", VLSI-SoC 2021: 1-2,vlsi
+52,Practical Side-Channel and Fault Attacks on Lattice-Based Cryptography.,2021,"Prasanna Ravi, Anupam Chattopadhyay, Shivam Bhasin", VLSI-SoC 2021: 1-2,vlsi
+53,In-memory realization of SHA-2 using ReVAMP architecture.,2021,"Debjyoti Bhattacharjee, Anirban Majumder, Anupam Chattopadhyay", VLSID 2021: 47-53,vlsid
+54,The Bitlet Model: A Parameterized Analytical Model to Compare PIM and CPU Systems.,2021,"Ronny Ronen, Adi Eliahu, Orian Leitersdorf, Natan Peled, Kunal Korgaonkar, Anupam Chattopadhyay, Ben Perach, Shahar Kvatinsky",10308 ,corr
+55,Generic Side-Channel Assisted Chosen-Ciphertext Attacks on Streamlined NTRU Prime.,2021,"Prasanna Ravi, Martianus Frederic Ezerman, Shivam Bhasin, Anupam Chattopadhyay, Sujoy Sinha Roy", 2021: 718 ,iacr
+56,A Configurable Crystals-Kyber Hardware Implementation with Side-Channel Protection.,2021,"Arpan Jati, Naina Gupta, Anupam Chattopadhyay, Somitra Kumar Sanadhya", 2021: 1189 ,iacr
+57,Three Input Exclusive-OR Gate Support For Boyar-Peralta's Algorithm (Extended Version).,2021,"Anubhab Baksi, Vishnu Asutosh Dasu, Banashri Karmakar, Anupam Chattopadhyay, Takanori Isobe", 2021: 1400 ,iacr
+58,Hierarchical discovery of large-scale and focal copy number alterations in low-coverage cancer genomes.,2020,"Ahmed Ibrahim S. Khalil, Costerwell Khyriem, Anupam Chattopadhyay, Amartya Sanyal", 21: 147 ,bmcbi
+59,Identification and utilization of copy number information for correcting Hi-C contact map of cancer cell lines.,2020,"Ahmed Ibrahim S. Khalil, Siti Rawaidah Binte Mohammad Muzaki, Anupam Chattopadhyay, Amartya Sanyal", 21: 506 ,bmcbi
+60,A Brain-Computer Interface Framework Based on Compressive Sensing and Deep Learning.,2020,"Ritu Ranjan Shrivastwa, Vikramkumar Pudi, Duo Chen, Rosa Q. So, Anupam Chattopadhyay, Cuntai Guan", 9: 90-96 ,cem
+61,Towards Designing a Secure RISC-V System-on-Chip: ITUS.,2020,"Vinay B. Y. Kumar, Suman Deb, Naina Gupta, Shivam Bhasin, Jawad Haj-Yahya, Anupam Chattopadhyay, Avi Mendelson", 4: 329-342 ,jhss
+62,A Coding Theoretic Approach towards Symmetrization in Reversible Circuit Synthesis.,2020,"Anubhab Baksi, Sumanta Sarkar, Anupam Chattopadhyay", 35: 239-262 ,mvl
+63,Crossbar-Constrained Technology Mapping for ReRAM Based In-Memory Computing.,2020,"Debjyoti Bhattacharjee, Yaswanth Tavva, Arvind Easwaran, Anupam Chattopadhyay", Computers 69: 734-748 ,tc
+64,Generic Side-channel attacks on CCA-secure lattice-based PKE and KEMs.,2020,"Prasanna Ravi, Sujoy Sinha Roy, Anupam Chattopadhyay, Shivam Bhasin", 2020: 307-335 ,tches
+65,Threshold Implementations of GIFT: A Trade-Off Analysis.,2020,"Arpan Jati, Naina Gupta, Anupam Chattopadhyay, Somitra Kumar Sanadhya, Donghoon Chang", 15: 2110-2120 ,tifs
+66,A Novel Duplication Based Countermeasure to Statistical Ineffective Fault Analysis.,2020,"Anubhab Baksi, Vinay B. Y. Kumar, Banashri Karmakar, Shivam Bhasin, Dhiman Saha, Anupam Chattopadhyay", ACISP 2020: 525-542,acisp
+67,Towards Secure Composition of Integrated Circuits and Electronic Systems: On the Role of EDA.,2020,"Johann Knechtel, Elif Bilge Kavun, Francesco Regazzoni, Annelie Heuser, Anupam Chattopadhyay, Debdeep Mukhopadhyay, Soumyajit Dey, Yunsi Fei, Yaacov Belenky, Itamar Levi, Tim Güneysu, Patrick Schaumont, Ilia Polian", DATE 2020: 508-513,date
+68,Post-Quantum Secure Boot.,2020,"Vinay B. Y. Kumar, Naina Gupta, Anupam Chattopadhyay, Michael Kasper, Christoph Krauß, Ruben Niederhagen", DATE 2020: 1582-1585,date
+69,CONTRA: Area-Constrained Technology Mapping Framework For Memristive Memory Processing Unit.,2020,"Debjyoti Bhattacharjee, Anupam Chattopadhyay, Srijit Dutta, Ronny Ronen, Shahar Kvatinsky", ICCAD 2020: 150:1-150:9,iccad
+70,Noise Resilient Compilation Policies for Quantum Approximate Optimization Algorithm.,2020,"Mahabubul Alam, Abdullah Ash-Saki, Junde Li, Anupam Chattopadhyay, Swaroop Ghosh", ICCAD 2020: 155:1-155:7,iccad
+71,Deploy-able Privacy Preserving Collaborative ML.,2020,"Nandish Chattopadhyay, Ritabrata Maiti, Anupam Chattopadhyay", ICDCS 2020: 1397-1402,icdcs
+72,Enabling Efficient Mapping of XMG-Synthesized Networks to Spintronic Hardware.,2020,"Suman Deb, Anupam Chattopadhyay", ISCAS 2020: 1-5,iscas
+73,Authentication Protocol for Secure Automotive Systems: Benchmarking Post-Quantum Cryptography.,2020,"Prasanna Ravi, Vijaya Kumar Sundar, Anupam Chattopadhyay, Shivam Bhasin, Arvind Easwaran", ISCAS 2020: 1-5,iscas
+74,Cyber Security Protocol for Secure Traffic Monitoring Systems using PUF-based Key Management.,2020,"Vikramkumar Pudi, Srinivasu Bodapati, Sachin Kumar, Anupam Chattopadhyay", iSES 2020: 103-108,ises
+75,FlexWatts: A Power- and Workload-Aware Hybrid Power Delivery Network for Energy-Efficient Microprocessors.,2020,"Jawad Haj-Yahya, Mohammed Alser, Jeremie S. Kim, Lois Orosa, Efraim Rotem, Avi Mendelson, Anupam Chattopadhyay, Onur Mutlu", MICRO 2020: 1051-1066,micro
+76,Mind the Portability: A Warriors Guide through Realistic Profiled Side-channel Analysis.,2020,"Shivam Bhasin, Anupam Chattopadhyay, Annelie Heuser, Dirmanto Jap, Stjepan Picek, Ritu Ranjan Shrivastwa", NDSS 2020,ndss
+77,Secure Your SoC: Building System-an-Chip Designs for Security.,2020,"Shivam Bhasin, Trevor E. Carlson, Anupam Chattopadhyay, Vinay B. Y. Kumar, Avi Mendelson, Romain Poussier, Yaswanth Tavva", SoCC 2020: 248-253,socc
+78,Re-markable: Stealing Watermarked Neural Networks Through Synthesis.,2020,"Nandish Chattopadhyay, Chua Sheng Yang Viroy, Anupam Chattopadhyay", SPACE 2020: 46-65,space
+79,On Configurable SCA Countermeasures Against Single Trace Attacks for the NTT - A Performance Evaluation Study over Kyber and Dilithium on the ARM Cortex-M4.,2020,"Prasanna Ravi, Romain Poussier, Shivam Bhasin, Anupam Chattopadhyay", SPACE 2020: 123-146,space
+80,Efficient Quantum Circuits for Square-Root and Inverse Square-Root.,2020,"Srijit Dutta, Yaswanth Tavva, Debjyoti Bhattacharjee, Anupam Chattopadhyay", VLSID 2020: 55-60,vlsid
+81,Towards Secure Composition of Integrated Circuits and Electronic Systems: On the Role of EDA.,2020,"Johann Knechtel, Elif Bilge Kavun, Francesco Regazzoni, Annelie Heuser, Anupam Chattopadhyay, Debdeep Mukhopadhyay, Soumyajit Dey, Yunsi Fei, Yaacov Belenky, Itamar Levi, Tim Güneysu, Patrick Schaumont, Ilia Polian",09672 ,corr
+82,RAPPER: Ransomware Prevention via Performance Counters.,2020,"Manaar Alam, Sayan Sinha, Sarani Bhattacharya, Swastika Dutta, Debdeep Mukhopadhyay, Anupam Chattopadhyay",01712 ,corr
+83,CONTRA: Area-Constrained Technology Mapping Framework For Memristive Memory Processing Unit.,2020,"Debjyoti Bhattacharjee, Anupam Chattopadhyay, Srijit Dutta, Ronny Ronen, Shahar Kvatinsky",00881 ,corr
+84,FlexWatts: A Power- and Workload-Aware Hybrid Power Delivery Network for Energy-Efficient Microprocessors.,2020,"Jawad Haj-Yahya, Mohammed Alser, Jeremie S. Kim, Lois Orosa, Efraim Rotem, Avi Mendelson, Anupam Chattopadhyay, Onur Mutlu",09094 ,corr
+85,Spatially Correlated Patterns in Adversarial Images.,2020,"Nandish Chattopadhyay, Lionell Yip En Zhi, Bryan Tan Bing Xing, Anupam Chattopadhyay",10794 ,corr
+86,Drop by Drop you break the rock - Exploiting generic vulnerabilities in Lattice-based PKE/KEMs using EM-based Physical Attacks.,2020,"Prasanna Ravi, Shivam Bhasin, Sujoy Sinha Roy, Anupam Chattopadhyay", 2020: 549 ,iacr
+87,Fault Location Identification By Machine Learning.,2020,"Anubhab Baksi, Santanu Sarkar, Akhilesh Siddhanti, Ravi Anand, Anupam Chattopadhyay", 2020: 717 ,iacr
+88,On Configurable SCA Countermeasures Against Single Trace Attacks for the NTT - A Performance Evaluation Study over Kyber and Dilithium on the ARM Cortex-M4.,2020,"Prasanna Ravi, Romain Poussier, Shivam Bhasin, Anupam Chattopadhyay", 2020: 1038 ,iacr
+89,A Novel Duplication Based Countermeasure To Statistical Ineffective Fault Analysis.,2020,"Anubhab Baksi, Vinay B. Y. Kumar, Banashri Karmakar, Shivam Bhasin, Dhiman Saha, Anupam Chattopadhyay", 2020: 1268 ,iacr
+90,Lattice-based Key Sharing Schemes - A Survey.,2020,"Prasanna Ravi, James Howe, Anupam Chattopadhyay, Shivam Bhasin", 2020: 1276 ,iacr
+91,Preliminary Hardware Benchmarking of a Group of Round 2 NIST Lightweight AEAD Candidates.,2020,"Mustafa Khairallah, Thomas Peyrin, Anupam Chattopadhyay", 2020: 1459 ,iacr
+92,Feeding Three Birds With One Scone: A Generic Duplication Based Countermeasure To Fault Attacks (Extended Version).,2020,"Anubhab Baksi, Shivam Bhasin, Jakub Breier, Anupam Chattopadhyay, Vinay B. Y. Kumar", 2020: 1542 ,iacr
+93,On Exploiting Message Leakage in (few) NIST PQC Candidates for Practical Message Recovery and Key Recovery Attacks.,2020,"Prasanna Ravi, Shivam Bhasin, Sujoy Sinha Roy, Anupam Chattopadhyay", 2020: 1559 ,iacr

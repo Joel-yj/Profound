@@ -1,0 +1,58 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,CLOSET: Data-Driven COI Detection and Management in Peer-Review Venues.,2023,Sourav S. Bhowmick, ACM 66: 70-71 ,cacm
+1,To Draw Is Human: Toward No-Code Subgraph Search.,2023,"Sourav S. Bhowmick, Byron Choi", ACM 66: 83-84 ,cacm
+2,A Framework for Privacy Preserving Localized Graph Pattern Query Processing.,2023,"Lyu Xu, Byron Choi, Yun Peng, Jianliang Xu, Sourav S. Bhowmick", Data 1: 129:1-129:27 ,pacmmod
+3,Theories and Principles Matter: Towards Visually Appealing and Effective Abstraction of Property Graph Queries.,2023,"Jiebing Ma, Sourav S. Bhowmick, Byron Choi, Lester Tay", Data 1: 132:1-132:26 ,pacmmod
+4,PIANO: Influence Maximization Meets Deep Reinforcement Learning.,2023,"Hui Li, Mengting Xu, Sourav S. Bhowmick, Shafiq Rayhan Joty, Changsheng Sun, Jiangtao Cui", 10: 1288-1300 ,tcss
+5,SVP-T: A Shape-Level Variable-Position Transformer for Multivariate Time Series Classification.,2023,"Rundong Zuo, Guozhong Li, Byron Choi, Sourav S. Bhowmick, Daphne Ngar-yin Mah, Grace Lai-Hung Wong", AAAI 2023: 11497-11505,aaai
+6,VOYAGER: Automatic Computation of Visual Complexity and Aesthetics of Graph Query Interfaces.,2023,"Duy Pham, Sourav S. Bhowmick", EDBT 2023: 815-818,edbt
+7,ARENA: Alternative Relational Query Plan Exploration for Database Education.,2023,"Hu Wang, Hui Li, Sourav S. Bhowmick, Baochao Xu", SIGMOD Conference Companion 2023: 107-110,sigmod
+8,"Proceedings 26th International Conference on Extending Database Technology, EDBT 2023, Ioannina, Greece, March 28-31, 2023.",2023,"Julia Stoyanovich, Jens Teubner, Nikos Mamoulis, Evaggelia Pitoura, Jan Mühlig, Katja Hose, Sourav S. Bhowmick, Matteo Lissandrini","org 2023, ISBN 978-3-89318-088-2 ",edbt
+9,DKWS: A Distributed System for Keyword Search on Massive Graphs (Complete Version).,2023,"Jiaxin Jiang, Byron Choi, Xin Huang, Jianliang Xu, Sourav S. Bhowmick",01199 ,corr
+10,Influence Maximization in Social Networks: A Survey.,2023,"Hui Li, Susu Yang, Mengting Xu, Sourav S. Bhowmick, Jiangtao Cui",04668 ,corr
+11,FLAG: Towards Graph Query Autocompletion for Large Graphs.,2022,"Peipei Yi, Jianping Li, Byron Choi, Sourav S. Bhowmick, Jianliang Xu", 7: 175-191 ,dase
+12,Towards Technology-Enabled Learning of Relational Query Processing.,2022,"Sourav S. Bhowmick, Hui Li", 45: 29-46 ,debu
+13,Toward automatic support for leading court debates: a novel task proposal & effective approach of judicial question generation.,2022,"Changzhen Ji, Yating Zhang, Xiaozhong Liu, Adam Jatowt, Sourav S. Bhowmick, Changlong Sun, Conghui Zhu, Tiejun Zhao", 34: 16367-16385 ,nca
+14,MOCHA: A Tool for Visualizing Impact of Operator Choices in Query Execution Plans for Database Education.,2022,"Jess Tan, Desmond Yeo, Rachael Neoh, Huey-Eng Chua, Sourav S. Bhowmick", 15: 3602-3605 ,pvldb
+15,SENSOR: Data-driven Construction of Sketch-based Visual Query Interfaces for Time Series Data.,2022,"Li Yan, Nerissa Xu, Guozhong Li, Sourav S. Bhowmick, Byron Choi, Jianliang Xu", 15: 3650-3653 ,pvldb
+16,"No PANE, No Gain: Scaling Attributed Network Embedding in a Single Server.",2022,"Renchi Yang, Jieming Shi, Xiaokui Xiao, Yin Yang, Sourav S. Bhowmick, Juncheng Liu", 51: 42-49 ,sigmod
+17,Diversity and Inclusion Activities in Database Conferences: A 2021 Report.,2022,"Sihem Amer-Yahia, Yael Amsterdamer, Sourav S. Bhowmick, Angela Bonifati, Philippe Bonnet, Renata Borovica-Gajic, Barbara Catania, Tania Cerquitelli, Silvia Chiusano, Panos K. Chrysanthis, Carlo Curino, Jérôme Darmont, Amr El Abbadi, Avrilia Floratou, Juliana Freire, Alekh Jindal, Vana Kalogeraki, Georgia Koutrika, Arun Kumar, Sujaya Maiyya, Alexandra Meliou, Madhulika Mohanty, Felix Naumann, Nele Sina Noack, Fatma Özcan, Liat Peterfreund, Wenny Rahayu, Wang-Chiew Tan, Yuanyuan Tian, Pinar Tözün, Genoveva Vargas-Solar, Neeraja J. Yadwadkar, Meihui Zhang", 51: 69-73 ,sigmod
+18,How Connected Are Our Conference Review Boards?,2022,Sourav S. Bhowmick, 51: 74-78 ,sigmod
+19,Efficient Shapelet Discovery for Time Series Classification.,2022,"Guozhong Li, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Kwok-Pan Chun, Grace Lai-Hung Wong", 34: 1149-1163 ,tkde
+20,GFocus: User Focus-Based Graph Query Autocompletion.,2022,"Peipei Yi, Byron Choi, Zhiwei Zhang, Sourav S. Bhowmick, Jianliang Xu", 34: 1788-1802 ,tkde
+21,ArcheGEO: towards improving relevance of gene expression omnibus search results.,2022,"Huey-Eng Chua, Lisa Tucker-Kellogg, Sourav S. Bhowmick", BCB 2022: 4:1-4:10,bcb
+22,Generating Plugs and Data Sockets for Plug-and-Play Database Web Services.,2022,"Arihant Jain, Curtis E. Dyreson, Sourav S. Bhowmick", CoopIS 2022: 279-288,coopis
+23,IPS: Instance Profile for Shapelet Discovery for Time Series Classification.,2022,"Guozhong Li, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Daphne Ngar-yin Mah, Grace Lai-Hung Wong", ICDE 2022: 1781-1793,icde
+24,PLAYPEN: Plug-and-Play Visual Graph Query Interfaces for Top-down and Bottom-Up Search on Large Networks.,2022,"Zifeng Yuan, Huey-Eng Chua, Sourav S. Bhowmick, Zekun Ye, Byron Choi, Wook-Shin Han", SIGMOD Conference 2022: 2381-2384,sigmod
+25,LANTERN: Boredom-conscious Natural Language Description Generation of Query Execution Plans for Database Education.,2022,"Peng Chen, Hui Li, Sourav S. Bhowmick, Shafiq R. Joty, Weiguo Wang", SIGMOD Conference 2022: 2413-2416,sigmod
+26,"Data-driven Visual Query Interfaces for Graphs: Past, Present, and (Near) Future.",2022,"Sourav S. Bhowmick, Byron Choi", SIGMOD Conference 2022: 2441-2447,sigmod
+27,Publication Culture and Review Processes in the Data Management Community: An Open Discussion.,2022,"Sihem Amer-Yahia, Sourav S. Bhowmick, Xin Luna Dong, Stratos Idreos, Wolfgang Lehner, Divesh Srivastava", SIGMOD Conference 2022: 2501-2502,sigmod
+28,AUTOSHAPE: An Autoencoder-Shapelet Approach for Time Series Clustering.,2022,"Guozhong Li, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Daphne Ngar-yin Mah, Grace Lai-Hung Wong",04313 ,corr
+29,ARENA: Towards Informative Alternative Query Plan Selection for Database Education.,2022,"Hu Wang, Hui Li, Sourav S. Bhowmick",13722 ,corr
+30,Towards Plug-and-Play Visual Graph Query Interfaces: Data-driven Canned Pattern Selection for Large Networks.,2021,"Zifeng Yuan, Huey-Eng Chua, Sourav S. Bhowmick, Zekun Ye, Wook-Shin Han, Byron Choi", 14: 1979-1991 ,pvldb
+31,A Generic Ontology Framework for Indexing Keyword Search on Massive Graphs.,2021,"Jiaxin Jiang, Byron Choi, Jianliang Xu, Sourav S. Bhowmick", 33: 2322-2336 ,tkde
+32,ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification.,2021,"Guozhong Li, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Kwok-Pan Chun, Grace Lai-Hung Wong", AAAI 2021: 8375-8383,aaai
+33,Privacy Preserving Strong Simulation Queries on Large Graphs.,2021,"Lyu Xu, Jiaxin Jiang, Byron Choi, Jianliang Xu, Sourav S. Bhowmick", ICDE 2021: 1500-1511,icde
+34,Efficient Shapelet Discovery for Time Series Classification (Extended Abstract).,2021,"Guozhong Li, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Kwok-Pan Chun, Grace Lai-Hung Wong", ICDE 2021: 2336-2337,icde
+35,A Generic Ontology Framework for Indexing Keyword Search on Massive Graphs (Extended Abstract).,2021,"Jiaxin Jiang, Byron Choi, Jianliang Xu, Sourav S. Bhowmick", ICDE 2021: 2338-2339,icde
+36,Kandinsky Mobile: Abstract Art-Inspired Interactive Visualization of Social Discussions on Mobile Devices.,2021,"Castillo Clarence Fitzgerald Gumtang, Sourav S. Bhowmick", ACM Multimedia 2021: 1446-1448,mm
+37,MIDAS: Towards Efficient and Effective Maintenance of Canned Patterns in Visual Graph Query Interfaces.,2021,"Kai Huang, Huey-Eng Chua, Sourav S. Bhowmick, Byron Choi, Shuigeng Zhou", SIGMOD Conference 2021: 764-776,sigmod
+38,Towards Enhancing Database Education: Natural Language Generation Meets Query Execution Plans.,2021,"Weiguo Wang, Sourav S. Bhowmick, Hui Li, Shafiq R. Joty, Siyuan Liu, Peng Chen", SIGMOD Conference 2021: 1933-1945,sigmod
+39,Towards Enhancing Database Education: Natural Language Generation Meets Query Execution Plans.,2021,"Weiguo Wang, Sourav S. Bhowmick, Hui Li, Shafiq R. Joty, Siyuan Liu, Peng Chen",00740 ,corr
+40,Towards Plug-and-Play Visual Graph Query Interfaces: Data-driven Canned Pattern Selection for Large Networks.,2021,"Zifeng Yuan, Huey-Eng Chua, Sourav S. Bhowmick, Zekun Ye, Wook-Shin Han, Byron Choi",09952 ,corr
+41,Homogeneous Network Embedding for Massive Graphs via Reweighted Personalized PageRank.,2020,"Renchi Yang, Jieming Shi, Xiaokui Xiao, Yin Yang, Sourav S. Bhowmick", 13: 670-683 ,pvldb
+42,Scaling Attributed Network Embedding to Massive Graphs.,2020,"Renchi Yang, Jieming Shi, Xiaokui Xiao, Yin Yang, Juncheng Liu, Sourav S. Bhowmick", 14: 37-49 ,pvldb
+43,FROST: Movement History-Conscious Facility Relocation.,2020,"Meng Wang, Hui Li, Jiangtao Cui, Sourav S. Bhowmick, Ping Liu", 11: 9:1-9:26 ,tist
+44,SURGE: Continuous Detection of Bursty Regions Over a Stream of Spatial Objects.,2020,"Kaiyu Feng, Tao Guo, Gao Cong, Sourav S. Bhowmick, Shuai Ma", 32: 2254-2268 ,tkde
+45,FERRARI: an efficient framework for visual exploratory subgraph search in graph databases.,2020,"Chaohui Wang, Miao Xie, Sourav S. Bhowmick, Byron Choi, Xiaokui Xiao, Shuigeng Zhou", 29: 973-998 ,vldb
+46,Visualet: Visualizing Shapelets for Time Series Classification.,2020,"Guozhong Li, Byron Choi, Sourav S. Bhowmick, Grace Lai-Hung Wong, Kwok-Pan Chun, Shiwen Li", CIKM 2020: 3429-3432,cikm
+47,SCALE: An Efficient Framework for Secure Dynamic Skyline Query Processing in the Cloud.,2020,"Weiguo Wang, Hui Li, Yanguo Peng, Sourav S. Bhowmick, Peng Chen, Xiaofeng Chen, Jiangtao Cui", DASFAA  2020: 288-305,dasfaa
+48,PPKWS: An Efficient Framework for Keyword Search on Public-Private Networks.,2020,"Jiaxin Jiang, Xin Huang, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Lyu Xu", ICDE 2020: 457-468,icde
+49,BRUNCH: Branching Structure Inference of Hybrid Multivariate Hawkes Processes with Application to Social Media.,2020,"Hui Li, Hui Li, Sourav S. Bhowmick", PAKDD  2020: 553-566,pakdd
+50,G-CARE: A Framework for Performance Benchmarking of Cardinality Estimation Techniques for Subgraph Matching.,2020,"Yeonsu Park, Seongyun Ko, Sourav S. Bhowmick, Kyoungmin Kim, Kijae Hong, Wook-Shin Han", SIGMOD Conference 2020: 1099-1114,sigmod
+51,CHASSIS: Conformity Meets Online Information Diffusion.,2020,"Hui Li, Hui Li, Sourav S. Bhowmick", SIGMOD Conference 2020: 1829-1840,sigmod
+52,BOOMER: A Tool for Blending Visual P-Homomorphic Queries on Large Networks.,2020,"Yinglong Song, Huey-Eng Chua, Sourav S. Bhowmick, Byron Choi, Shuigeng Zhou", SIGMOD Conference 2020: 2685-2688,sigmod
+53,AURORA: Data-driven Construction of Visual Graph Query Interfaces for Graph Databases.,2020,"Sourav S. Bhowmick, Kai Huang, Huey-Eng Chua, Zifeng Yuan, Byron Choi, Shuigeng Zhou", SIGMOD Conference 2020: 2689-2692,sigmod
+54,LATTE: Visual Construction of Smart Contracts.,2020,"Sean Tan, Sourav S. Bhowmick, Huey-Eng Chua, Xiaokui Xiao", SIGMOD Conference 2020: 2713-2716,sigmod
+55,An Efficient Secure Dynamic Skyline Query Model.,2020,"Weiguo Wang, Hui Li, Yanguo Peng, Sourav S. Bhowmick, Peng Chen, Xiaofeng Chen, Jiangtao Cui",07511 ,corr
+56,Scaling Attributed Network Embedding to Massive Graphs.,2020,"Renchi Yang, Jieming Shi, Xiaokui Xiao, Yin Yang, Juncheng Liu, Sourav S. Bhowmick",00826 ,corr

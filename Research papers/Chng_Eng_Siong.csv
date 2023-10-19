@@ -1,0 +1,113 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Leveraging Modality-Specific Representations for Audio-Visual Speech Recognition via Reinforcement Learning.,2023,"Chen Chen, Yuchen Hu, Qiang Zhang, Heqing Zou, Beier Zhu, Eng Siong Chng", AAAI 2023: 12607-12615,aaai
+1,"An Empirical Study on Punctuation Restoration for English, Mandarin, and Code-Switching Speech.",2023,"Changsong Liu, Thi-Nga Ho, Eng Siong Chng", ACIIDS  2023: 286-296,aciids
+2,Adapting Code-Switching Language Models with Statistical-Based Text Augmentation.,2023,"Chaiyasait Prachaseree, Kshitij Gupta, Thi-Nga Ho, Yizhou Peng, Kyaw Zin Tun, Eng Siong Chng, G. S. S. Chalapthi", ACIIDS  2023: 310-322,aciids
+3,UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning.,2023,"Heqing Zou, Meng Shen, Chen Chen, Yuchen Hu, Deepu Rajan, Eng Siong Chng", ACL  2023: 659-672,acl
+4,MIR-GAN: Refining Frame-Level Modality-Invariant Representations with Adversarial Network for Audio-Visual Speech Recognition.,2023,"Yuchen Hu, Chen Chen, Ruizhe Li, Heqing Zou, Eng Siong Chng", ACL  2023: 11610-11625,acl
+5,Hearing Lips in Noise: Universal Viseme-Phoneme Mapping and Transfer for Robust Audio-Visual Speech Recognition.,2023,"Yuchen Hu, Ruizhe Li, Chen Chen, Chengwei Qin, Qiu-Shi Zhu, Eng Siong Chng", ACL  2023: 15213-15232,acl
+6,Cross-Modal Global Interaction and Local Alignment for Audio-Visual Speech Recognition.,2023,"Yuchen Hu, Ruizhe Li, Chen Chen, Heqing Zou, Qiushi Zhu, Eng Siong Chng", IJCAI 2023: 5076-5084,ijcai
+7,Improved Keyword Recognition Based on Aho-Corasick Automaton.,2023,"Yachao Guo, Zhibin Qiu, Hao Huang, Chng Eng Siong", IJCNN 2023: 1-7,ijcnn
+8,Local and Global Context Modeling with Relation Matching Task for Dialog Act Recognition.,2023,"Yuke Si, Yan Zhang, Yuhang Li, Xiaobao Wang, Longbiao Wang, Jianwu Dang, Eng Siong Chng, Haizhou Li", IJCNN 2023: 1-8,ijcnn
+9,Leveraging Audio-Tagging Assisted Sound Event Detection using Weakified Strong Labels and Frequency Dynamic Convolutions.,2023,"Tanmay Khandelwal, Rohan Kumar Das, Andrew Koh, Eng Siong Chng", SSP 2023: 329-333,ssp
+10,Improving Spoken Language Identification with Map-Mix.,2023,"Shangeth Rajaa, Kriti Anandan, Swaraj Dalmia, Tarun Gupta, Eng Siong Chng",08229 ,corr
+11,Probabilistic Back-ends for Online Speaker Recognition and Clustering.,2023,"Alexey Sholokhov, Nikita Kuzmin, Kong Aik Lee, Eng Siong Chng",09523 ,corr
+12,Unifying Speech Enhancement and Separation with Gradient Modulation for End-to-End Noise-Robust Speech Separation.,2023,"Yuchen Hu, Chen Chen, Heqing Zou, Xionghu Zhong, Eng Siong Chng",11131 ,corr
+13,Gradient Remedy for Multi-Task Learning in End-to-End Noise-Robust Speech Recognition.,2023,"Yuchen Hu, Chen Chen, Ruizhe Li, Qiushi Zhu, Eng Siong Chng",11362 ,corr
+14,Unsupervised Noise adaptation using Data Simulation.,2023,"Chen Chen, Yuchen Hu, Heqing Zou, Linhui Sun, Eng Siong Chng",11981 ,corr
+15,Metric-oriented Speech Enhancement using Diffusion Probabilistic Model.,2023,"Chen Chen, Yuchen Hu, Weiwei Weng, Eng Siong Chng",11989 ,corr
+16,deHuBERT: Disentangling Noise in a Self-supervised Model for Robust Speech Recognition.,2023,"Dianwen Ng, Ruixi Zhang, Jia Qi Yip, Zhao Yang, Jinjie Ni, Chong Zhang, Yukun Ma, Chongjia Ni, Eng Siong Chng, Bin Ma",14597 ,corr
+17,Wav2code: Restore Clean Speech Representations via Codebook Lookup for Noise-Robust ASR.,2023,"Yuchen Hu, Chen Chen, Qiushi Zhu, Eng Siong Chng",04974 ,corr
+18,Contrastive Speech Mixup for Low-resource Keyword Spotting.,2023,"Dianwen Ng, Ruixi Zhang, Jia Qi Yip, Chong Zhang, Yukun Ma, Trung Hieu Nguyen, Chongjia Ni, Eng Siong Chng, Bin Ma",01170 ,corr
+19,Cross-Modal Global Interaction and Local Alignment for Audio-Visual Speech Recognition.,2023,"Yuchen Hu, Ruizhe Li, Chen Chen, Heqing Zou, Qiushi Zhu, Eng Siong Chng",09212 ,corr
+20,UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning.,2023,"Heqing Zou, Meng Shen, Chen Chen, Yuchen Hu, Deepu Rajan, Eng Siong Chng",09299 ,corr
+21,Noise-aware Speech Separation with Contrastive Learning.,2023,"Zizheng Zhang, Chen Chen, Xiang Liu, Yuchen Hu, Eng Siong Chng",10761 ,corr
+22,ACA-Net: Towards Lightweight Speaker Verification using Asymmetric Cross Attention.,2023,"Jia Qi Yip, Tuan Truong, Dianwen Ng, Chong Zhang, Yukun Ma, Trung Hieu Nguyen, Chongjia Ni, Shengkui Zhao, Eng Siong Chng, Bin Ma",12121 ,corr
+23,Study of GANs for Noisy Speech Simulation from Clean Speech.,2023,"Leander Melroy Maben, Zixun Guo, Chen Chen, Utkarsh Chudiwal, Chng Eng Siong",12460 ,corr
+24,A Neural State-Space Model Approach to Efficient Speech Separation.,2023,"Chen Chen, Chao-Han Huck Yang, Kai Li, Yuchen Hu, Pin-Jui Ku, Eng Siong Chng",16932 ,corr
+25,Hearing Lips in Noise: Universal Viseme-Phoneme Mapping and Transfer for Robust Audio-Visual Speech Recognition.,2023,"Yuchen Hu, Ruizhe Li, Chen Chen, Chengwei Qin, Qiushi Zhu, Eng Siong Chng",10563 ,corr
+26,MIR-GAN: Refining Frame-Level Modality-Invariant Representations with Adversarial Network for Audio-Visual Speech Recognition.,2023,"Yuchen Hu, Chen Chen, Ruizhe Li, Heqing Zou, Eng Siong Chng",10567 ,corr
+27,Noise-aware Speech Enhancement using Diffusion Probabilistic Model.,2023,"Yuchen Hu, Chen Chen, Ruizhe Li, Qiushi Zhu, Eng Siong Chng",08029 ,corr
+28,Analysis of Speech Separation Performance Degradation on Emotional Speech Mixtures.,2023,"Jia Qi Yip, Dianwen Ng, Bin Ma, Chng Eng Siong",07458 ,corr
+29,Codec Data Augmentation for Time-domain Heart Sound Classification.,2023,"Ansh Mishra, Jia Qi Yip, Eng Siong Chng",07466 ,corr
+30,Are Soft Prompts Good Zero-shot Learners for Speech Recognition?,2023,"Dianwen Ng, Chong Zhang, Ruixi Zhang, Yukun Ma, Fabian Ritter Gutierrez, Trung Hieu Nguyen, Chongjia Ni, Shengkui Zhao, Eng Siong Chng, Bin Ma",09413 ,corr
+31,Efficient Self-Supervised Learning Representations for Spoken Language Identification.,2022,"Hexin Liu, Leibny Paola García-Perera, Andy W. H. Khong, Eng Siong Chng, Suzy J. Styles, Sanjeev Khudanpur", 16: 1296-1307 ,jstsp
+32,Learning affective representations based on magnitude and dynamic relative phase information for speech emotion recognition.,2022,"Lili Guo, Longbiao Wang, Jianwu Dang, Eng Siong Chng, Seiichi Nakagawa", 136: 118-127 ,speech
+33,Continual Learning for On-Ddevice Environmental Sound Classification.,2022,"Yang Xiao, Xubo Liu, James A. King, Arshdeep Singh, Eng Siong Chng, Mark D. Plumbley, Wenwu Wang", DCASE 2022,dcase
+34,Convmixer: Feature Interactive Convolution with Curriculum Learning for Small Footprint and Noisy Far-Field Keyword Spotting.,2022,"Dianwen Ng, Yunqi Chen, Biao Tian, Qiang Fu, Eng Siong Chng", ICASSP 2022: 3603-3607,icassp
+35,Self-Critical Sequence Training for Automatic Speech Recognition.,2022,"Chen Chen, Yuchen Hu, Nana Hou, Xiaofeng Qi, Heqing Zou, Eng Siong Chng", ICASSP 2022: 3688-3692,icassp
+36,Noise-Robust Speech Recognition With 10 Minutes Unparalleled In-Domain Data.,2022,"Chen Chen, Nana Hou, Yuchen Hu, Shashank Shirol, Eng Siong Chng", ICASSP 2022: 4298-4302,icassp
+37,Interactive Feature Fusion for End-to-End Noise-Robust Speech Recognition.,2022,"Yuchen Hu, Nana Hou, Chen Chen, Eng Siong Chng", ICASSP 2022: 6292-6296,icassp
+38,An Embarrassingly Simple Model for Dialogue Relation Extraction.,2022,"Fuzhao Xue, Aixin Sun, Hao Zhang, Jinjie Ni, Eng Siong Chng", ICASSP 2022: 6707-6711,icassp
+39,L-SpEx: Localized Target Speaker Extraction.,2022,"Meng Ge, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li", ICASSP 2022: 7287-7291,icassp
+40,Speech Emotion Recognition with Co-Attention Based Multi-Level Acoustic Information.,2022,"Heqing Zou, Yuke Si, Chen Chen, Deepu Rajan, Eng Siong Chng", ICASSP 2022: 7367-7371,icassp
+41,Automated Audio Captioning Using Transfer Learning and Reconstruction Latent Space Similarity Regularization.,2022,"Andrew Koh, Fuzhao Xue, Chng Eng Siong", ICASSP 2022: 7722-7726,icassp
+42,Minimum Word Error Training For Non-Autoregressive Transformer-Based Code-Switching ASR.,2022,"Yizhou Peng, Jicheng Zhang, Haihua Xu, Hao Huang, Eng Siong Chng", ICASSP 2022: 7807-7811,icassp
+43,Estimation of speaker age and height from speech signal using bi-encoder transformer mixture model.,2022,"Tarun Gupta, Duc-Tuan Truong, Tran The Anh, Eng Siong Chng", INTERSPEECH 2022: 1978-1982,interspeech
+44,Interactive Auido-text Representation for Automated Audio Captioning with Contrastive Learning.,2022,"Chen Chen, Nana Hou, Yuchen Hu, Heqing Zou, Xiaofeng Qi, Eng Siong Chng", INTERSPEECH 2022: 2773-2777,interspeech
+45,Rainbow Keywords: Efficient Incremental Learning for Online Spoken Keyword Spotting.,2022,"Yang Xiao, Nana Hou, Eng Siong Chng", INTERSPEECH 2022: 3764-3768,interspeech
+46,DENT-DDSP: Data-efficient noisy speech generator using differentiable digital signal processors for explicit distortion modelling and noise-robust speech recognition.,2022,"Zixun Guo, Chen Chen, Eng Siong Chng", INTERSPEECH 2022: 3799-3803,interspeech
+47,"The ISCSLP 2022 Intelligent Cockpit Speech Recognition Challenge (ICSRC): Dataset, Tracks, Baseline and Results.",2022,"Ao Zhang, Fan Yu, Kaixun Huang, Lei Xie, Longbiao Wang, Eng Siong Chng, Hui Bu, Binbin Zhang, Wei Chen, Xin Xu", ISCSLP 2022: 507-511,iscslp
+48,ConvMixer: Feature Interactive Convolution with Curriculum Learning for Small Footprint and Noisy Far-field Keyword Spotting.,2022,"Dianwen Ng, Yunqi Chen, Biao Tian, Qiang Fu, Eng Siong Chng",05863 ,corr
+49,L-SpEx: Localized Target Speaker Extraction.,2022,"Meng Ge, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li",09995 ,corr
+50,Estimation of speaker age and height from speech signal using bi-encoder transformer mixture model.,2022,"Tarun Gupta, Duc-Tuan Truong, Tran The Anh, Chng Eng Siong",11774 ,corr
+51,Dual-Path Style Learning for End-to-End Noise-Robust Speech Recognition.,2022,"Yuchen Hu, Nana Hou, Chen Chen, Eng Siong Chng",14838 ,corr
+52,Noise-robust Speech Recognition with 10 Minutes Unparalleled In-domain Data.,2022,"Chen Chen, Nana Hou, Yuchen Hu, Shashank Shirol, Eng Siong Chng",15321 ,corr
+53,Speech Emotion Recognition with Co-Attention based Multi-level Acoustic Information.,2022,"Heqing Zou, Yuke Si, Chen Chen, Deepu Rajan, Eng Siong Chng",15326 ,corr
+54,Interactive Audio-text Representation for Automated Audio Captioning with Contrastive Learning.,2022,"Chen Chen, Nana Hou, Yuchen Hu, Heqing Zou, Xiaofeng Qi, Eng Siong Chng",15526 ,corr
+55,Rainbow Keywords: Efficient Incremental Learning for Online Spoken Keyword Spotting.,2022,"Yang Xiao, Nana Hou, Eng Siong Chng",16361 ,corr
+56,Small Footprint Multi-channel ConvMixer for Keyword Spotting with Centroid Based Awareness.,2022,"Dianwen Ng, Jin Hui Pang, Yang Xiao, Biao Tian, Qiang Fu, Eng Siong Chng",05445 ,corr
+57,Self-critical Sequence Training for Automatic Speech Recognition.,2022,"Chen Chen, Yuchen Hu, Nana Hou, Xiaofeng Qi, Heqing Zou, Eng Siong Chng",06260 ,corr
+58,Automated Audio Captioning with Epochal Difficult Captions for Curriculum Learning.,2022,"Andrew Koh, Soham Tiwari, Chng Eng Siong",01918 ,corr
+59,Language-Based Audio Retrieval with Converging Tied Layers and Contrastive Loss.,2022,"Andrew Koh, Eng Siong Chng",14659 ,corr
+60,Internal Language Model Estimation based Language Model Fusion for Cross-Domain Code-Switching Speech Recognition.,2022,"Yizhou Peng, Yufei Liu, Jicheng Zhang, Haihua Xu, Yi He, Hao Huang, Eng Siong Chng",04176 ,corr
+61,Intermediate-layer output Regularization for Attention-based Speech Recognition with Shared Decoder.,2022,"Jicheng Zhang, Yizhou Peng, Haihua Xu, Yi He, Eng Siong Chng, Hao Huang",04177 ,corr
+62,Continual Learning For On-Device Environmental Sound Classification.,2022,"Yang Xiao, Xubo Liu, James A. King, Arshdeep Singh, Eng Siong Chng, Mark D. Plumbley, Wenwu Wang",07429 ,corr
+63,DENT-DDSP: Data-efficient noisy speech generator using differentiable digital signal processors for explicit distortion modelling and noise-robust speech recognition.,2022,"Zixun Guo, Chen Chen, Eng Siong Chng",00987 ,corr
+64,I2CR: Improving Noise Robustness on Keyword Spotting Using Inter-Intra Contrastive Regularization.,2022,"Dianwen Ng, Jia Qi Yip, Tanmay Surana, Zhao Yang, Chong Zhang, Yukun Ma, Chongjia Ni, Eng Siong Chng, Bin Ma",06360 ,corr
+65,Speech-text based multi-modal training with bidirectional attention for improved speech recognition.,2022,"Yuhang Yang, Haihua Xu, Hao Huang, Eng Siong Chng, Sheng Li",00325 ,corr
+66,"The ISCSLP 2022 Intelligent Cockpit Speech Recognition Challenge (ICSRC): Dataset, Tracks, Baseline and Results.",2022,"Ao Zhang, Fan Yu, Kaixun Huang, Lei Xie, Longbiao Wang, Eng Siong Chng, Hui Bu, Binbin Zhang, Wei Chen, Xin Xu",01585 ,corr
+67,Leveraging Modality-specific Representations for Audio-visual Speech Recognition via Reinforcement Learning.,2022,"Chen Chen, Yuchen Hu, Qiang Zhang, Heqing Zou, Beier Zhu, Eng Siong Chng",05301 ,corr
+68,"Punctuation Restoration for Singaporean Spoken Languages: English, Malay, and Mandarin.",2022,"Abhinav Rao, Thi-Nga Ho, Eng Siong Chng",05356 ,corr
+69,GDPNet: Refining Latent Multi-View Graph for Relation Extraction.,2021,"Fuzhao Xue, Aixin Sun, Hao Zhang, Eng Siong Chng", AAAI 2021: 14194-14202,aaai
+70,End-to-End Speaker Age and Height Estimation using Attention Mechanism and Triplet Loss.,2021,"Manav Kaushik, Van Tung Pham, Tran The Anh, Eng Siong Chng", APSIPA ASC 2021: 1-8,apsipa
+71,Multitask-based joint learning approach to robust ASR for radio communication speech.,2021,"Duo Ma, Nana Hou, Van Tung Pham, Haihua Xu, Eng Siong Chng", APSIPA ASC 2021: 497-502,apsipa
+72,Time Domain Speech Enhancement With Attentive Multi-scale Approach.,2021,"Chen Chen, Nana Hou, Duo Ma, Eng Siong Chng", APSIPA ASC 2021: 679-683,apsipa
+73,Enriching Under-Represented Named Entities for Improved Speech Recognition.,2021,"Tingzhi Mao, Yerbolat Khassanov, Van Tung Pham, Haihua Xu, Hao Huang, Aishan Wumaier, Eng Siong Chng", APSIPA ASC 2021: 1021-1025,apsipa
+74,Multilingual Approach to Joint Speech and Accent Recognition with DNN-HMM Framework.,2021,"Yizhou Peng, Jicheng Zhang, Haobo Zhang, Haihua Xu, Hao Huang, Sheng Li, Eng Siong Chng", APSIPA ASC 2021: 1043-1048,apsipa
+75,A Unified Speaker Adaptation Approach for ASR.,2021,"Yingzhu Zhao, Chongjia Ni, Cheung-Chi Leung, Shafiq R. Joty, Eng Siong Chng, Bin Ma", EMNLP  2021: 9339-9349,emnlp
+76,Learning Disentangled Feature Representations for Speech Enhancement Via Adversarial Training.,2021,"Nana Hou, Chenglin Xu, Eng Siong Chng, Haizhou Li", ICASSP 2021: 666-670,icassp
+77,Multi-Stage Speaker Extraction with Utterance and Frame-Level Reference Signals.,2021,"Meng Ge, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li", ICASSP 2021: 6109-6113,icassp
+78,Representation Learning with Spectro-Temporal-Channel Attention for Speech Emotion Recognition.,2021,"Lili Guo, Longbiao Wang, Chenglin Xu, Jianwu Dang, Eng Siong Chng, Haizhou Li", ICASSP 2021: 6304-6308,icassp
+79,Preventing Early Endpointing for Online Automatic Speech Recognition.,2021,"Yingzhu Zhao, Chongjia Ni, Cheung-Chi Leung, Shafiq R. Joty, Eng Siong Chng, Bin Ma", ICASSP 2021: 6813-6817,icassp
+80,E2E-Based Multi-Task Learning Approach to Joint Speech and Accent Recognition.,2021,"Jicheng Zhang, Yizhou Peng, Van Tung Pham, Haihua Xu, Hao Huang, Eng Siong Chng", Interspeech 2021: 1519-1523,interspeech
+81,Overlapped Speech Detection Based on Spectral and Spatial Feature Fusion.,2021,"Weiguang Chen, Van Tung Pham, Eng Siong Chng, Xionghu Zhong", Interspeech 2021: 4189-4193,interspeech
+82,Approaches to Improving Recognition of Underrepresented Named Entities in Hybrid ASR Systems.,2021,"Tingzhi Mao, Yerbolat Khassanov, Van Tung Pham, Haihua Xu, Hao Huang, Eng Siong Chng", ISCSLP 2021: 1-5,iscslp
+83,Leveraging Text Data Using Hybrid Transformer-LSTM Based End-to-End ASR in Transfer Learning.,2021,"Zhiping Zeng, Van Tung Pham, Haihua Xu, Yerbolat Khassanov, Eng Siong Chng, Chongjia Ni, Bin Ma", ISCSLP 2021: 1-5,iscslp
+84,End-to-End Speaker Height and age estimation using Attention Mechanism with LSTM-RNN.,2021,"Manav Kaushik, Van Tung Pham, Eng Siong Chng",05056 ,corr
+85,Multitask-Based Joint Learning Approach To Robust ASR For Radio Communication Speech.,2021,"Duo Ma, Nana Hou, Van Tung Pham, Haihua Xu, Eng Siong Chng",10701 ,corr
+86,Automated Audio Captioning using Transfer Learning and Reconstruction Latent Space Similarity Regularization.,2021,"Andrew Koh, Fuzhao Xue, Eng Siong Chng",04692 ,corr
+87,Interactive Feature Fusion for End-to-End Noise-Robust Speech Recognition.,2021,"Yuchen Hu, Nana Hou, Chen Chen, Eng Siong Chng",05267 ,corr
+88,A Unified Speaker Adaptation Approach for ASR.,2021,"Yingzhu Zhao, Chongjia Ni, Cheung-Chi Leung, Shafiq R. Joty, Eng Siong Chng, Bin Ma",08545 ,corr
+89,Learning Speaker Representation with Semi-supervised Learning approach for Speaker Profiling.,2021,"Shangeth Rajaa, Van Tung Pham, Chng Eng Siong",13653 ,corr
+90,SpEx: Multi-Scale Time Domain Speaker Extraction Network.,2020,"Chenglin Xu, Wei Rao, Eng Siong Chng, Haizhou Li", 28: 1370-1384 ,taslp
+91,Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences.,2020,"Boon Peng Yap, Andrew Koh, Eng Siong Chng", EMNLP  2020: 41-46,emnlp
+92,Time-Domain Neural Network Approach for Speech Bandwidth Extension.,2020,"Xiang Hao, Chenglin Xu, Nana Hou, Lei Xie, Eng Siong Chng, Haizhou Li", ICASSP 2020: 866-870,icassp
+93,Independent Language Modeling Architecture for End-To-End ASR.,2020,"Van Tung Pham, Haihua Xu, Yerbolat Khassanov, Zhiping Zeng, Eng Siong Chng, Chongjia Ni, Bin Ma, Haizhou Li", ICASSP 2020: 7059-7063,icassp
+94,Speech Transformer with Speaker Aware Persistent Memory.,2020,"Yingzhu Zhao, Chongjia Ni, Cheung-Chi Leung, Shafiq R. Joty, Eng Siong Chng, Bin Ma", INTERSPEECH 2020: 1261-1265,interspeech
+95,SpEx+: A Complete Time Domain Speaker Extraction Network.,2020,"Meng Ge, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li", INTERSPEECH 2020: 1406-1410,interspeech
+96,Monolingual Data Selection Analysis for English-Mandarin Hybrid Code-Switching Speech Recognition.,2020,"Haobo Zhang, Haihua Xu, Van Tung Pham, Hao Huang, Eng Siong Chng", INTERSPEECH 2020: 2392-2396,interspeech
+97,Speaker and Phoneme-Aware Speech Bandwidth Extension with Residual Dual-Path Network.,2020,"Nana Hou, Chenglin Xu, Van Tung Pham, Joey Tianyi Zhou, Eng Siong Chng, Haizhou Li", INTERSPEECH 2020: 4064-4068,interspeech
+98,Multi-Task Learning for End-to-End Noise-Robust Bandwidth Extension.,2020,"Nana Hou, Chenglin Xu, Joey Tianyi Zhou, Eng Siong Chng, Haizhou Li", INTERSPEECH 2020: 4069-4073,interspeech
+99,Universal Speech Transformer.,2020,"Yingzhu Zhao, Chongjia Ni, Cheung-Chi Leung, Shafiq R. Joty, Eng Siong Chng, Bin Ma", INTERSPEECH 2020: 5021-5025,interspeech
+100,Cross Attention with Monotonic Alignment for Speech Transformer.,2020,"Yingzhu Zhao, Chongjia Ni, Cheung-Chi Leung, Shafiq R. Joty, Eng Siong Chng, Bin Ma", INTERSPEECH 2020: 5031-5035,interspeech
+101,SpEx: Multi-Scale Time Domain Speaker Extraction Network.,2020,"Chenglin Xu, Wei Rao, Eng Siong Chng, Haizhou Li",08326 ,corr
+102,Time-domain speaker extraction network.,2020,"Chenglin Xu, Wei Rao, Eng Siong Chng, Haizhou Li",14762 ,corr
+103,SpEx+: A Complete Time Domain Speaker Extraction Network.,2020,"Meng Ge, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li",04686 ,corr
+104,Approaches to Improving Recognition of Underrepresented Named Entities in Hybrid ASR Systems.,2020,"Tingzhi Mao, Yerbolat Khassanov, Van Tung Pham, Haihua Xu, Hao Huang, Eng Siong Chng",08742 ,corr
+105,Leveraging Text Data Using Hybrid Transformer-LSTM Based End-to-End ASR in Transfer Learning.,2020,"Zhiping Zeng, Van Tung Pham, Haihua Xu, Yerbolat Khassanov, Eng Siong Chng, Chongjia Ni, Bin Ma",10407 ,corr
+106,Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences.,2020,"Boon Peng Yap, Andrew Koh, Eng Siong Chng",11795 ,corr
+107,A multilingual approach to joint Speech and Accent Recognition with DNN-HMM framework.,2020,"Yizhou Peng, Jicheng Zhang, Haobo Zhang, Haihua Xu, Hao Huang, Eng Siong Chng",11483 ,corr
+108,Enriching Under-Represented Named-Entities To Improve Speech Recognition Performance.,2020,"Tingzhi Mao, Yerbolat Khassanov, Van Tung Pham, Haihua Xu, Hao Huang, Aishan Wumaier, Eng Siong Chng",12143 ,corr
+109,Multi-stage Speaker Extraction with Utterance and Frame-Level Reference Signals.,2020,"Meng Ge, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li",09624 ,corr
+110,GDPNet: Refining Latent Multi-View Graph for Relation Extraction.,2020,"Fuzhao Xue, Aixin Sun, Hao Zhang, Eng Siong Chng",06780 ,corr
+111,An Embarrassingly Simple Model for Dialogue Relation Extraction.,2020,"Fuzhao Xue, Aixin Sun, Hao Zhang, Eng Siong Chng",13873 ,corr

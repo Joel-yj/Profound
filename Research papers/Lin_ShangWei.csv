@@ -1,0 +1,33 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,SMT Solver With Hardware Acceleration.,2023,"Yean-Ru Chen, Si-Han Chen, Shangwei Lin", 42: 2055-2068 ,tcad
+1,A Quantum SMT Solver for Bit-Vector Theory.,2023,"Shang-Wei Lin, Si-Han Chen, Tzu-Fan Wang, Yean-Ru Chen",09353 ,corr
+2,A Parallel and Distributed Quantum SAT Solver Based on Entanglement and Quantum Teleportation.,2023,"Shang-Wei Lin, Tzu-Fan Wang, Yean-Ru Chen, Zhe Hou, David Sanán, Yon Shin Teo",03344 ,corr
+3,A Survey of Smart Contract Formal Specification and Verification.,2022,"Palina Tolmach, Yi Li, Shangwei Lin, Yang Liu, Zengxiang Li", 54: 148:1-148:38 ,csur
+4,A Quantum interpretation of separating conjunction for local reasoning of Quantum programs based on separation logic.,2022,"Xuan-Bach Le, Shang-Wei Lin, Jun Sun, David Sanán", 6: 1-27 ,pacmpl
+5,Oracle-Supported Dynamic Exploit Generation for Smart Contracts.,2022,"Haijun Wang, Ye Liu, Yi Li, Shangwei Lin, Cyrille Artho, Lei Ma, Yang Liu", 19: 1795-1809 ,tdsc
+6,Pasadena: Perceptually Aware and Stealthy Adversarial Denoise Attack.,2022,"Yupeng Cheng, Qing Guo, Felix Juefei-Xu, Shang-Wei Lin, Wei Feng, Weisi Lin, Yang Liu", 24: 3807-3822 ,tmm
+7,Finding permission bugs in smart contracts with role mining.,2022,"Ye Liu, Yi Li, Shang-Wei Lin, Cyrille Artho", ISSTA 2022: 716-727,issta
+8,Property-Based Automated Repair of DeFi Protocols.,2022,"Palina Tolmach, Yi Li, Shang-Wei Lin", ASE 2022: 184:1-184:5,kbse
+9,SolSEE: a source-level symbolic execution engine for solidity.,2022,"Shang-Wei Lin, Palina Tolmach, Ye Liu, Yi Li", ESEC/SIGSOFT FSE 2022: 1687-1691,sigsoft
+10,A Holistic Automated Software Structure Exploration Framework for Testing.,2022,"Yushi Cao, Yon Shin Teo, Yan Zheng, Yuxuan Toh, Shang-Wei Lin", SoMeT 2022: 286-297,somet
+11,Enhancing Security Patch Identification by Capturing Structures in Commits.,2022,"Bozhi Wu, Shangqing Liu, Ruitao Feng, Xiaofei Xie, Jing Kai Siow, Shang-Wei Lin",09022 ,corr
+12,A security type verifier for smart contracts.,2021,"Xinwen Hu, Yi Zhuang, Shangwei Lin, Fuyuan Zhang, Shuanglong Kan, Zining Cao", 108: 102343 ,compsec
+13,A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices.,2021,"Ruitao Feng, Sen Chen, Xiaofei Xie, Guozhu Meng, Shang-Wei Lin, Yang Liu", 16: 1563-1578 ,tifs
+14,CSim2: Compositional Top-down Verification of Concurrent Systems using Rely-Guarantee.,2021,"David Sanán, Yongwang Zhao, Shang-Wei Lin, Yang Liu", 43: 2:1-2:46 ,toplas
+15,Formal Analysis of Composable DeFi Protocols.,2021,"Palina Tolmach, Yi Li, Shang-Wei Lin, Yang Liu", Financial Cryptography Workshops 2021: 149-161,fc
+16,Automatic HMI Structure Exploration Via Curiosity-Based Reinforcement Learning.,2021,"Yushi Cao, Yan Zheng, Shang-Wei Lin, Yang Liu, Yon Shin Teo, Yuxuan Toh, Vinay Vishnumurthy Adiga", ASE 2021: 1151-1155,kbse
+17,Formal Analysis of Composable DeFi Protocols.,2021,"Palina Tolmach, Yi Li, Shang-Wei Lin, Yang Liu",00540 ,corr
+18,A distributed method to avoid higher-order deadlocks in multi-robot systems.,2020,"Yuan Zhou, Hesuan Hu, Yang Liu, Shang-Wei Lin, Zuohua Ding", 112 ,automatica
+19,A Generalized Formal Semantic Framework for Smart Contracts.,2020,"Jiao Jiao, Shang-Wei Lin, Jun Sun", FASE 2020: 75-96,fase
+20,Automatic Verification of Multi-threaded Programs by Inference of Rely-Guarantee Specifications.,2020,"Xuan-Bach Le, David Sanán, Jun Sun, Shang-Wei Lin", ICECCS 2020: 43-52,iceccs
+21,SeqMobile: An Efficient Sequence-Based Malware Detection System Using RNN on Mobile Devices.,2020,"Ruitao Feng, Jing Qiang Lim, Sen Chen, Shang-Wei Lin, Yang Liu", ICECCS 2020: 63-72,iceccs
+22,Defense for adversarial videos by self-adaptive JPEG compression and optical texture.,2020,"Yupeng Cheng, Xingxing Wei, Huazhu Fu, Shang-Wei Lin, Weisi Lin", MMAsia 2020: 55:1-55:7,mmasia
+23,Towards automated verification of smart contract fairness.,2020,"Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao", ESEC/SIGSOFT FSE 2020: 666-677,sigsoft
+24,ModCon: a model-based testing platform for smart contracts.,2020,"Ye Liu, Yi Li, Shang-Wei Lin, Qiang Yan", ESEC/SIGSOFT FSE 2020: 1601-1605,sigsoft
+25,Semantic Understanding of Smart Contracts: Executable Operational Semantics of Solidity.,2020,"Jiao Jiao, Shuanglong Kan, Shang-Wei Lin, David Sanán, Yang Liu, Jun Sun", SP 2020: 1695-1712,sp
+26,"Formal Methods and Software Engineering - 22nd International Conference on Formal Engineering Methods, ICFEM 2020, Singapore, Singapore, March 1-3, 2021, Proceedings.",2020,"Shang-Wei Lin, Zhe Hou, Brendan P. Mahony"," Lecture Notes in Computer Science 12531, Springer 2020, ISBN 978-3-030-63405-6 ",icfem
+27,A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices.,2020,"Ruitao Feng, Sen Chen, Xiaofei Xie, Guozhu Meng, Shang-Wei Lin, Yang Liu",04970 ,corr
+28,Pasadena: Perceptually Aware and Stealthy Adversarial Denoise Attack.,2020,"Yupeng Cheng, Qing Guo, Felix Juefei-Xu, Xiaofei Xie, Shang-Wei Lin, Weisi Lin, Wei Feng, Yang Liu",07097 ,corr
+29,A Survey of Smart Contract Formal Specification and Verification.,2020,"Palina Tolmach, Yi Li, Shang-Wei Lin, Yang Liu, Zengxiang Li",02712 ,corr
+30,Adversarial Exposure Attack on Diabetic Retinopathy Imagery.,2020,"Yupeng Cheng, Felix Juefei-Xu, Qing Guo, Huazhu Fu, Xiaofei Xie, Shang-Wei Lin, Weisi Lin, Yang Liu",09231 ,corr
+31,SeqMobile: A Sequence Based Efficient Android Malware Detection System Using RNN on Mobile Devices.,2020,"Ruitao Feng, Jing Qiang Lim, Sen Chen, Shang-Wei Lin, Yang Liu",05218 ,corr

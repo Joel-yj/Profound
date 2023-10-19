@@ -1,0 +1,31 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Age of Information Outage Probability Analysis for Computation Offloading in IIoT Networks.,2023,"Tan Zheng Hui Ernest, A. S. Madhukumar", 27: 2471-2475 ,icl
+1,Ensemble Learning-Based Edge Caching Strategies for Internet of Vehicles: Outage and Finite SNR Analysis.,2023,"Zheng Hui Ernest Tan, A. S. Madhukumar", 4: 239-252 ,ojcs
+2,MultiNet: Deep unsupervised power control for industrial MU-MIMO networks.,2023,"Ritabrata Maiti, A. S. Madhukumar, Tan Zheng Hui Ernest", 60: 102158 ,phycomm
+3,Physical Layer Security of HAPS-Based Space-Air-Ground-Integrated Network With Hybrid FSO/RF Communication.,2023,"Vinay Bankey, Shubha Sharma, R. Swaminathan, A. S. Madhukumar", 59: 4680-4688 ,taes
+4,An Energy Efficiency Analysis of Computation Offloading in MEC-Enabled IoV Networks.,2023,"Tan Zheng Hui Ernest, A. S. Madhukumar", VTC2023-Spring 2023: 1-5,vtc
+5,SVDNet: Deep Power Control for Multiuser MIMO.,2023,"Ritabrata Maiti, A. S. Madhukumar, Tan Zheng Hui Ernest", VTC2023-Spring 2023: 1-5,vtc
+6,Multi-hop Computational Offloading with Reinforcement Learning for Industrial IoT Networks.,2023,"S. Barman Roy, Zheng Hui Ernest Tan, A. S. Madhukumar", VTC2023-Spring 2023: 1-5,vtc
+7,Physical Layer Security for THz Communication.,2023,"Shubha Sharma, A. S. Madhukumar", VTC2023-Spring 2023: 1-5,vtc
+8,Adaptive-Combining-Based Hybrid FSO/RF Satellite Communication With and Without HAPS.,2021,"Suyash Shah, Mokkapati Siddharth, Narendra Vishwakarma, R. Swaminathan, A. S. Madhukumar", IEEE Access 9: 81492-81511 ,access
+9,Transceiver design for high altitude pseudo satellite aided dual satellite systems.,2021,"Rajendra Prasad Sirigina, A. S. Madhukumar, Mark D. J. Bowyer", 179: 251-259 ,comcom
+10,NOMA-Aided Multi-UAV Communications in Full-Duplex Heterogeneous Networks.,2021,"Zheng Hui Ernest Tan, A. S. Madhukumar, Rajendra Prasad Sirigina, Anoop Kumar Krishna", 15: 2755-2766 ,sj
+11,HAPS-Based Relaying for Integrated Space-Air-Ground Networks With Hybrid FSO/RF Communication: A Performance Analysis.,2021,"Swaminathan Ramabadran, Shubha Sharma, Narendra Vishwakarma, A. S. Madhukumar", 57: 1581-1599 ,taes
+12,Design and Implementation of Low Complexity Reconfigurable Filtered-OFDM-Based LDACS.,2021,"Niharika Agrawal, Abhishek Ambede, Sumit Jagdish Darak, A. P. Vinod, A. S. Madhukumar", II Express Briefs 68: 2399-2403 ,tcasII
+13,MIMO Hybrid FSO/RF System Over Generalized Fading Channels.,2021,"Shubha Sharma, A. S. Madhukumar, Swaminathan Ramabadran", 70: 11565-11581 ,tvt
+14,Performance Analysis of Base Station Association Strategies in Industrial 5G Networks.,2021,"Zheng Hui Ernest Tan, A. S. Madhukumar", VTC Fall 2021: 1-5,vtc
+15,An Adaptive Energy Detection Scheme with Real-Time Noise Variance Estimation.,2020,"Libin K. Mathew, Shanker Shreejith, A. Prasad Vinod, A. S. Madhukumar", 39: 2623-2647 ,cssp
+16,Analysis of heterogeneous satellite networks with multi-user detectors.,2020,"Rajendra Prasad Sirigina, A. S. Madhukumar, Mark D. J. Bowyer", 38: 254-271 ,ijscn
+17,Terrestrial Relay-Aided Cooperative High Throughput Satellite Systems.,2020,"Rajendra Prasad Sirigina, A. S. Madhukumar, Mark D. J. Bowyer", 38: 284-300 ,ijscn
+18,Blind Estimation of Code Parameters for Product Codes Over Noisy Channel Conditions.,2020,"Swaminathan Ramabadran, A. S. Madhukumar, Guohua Wang", 56: 1460-1473 ,taes
+19,Wireless Energy Harvesting-Based Relaying: A Finite-SNR Diversity-Multiplexing Tradeoff Perspective.,2020,"Yepuri Sudhakara Rao, A. S. Madhukumar, Rajendra Prasad Sirigina", 4: 277-288 ,tgcn
+20,NOMA-Aided UAV Communications over Correlated Rician Shadowed Fading Channels.,2020,"Zheng Hui Ernest Tan, A. S. Madhukumar, Rajendra Prasad Sirigina, Anoop Kumar Krishna", 68: 3103-3116 ,tsp
+21,A Power-Efficient Spectrum-Sensing Scheme Using 1-Bit Quantizer and Modified Filter Banks.,2020,"Libin K. Mathew, Shanker Shreejith, A. Prasad Vinod, A. S. Madhukumar", 28: 2074-2078 ,tvlsi
+22,Addressing spectrum efficiency through hybrid-duplex UAV communications: Challenges and opportunities.,2020,"Zheng Hui Ernest Tan, A. S. Madhukumar, Rajendra Prasad Sirigina, Anoop Kumar Krishna", 24: 100235 ,vcomm
+23,Performance Analysis of Hybrid FSO/RF System with Transmit Aperture Selection.,2020,"Shubha Sharma, A. S. Madhukumar, R. Swaminathan", ICC Workshops 2020: 1-6,icc
+24,Capacity Characterization of Uplink NOMA in Multi-UAV Networks.,2020,"Zheng Hui Ernest Tan, A. S. Madhukumar, Rajendra Prasad Sirigina, Anoop Kumar Krishna", VTC Spring 2020: 1-5,vtc
+25,Space Shift Keying-Based Hybrid FSO/RF System.,2020,"Shubha Sharma, A. S. Madhukumar, Swaminathan Ramabadran", VTC Fall 2020: 1-5,vtc
+26,Performance of Dual-Hop Hybrid FSO/RF System with Pointing Errors Optimization.,2020,"Shubha Sharma, A. S. Madhukumar, R. Swaminathan", VTC Spring 2020: 1-5,vtc
+27,Performance Analysis of HAPS-Based Relaying for Hybrid FSO/RF Downlink Satellite Communication.,2020,"R. Swaminathan, Shubha Sharma, A. S. Madhukumar", VTC Spring 2020: 1-5,vtc
+28,Impact of Cellular Interference on Uplink UAV Communications.,2020,"Zheng Hui Ernest Tan, A. S. Madhukumar, Rajendra Prasad Sirigina, Anoop Kumar Krishna", VTC Spring 2020: 1-5,vtc
+29,Mitigating Cellular Interference in Uplink UAV Communications.,2020,"Zheng Hui Ernest Tan, A. S. Madhukumar, Rajendra Prasad Sirigina, Anoop Kumar Krishna", VTC Fall 2020: 1-5,vtc

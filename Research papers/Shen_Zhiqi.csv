@@ -1,0 +1,42 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Reversing skin cancer adversarial examples by multiscale diffusive and denoising aggregation mechanism.,2023,"Yongwei Wang, Yuan Li, Zhiqi Shen, Yuhui Qiao", Medicine 164: 107310 ,cbm
+1,Dynamic Multi-Objective Optimization Framework With Interactive Evolution for Sequential Recommendation.,2023,"Wei Zhou, Yong Liu, Min Li, Yu Wang, Zhiqi Shen, Liang Feng, Zexuan Zhu", 7: 1228-1241 ,tetci
+2,Next POI Recommendation with Dynamic Graph and Explicit Dependency.,2023,"Feiyu Yin, Yong Liu, Zhiqi Shen, Lisi Chen, Shuo Shang, Peng Han", AAAI 2023: 4827-4834,aaai
+3,MHCCL: Masked Hierarchical Cluster-Wise Contrastive Learning for Multivariate Time Series.,2023,"Qianwen Meng, Hangwei Qian, Yong Liu, Lizhen Cui, Yonghui Xu, Zhiqi Shen", AAAI 2023: 9153-9161,aaai
+4,Revisiting Item Promotion in GNN-Based Collaborative Filtering: A Masked Targeted Topological Attack Perspective.,2023,"Yongwei Wang, Yong Liu, Zhiqi Shen", AAAI 2023: 15206-15214,aaai
+5,A Teachable Agent to Enhance Elderly's Ikigai.,2023,"Ping Chen, Xinjia Yu, Sufang Lim, Zhiqi Shen", AAMAS 2023: 2319-2321,atal
+6,Dual Graph Multitask Framework for Imbalanced Delivery Time Estimation.,2023,"Lei Zhang, Mingliang Wang, Xin Zhou, Xingyu Wu, Yiming Cao, Yonghui Xu, Lizhen Cui, Zhiqi Shen", DASFAA  2023: 606-618,dasfaa
+7,Delivery Time Prediction Using Large-Scale Graph Structure Learning Based on Quantile Regression.,2023,"Lei Zhang, Xin Zhou, Zhiwei Zeng, Yiming Cao, Yonghui Xu, Mingliang Wang, Xingyu Wu, Yong Liu, Lizhen Cui, Zhiqi Shen", ICDE 2023: 3403-3416,icde
+8,Federated Learning for Personalized Image Aesthetics Assessment.,2023,"Zhiwei Xiong, Han Yu, Zhiqi Shen", ICME 2023: 336-341,icmcs
+9,CSP-RM: Reputation Management Decision Support for Crowdsourcing Service Providers.,2023,"Shipeng Wang, Qingzhong Li, Lizhen Cui, Yali Jiang, Zhiqi Shen, Han Yu", ICWS 2023: 161-169,icws
+10,Inductive Graph Transformer for Delivery Time Estimation.,2023,"Xin Zhou, Jinglong Wang, Yong Liu, Xingyu Wu, Zhiqi Shen, Cyril Leung", WSDM 2023: 679-687,wsdm
+11,Enhancing Dyadic Relations with Homogeneous Graphs for Multimodal Recommendation.,2023,"Hongyu Zhou, Xin Zhou, Zhiqi Shen",12097 ,corr
+12,"A Comprehensive Survey on Multimodal Recommender Systems: Taxonomy, Evaluation, and Future Directions.",2023,"Hongyu Zhou, Xin Zhou, Zhiwei Zeng, Lingzi Zhang, Zhiqi Shen",04473 ,corr
+13,Dual Graph Multitask Framework for Imbalanced Delivery Time Estimation.,2023,"Lei Zhang, Mingliang Wang, Xin Zhou, Xingyu Wu, Yiming Cao, Yonghui Xu, Lizhen Cui, Zhiqi Shen",07429 ,corr
+14,Multimodal Pre-training Framework for Sequential Recommendation via Contrastive Learning.,2023,"Lingzi Zhang, Xin Zhou, Zhiqi Shen",11879 ,corr
+15,StarNet: Style-Aware 3D Point Cloud Generation.,2023,"Yunfan Zhang, Hao Wang, Guosheng Lin, Vun Chan Hua Nicholas, Zhiqi Shen, Chunyan Miao",15805 ,corr
+16,Unifying gradient regularization for Heterogeneous Graph Neural Networks.,2023,"Xiao Yang, Xuejiao Zhao, Zhiqi Shen",15811 ,corr
+17,Unsupervised Representation Learning for Time Series: A Review.,2023,"Qianwen Meng, Hangwei Qian, Yong Liu, Yonghui Xu, Zhiqi Shen, Lizhen Cui",01578 ,corr
+18,Capturing Popularity Trends: A Simplistic Non-Personalized Approach for Enhanced Item Recommendation.,2023,"Jiazheng Jing, Yinan Zhang, Xin Zhou, Zhiqi Shen",08799 ,corr
+19,Image Aesthetics Assessment via Learnable Queries.,2023,"Zhiwei Xiong, Yunfan Zhang, Zhiqi Shen, Peiran Ren, Han Yu",02861 ,corr
+20,SAER: Sentiment-Opinion Alignment Explainable Recommendation.,2022,"Xiaoning Zong, Yong Liu, Yonghui Xu, Yixin Zhang, Zhiqi Shen, Yonghua Yang, Lizhen Cui", DASFAA  2022: 315-322,dasfaa
+21,Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked Targeted Topological Attack Perspective.,2022,"Yongwei Wang, Yong Liu, Zhiqi Shen",09979 ,corr
+22,Inductive Graph Transformer for Delivery Time Estimation.,2022,"Xin Zhou, Jinglong Wang, Yong Liu, Xingyu Wu, Zhiqi Shen, Cyril Leung",02863 ,corr
+23,MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series.,2022,"Qianwen Meng, Hangwei Qian, Yong Liu, Yonghui Xu, Zhiqi Shen, Lizhen Cui",01141 ,corr
+24,Towards AI-Empowered Crowdsourcing.,2022,"Shipeng Wang, Qingzhong Li, Lizhen Cui, Zhongmin Yan, Yonghui Xu, Zhuan Shi, Zhiqi Shen, Han Yu",14676 ,corr
+25,Ping Pong: An Exergame for Cognitive Inhibition Training.,2021,"Hao Zhang, Zhiqi Shen, Siyuan Liu, Dazhong Yuan, Chunyan Miao", 37: 1104-1115 ,ijhci
+26,Noise-Resistant Deep Metric Learning With Ranking-Based Instance Selection.,2021,"Chang Liu, Han Yu, Boyang Li, Zhiqi Shen, Zhanning Gao, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao", CVPR 2021: 6811-6820,cvpr
+27,Coaching Older Adults in Health Games: A Goal Oriented Modelling Approach.,2021,"Zhengxiang Pan, Yaming Zhang, Hao Zhang, Zhiqi Shen", HCI  2021: 424-442,hci
+28,A Serious Mobile Game for Neurodegenerative Diseases Rehabilitation and Risk Estimation.,2021,"Huiguo Zhang, Yonghui Xu, Jun Lin, Weiming Li, Zhiqi Shen", ICCSE 2021: 103-107,iccse
+29,Diversity-Promoting Deep Reinforcement Learning for Interactive Recommendation.,2021,"Yong Liu, Zhiqi Shen, Yinan Zhang, Lizhen Cui", ICCSE 2021: 132-139,iccse
+30,Enhancing Viewing Experience of Generated Visual Storylines for Promotional Videos.,2021,"Chang Liu, Han Yu, Zhiqi Shen, Ian Dixon, Yingxue Yu, Zhanning Gao, Pan Wang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao", ICME 2021: 1-6,icmcs
+31,Goal Modelling for Deep Reinforcement Learning Agents.,2021,"Jonathan Leung, Zhiqi Shen, Zhiwei Zeng, Chunyan Miao", ECML/PKDD  2021: 271-286,pkdd
+32,Noise-resistant Deep Metric Learning with Ranking-based Instance Selection.,2021,"Chang Liu, Han Yu, Boyang Li, Zhiqi Shen, Zhanning Gao, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",16047 ,corr
+33,Noise-Resistant Deep Metric Learning with Probabilistic Instance Filtering.,2021,"Chang Liu, Han Yu, Boyang Li, Zhiqi Shen, Zhanning Gao, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",01431 ,corr
+34,Generating Engaging Promotional Videos for E-commerce Platforms (Student Abstract).,2020,"Chang Liu, Han Yu, Yi Dong, Zhiqi Shen, Yingxue Yu, Ian Dixon, Zhanning Gao, Pan Wang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao", AAAI 2020: 13865-13866,aaai
+35,Explainable and Contextual Preferences based Decision Making with Assumption-based Argumentation for Diagnostics and Prognostics of Alzheimer's Disease.,2020,"Zhiwei Zeng, Zhiqi Shen, Jing Jih Chin, Cyril Leung, Yu Wang, Ying Chi, Chunyan Miao", AAMAS 2020: 2071-2073,atal
+36,An AI-empowered Visual Storyline Generator.,2020,"Chang Liu, Zhao Yong Lim, Han Yu, Zhiqi Shen, Ian Dixon, Zhanning Gao, Pan Wang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao", IJCAI 2020: 5267-5269,ijcai
+37,A Gamified Assessment Platform for Predicting the Risk of Dementia +Parkinson's disease (DPD) Co-Morbidity.,2020,"Zhiwei Zeng, Hongchao Jiang, Yanci Zhang, Zhiqi Shen, Jun Ji, Martin J. McKeown, Jing Jih Chin, Cyril Leung, Chunyan Miao", IJCAI 2020: 5297-5299,ijcai
+38,Explainable and Argumentation-based Decision Making with Qualitative Preferences for Diagnostics and Prognostics of Alzheimer's Disease.,2020,"Zhiwei Zeng, Zhiqi Shen, Benny Toh Hsiang Tan, Jing Jih Chin, Cyril Leung, Yu Wang, Ying Chi, Chunyan Miao", KR 2020: 816-826,kr
+39,Dealing with Label Quality Disparity in Federated Learning.,2020,"Yiqiang Chen, Xiaodong Yang, Xin Qin, Han Yu, Piu Chan, Zhiqi Shen", Federated Learning 2020: 108-121,lncs
+40,FOCUS: Dealing with Label Quality Disparity in Federated Learning.,2020,"Yiqiang Chen, Xiaodong Yang, Xin Qin, Han Yu, Biao Chen, Zhiqi Shen",11359 ,corr

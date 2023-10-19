@@ -1,0 +1,23 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,A fully differentiable ligand pose optimization framework guided by deep learning and a traditional scoring function.,2023,"Zechen Wang, Liangzhen Zheng, Sheng Wang, Mingzhi Lin, Zhihao Wang, Adams Wai-Kin Kong, Yuguang Mu, Yanjie Wei, Weifeng Li", 24 ,bib
+1,A Practical Upper Bound for the Worst-Case Attribution Deviations.,2023,"Fan Wang, Adams Wai-Kin Kong", CVPR 2023: 24616-24625,cvpr
+2,Flexible-modal Deception Detection with Audio-Visual Adapter.,2023,"Zhaoxu Li, Zitong Yu, Nithish Muthuchamy Selvaraj, Xiaobao Guo, Bingquan Shen, Adams Wai-Kin Kong, Alex C. Kot",05727 ,corr
+3,A Practical Upper Bound for the Worst-Case Attribution Deviations.,2023,"Fan Wang, Adams Wai-Kin Kong",00340 ,corr
+4,TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition.,2023,"Shilin Lu, Yanzhu Liu, Adams Wai-Kin Kong",12493 ,corr
+5,Using double attention for text tattoo localisation.,2022,"Xingpeng Xu, Shitala Prasad, Kuanhong Cheng, Adams Wai-Kin Kong", 11: 199-214 ,iet-bmt
+6,Pure Transformer with Integrated Experts for Scene Text Recognition.,2022,"Yew Lee Tan, Adams Wai-Kin Kong, Jung-Jae Kim", ECCV  2022: 481-497,eccv
+7,Transferable Adversarial Attack based on Integrated Gradients.,2022,"Yi Huang, Adams Wai-Kin Kong", ICLR 2022,iclr
+8,Portmanteauing Features for Scene Text Recognition.,2022,"Yew Lee Tan, Ernest Yu Kai Chew, Adams Wai-Kin Kong, Jung-Jae Kim, Joo Hwee Lim", ICPR 2022: 1499-1505,icpr
+9,Exploiting the Relationship Between Kendall's Rank Correlation and Cosine Similarity for Attribution Protection.,2022,"Fan Wang, Adams Wai-Kin Kong", NeurIPS 2022,nips
+10,Exploiting the Relationship Between Kendall's Rank Correlation and Cosine Similarity for Attribution Protection.,2022,"Fan Wang, Adams Wai-Kin Kong",07279 ,corr
+11,Transferable Adversarial Attack based on Integrated Gradients.,2022,"Yi Huang, Adams Wai-Kin Kong",13152 ,corr
+12,Pure Transformer with Integrated Experts for Scene Text Recognition.,2022,"Yew Lee Tan, Adams Wai-Kin Kong, Jung-Jae Kim",04963 ,corr
+13,Portmanteauing Features for Scene Text Recognition.,2022,"Yew Lee Tan, Ernest Yu Kai Chew, Adams Wai-Kin Kong, Jung-Jae Kim, Joo Hwee Lim",05036 ,corr
+14,Pixel-wise ordinal classification for salient object grading.,2021,"Yanzhu Liu, Yanan Wang, Adams Wai-Kin Kong", 106: 104086 ,ivc
+15,Segmenting Vitiligo on Clinical Face Images Using CNN Trained on Synthetic and Internet Images.,2021,"Yanling Li, Adams Wai-Kin Kong, Steven Thng", Health Informatics 25: 3082-3093 ,titb
+16,A portrait photo-to-tattoo transform based on digital tattooing.,2020,"Xingpeng Xu, Wojciech Michal Matkowski, Adams Wai-Kin Kong", 79: 24367-24392 ,mta
+17,"A survey on image and video cosegmentation: Methods, challenges and analyses.",2020,"Yan Ren, Adams Wai-Kin Kong, Licheng Jiao", 103: 107297 ,pr
+18,Palmprint Recognition in Uncontrolled and Uncooperative Environment.,2020,"Wojciech Michal Matkowski, Tingting Chai, Adams Wai-Kin Kong", 15: 1601-1615 ,tifs
+19,New Threats Against Object Detector with Non-local Block.,2020,"Yi Huang, Fan Wang, Adams Wai-Kin Kong, Kwok-Yan Lam", ECCV  2020: 481-497,eccv
+20,Gender and Ethnicity Classification based on Palmprint and Palmar Hand Images from Uncontrolled Environment.,2020,"Wojciech Michal Matkowski, Adams Wai-Kin Kong", IJCB 2020: 1-7,icb
+21,Gender and Ethnicity Classification based on Palmprint and Palmar Hand Images from Uncontrolled Environment.,2020,"Wojciech Michal Matkowski, Adams Wai-Kin Kong",02500 ,corr

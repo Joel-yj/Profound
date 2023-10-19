@@ -1,0 +1,24 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Dynamic portfolio rebalancing with lag-optimised trading indicators using SeroFAM and genetic algorithms.,2023,"Leon Lai Xiang Yeo, Qi Cao, Chai Quek", 216: 119440 ,eswa
+1,VDPC: Variational density peak clustering algorithm.,2023,"Yizhang Wang, Di Wang, You Zhou, Xiaofeng Zhang, Chai Quek", 621: 627-651 ,isci
+2,Poisoning the Well: Can We Simultaneously Attack a Group of Learning Agents?,2023,"Ridhima Bector, Hang Xu, Abhay Aradhya, Chai Quek, Zinovi Rabinovich","Ridhima Bector, Hang Xu, Abhay Aradhya, Chai Quek, Zinovi Rabinovich: Poisoning the Well: Can We Simultaneously Attack a Group of Learning Agents? IJCAI 2023: 3470-3478",ijcai
+3,An embedded deep fuzzy association model for learning and explanation.,2022,"Xie Chen, Deepu Rajan, Dilip K. Prasad, Chai Quek", 131: 109738 ,asc
+4,Hierarchical Reinforcement Learning: A Comprehensive Survey.,2022,"Shubham Pateria, Budhitama Subagdja, Ah-Hwee Tan, Chai Quek", 54: 109:1-109:35 ,csur
+5,Representation recovery via L1-norm minimization with corrupted data.,2022,"Woon Huei Chai, Shen-Shyang Ho, Hiok Chai Quek", 595: 395-426 ,isci
+6,Emotionally charged text classification with deep learning and sentiment semantic.,2022,"Jeow Li Huan, Arif Ahmed Sekh, Chai Quek, Dilip K. Prasad", 34: 2341-2351 ,nca
+7,Dynamic portfolio rebalancing through reinforcement learning.,2022,"Qing Yang Eddy Lim, Qi Cao, Chai Quek", 34: 7125-7139 ,nca
+8,Who are the 'silent spreaders'?: contact tracing in spatio-temporal memory models.,2022,"Yue Hu, Budhitama Subagdja, Ah-Hwee Tan, Chai Quek, Quanjun Yin", 34: 14859-14879 ,nca
+9,A Novel Quasi-Newton Method for Composite Convex Minimization.,2022,"Woon Huei Chai, Shen-Shyang Ho, Hiok Chai Quek", 122: 108281 ,pr
+10,EEG-Video Emotion-Based Summarization: Learning With EEG Auxiliary Signals.,2022,"Wai-Cheong Lincoln Lew, Di Wang, Kai Keng Ang, Joo-Hwee Lim, Chai Quek, Ah-Hwee Tan", 13: 1827-1839 ,taffco
+11,End-to-End Hierarchical Reinforcement Learning With Integrated Subgoal Discovery.,2022,"Shubham Pateria, Budhitama Subagdja, Ah-Hwee Tan, Chai Quek", 33: 7778-7790 ,tnn
+12,VDPC: Variational Density Peak Clustering Algorithm.,2022,"Yizhang Wang, Di Wang, You Zhou, Xiaofeng Zhang, Chai Quek",00641 ,corr
+13,Motivation detection using EEG signal analysis by residual-in-residual convolutional neural network.,2021,"Soham Chattopadhyay, Laila Zary, Chai Quek, Dilip K. Prasad", 184: 115548 ,eswa
+14,An interpretable Neural Fuzzy Hammerstein-Wiener network for stock price prediction.,2021,"Xie Chen, Deepu Rajan, Chai Quek", 577: 324-335 ,isci
+15,RS-HeRR: a rough set-based Hebbian rule reduction neuro-fuzzy system.,2021,"Feng Liu, Arif Ahmed Sekh, Chai Quek, Geok See Ng, Dilip K. Prasad", 33: 1123-1137 ,nca
+16,seMLP: Self-evolving Multi-layer Perceptron in Stock Trading Decision Making.,2021,"Seow Wen Jun, Arif Ahmed Sekh, Chai Quek, Dilip K. Prasad", 2: 111 ,sncs
+17,IT2-GSETSK: An evolving interval Type-II TSK fuzzy neural system for online modeling of noisy data.,2020,"Mohammad Ashrafi, Dilip K. Prasad, Chai Quek", Neurocomputing 407: 1-11 ,ijon
+18,Assessment of the Efficacy of EEG-Based MI-BCI With Visual Feedback and EEG Correlates of Mental Fatigue for Upper-Limb Stroke Rehabilitation.,2020,"Ruyi Foong, Ning Tang, Effie Chew, Karen Sui Geok Chua, Kai Keng Ang, Chai Quek, Cuntai Guan, Kok Soon Phua, Christopher Wee Keong Kuah, Deshmukh Arun Vishwanath, Lester Hon Lum Yam, Deshan Kumar Rajeswaran", 67: 786-795 ,tbe
+19,Are Object Detection Assessment Criteria Ready for Maritime Computer Vision?,2020,"Dilip K. Prasad, Huixu Dong, Deepu Rajan, Chai Quek", 21: 5295-5304 ,tits
+20,A Deep Hybrid Fuzzy Neural Hammerstein-Wiener Network for Stock Price Prediction.,2020,"Xie Chen, Deepu Rajan, Chai Quek", ICAIIC 2020: 288-293,icaiic
+21,Recurrent Self-evolving Takagi-Sugeno-Kan Fuzzy Neural Network (RST-FNN) Based Type-2 Diabetic Modeling.,2020,"Quah En Zhe, Arif Ahmed Sekh, Chai Quek, Dilip K. Prasad", IFIP TC12 ICIS 2020: 125-136,icis2
+22,GEMM-eMFIS (FRI/E): A Novel General Episodic Memory Mechanism For Fuzzy Neural Networks.,2020,"Sheng Wei Pang, Chai Quek, Dilip K. Prasad", IJCNN 2020: 1-8,ijcnn

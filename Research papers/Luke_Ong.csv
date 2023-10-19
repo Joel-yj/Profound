@@ -1,0 +1,35 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Fast and Correct Gradient-Based Optimisation for Probabilistic Programming via Smoothing.,2023,"Basim Khajwal, C.-H. Luke Ong, Dominik Wagner", ESOP 2023: 479-506,esop
+1,Fast and Correct Gradient-Based Optimisation for Probabilistic Programming via Smoothing.,2023,"Basim Khajwal, C.-H. Luke Ong, Dominik Wagner",03415 ,corr
+2,Exact Bayesian Inference on Discrete Models via Probability Generating Functions: A Probabilistic Programming Approach.,2023,"Fabian Zaiser, Andrzej S. Murawski, Luke Ong",17058 ,corr
+3,Template-Based Static Posterior Inference for Bayesian Probabilistic Programming.,2023,"Peixin Wang, Hongfei Fu, Tengshun Yang, Guanyan Li, Luke Ong",13160 ,corr
+4,Nonparametric Involutive Markov Chain Monte Carlo.,2022,"Carol Mak, Fabian Zaiser, Luke Ong", ICML 2022: 14802-14859,icml
+5,Probabilistic Verification Beyond Context-Freeness.,2022,"Guanyan Li, Andrzej S. Murawski, Luke Ong", LICS 2022: 33:1-33:13,lics
+6,Rethinking Variational Inference for Probabilistic Programs with Stochastic Support.,2022,"Tim Reichelt, Luke Ong, Thomas Rainforth", NeurIPS 2022,nips
+7,CycleQ: an efficient basis for cyclic equational reasoning.,2022,"Eddie Jones, C.-H. Luke Ong, Steven J. Ramsay", PLDI 2022: 395-409,pldi
+8,Guaranteed bounds for posterior inference in universal probabilistic programming.,2022,"Raven Beutner, C.-H. Luke Ong, Fabian Zaiser", PLDI 2022: 536-551,pldi
+9,Expectation programming: Adapting probabilistic programming systems to estimate expectations efficiently.,2022,"Tim Reichelt, Adam Golinski, Luke Ong, Tom Rainforth", UAI 2022: 1676-1685,uai
+10,Guaranteed Bounds for Posterior Inference in Universal Probabilistic Programming.,2022,"Raven Beutner, Luke Ong, Fabian Zaiser",02948 ,corr
+11,Nonparametric Involutive Markov Chain Monte Carlo.,2022,"Carol Mak, Fabian Zaiser, Luke Ong",01100 ,corr
+12,Higher-order Recursion Schemes and Collapsible Pushdown Automata: Logical Properties.,2021,"Christopher H. Broadbent, Arnaud Carayol, C.-H. Luke Ong, Olivier Serre", 22: 12:1-12:37 ,tocl
+13,Collapsible Pushdown Parity Games.,2021,"Christopher H. Broadbent, Arnaud Carayol, Matthew Hague, Andrzej S. Murawski, C.-H. Luke Ong, Olivier Serre", 22: 16:1-16:51 ,tocl
+14,Densities of Almost Surely Terminating Probabilistic Programs are Differentiable Almost Everywhere.,2021,"Carol Mak, C.-H. Luke Ong, Hugo Paquet, Dominik Wagner", ESOP 2021: 432-461,esop
+15,Nonparametric Hamiltonian Monte Carlo.,2021,"Carol Mak, Fabian Zaiser, Luke Ong", ICML 2021: 7336-7347,icml
+16,Initial Limit Datalog: a New Extensible Class of Decidable Constrained Horn Clauses.,2021,"Toby Cathcart Burn, Luke Ong, Steven J. Ramsay, Dominik Wagner", LICS 2021: 1-13,lics
+17,"Supermartingales, Ranking Functions and Probabilistic Lambda Calculus.",2021,"Andrew Kenyon-Roberts, C.-H. Luke Ong", LICS 2021: 1-13,lics
+18,On probabilistic termination of functional programs with continuous distributions.,2021,"Raven Beutner, Luke Ong", PLDI 2021: 1312-1326,pldi
+19,Abstract: The Extended Theory of Trees and Algebraic (Co)datatypes.,2021,"Fabian Zaiser, Luke Ong", SMT 2021: 65,smt
+20,"Supermartingales, Ranking Functions and Probabilistic Lambda Calculus.",2021,"Andrew Kenyon-Roberts, Luke Ong",11164 ,corr
+21,On Probabilistic Termination of Functional Programs with Continuous Distributions.,2021,"Raven Beutner, Luke Ong",04990 ,corr
+22,Initial Limit Datalog: a New Extensible Class of Decidable Constrained Horn Clauses.,2021,"Toby Cathcart Burn, Luke Ong, Steven J. Ramsay, Dominik Wagner",14175 ,corr
+23,Expectation Programming.,2021,"Tim Reichelt, Adam Golinski, Luke Ong, Tom Rainforth",04953 ,corr
+24,Nonparametric Hamiltonian Monte Carlo.,2021,"Carol Mak, Fabian Zaiser, Luke Ong",10238 ,corr
+25,CycleQ: An Efficient Basis for Cyclic Equational Reasoning.,2021,"Eddie Jones, C.-H. Luke Ong, Steven J. Ramsay",12553 ,corr
+26,The Difference λ-Calculus: A Language for Difference Categories.,2020,"Mario Alvarez-Picallo, C.-H. Luke Ong", FSCD 2020: 32:1-32:21,fscd
+27,The Extended Theory of Trees and Algebraic (Co)datatypes.,2020,"Fabian Zaiser, C.-H. Luke Ong", VPT/HCVS@ETAPS 2020: 167-196,eptcs
+28,A Differential-form Pullback Programming Language for Higher-order Reverse-mode Automatic Differentiation.,2020,"Carol Mak, Luke Ong",08241 ,corr
+29,Densities of almost-surely terminating probabilistic programs are differentiable almost everywhere.,2020,"Carol Mak, C.-H. Luke Ong, Hugo Paquet, Dominik Wagner",03924 ,corr
+30,Collapsible Pushdown Parity Games.,2020,"Christopher H. Broadbent, Arnaud Carayol, Matthew Hague, Andrzej S. Murawski, C.-H. Luke Ong, Olivier Serre",06361 ,corr
+31,Higher-Order Recursion Schemes and Collapsible Pushdown Automata: Logical Properties.,2020,"Christopher H. Broadbent, Arnaud Carayol, C.-H. Luke Ong, Olivier Serre",06366 ,corr
+32,The Difference Lambda-Calculus: A Language for Difference Categories.,2020,"Mario Alvarez-Picallo, C.-H. Luke Ong",14476 ,corr
+33,Verifying Liveness Properties of ML Programs.,2020,"Martin Lester, Robin P. Neatherway, C.-H. Luke Ong, Steven J. Ramsay",13333 ,corr

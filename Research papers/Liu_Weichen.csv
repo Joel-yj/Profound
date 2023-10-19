@@ -1,0 +1,74 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Latency-constrained DNN architecture learning for edge systems using zerorized batch normalization.,2023,"Shuo Huai, Di Liu, Hao Kong, Weichen Liu, Ravi Subramaniam, Christian Makaya, Qian Lin", 142: 314-327 ,fgcs
+1,SurgeNAS: A Comprehensive Surgery on Hardware-Aware Differentiable Neural Architecture Search.,2023,"Xiangzhong Luo, Di Liu, Hao Kong, Shuo Huai, Hui Chen, Weichen Liu", Computers 72: 1081-1094 ,tc
+2,FAT: An In-Memory Accelerator With Fast Addition for Ternary Weight Neural Networks.,2023,"Shien Zhu, Luan H. K. Duong, Hui Chen, Di Liu, Weichen Liu", 42: 781-794 ,tcad
+3,LightNAS: On Lightweight and Scalable Neural Architecture Search for Embedded Platforms.,2023,"Xiangzhong Luo, Di Liu, Hao Kong, Shuo Huai, Hui Chen, Weichen Liu", 42: 1784-1797 ,tcad
+4,Crossbar-Aligned & Integer-Only Neural Network Compression for Efficient in-Memory Acceleration.,2023,"Shuo Huai, Di Liu, Xiangzhong Luo, Hui Chen, Weichen Liu, Ravi Subramaniam", ASP-DAC 2023: 234-239,aspdac
+5,MUGNoC: A Software-Configured Multicast-Unicast-Gather NoC for Accelerating CNN Dataflows.,2023,"Hui Chen, Di Liu, Shiqing Li, Shuo Huai, Xiangzhong Luo, Weichen Liu", ASP-DAC 2023: 308-313,aspdac
+6,Towards Efficient Convolutional Neural Network for Embedded Hardware via Multi-Dimensional Pruning.,2023,"Hao Kong, Di Liu, Xiangzhong Luo, Shuo Huai, Ravi Subramaniam, Christian Makaya, Qian Lin, Weichen Liu", DAC 2023: 1-6,dac
+7,FIONA: Fine-grained Incoherent Optical DNN Accelerator Search for Superior Efficiency and Robustness.,2023,"Mengquan Li, Kenli Li, Mingfeng Lan, Jie Xiong, Zhuo Tang, Weichen Liu", DAC 2023: 1-6,dac
+8,EMNAPE: Efficient Multi-Dimensional Neural Architecture Pruning for EdgeAI.,2023,"Hao Kong, Xiangzhong Luo, Shuo Huai, Di Liu, Ravi Subramaniam, Christian Makaya, Qian Lin, Weichen Liu", DATE 2023: 1-2,date
+9,Accelerating Gustavson-based SpMM on Embedded FPGAs with Element-wise Parallelism and Access Pattern-aware Caches.,2023,"Shiqing Li, Weichen Liu", DATE 2023: 1-6,date
+10,iMAT: Energy-Efficient In-Memory Acceleration for Ternary Neural Networks With Sparse Dot Product.,2023,"Shien Zhu, Shuo Huai, Guochu Xiong, Weichen Liu", ISLPED 2023: 1-6,islped
+11,Evolutionary game-based incentive models for sustainable trust enhancement in a blockchained shared manufacturing network.,2022,"Fuqiang Zhang, Lei Wu, Weichen Liu, Kai Ding, Jizhuang Hui, Jiewu Leng, Xueliang Zhou", Informatics 54: 101791 ,aei
+12,EDLAB: A Benchmark for Edge Deep Learning Accelerators.,2022,"Hao Kong, Shuo Huai, Di Liu, Lei Zhang, Hui Chen, Shien Zhu, Shiqing Li, Weichen Liu, Manu Rastogi, Ravi Subramaniam, Madhu Athreya, M. Anthony Lewis", Test 39: 8-17 ,dt
+13,Bringing AI to edge: From deep learning's perspective.,2022,"Di Liu, Hao Kong, Xiangzhong Luo, Weichen Liu, Ravi Subramaniam", Neurocomputing 485: 297-320 ,ijon
+14,Contention Minimization in Emerging SMART NoC via Direct and Indirect Routes.,2022,"Peng Chen, Hui Chen, Jun Zhou, Mengquan Li, Weichen Liu, Chunhua Xiao, Yiyuan Xie, Nan Guan", Computers 71: 1874-1888 ,tc
+15,ArSMART: An Improved SMART NoC Design Supporting Arbitrary-Turn Transmission.,2022,"Hui Chen, Peng Chen, Jun Zhou, Luan H. K. Duong, Weichen Liu", 41: 1316-1329 ,tcad
+16,Designing Efficient DNNs via Hardware-Aware Neural Architecture Search and Beyond.,2022,"Xiangzhong Luo, Di Liu, Shuo Huai, Hao Kong, Hui Chen, Weichen Liu", 41: 1799-1812 ,tcad
+17,CARTAD: Compiler-Assisted Reinforcement Learning for Thermal-Aware Task Scheduling and DVFS on Multicores.,2022,"Di Liu, Shi-Gui Yang, Zhenli He, Mingxiong Zhao, Weichen Liu", 41: 1813-1826 ,tcad
+18,Locking Protocols for Parallel Real-Time Tasks With Semaphores Under Federated Scheduling.,2022,"Yang Wang, Xu Jiang, Nan Guan, Yue Tang, Weichen Liu", 41: 2877-2890 ,tcad
+19,Toward Minimum WCRT Bound for DAG Tasks Under Prioritized List Scheduling Algorithms.,2022,"Shuangshuang Chang, Ran Bi, Jinghao Sun, Weichen Liu, Qi Yu, Qingxu Deng, Zonghua Gu", 41: 3874-3885 ,tcad
+20,Fast and Low Overhead Metadata Operations for NVM-Based File System Using Slotted Paging.,2022,"Fangzhu Lin, Chunhua Xiao, Weichen Liu, Lin Wu, Chen Shi, Kun Ning", 41: 4481-4491 ,tcad
+21,LAMP: Load-Balanced Multipath Parallel Transmission in Point-to-Point NoCs.,2022,"Hui Chen, Peng Chen, Xiangzhong Luo, Shuo Huai, Weichen Liu", 41: 5232-5245 ,tcad
+22,Solving Dynamic Multiobjective Problem via Autoencoding Evolutionary Search.,2022,"Liang Feng, Wei Zhou, Weichen Liu, Yew-Soon Ong, Kay Chen Tan", 52: 2649-2662 ,tcyb
+23,"TAB: Unified and Optimized Ternary, Binary, and Mixed-precision Neural Network Inference on the Edge.",2022,"Shien Zhu, Luan H. K. Duong, Weichen Liu", 21: 50:1-50:26 ,tecs
+24,HACScale: Hardware-Aware Compound Scaling for Resource-Efficient DNNs.,2022,"Hao Kong, Di Liu, Xiangzhong Luo, Weichen Liu, Ravi Subramaniam", ASP-DAC 2022: 708-713,aspdac
+25,Work-in-Progress: What to Expect of Early Training Statistics? An Investigation on Hardware-Aware Neural Architecture Search.,2022,"Xiangzhong Luo, Di Liu, Hao Kong, Shuo Huai, Hui Chen, Weichen Liu", CODES+ISSS 2022: 1-2,codesisss
+26,You only search once: on lightweight differentiable architecture search for resource-constrained embedded platforms.,2022,"Xiangzhong Luo, Di Liu, Hao Kong, Shuo Huai, Hui Chen, Weichen Liu", DAC 2022: 475-480,dac
+27,iMAD: An In-Memory Accelerator for AdderNet with Efficient 8-bit Addition and Subtraction Operations.,2022,"Shien Zhu, Shiqing Li, Weichen Liu", ACM Great Lakes Symposium on VLSI 2022: 65-70,glvlsi
+28,Smart Scissor: Coupling Spatial Redundancy Reduction and CNN Compression for Embedded Hardware.,2022,"Hao Kong, Di Liu, Shuo Huai, Xiangzhong Luo, Weichen Liu, Ravi Subramaniam, Christian Makaya, Qian Lin", ICCAD 2022: 109:1-109:9,iccad
+29,A DirectX-Based DICOM Viewer for Multi-user Surgical Planning in Augmented Reality.,2022,"Menghe Zhang, Weichen Liu, Nadir Weibel, Jürgen P. Schulze", ISVC  2022: 217-228,isvc
+30,The Virtual-Augmented Reality Simulator: Evaluating OST-HMD AR calibration algorithms in VR.,2022,"Danilo Gasques, Weichen Liu, Nadir Weibel", VR Workshops 2022: 702-703,vr
+31,FAT: An In-Memory Accelerator with Fast Addition for Ternary Weight Neural Networks.,2022,"Shien Zhu, Luan H. K. Duong, Hui Chen, Di Liu, Weichen Liu",07634 ,corr
+32,You Only Search Once: On Lightweight Differentiable Architecture Search for Resource-Constrained Embedded Platforms.,2022,"Xiangzhong Luo, Di Liu, Hao Kong, Shuo Huai, Hui Chen, Weichen Liu",14446 ,corr
+33,A DirectX-Based DICOM Viewer for Multi-User Surgical Planning in Augmented Reality.,2022,"Menghe Zhang, Weichen Liu, Nadir Weibel, Jürgen P. Schulze",14349 ,corr
+34,Attack Mitigation of Hardware Trojans for Thermal Sensing via Micro-ring Resonator in Optical NoCs.,2021,"Jun Zhou, Mengquan Li, Pengxing Guo, Weichen Liu", 17: 31:1-31:23 ,jetc
+35,On the Analysis of Parallel Real-Time Tasks With Spin Locks.,2021,"Xu Jiang, Nan Guan, He Du, Weichen Liu, Wang Yi", Computers 70: 199-211 ,tc
+36,Priority Assignment on Partitioned Multiprocessor Systems With Shared Resources.,2021,"Shuai Zhao, Wanli Chang, Ran Wei, Weichen Liu, Nan Guan, Alan Burns, Andy J. Wellings", Computers 70: 1006-1018 ,tc
+37,Contention-Aware Routing for Thermal-Reliable Optical Networks-on-Chip.,2021,"Mengquan Li, Weichen Liu, Luan H. K. Duong, Peng Chen, Lei Yang, Chunhua Xiao", 40: 260-273 ,tcad
+38,Reduced Worst-Case Communication Latency Using Single-Cycle Multihop Traversal Network-on-Chip.,2021,"Peng Chen, Weichen Liu, Hui Chen, Shiqing Li, Mengquan Li, Lei Yang, Nan Guan", 40: 1381-1394 ,tcad
+39,MARCO: A High-performance Task Mapping and Routing Co-optimization Framework for Point-to-Point NoC-based Heterogeneous Computing Systems.,2021,"Hui Chen, Zihao Zhang, Peng Chen, Xiangzhong Luo, Shiqing Li, Weichen Liu", 20: 54:1-54:21 ,tecs
+40,ZeroBN: Learning Compact Neural Networks For Latency-Critical Edge Systems.,2021,"Shuo Huai, Lei Zhang, Di Liu, Weichen Liu, Ravi Subramaniam", DAC 2021: 151-156,dac
+41,HSCoNAS: Hardware-Software Co-Design of Efficient DNNs via Neural Architecture Search.,2021,"Xiangzhong Luo, Di Liu, Shuo Huai, Weichen Liu", DATE 2021: 418-421,date
+42,Efficient AUTOSAR-Compliant CAN-FD Frame Packing with Observed Optimality.,2021,"Wenhong Ma, Guoqi Xie, Renfa Li, Weichen Liu, Hai Helen Li, Wanli Chang", DATE 2021: 1899-1904,date
+43,Parallel Multipath Transmission for Burst Traffic Optimization in Point-to-Point NoCs.,2021,"Hui Chen, Zihao Zhang, Peng Chen, Shien Zhu, Weichen Liu", ACM Great Lakes Symposium on VLSI 2021: 289-294,glvlsi
+44,A Cryptocurrency Price Prediction Model Based on Twitter Sentiment Indicators.,2021,"Zi Ye, Weichen Liu, Qiang Qu, Qingshan Jiang, Yi Pan", ICBDS 2021: 411-425,icbds
+45,Optimized Data Reuse via Reordering for Sparse Matrix-Vector Multiplication on FPGAs.,2021,"Shiqing Li, Di Liu, Weichen Liu", ICCAD 2021: 1-9,iccad
+46,Partial order based non-preemptive communication scheduling towards real-time networks-on-chip.,2021,"Peng Chen, Hui Chen, Jun Zhou, Di Liu, Shiqing Li, Weichen Liu, Wanli Chang, Nan Guan", SAC 2021: 145-154,sac
+47,HSCoNAS: Hardware-Software Co-Design of Efficient DNNs via Neural Architecture Search.,2021,"Xiangzhong Luo, Di Liu, Shuo Huai, Weichen Liu",08325 ,corr
+48,Disrupted Rich Club Organization of Hemispheric White Matter Networks in Bipolar Disorder.,2020,"Dandan Li, Weichen Liu, Ting Yan, Xiaohong Cui, Zehua Zhang, Jing Wei, Yunxiao Ma, Nan Zhang, Jie Xiang, Bin Wang", Frontiers Neuroinformatics 14: 39 ,fini
+49,Autonomous temperature sensing for optical network-on-chip.,2020,"Weichen Liu, Guiyu Tian, Mengquan Li", 102 ,jsa
+50,Scope-Aware Useful Cache Block Calculation for Cache-Related Pre-Emption Delay Analysis With Set-Associative Data Caches.,2020,"Wei Zhang, Nan Guan, Lei Ju, Yue Tang, Weichen Liu, Zhiping Jia", 39: 2333-2346 ,tcad
+51,Thermal-Aware Design and Simulation Approach for Optical NoCs.,2020,"Yaoyao Ye, Wenfei Zhang, Weichen Liu", 39: 2384-2395 ,tcad
+52,Hardware-Software Collaborative Thermal Sensing in Optical Network-on-Chip-based Manycore Systems.,2020,"Mengquan Li, Weichen Liu, Nan Guan, Yiyuan Xie, Yaoyao Ye", 18: 118:1-118:24 ,tecs
+53,Fault-Tolerant Routing Mechanism in 3D Optical Network-on-Chip Based on Node Reuse.,2020,"Pengxing Guo, Weigang Hou, Lei Guo, Wei Sun, Chuang Liu, Hainan Bao, Luan H. K. Duong, Weichen Liu", 31: 547-564 ,tpds
+54,Co-Exploring Neural Architecture and Network-on-Chip Design for Real-Time Artificial Intelligence.,2020,"Lei Yang, Weiwen Jiang, Weichen Liu, Edwin H.-M. Sha, Yiyu Shi, Jingtong Hu", ASP-DAC 2020: 85-90,aspdac
+55,Contention Minimized Bypassing in SMART NoC.,2020,"Peng Chen, Weichen Liu, Mengquan Li, Lei Yang, Nan Guan", ASP-DAC 2020: 205-210,aspdac
+56,MindReading: An Ultra-Low-Power Photonic Accelerator for EEG-based Human Intention Recognition.,2020,"Qian Lou, Wenyang Liu, Weichen Liu, Feng Guo, Lei Jiang", ASP-DAC 2020: 464-469,aspdac
+57,Mobi-PMFS: An Efficient and Durable In-Memory File System for Mobile Devices.,2020,"Chunhua Xiao, Fangzhu Lin, Xiaoxiang Fu, Ting Wu, Yuanjun Zhu, Weichen Liu", COMPSAC 2020: 73-78,compsac
+58,Lightweight Thermal Monitoring in Optical Networks-on-Chip via Router Reuse.,2020,"Mengquan Li, Jun Zhou, Weichen Liu", DATE 2020: 406-411,date
+59,LightBulb: A Photonic-Nonvolatile-Memory-based Accelerator for Binarized Convolutional Neural Networks.,2020,"Farzaneh Zokaee, Qian Lou, Nathan Youngblood, Weichen Liu, Yiyuan Xie, Lei Jiang", DATE 2020: 1438-1443,date
+60,CalAR: A C++ Engine for Augmented Reality Applications on Android Mobile Devices.,2020,"Menghe Zhang, Karen Lucknavalai, Weichen Liu, Jürgen P. Schulze", ERVR 2020,ervr
+61,Load-aware Adaptive Cache Management Scheme for Enterprise-level Stackable Cryptographic File System*.,2020,"Chunhua Xiao, Yanyue Pan, Dandan Xu, Weichen Liu, Shuting Sun, Shi Qiu", HPCC/DSS/SmartCity 2020: 35-43,hpcc
+62,COSMA: An Efficient Concurrency-Oriented Space Management Scheme for In-memory File Systems.,2020,"Chunhua Xiao, Zipei Feng, Ting Wu, Lin Zhang, Xiaoxiang Fu, Weichen Liu", ICCD 2020: 163-166,iccd
+63,EdgeNAS: Discovering Efficient Neural Architectures for Edge Systems.,2020,"Xiangzhong Luo, Di Liu, Hao Kong, Weichen Liu", ICCD 2020: 288-295,iccd
+64,Occlusion-Aware GAN for Face De-Occlusion in the Wild.,2020,"Jiayuan Dong, Liyan Zhang, Hanwang Zhang, Weichen Liu", ICME 2020: 1-6,icmcs
+65,Person Re-Identification Via Pose-Aware Multi-Semantic Learning.,2020,"Xiangzhong Luo, Luan H. K. Duong, Weichen Liu", ICME 2020: 1-6,icmcs
+66,XOR-Net: An Efficient Computation Pipeline for Binary Neural Network Inference on Edge Devices.,2020,"Shien Zhu, Luan H. K. Duong, Weichen Liu", ICPADS 2020: 124-131,icpads
+67,Mitigation of Tampering Attacks for MR-Based Thermal Sensing in Optical NoCs.,2020,"Jun Zhou, Mengquan Li, Pengxing Guo, Weichen Liu", ISVLSI 2020: 554-559,isvlsi
+68,Evaluation of Low-end Virtual Reality Content of Cultural Heritage: A Preliminary Study with Eye Movement.,2020,"Tzi-Dong Jeremy Ng, Weichen Liu, Xiao Hu, Tzyy-Ping Jung", JCDL 2020: 365-368,jcdl
+69,On the Analysis of Parallel Real-Time Tasks with Spin Locks.,2020,"Xu Jiang, Nan Guan, He Du, Weichen Liu, Wang Yi",08233 ,corr
+70,Cross-filter compression for CNN inference acceleration.,2020,"Fuyuan Lyu, Shien Zhu, Weichen Liu",09034 ,corr
+71,ArSMART: An Improved SMART NoC Design Supporting Arbitrary-Turn Transmission.,2020,"Hui Chen, Peng Chen, Jun Zhou, Luan H. K. Duong, Weichen Liu",09261 ,corr
+72,Bringing AI To Edge: From Deep Learning's Perspective.,2020,"Di Liu, Hao Kong, Xiangzhong Luo, Weichen Liu, Ravi Subramaniam",14808 ,corr

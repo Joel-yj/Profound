@@ -1,0 +1,18 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,EXTENT: Enabling Approximation-Oriented Energy Efficient STT-RAM Write Circuit.,2022,"Saeed Seyedfaraji, Javad Talafy Daryani, Mohamed M. Sabry Aly, Semeen Rehman", IEEE Access 10: 82144-82155 ,access
+1,SonicFFT: A system architecture for ultrasonic-based FFT acceleration.,2022,"Darayus Adil Patel, Viet Phuong Bui, Kevin Tshun Chuan Chai, Amit Lal, Mohamed M. Sabry Aly", ASP-DAC 2022: 345-351,aspdac
+2,Pearl: Towards Optimization of DNN-accelerators Via Closed-Form Analytical Representation.,2022,"Arko Dutt, Suprojit Nandy, Mohamed M. Sabry", ASP-DAC 2022: 714-719,aspdac
+3,Scalable Hardware Acceleration of Non-Maximum Suppression.,2022,"Chunyun Chen, Tianyi Zhang, Zehui Yu, Adithi Raghuraman, Shwetalaxmi Udayan, Jie Lin, Mohamed M. Sabry Aly", DATE 2022: 96-99,date
+4,RDO-Q: Extremely Fine-Grained Channel-Wise Quantization via Rate-Distortion Optimization.,2022,"Zhe Wang, Jie Lin, Xue Geng, Mohamed M. Sabry Aly, Vijay Chandrasekhar", ECCV  2022: 157-172,eccv
+5,"Sub-10nm Ultra-thin ZnO Channel FET with Record-High 561 µA/µm ION at VDS 1V, High µ-84 cm2/V-s and1T-1RRAM Memory Cell Demonstration Memory Implications for Energy-Efficient Deep-Learning Computing.",2022,"Umesh Chand, Mohamed M. Sabry Aly, Manohar Lal, Chen Chun-Kuei, Sonu Hooda, Shih-Hao Tsai, Zihang Fang, Hasita Veluri, Aaron Voon-Yew Thean", VLSI Technology and Circuits 2022: 326-327,vlsit
+6,OPQ: Compressing Deep Neural Networks with One-shot Pruning-Quantization.,2022,"Peng Hu, Xi Peng, Hongyuan Zhu, Mohamed M. Sabry Aly, Jie Lin",11141 ,corr
+7,EXTENT: Enabling Approximation-Oriented Energy Efficient STT-RAM Write Circuit.,2022,"Saeed Seyedfaraji, Javad Talafy, Mohamed M. Sabry, Semeen Rehman",07838 ,corr
+8,OPQ: Compressing Deep Neural Networks with One-shot Pruning-Quantization.,2021,"Peng Hu, Xi Peng, Hongyuan Zhu, Mohamed M. Sabry Aly, Jie Lin", AAAI 2021: 7780-7788,aaai
+9,PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS With Relationship Recovery.,2021,"Tianyi Zhang, Jie Lin, Peng Hu, Bin Zhao, Mohamed M. Sabry Aly", CVPR 2021: 15840-15848,cvpr
+10,Efficient Tunstall Decoder for Deep Neural Network Compression.,2021,"Chunyun Chen, Zhe Wang, Xiaowei Chen, Jie Lin, Mohamed M. Sabry Aly", DAC 2021: 1021-1026,dac
+11,Rate-Distortion Optimized Coding for Efficient CNN Compression.,2021,"Wang Zhe, Jie Lin, Mohamed M. Sabry Aly, Sean I. Young, Vijay Chandrasekhar, Bernd Girod", DCC 2021: 253-262,dcc
+12,A*HAR: A New Benchmark towards Semi-supervised learning for Class-imbalanced Human Activity Recognition.,2021,"Govind Narasimman, Kangkang Lu, Arun Raja, Chuan Sheng Foo, Mohamed M. Sabry Aly, Jie Lin, Vijay Chandrasekhar",04859 ,corr
+13,PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery.,2021,"Tianyi Zhang, Jie Lin, Peng Hu, Bin Zhao, Mohamed M. Sabry Aly",12990 ,corr
+14,Quantifying the Benefits of Monolithic 3D Computing Systems Enabled by TFT and RRAM.,2020,"Abdallah M. Felfel, Kamalika Datta, Arko Dutt, Hasita Veluri, Ahmed Zaky, Aaron Voon-Yew Thean, Mohamed M. Sabry Aly", DATE 2020: 43-48,date
+15,Fledge: Flexible Edge Platforms Enabled by In-memory Computing.,2020,"Kamalika Datta, Arko Dutt, Ahmed Zaky, Umesh Chand, Devendra Singh, Yida Li, Jackson Chun-Yang Huang, Aaron Thean, Mohamed M. Sabry Aly", DATE 2020: 1181-1186,date
+16,Towards Deeply Scaled 3D MPSoCs with Integrated Flow Cell Array Technology.,2020,"Halima Najibi, Alexandre Levisse, Marina Zapater, Mohamed M. Sabry Aly, David Atienza", ACM Great Lakes Symposium on VLSI 2020: 513-518,glvlsi

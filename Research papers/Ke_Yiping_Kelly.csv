@@ -1,0 +1,17 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Adaptive Transfer Kernel Learning for Transfer Gaussian Process Regression.,2023,"Pengfei Wei, Yiping Ke, Yew-Soon Ong, Zejun Ma", 45: 7142-7156 ,pami
+1,Union Subgraph Neural Networks.,2023,"Jiaxing Xu, Aihu Zhang, Qingtian Bian, Vijay Prakash Dwivedi, Yiping Ke",15747 ,corr
+2,Contrastive Graph Pooling for Explainable Classification of Brain Networks.,2023,"Jiaxing Xu, Qingtian Bian, Xinhang Li, Aihu Zhang, Yiping Ke, Miao Qiao, Wei Zhang, Wei Khang Jeremy Sim, Balázs Gulyás",11133 ,corr
+3,CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning.,2023,"Qingtian Bian, Jiaxing Xu, Hui Fang, Yiping Ke",04802 ,corr
+4,Subdomain Adaptation With Manifolds Discrepancy Alignment.,2022,"Pengfei Wei, Yiping Ke, Xinghua Qu, Tze-Yun Leong", 52: 11698-11708 ,tcyb
+5,Easy-But-Effective Domain Sub-Similarity Learning for Transfer Regression.,2022,"Pengfei Wei, Ramón Sagarna, Yiping Ke, Yew-Soon Ong", 34: 4161-4171 ,tkde
+6,A Class-Aware Representation Refinement Framework for Graph Classification.,2022,"Jiaxing Xu, Jinjie Ni, Sophi Shilpa Gururajapathy, Yiping Ke",00936 ,corr
+7,Data-Driven Network Neuroscience: On Data Collection and Benchmark.,2022,"David Tse Jung Huang, Sophi Shilpa Gururajapathy, Yiping Ke, Miao Qiao, Alan Wang, Haribalan Kumar, Yunhan Yang",12421 ,corr
+8,Practical Multisource Transfer Regression With Source-Target Similarity Captures.,2021,"Pengfei Wei, Ramón Sagarna, Yiping Ke, Yew-Soon Ong", 32: 3498-3509 ,tnn
+9,Mitigating Performance Saturation in Neural Marked Point Processes: Architectures and Loss Functions.,2021,"Tianbo Li, Tianze Luo, Yiping Ke, Sinno Jialin Pan", KDD 2021: 986-994,kdd
+10,Mitigating Performance Saturation in Neural Marked Point Processes: Architectures and Loss Functions.,2021,"Tianbo Li, Tianze Luo, Yiping Ke, Sinno Jialin Pan",03354 ,corr
+11,A unified linear convergence analysis of k-SVD.,2020,"Zhiqiang Xu, Yiping Ke, Xin Cao, Chunlai Zhou, Pengfei Wei, Xin Gao", 12: 343-353 ,memetic
+12,Tweedie-Hawkes Processes: Interpreting the Phenomena of Outbreaks.,2020,"Tianbo Li, Yiping Ke", AAAI 2020: 4699-4706,aaai
+13,Adaptive Knowledge Transfer based on Transfer Neural Kernel Network.,2020,"Pengfei Wei, Xinghua Qu, Yiping Ke, Tze-Yun Leong, Yew-Soon Ong", AAMAS 2020: 1485-1493,atal
+14,Succinct Adaptive Manifold Transfer.,2020,"Pengfei Wei, Yiping Ke, Zhiqiang Xu, Tze-Yun Leong", CIKM 2020: 1615-1624,cikm
+15,Subdomain Adaptation with Manifolds Discrepancy Alignment.,2020,"Pengfei Wei, Yiping Ke, Xinghua Qu, Tze-Yun Leong",03229 ,corr

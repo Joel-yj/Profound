@@ -1,0 +1,37 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Grid-guided Neural Radiance Fields for Large Urban Scenes.,2023,"Linning Xu, Yuanbo Xiangli, Sida Peng, Xingang Pan, Nanxuan Zhao, Christian Theobalt, Bo Dai, Dahua Lin", CVPR 2023: 8296-8306,cvpr
+1,Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction.,2023,"Tong Wu, Jiaqi Wang, Xingang Pan, Xudong Xu, Christian Theobalt, Ziwei Liu, Dahua Lin", ICLR 2023,iclr
+2,Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.,2023,"Xingang Pan, Ayush Tewari, Thomas Leimkühler, Lingjie Liu, Abhimitra Meka, Christian Theobalt", SIGGRAPH  2023: 78:1-78:11,siggraph
+3,AssetField: Assets Mining and Reconfiguration in Ground Feature Plane Representation.,2023,"Yuanbo Xiangli, Linning Xu, Xingang Pan, Nanxuan Zhao, Bo Dai, Dahua Lin",13953 ,corr
+4,Grid-guided Neural Radiance Fields for Large Urban Scenes.,2023,"Linning Xu, Yuanbo Xiangli, Sida Peng, Xingang Pan, Nanxuan Zhao, Christian Theobalt, Bo Dai, Dahua Lin",14001 ,corr
+5,HQ3DAvatar: High Quality Controllable 3D Head Avatar.,2023,"Kartik Teotia, Mallikarjun B. R., Xingang Pan, Hyeongwoo Kim, Pablo Garrido, Mohamed Elgharib, Christian Theobalt",14471 ,corr
+6,GVP: Generative Volumetric Primitives.,2023,"Mallikarjun B. R., Xingang Pan, Mohamed Elgharib, Christian Theobalt",18193 ,corr
+7,Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.,2023,"Xingang Pan, Ayush Tewari, Thomas Leimkühler, Lingjie Liu, Abhimitra Meka, Christian Theobalt",10973 ,corr
+8,AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars.,2023,"Mohit Mendiratta, Xingang Pan, Mohamed Elgharib, Kartik Teotia, Mallikarjun B. R., Ayush Tewari, Vladislav Golyanik, Adam Kortylewski, Christian Theobalt",00547 ,corr
+9,MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR.,2023,"Xudong Xu, Zhaoyang Lyu, Xingang Pan, Bo Dai",09278 ,corr
+10,Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.,2022,"Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo", 44: 7474-7489 ,pami
+11,gCoRF: Generative Compositional Radiance Fields.,2022,"Mallikarjun B. R., Ayush Tewari, Xingang Pan, Mohamed Elgharib, Christian Theobalt", 3DV 2022: 567-576,3dim
+12,GAN2X: Non-Lambertian Inverse Rendering of Image GANs.,2022,"Xingang Pan, Ayush Tewari, Lingjie Liu, Christian Theobalt", 3DV 2022: 711-721,3dim
+13,Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images.,2022,"Ayush Tewari, Mallikarjun B. R., Xingang Pan, Ohad Fried, Maneesh Agrawala, Christian Theobalt", CVPR 2022: 1506-1515,cvpr
+14,BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-scale Scene Rendering.,2022,"Yuanbo Xiangli, Linning Xu, Xingang Pan, Nanxuan Zhao, Anyi Rao, Christian Theobalt, Bo Dai, Dahua Lin", ECCV  2022: 106-122,eccv
+15,Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images.,2022,"Ayush Tewari, Mallikarjun B. R., Xingang Pan, Ohad Fried, Maneesh Agrawala, Christian Theobalt",15926 ,corr
+16,GAN2X: Non-Lambertian Inverse Rendering of Image GANs.,2022,"Xingang Pan, Ayush Tewari, Lingjie Liu, Christian Theobalt",09244 ,corr
+17,Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction.,2022,"Tong Wu, Jiaqi Wang, Xingang Pan, Xudong Xu, Christian Theobalt, Ziwei Liu, Dahua Lin",12697 ,corr
+18,gCoRF: Generative Compositional Radiance Fields.,2022,"Mallikarjun B. R., Ayush Tewari, Xingang Pan, Mohamed Elgharib, Christian Theobalt",17344 ,corr
+19,GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild.,2022,"Chao Wang, Ana Serrano, Xingang Pan, Bin Chen, Hans-Peter Seidel, Christian Theobalt, Karol Myszkowski, Thomas Leimkühler",12352 ,corr
+20,Talk-to-Edit: Fine-Grained Facial Editing via Dialog.,2021,"Yuming Jiang, Ziqi Huang, Xingang Pan, Chen Change Loy, Ziwei Liu", ICCV 2021: 13779-13788,iccv
+21,Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs.,2021,"Xingang Pan, Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo", ICLR 2021,iclr
+22,A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis.,2021,"Xingang Pan, Xudong Xu, Chen Change Loy, Christian Theobalt, Bo Dai", NeurIPS 2021: 20002-20013,nips
+23,Generative Occupancy Fields for 3D Surface-Aware Image Synthesis.,2021,"Xudong Xu, Xingang Pan, Dahua Lin, Bo Dai", NeurIPS 2021: 20683-20695,nips
+24,Talk-to-Edit: Fine-Grained Facial Editing via Dialog.,2021,"Yuming Jiang, Ziqi Huang, Xingang Pan, Chen Change Loy, Ziwei Liu",04425 ,corr
+25,A Shading-Guided Generative Implicit Model for Shape-Accurate 3D-Aware Image Synthesis.,2021,"Xingang Pan, Xudong Xu, Chen Change Loy, Christian Theobalt, Bo Dai",15678 ,corr
+26,Generative Occupancy Fields for 3D Surface-Aware Image Synthesis.,2021,"Xudong Xu, Xingang Pan, Dahua Lin, Bo Dai",00969 ,corr
+27,CityNeRF: Building NeRF at City Scale.,2021,"Yuanbo Xiangli, Linning Xu, Xingang Pan, Nanxuan Zhao, Anyi Rao, Christian Theobalt, Bo Dai, Dahua Lin",05504 ,corr
+28,Self-Supervised Scene De-Occlusion.,2020,"Xiaohang Zhan, Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy", CVPR 2020: 3783-3791,cvpr
+29,Open Compound Domain Adaptation.,2020,"Ziwei Liu, Zhongqi Miao, Xingang Pan, Xiaohang Zhan, Dahua Lin, Stella X. Yu, Boqing Gong", CVPR 2020: 12403-12412,cvpr
+30,Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.,2020,"Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo", ECCV  2020: 262-277,eccv
+31,Channel Equilibrium Networks for Learning Deep Representation.,2020,"Wenqi Shao, Shitao Tang, Xingang Pan, Ping Tan, Xiaogang Wang, Ping Luo", ICML 2020: 8645-8654,icml
+32,Channel Equilibrium Networks for Learning Deep Representation.,2020,"Wenqi Shao, Shitao Tang, Xingang Pan, Ping Tan, Xiaogang Wang, Ping Luo",00214 ,corr
+33,Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.,2020,"Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo",13659 ,corr
+34,Self-Supervised Scene De-occlusion.,2020,"Xiaohang Zhan, Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy",02788 ,corr
+35,Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.,2020,"Xingang Pan, Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo",00844 ,corr

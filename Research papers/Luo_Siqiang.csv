@@ -1,0 +1,41 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Distributed Graph Embedding with Information-Oriented Random Walks.,2023,"Peng Fang, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, Zhenli Li, Wei Yin, Yuchao Cao", 16: 1643-1656 ,pvldb
+1,Effective and Efficient Route Planning Using Historical Trajectories on Road Networks.,2023,"Wei Tian, Jieming Shi, Siqiang Luo, Hui Li, Xike Xie, Yuanhang Zou", 16: 2512-2524 ,pvldb
+2,"Machine Learning for Subgraph Extraction: Methods, Applications and Challenges.",2023,"Kai Siong Yow, Ningyi Liao, Siqiang Luo, Reynold Cheng", 16: 3864-3867 ,pvldb
+3,Single-Source Personalized PageRanks With Workload Robustness.,2023,"Dingheng Mo, Siqiang Luo", 35: 6320-6334 ,tkde
+4,Efficient Community Search in Edge-Attributed Graphs.,2023,"Ling Li, Yuhai Zhao, Siqiang Luo, Guoren Wang, Zhengkui Wang", 35: 10790-10806 ,tkde
+5,Deep Graph Structural Infomax.,2023,"Wenting Zhao, Gongping Xu, Zhen Cui, Siqiang Luo, Cheng Long, Tong Zhang", AAAI 2023: 4920-4928,aaai
+6,Multi-Task Processing in Vertex-Centric Graph Systems: Evaluations and Insights.,2023,"Siqiang Luo, Zichen Zhu, Xiaokui Xiao, Yin Yang, Chunbo Li, Ben Kao", EDBT 2023: 247-259,edbt
+7,COCLEP: Contrastive Learning-based Semi-Supervised Community Search.,2023,"Ling Li, Siqiang Luo, Yuhai Zhao, Caihua Shan, Zhengkui Wang, Lu Qin", ICDE 2023: 2483-2495,icde
+8,Example Searcher: A Spatial Query System via Example.,2023,"Jun Xuan Yew, Ningyi Liao, Dingheng Mo, Siqiang Luo", ICDE 2023: 3635-3638,icde
+9,Less is More: Towards Lightweight Cost Estimator for Database Systems.,2023,"Weiping Yu, Siqiang Luo",10983 ,corr
+10,Distributed Graph Embedding with Information-Oriented Random Walks.,2023,"Peng Fang, Arijit Khan, Siqiang Luo, Fang Wang, Dan Feng, Zhenli Li, Wei Yin, Yuchao Cao",15702 ,corr
+11,Massively Parallel Single-Source SimRanks in o(log n) Rounds.,2023,"Siqiang Luo, Zulun Zhu",04015 ,corr
+12,SIMGA: A Simple and Effective Heterophilous Graph Neural Network with Efficient Global Aggregation.,2023,"Haoyu Liu, Ningyi Liao, Siqiang Luo",09958 ,corr
+13,River of No Return: Graph Percolation Embeddings for Efficient Knowledge Graph Reasoning.,2023,"Kai Wang, Siqiang Luo, Dan Lin",09974 ,corr
+14,Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads.,2023,"Dingheng Mo, Fanchao Chen, Siqiang Luo, Caihua Shan",07013 ,corr
+15,SI-News: Integrating social information for news recommendation with attention-based graph convolutional network.,2022,"Peng Zhu, Dawei Cheng, Siqiang Luo, Fangzhou Yang, Yifeng Luo, Weining Qian, Aoying Zhou", Neurocomputing 494: 33-42 ,ijon
+16,Distributed PageRank computation with improved round complexities.,2022,"Siqiang Luo, Xiaowei Wu, Ben Kao", 607: 109-125 ,isci
+17,SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization.,2022,"Ningyi Liao, Dingheng Mo, Siqiang Luo, Xiang Li, Pengcheng Yin", 15: 3240-3248 ,pvldb
+18,Leveraging enterprise knowledge graph to infer web events' influences via self-supervised learning.,2022,"Peng Zhu, Dawei Cheng, Siqiang Luo, Ruyao Xu, Yuqi Liang, Yifeng Luo", 74: 100722 ,ws
+19,Multi-scale Time Based Stock Appreciation Ranking Prediction via Price Co-movement Discrimination.,2022,"Ruyao Xu, Dawei Cheng, Cen Chen, Siqiang Luo, Yifeng Luo, Weining Qian", DASFAA  2022: 455-467,dasfaa
+20,Example-based Spatial Search at Scale.,2022,"Hanyuan Zhang, Siqiang Luo, Jieming Shi, Jing Nathan Yan, Weiwei Sun", ICDE 2022: 539-551,icde
+21,VC-Tune: Tuning and Exploring Distributed Vertex-Centric Graph Systems.,2022,"Zichen Zhu, Siqiang Luo, Xiaokui Xiao, Yin Yang, Dingheng Mo, Yufei Han", ICDE 2022: 3142-3145,icde
+22,Finding Global Homophily in Graph Neural Networks When Meeting Heterophily.,2022,"Xiang Li, Renyu Zhu, Yao Cheng, Caihua Shan, Siqiang Luo, Dongsheng Li, Weining Qian", ICML 2022: 13242-13256,icml
+23,Spiking Graph Convolutional Networks.,2022,"Zulun Zhu, Jiaying Peng, Jintang Li, Liang Chen, Qi Yu, Siqiang Luo", IJCAI 2022: 2434-2440,ijcai
+24,Efficiently Answering k-hop Reachability Queries in Large Dynamic Graphs for Fraud Feature Extraction.,2022,"Zequan Xu, Siqiang Luo, Jieming Shi, Hui Li, Chen Lin, Qihang Sun, Shaofeng Hu", MDM 2022: 238-245,mdm
+25,DMCS : Density Modularity based Community Search.,2022,"Junghoon Kim, Siqiang Luo, Gao Cong, Wenyuan Yu", SIGMOD Conference 2022: 889-903,sigmod
+26,Proteus: A Self-Designing Range Filter.,2022,"Eric R. Knorr, Baptiste Lemaire, Andrew Lim, Siqiang Luo, Huanchen Zhang, Stratos Idreos, Michael Mitzenmacher", SIGMOD Conference 2022: 1670-1684,sigmod
+27,Seesaw Counting Filter: An Efficient Guardian for Vulnerable Negative Keys During Dynamic Filtering.,2022,"Meng Li, Deyi Chen, Haipeng Dai, Rongbiao Xie, Siqiang Luo, Rong Gu, Tong Yang, Guihai Chen", WWW 2022: 2759-2767,www
+28,Learning-Based Approaches for Graph Problems: A Survey.,2022,"Kai Siong Yow, Siqiang Luo",01057 ,corr
+29,DMCS : Density Modularity based Community Search.,2022,"Junghoon Kim, Siqiang Luo, Gao Cong, Wenyuan Yu",07720 ,corr
+30,Spiking Graph Convolutional Networks.,2022,"Zulun Zhu, Jiaying Peng, Jintang Li, Liang Chen, Qi Yu, Siqiang Luo",02767 ,corr
+31,Finding Global Homophily in Graph Neural Networks When Meeting Heterophily.,2022,"Xiang Li, Renyu Zhu, Yao Cheng, Caihua Shan, Siqiang Luo, Dongsheng Li, Weining Qian",07308 ,corr
+32,Proteus: A Self-Designing Range Filter.,2022,"Eric R. Knorr, Baptiste Lemaire, Andrew Lim, Siqiang Luo, Huanchen Zhang, Stratos Idreos, Michael Mitzenmacher",01503 ,corr
+33,SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization.,2022,"Ningyi Liao, Dingheng Mo, Siqiang Luo, Xiang Li, Pengcheng Yin",09179 ,corr
+34,Agenda: Robust Personalized PageRanks in Evolving Graphs.,2021,"Dingheng Mo, Siqiang Luo", CIKM 2021: 1315-1324,cikm
+35,ROAM: A Fundamental Routing Query on Road Networks with Efficiency.,2020,"Siqiang Luo, Reynold Cheng, Ben Kao, Xiaokui Xiao, Shuigeng Zhou, Jiafeng Hu", 32: 1595-1609 ,tkde
+36,BATON: Batch One-Hop Personalized PageRanks with Efficiency and Accuracy.,2020,"Siqiang Luo, Xiaokui Xiao, Wenqing Lin, Ben Kao", 32: 1897-1908 ,tkde
+37,Fusing Global Domain Information and Local Semantic Information to Classify Financial Documents.,2020,"Mengzhen Fan, Dawei Cheng, Fangzhou Yang, Siqiang Luo, Yifeng Luo, Weining Qian, Aoying Zhou", CIKM 2020: 2413-2420,cikm
+38,Improved Communication Cost in Distributed PageRank Computation - A Theoretical Study.,2020,Siqiang Luo, ICML 2020: 6459-6467,icml
+39,Rosetta: A Robust Space-Time Optimized Range Filter for Key-Value Stores.,2020,"Siqiang Luo, Subarna Chatterjee, Rafael Ketsetsidis, Niv Dayan, Wilson Qin, Stratos Idreos", SIGMOD Conference 2020: 2071-2086,sigmod

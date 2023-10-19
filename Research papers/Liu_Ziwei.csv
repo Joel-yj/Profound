@@ -1,0 +1,255 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Lifting 2D Human Pose to 3D with Domain Adapted 3D Body Concept.,2023,"Qiang Nie, Ziwei Liu, Yunhui Liu", 131: 1250-1268 ,ijcv
+1,Semi-Supervised Domain Generalization with Stochastic StyleMatch.,2023,"Kaiyang Zhou, Chen Change Loy, Ziwei Liu", 131: 2377-2387 ,ijcv
+2,Full-Spectrum Out-of-Distribution Detection.,2023,"Jingkang Yang, Kaiyang Zhou, Ziwei Liu", 131: 2607-2622 ,ijcv
+3,Domain Generalization: A Survey.,2023,"Kaiyang Zhou, Ziwei Liu, Yu Qiao, Tao Xiang, Chen Change Loy", 45: 4396-4415 ,pami
+4,Reference-Based Image and Video Super-Resolution via $C^{2}$-Matching.,2023,"Yuming Jiang, Kelvin C. K. Chan, Xintao Wang, Chen Change Loy, Ziwei Liu", 45: 8874-8887 ,pami
+5,Variational Relational Point Completion Network for Robust 3D Classification.,2023,"Liang Pan, Xinyi Chen, Zhongang Cai, Junzhe Zhang, Haiyu Zhao, Shuai Yi, Ziwei Liu", 45: 11340-11351 ,pami
+6,GP-UNIT: Generative Prior for Versatile Unsupervised Image-to-Image Translation.,2023,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy", 45: 11869-11883 ,pami
+7,Computation-Efficient Knowledge Distillation via Uncertainty-Aware Mixup.,2023,"Guodong Xu, Ziwei Liu, Chen Change Loy", 138: 109338 ,pr
+8,Few-shot forgery detection via Guided Adversarial Interpolation.,2023,"Haonan Qiu, Siyu Chen, Bei Gan, Kun Wang, Huafeng Shi, Jing Shao, Ziwei Liu", 144: 109863 ,pr
+9,Robust Video Portrait Reenactment via Personalized Representation Quantization.,2023,"Kaisiyuan Wang, Changcheng Liang, Hang Zhou, Jiaxiang Tang, Qianyi Wu, Dongliang He, Zhibin Hong, Jingtuo Liu, Errui Ding, Ziwei Liu, Jingdong Wang", AAAI 2023: 2564-2572,aaai
+10,"OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation.",2023,"Tong Wu, Jiarui Zhang, Xiao Fu, Yuxin Wang, Jiawei Ren, Liang Pan, Wayne Wu, Lei Yang, Jiaqi Wang, Chen Qian, Dahua Lin, Ziwei Liu", CVPR 2023: 803-814,cvpr
+11,StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-Based Generator.,2023,"Jiazhi Guan, Zhanwang Zhang, Hang Zhou, Tianshu Hu, Kaisiyuan Wang, Dongliang He, Haocheng Feng, Jingtuo Liu, Errui Ding, Ziwei Liu, Jingdong Wang", CVPR 2023: 1505-1515,cvpr
+12,F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories.,2023,"Peng Wang, Yuan Liu, Zhaoxi Chen, Lingjie Liu, Ziwei Liu, Taku Komura, Christian Theobalt, Wenping Wang", CVPR 2023: 4150-4159,cvpr
+13,Collaborative Diffusion for Multi-Modal Face Generation and Editing.,2023,"Ziqi Huang, Kelvin C. K. Chan, Yuming Jiang, Ziwei Liu", CVPR 2023: 6080-6090,cvpr
+14,Panoptic Video Scene Graph Generation.,2023,"Jingkang Yang, Wenxuan Peng, Xiangtai Li, Zujin Guo, Liangyu Chen, Bo Li, Zheng Ma, Kaiyang Zhou, Wayne Zhang, Chen Change Loy, Ziwei Liu", CVPR 2023: 18675-18685,cvpr
+15,LaserMix for Semi-Supervised LiDAR Semantic Segmentation.,2023,"Lingdong Kong, Jiawei Ren, Liang Pan, Ziwei Liu", CVPR 2023: 21706-21716,cvpr
+16,Masked Frequency Modeling for Self-Supervised Visual Pre-Training.,2023,"Jiahao Xie, Wei Li, Xiaohang Zhan, Ziwei Liu, Yew-Soon Ong, Chen Change Loy", ICLR 2023,iclr
+17,EVA3D: Compositional 3D Human Generation from 2D Image Collections.,2023,"Fangzhou Hong, Zhaoxi Chen, Yushi Lan, Liang Pan, Ziwei Liu", ICLR 2023,iclr
+18,Sparse Mixture-of-Experts are Domain Generalizable Learners.,2023,"Bo Li, Yifei Shen, Jingkang Yang, Yezhen Wang, Jiawei Ren, Tong Che, Jun Zhang, Ziwei Liu", ICLR 2023,iclr
+19,DiffMimic: Efficient Motion Mimicking with Differentiable Physics.,2023,"Jiawei Ren, Cunjun Yu, Siwei Chen, Xiao Ma, Liang Pan, Ziwei Liu", ICLR 2023,iclr
+20,Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction.,2023,"Tong Wu, Jiaqi Wang, Xingang Pan, Xudong Xu, Christian Theobalt, Ziwei Liu, Dahua Lin", ICLR 2023,iclr
+21,BiBench: Benchmarking and Analyzing Network Binarization.,2023,"Haotong Qin, Mingyuan Zhang, Yifu Ding, Aoyu Li, Zhongang Cai, Ziwei Liu, Fisher Yu, Xianglong Liu", ICML 2023: 28351-28388,icml
+22,Efficient Video Portrait Reenactment via Grid-based Codebook.,2023,"Kaisiyuan Wang, Hang Zhou, Qianyi Wu, Jiaxiang Tang, Zhiliang Xu, Borong Liang, Tianshu Hu, Errui Ding, Jingtuo Liu, Ziwei Liu, Jingdong Wang", SIGGRAPH  2023: 66:1-66:9,siggraph
+23,"OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation.",2023,"Tong Wu, Jiarui Zhang, Xiao Fu, Yuxin Wang, Jiawei Ren, Liang Pan, Wayne Wu, Lei Yang, Jiaqi Wang, Chen Qian, Dahua Lin, Ziwei Liu",07525 ,corr
+24,BiBench: Benchmarking and Analyzing Network Binarization.,2023,"Haotong Qin, Mingyuan Zhang, Yifu Ding, Aoyu Li, Zhongang Cai, Ziwei Liu, Fisher Yu, Xianglong Liu",11233 ,corr
+25,What Makes Good Examples for Visual In-Context Learning?,2023,"Yuanhan Zhang, Kaiyang Zhou, Ziwei Liu",13670 ,corr
+26,SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections.,2023,"Zhaoxi Chen, Guangcong Wang, Ziwei Liu",01330 ,corr
+27,Make Your Brief Stroke Real and Stereoscopic: 3D-Aware Simplified Sketch to Portrait Generation.,2023,"Yasheng Sun, Qianyi Wu, Hang Zhou, Kaisiyuan Wang, Tianshu Hu, Chen-Chieh Liao, Dongliang He, Jingtuo Liu, Errui Ding, Jingdong Wang, Shio Miyafuji, Ziwei Liu, Hideki Koike",06857 ,corr
+28,Rethinking Range View Representation for LiDAR Segmentation.,2023,"Lingdong Kong, Youquan Liu, Runnan Chen, Yuexin Ma, Xinge Zhu, Yikang Li, Yuenan Hou, Yu Qiao, Ziwei Liu",05367 ,corr
+29,StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces.,2023,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",06146 ,corr
+30,SHERF: Generalizable Human NeRF from a Single Image.,2023,"Shoukang Hu, Fangzhou Hong, Liang Pan, Haiyi Mei, Lei Yang, Ziwei Liu",12791 ,corr
+31,ReVersion: Diffusion-Based Relation Inversion from Images.,2023,"Ziqi Huang, Tianxing Wu, Yuming Jiang, Kelvin C. K. Chan, Ziwei Liu",13495 ,corr
+32,F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories.,2023,"Peng Wang, Yuan Liu, Zhaoxi Chen, Lingjie Liu, Ziwei Liu, Taku Komura, Christian Theobalt, Wenping Wang",15951 ,corr
+33,SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis.,2023,"Guangcong Wang, Zhaoxi Chen, Chen Change Loy, Ziwei Liu",16196 ,corr
+34,SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling.,2023,"Zhitao Yang, Zhongang Cai, Haiyi Mei, Shuai Liu, Zhaoxi Chen, Weiye Xiao, Yukun Wei, Zhongfei Qing, Chen Wei, Bo Dai, Wayne Wu, Chen Qian, Dahua Lin, Ziwei Liu, Lei Yang",17368 ,corr
+35,Robo3D: Towards Robust and Reliable 3D Perception against Corruptions.,2023,"Lingdong Kong, Youquan Liu, Xin Li, Runnan Chen, Wenwei Zhang, Jiawei Ren, Liang Pan, Kai Chen, Ziwei Liu",17597 ,corr
+36,ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model.,2023,"Mingyuan Zhang, Xinying Guo, Liang Pan, Zhongang Cai, Fangzhou Hong, Huirong Li, Lei Yang, Ziwei Liu",01116 ,corr
+37,Detecting and Grounding Multi-Modal Media Manipulation.,2023,"Rui Shao, Tianxing Wu, Ziwei Liu",02556 ,corr
+38,DiffMimic: Efficient Motion Mimicking with Differentiable Physics.,2023,"Jiawei Ren, Cunjun Yu, Siwei Chen, Xiao Ma, Liang Pan, Ziwei Liu",03274 ,corr
+39,RoboBEV: Towards Robust Bird's Eye View Perception under Corruptions.,2023,"Shaoyuan Xie, Lingdong Kong, Wenwei Zhang, Jiawei Ren, Liang Pan, Kai Chen, Ziwei Liu",06719 ,corr
+40,Text2Performer: Text-Driven Human Video Generation.,2023,"Yuming Jiang, Shuai Yang, Tong Liang Koh, Wayne Wu, Chen Change Loy, Ziwei Liu",08483 ,corr
+41,Variational Relational Point Completion Network for Robust 3D Classification.,2023,"Liang Pan, Xinyi Chen, Zhongang Cai, Junzhe Zhang, Haiyu Zhao, Shuai Yi, Ziwei Liu",09131 ,corr
+42,Transformer-Based Visual Segmentation: A Survey.,2023,"Xiangtai Li, Henghui Ding, Wenwei Zhang, Haobo Yuan, Jiangmiao Pang, Guangliang Cheng, Kai Chen, Ziwei Liu, Chen Change Loy",09854 ,corr
+43,Collaborative Diffusion for Multi-Modal Face Generation and Editing.,2023,"Ziqi Huang, Kelvin C. K. Chan, Yuming Jiang, Ziwei Liu",10530 ,corr
+44,Otter: A Multi-Modal Model with In-Context Instruction Tuning.,2023,"Bo Li, Yuanhan Zhang, Liangyu Chen, Jinghao Wang, Jingkang Yang, Ziwei Liu",03726 ,corr
+45,StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator.,2023,"Jiazhi Guan, Zhanwang Zhang, Hang Zhou, Tianshu Hu, Kaisiyuan Wang, Dongliang He, Haocheng Feng, Jingtuo Liu, Errui Ding, Ziwei Liu, Jingdong Wang",05445 ,corr
+46,ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis.,2023,"Shoukang Hu, Kaichen Zhou, Kaiyu Li, Longhui Yu, Lanqing Hong, Tianyang Hu, Zhenguo Li, Gim Hee Lee, Ziwei Liu",11031 ,corr
+47,SAD: Segment Any RGBD.,2023,"Jun Cen, Yizheng Wu, Kewei Wang, Xingyi Li, Jingkang Yang, Yixuan Pei, Lingdong Kong, Ziwei Liu, Qifeng Chen",14207 ,corr
+48,GP-UNIT: Generative Prior for Versatile Unsupervised Image-to-Image Translation.,2023,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",04636 ,corr
+49,MIMIC-IT: Multi-Modal In-Context Instruction Tuning.,2023,"Bo Li, Yuanhan Zhang, Liangyu Chen, Jinghao Wang, Fanyi Pu, Jingkang Yang, Chunyuan Li, Ziwei Liu",05425 ,corr
+50,Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation.,2023,"Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy",07954 ,corr
+51,OpenOOD v1.5: Enhanced Benchmark for Out-of-Distribution Detection.,2023,"Jingyang Zhang, Jingkang Yang, Pengyun Wang, Haoqi Wang, Yueqian Lin, Haoran Zhang, Yiyou Sun, Xuefeng Du, Kaiyang Zhou, Wayne Zhang, Yixuan Li, Ziwei Liu, Yiran Chen, Hai Li",09301 ,corr
+52,Segment Any Point Cloud Sequences by Distilling Vision Foundation Models.,2023,"Youquan Liu, Lingdong Kong, Jun Cen, Runnan Chen, Wenwei Zhang, Liang Pan, Kai Chen, Ziwei Liu",09347 ,corr
+53,FunQA: Towards Surprising Video Comprehension.,2023,"Binzhu Xie, Sicheng Zhang, Zitang Zhou, Bo Li, Yuanhan Zhang, Jack Hessel, Jingkang Yang, Ziwei Liu",14899 ,corr
+54,InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation.,2023,"Yi Wang, Yinan He, Yizhuo Li, Kunchang Li, Jiashuo Yu, Xin Ma, Xinyuan Chen, Yaohui Wang, Ping Luo, Ziwei Liu, Yali Wang, Limin Wang, Yu Qiao",06942 ,corr
+55,Pair then Relation: Pair-Net for Panoptic Scene Graph Generation.,2023,"Jinghao Wang, Zhengyu Wen, Xiangtai Li, Zujin Guo, Jingkang Yang, Ziwei Liu",08699 ,corr
+56,DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering.,2023,"Wei Cheng, Ruixiang Chen, Wanqi Yin, Siming Fan, Keyu Chen, Honglin He, Huiwen Luo, Zhongang Cai, Jingbo Wang, Yang Gao, Zhengming Yu, Zhengyu Lin, Daxuan Ren, Lei Yang, Ziwei Liu, Chen Change Loy, Chen Qian, Wayne Wu, Dahua Lin, Bo Dai, Kwan-Yee Lin",10173 ,corr
+57,Temporally-Adaptive Models for Efficient Video Understanding.,2023,"Ziyuan Huang, Shiwei Zhang, Liang Pan, Zhiwu Qing, Yingya Zhang, Ziwei Liu, Marcelo H. Ang Jr.",05787 ,corr
+58,HumanLiff: Layer-wise 3D Human Generation with Diffusion Model.,2023,"Shoukang Hu, Fangzhou Hong, Tao Hu, Liang Pan, Haiyi Mei, Weiye Xiao, Lei Yang, Ziwei Liu",09712 ,corr
+59,Towards Real-World Visual Tracking with Temporal Contexts.,2023,"Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu",10330 ,corr
+60,PointHPS: Cascaded 3D Human Pose and Shape Estimation from Point Clouds.,2023,"Zhongang Cai, Liang Pan, Chen Wei, Wanqi Yin, Fangzhou Hong, Mingyuan Zhang, Chen Change Loy, Lei Yang, Ziwei Liu",14492 ,corr
+61,CityDreamer: Compositional Generative Model of Unbounded 3D Cities.,2023,"Haozhe Xie, Zhaoxi Chen, Fangzhou Hong, Ziwei Liu",00610 ,corr
+62,ReliTalk: Relightable Talking Portrait Generation from a Single Video.,2023,"Haonan Qiu, Zhaoxi Chen, Yuming Jiang, Hang Zhou, Xiangyu Fan, Lei Yang, Wayne Wu, Ziwei Liu",02434 ,corr
+63,DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields.,2023,"Junzhe Zhang, Yushi Lan, Shuai Yang, Fangzhou Hong, Quan Wang, Chai Kiat Yeo, Ziwei Liu, Chen Change Loy",04410 ,corr
+64,Large-Vocabulary 3D Diffusion Model with Transformer.,2023,"Ziang Cao, Fangzhou Hong, Tong Wu, Liang Pan, Ziwei Liu",07920 ,corr
+65,FreeU: Free Lunch in Diffusion U-Net.,2023,"Chenyang Si, Ziqi Huang, Yuming Jiang, Ziwei Liu",11497 ,corr
+66,MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation.,2023,"Jiahao Xie, Wei Li, Xiangtai Li, Ziwei Liu, Yew Soon Ong, Chen Change Loy",13042 ,corr
+67,Learning to Prompt for Vision-Language Models.,2022,"Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu", 130: 2337-2348 ,ijcv
+68,Delving into Inter-Image Invariance for Unsupervised Visual Representations.,2022,"Jiahao Xie, Xiaohang Zhan, Ziwei Liu, Yew-Soon Ong, Chen Change Loy", 130: 2994-3013 ,ijcv
+69,CARAFE++: Unified Content-Aware ReAssembly of FEatures.,2022,"Jiaqi Wang, Kai Chen, Rui Xu, Ziwei Liu, Chen Change Loy, Dahua Lin", 44: 4674-4687 ,pami
+70,Chasing the Tail in Monocular 3D Human Reconstruction With Prototype Memory.,2022,"Yu Rong, Ziwei Liu, Chen Change Loy", 31: 2907-2919 ,tip
+71,AvatarCLIP: zero-shot text-driven generation and animation of 3D avatars.,2022,"Fangzhou Hong, Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu", 41: 161:1-161:19 ,tog
+72,Text2Human: text-driven controllable human image generation.,2022,"Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu", 41: 162:1-162:11 ,tog
+73,Text2Light: Zero-Shot Text-Driven HDR Panorama Generation.,2022,"Zhaoxi Chen, Guangcong Wang, Ziwei Liu", 41: 195:1-195:16 ,tog
+74,VToonify: Controllable High-Resolution Portrait Video Style Transfer.,2022,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy", 41: 203:1-203:15 ,tog
+75,Visual Sound Localization in the Wild by Cross-Modal Interference Erasing.,2022,"Xian Liu, Rui Qian, Hang Zhou, Di Hu, Weiyao Lin, Ziwei Liu, Bolei Zhou, Xiaowei Zhou", AAAI 2022: 1801-1809,aaai
+76,SepFusion: Finding Optimal Fusion Structures for Visual Sound Separation.,2022,"Dongzhan Zhou, Xinchi Zhou, Di Hu, Hang Zhou, Lei Bai, Ziwei Liu, Wanli Ouyang", AAAI 2022: 3544-3552,aaai
+77,Full-Range Virtual Try-On with Recurrent Tri-Level Transform.,2022,"Han Yang, Xinrui Yu, Ziwei Liu", CVPR 2022: 3450-3459,cvpr
+78,Delving Deep into the Generalization of Vision Transformers under Distribution Shifts.,2022,"Chongzhi Zhang, Mingyuan Zhang, Shanghang Zhang, Daisheng Jin, Qiang Zhou, Zhongang Cai, Haiyu Zhao, Xianglong Liu, Ziwei Liu", CVPR 2022: 7267-7276,cvpr
+79,Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer.,2022,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy", CVPR 2022: 7683-7692,cvpr
+80,Balanced MSE for Imbalanced Visual Regression.,2022,"Jiawei Ren, Mingyuan Zhang, Cunjun Yu, Ziwei Liu", CVPR 2022: 7916-7925,cvpr
+81,Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory.,2022,"Siyao Li, Weijiang Yu, Tianpei Gu, Chunze Lin, Quan Wang, Chen Qian, Chen Change Loy, Ziwei Liu", CVPR 2022: 11040-11049,cvpr
+82,TCTrack: Temporal Contexts for Aerial Tracking.,2022,"Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu", CVPR 2022: 14778-14788,cvpr
+83,Versatile Multi-Modal Pre-Training for Human-Centric Perception.,2022,"Fangzhou Hong, Liang Pan, Zhongang Cai, Ziwei Liu", CVPR 2022: 16135-16145,cvpr
+84,Conditional Prompt Learning for Vision-Language Models.,2022,"Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu", CVPR 2022: 16795-16804,cvpr
+85,Unsupervised Image-to-Image Translation with Generative Prior.,2022,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy", CVPR 2022: 18311-18320,cvpr
+86,StyleGAN-Human: A Data-Centric Odyssey of Human Generation.,2022,"Jianglin Fu, Shikai Li, Yuming Jiang, Kwan-Yee Lin, Chen Qian, Chen Change Loy, Wayne Wu, Ziwei Liu", ECCV  2022: 1-19,eccv
+87,UNIF: United Neural Implicit Functions for Clothed Human Reconstruction and Animation.,2022,"Shenhan Qian, Jiale Xu, Ziwei Liu, Liqian Ma, Shenghua Gao", ECCV  2022: 121-137,eccv
+88,Panoptic Scene Graph Generation.,2022,"Jingkang Yang, Yi Zhe Ang, Zujin Guo, Kaiyang Zhou, Wayne Zhang, Ziwei Liu", ECCV  2022: 178-196,eccv
+89,Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis.,2022,"Long Zhuo, Guangcong Wang, Shikai Li, Wayne Wu, Ziwei Liu", ECCV  2022: 289-305,eccv
+90,Mind the Gap in Distilling StyleGANs.,2022,"Guodong Xu, Yuenan Hou, Ziwei Liu, Chen Change Loy", ECCV  2022: 423-439,eccv
+91,StyleLight: HDR Panorama Generation for Lighting Estimation and Editing.,2022,"Guangcong Wang, Yinuo Yang, Chen Change Loy, Ziwei Liu", ECCV  2022: 477-492,eccv
+92,X-Learner: Learning Cross Sources and Tasks for Universal Visual Representation.,2022,"Yinan He, Gengshi Huang, Siyu Chen, Jianing Teng, Kun Wang, Zhenfei Yin, Lu Sheng, Ziwei Liu, Yu Qiao, Jing Shao", ECCV  2022: 509-528,eccv
+93,HuMMan: Multi-modal 4D Human Dataset for Versatile Sensing and Modeling.,2022,"Zhongang Cai, Daxuan Ren, Ailing Zeng, Zhengyu Lin, Tao Yu, Wenjia Wang, Xiangyu Fan, Yang Gao, Yifan Yu, Liang Pan, Fangzhou Hong, Mingyuan Zhang, Chen Change Loy, Lei Yang, Ziwei Liu", ECCV  2022: 557-577,eccv
+94,Benchmarking Omni-Vision Representation Through the Lens of Visual Realms.,2022,"Yuanhan Zhang, Zhenfei Yin, Jing Shao, Ziwei Liu", ECCV  2022: 594-611,eccv
+95,Relighting4D: Neural Relightable Human from Videos.,2022,"Zhaoxi Chen, Ziwei Liu", ECCV  2022: 606-623,eccv
+96,CelebV-HQ: A Large-Scale Video Facial Attributes Dataset.,2022,"Hao Zhu, Wayne Wu, Wentao Zhu, Liming Jiang, Siwei Tang, Li Zhang, Ziwei Liu, Chen Change Loy", ECCV  2022: 650-667,eccv
+97,StyleSwap: Style-Based Generator Empowers Robust Face Swapping.,2022,"Zhiliang Xu, Hang Zhou, Zhibin Hong, Ziwei Liu, Jiaming Liu, Zhizhi Guo, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang", ECCV  2022: 661-677,eccv
+98,Detecting and Recovering Sequential DeepFake Manipulation.,2022,"Rui Shao, Tianxing Wu, Ziwei Liu", ECCV  2022: 712-728,eccv
+99,TAda! Temporally-Adaptive Convolutions for Video Understanding.,2022,"Ziyuan Huang, Shiwei Zhang, Liang Pan, Zhiwu Qing, Mingqian Tang, Ziwei Liu, Marcelo H. Ang Jr.", ICLR 2022,iclr
+100,BiBERT: Accurate Fully Binarized BERT.,2022,"Haotong Qin, Yifu Ding, Mingyuan Zhang, Qinghua Yan, Aishan Liu, Qingqing Dang, Ziwei Liu, Xianglong Liu", ICLR 2022,iclr
+101,Benchmarking and Analyzing Point Cloud Classification under Corruptions.,2022,"Jiawei Ren, Liang Pan, Ziwei Liu", ICML 2022: 18559-18575,icml
+102,Free Lunch for Surgical Video Understanding by Distilling Self-supervisions.,2022,"Xinpeng Ding, Ziwei Liu, Xiaomeng Li", MICCAI  2022: 365-375,miccai
+103,AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies.,2022,"Siyao Li, Yuhang Li, Bo Li, Chao Dong, Ziwei Liu, Chen Change Loy", NeurIPS 2022,nips
+104,Audio-Driven Co-Speech Gesture Video Generation.,2022,"Xian Liu, Qianyi Wu, Hang Zhou, Yuanqi Du, Wayne Wu, Dahua Lin, Ziwei Liu", NeurIPS 2022,nips
+105,Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms.,2022,"Hui En Pang, Zhongang Cai, Lei Yang, Tianwei Zhang, Ziwei Liu", NeurIPS 2022,nips
+106,OpenOOD: Benchmarking Generalized Out-of-Distribution Detection.,2022,"Jingkang Yang, Pengyun Wang, Dejian Zou, Zitang Zhou, Kunyuan Ding, Wenxuan Peng, Haoqi Wang, Guangyao Chen, Bo Li, Yiyou Sun, Xuefeng Du, Kaiyang Zhou, Wayne Zhang, Dan Hendrycks, Yixuan Li, Ziwei Liu", NeurIPS 2022,nips
+107,Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers.,2022,"Yasheng Sun, Hang Zhou, Kaisiyuan Wang, Qianyi Wu, Zhibin Hong, Jingtuo Liu, Errui Ding, Jingdong Wang, Ziwei Liu, Hideki Koike", SIGGRAPH Asia 2022: 17:1-17:9,siggrapha
+108,Benchmarking and Analyzing Point Cloud Classification under Corruptions.,2022,"Jiawei Ren, Liang Pan, Ziwei Liu",03377 ,corr
+109,Visual Sound Localization in the Wild by Cross-Modal Interference Erasing.,2022,"Xian Liu, Rui Qian, Hang Zhou, Di Hu, Weiyao Lin, Ziwei Liu, Bolei Zhou, Xiaowei Zhou",06406 ,corr
+110,TCTrack: Temporal Contexts for Aerial Tracking.,2022,"Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu",01885 ,corr
+111,Conditional Prompt Learning for Vision-Language Models.,2022,"Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu",05557 ,corr
+112,BiBERT: Accurate Fully Binarized BERT.,2022,"Haotong Qin, Yifu Ding, Mingyuan Zhang, Qinghua Yan, Aishan Liu, Qingqing Dang, Ziwei Liu, Xianglong Liu",06390 ,corr
+113,LiDAR-based 4D Panoptic Segmentation via Dynamic Shifting Network.,2022,"Fangzhou Hong, Hui Zhou, Xinge Zhu, Hongsheng Li, Ziwei Liu",07186 ,corr
+114,Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy.,2022,"Yuanhan Zhang, Qinghong Sun, Yichun Zhou, Zexin He, Zhenfei Yin, Kun Wang, Lu Sheng, Yu Qiao, Jing Shao, Ziwei Liu",07845 ,corr
+115,Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory.,2022,"Siyao Li, Weijiang Yu, Tianpei Gu, Chunze Lin, Quan Wang, Chen Qian, Chen Change Loy, Ziwei Liu",13055 ,corr
+116,Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer.,2022,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",13248 ,corr
+117,SeCo: Separating Unknown Musical Visual Sounds with Consistency Guidance.,2022,"Xinchi Zhou, Dongzhan Zhou, Wanli Ouyang, Hang Zhou, Ziwei Liu, Di Hu",13535 ,corr
+118,Versatile Multi-Modal Pre-Training for Human-Centric Perception.,2022,"Fangzhou Hong, Liang Pan, Zhongang Cai, Ziwei Liu",13815 ,corr
+119,Balanced MSE for Imbalanced Visual Regression.,2022,"Jiawei Ren, Mingyuan Zhang, Cunjun Yu, Ziwei Liu",16427 ,corr
+120,Unsupervised Image-to-Image Translation with Generative Prior.,2022,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",03641 ,corr
+121,Full-Spectrum Out-of-Distribution Detection.,2022,"Jingkang Yang, Kaiyang Zhou, Ziwei Liu",05306 ,corr
+122,Few-shot Forgery Detection via Guided Adversarial Interpolation.,2022,"Haonan Qiu, Siyu Chen, Bei Gan, Kun Wang, Huafeng Shi, Jing Shao, Ziwei Liu",05905 ,corr
+123,StyleGAN-Human: A Data-Centric Odyssey of Human Generation.,2022,"Jianglin Fu, Shikai Li, Yuming Jiang, Kwan-Yee Lin, Chen Qian, Chen Change Loy, Wayne Wu, Ziwei Liu",11823 ,corr
+124,Robust Face Anti-Spoofing with Dual Probabilistic Modeling.,2022,"Yuanhan Zhang, Yichao Wu, Zhenfei Yin, Jing Shao, Ziwei Liu",12685 ,corr
+125,HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling.,2022,"Zhongang Cai, Daxuan Ren, Ailing Zeng, Zhengyu Lin, Tao Yu, Wenjia Wang, Xiangyu Fan, Yang Gao, Yifan Yu, Liang Pan, Fangzhou Hong, Mingyuan Zhang, Chen Change Loy, Lei Yang, Ziwei Liu",13686 ,corr
+126,AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars.,2022,"Fangzhou Hong, Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu",08535 ,corr
+127,Text2Human: Text-Driven Controllable Human Image Generation.,2022,"Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu",15996 ,corr
+128,Sparse Fusion Mixture-of-Experts are Domain Generalizable Learners.,2022,"Bo Li, Jingkang Yang, Jiawei Ren, Yezhen Wang, Ziwei Liu",04046 ,corr
+129,Neural Prompt Search.,2022,"Yuanhan Zhang, Kaiyang Zhou, Ziwei Liu",04673 ,corr
+130,Masked Frequency Modeling for Self-Supervised Visual Pre-Training.,2022,"Jiahao Xie, Wei Li, Xiaohang Zhan, Ziwei Liu, Yew Soon Ong, Chen Change Loy",07706 ,corr
+131,LaserMix for Semi-Supervised LiDAR Semantic Segmentation.,2022,"Lingdong Kong, Jiawei Ren, Liang Pan, Ziwei Liu",00026 ,corr
+132,Detecting and Recovering Sequential DeepFake Manipulation.,2022,"Rui Shao, Tianxing Wu, Ziwei Liu",02204 ,corr
+133,Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis.,2022,"Long Zhuo, Guangcong Wang, Shikai Li, Wayne Wu, Ziwei Liu",05049 ,corr
+134,Relighting4D: Neural Relightable Human from Videos.,2022,"Zhaoxi Chen, Ziwei Liu",07104 ,corr
+135,Benchmarking Omni-Vision Representation through the Lens of Visual Realms.,2022,"Yuanhan Zhang, Zhenfei Yin, Jing Shao, Ziwei Liu",07106 ,corr
+136,UNIF: United Neural Implicit Functions for Clothed Human Reconstruction and Animation.,2022,"Shenhan Qian, Jiale Xu, Ziwei Liu, Liqian Ma, Shenghua Gao",09835 ,corr
+137,Panoptic Scene Graph Generation.,2022,"Jingkang Yang, Yi Zhe Ang, Zujin Guo, Kaiyang Zhou, Wayne Zhang, Ziwei Liu",11247 ,corr
+138,CelebV-HQ: A Large-Scale Video Facial Attributes Dataset.,2022,"Hao Zhu, Wayne Wu, Wentao Zhu, Liming Jiang, Siwei Tang, Li Zhang, Ziwei Liu, Chen Change Loy",12393 ,corr
+139,StyleLight: HDR Panorama Generation for Lighting Estimation and Editing.,2022,"Guangcong Wang, Yinuo Yang, Chen Change Loy, Ziwei Liu",14811 ,corr
+140,Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer.,2022,"Zhipeng Luo, Changqing Zhou, Liang Pan, Gongjie Zhang, Tianrui Liu, Yueru Luo, Haiyu Zhao, Ziwei Liu, Shijian Lu",05216 ,corr
+141,StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3.,2022,"Haonan Qiu, Yuming Jiang, Hang Zhou, Wayne Wu, Ziwei Liu",07862 ,corr
+142,Open Long-Tailed Recognition in a Dynamic World.,2022,"Ziwei Liu, Zhongqi Miao, Xiaohang Zhan, Jiayun Wang, Boqing Gong, Stella X. Yu",08349 ,corr
+143,Mind the Gap in Distilling StyleGANs.,2022,"Guodong Xu, Yuenan Hou, Ziwei Liu, Chen Change Loy",08840 ,corr
+144,Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction.,2022,"Tong Wu, Jiaqi Wang, Xingang Pan, Xudong Xu, Christian Theobalt, Ziwei Liu, Dahua Lin",12697 ,corr
+145,MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model.,2022,"Mingyuan Zhang, Zhongang Cai, Liang Pan, Fangzhou Hong, Xinying Guo, Lei Yang, Ziwei Liu",15001 ,corr
+146,On-Device Domain Generalization.,2022,"Kaiyang Zhou, Yuanhan Zhang, Yuhang Zang, Jingkang Yang, Chen Change Loy, Ziwei Liu",07521 ,corr
+147,Text2Light: Zero-Shot Text-Driven HDR Panorama Generation.,2022,"Zhaoxi Chen, Guangcong Wang, Ziwei Liu",09898 ,corr
+148,Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms.,2022,"Hui En Pang, Zhongang Cai, Lei Yang, Tianwei Zhang, Ziwei Liu",10529 ,corr
+149,VToonify: Controllable High-Resolution Portrait Video Style Transfer.,2022,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",11224 ,corr
+150,StyleSwap: Style-Based Generator Empowers Robust Face Swapping.,2022,"Zhiliang Xu, Hang Zhou, Zhibin Hong, Ziwei Liu, Jiaming Liu, Zhizhi Guo, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang",13514 ,corr
+151,EVA3D: Compositional 3D Human Generation from 2D Image Collections.,2022,"Fangzhou Hong, Zhaoxi Chen, Yushi Lan, Liang Pan, Ziwei Liu",04888 ,corr
+152,OpenOOD: Benchmarking Generalized Out-of-Distribution Detection.,2022,"Jingkang Yang, Pengyun Wang, Dejian Zou, Zitang Zhou, Kunyuan Ding, Wenxuan Peng, Haoqi Wang, Guangyao Chen, Bo Li, Yiyou Sun, Xuefeng Du, Kaiyang Zhou, Wayne Zhang, Dan Hendrycks, Yixuan Li, Ziwei Liu",07242 ,corr
+153,AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies.,2022,"Siyao Li, Yuhang Li, Bo Li, Chao Dong, Ziwei Liu, Chen Change Loy",05709 ,corr
+154,Audio-Driven Co-Speech Gesture Video Generation.,2022,"Xian Liu, Qianyi Wu, Hang Zhou, Yuanqi Du, Wayne Wu, Dahua Lin, Ziwei Liu",02350 ,corr
+155,Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers.,2022,"Yasheng Sun, Hang Zhou, Kaisiyuan Wang, Qianyi Wu, Zhibin Hong, Jingtuo Liu, Errui Ding, Jingdong Wang, Ziwei Liu, Hideki Koike",04970 ,corr
+156,Reference-based Image and Video Super-Resolution via C2-Matching.,2022,"Yuming Jiang, Kelvin C. K. Chan, Xintao Wang, Chen Change Loy, Ziwei Liu",09581 ,corr
+157,Iterative human and automated identification of wildlife images.,2021,"Zhongqi Miao, Ziwei Liu, Kaitlyn M. Gaynor, Meredith S. Palmer, Stella X. Yu, Wayne M. Getz", 3: 885-895 ,natmi
+158,Learning Diverse Fashion Collocation by Neural Graph Filtering.,2021,"Xin Liu, Yongbin Sun, Ziwei Liu, Dahua Lin", 23: 2894-2901 ,tmm
+159,Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements.,2021,"Yu Rong, Jingbo Wang, Ziwei Liu, Chen Change Loy", 3DV 2021: 432-441,3dim
+160,PTeacher: a Computer-Aided Personalized Pronunciation Training System with Exaggerated Audio-Visual Corrective Feedback.,2021,"Yaohua Bu, Tianyi Ma, Weijun Li, Hang Zhou, Jia Jia, Shengqi Chen, Kaiyuan Xu, Dachuan Shi, Haozhe Wu, Zhihan Yang, Kun Li, Zhiyong Wu, Yuanchun Shi, Xiaobo Lu, Ziwei Liu", CHI 2021: 676:1-676:14,chi
+161,Robust Reference-Based Super-Resolution via C2-Matching.,2021,"Yuming Jiang, Kelvin C. K. Chan, Xintao Wang, Chen Change Loy, Ziwei Liu", CVPR 2021: 2103-2112,cvpr
+162,Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.,2021,"Hang Zhou, Yasheng Sun, Wayne Wu, Chen Change Loy, Xiaogang Wang, Ziwei Liu", CVPR 2021: 4176-4186,cvpr
+163,ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis.,2021,"Yinan He, Bei Gan, Siyu Chen, Yichun Zhou, Guojun Yin, Luchuan Song, Lu Sheng, Jing Shao, Ziwei Liu", CVPR 2021: 4360-4369,cvpr
+164,Deep Animation Video Interpolation in the Wild.,2021,"Siyao Li, Shiyu Zhao, Weijiang Yu, Wenxiu Sun, Dimitris N. Metaxas, Chen Change Loy, Ziwei Liu", CVPR 2021: 6587-6595,cvpr
+165,Variational Relational Point Completion Network.,2021,"Liang Pan, Xinyi Chen, Zhongang Cai, Junzhe Zhang, Haiyu Zhao, Shuai Yi, Ziwei Liu", CVPR 2021: 8524-8533,cvpr
+166,Adversarial Robustness Under Long-Tailed Distribution.,2021,"Tong Wu, Ziwei Liu, Qingqiu Huang, Yu Wang, Dahua Lin", CVPR 2021: 8659-8668,cvpr
+167,Seesaw Loss for Long-Tailed Instance Segmentation.,2021,"Jiaqi Wang, Wenwei Zhang, Yuhang Zang, Yuhang Cao, Jiangmiao Pang, Tao Gong, Kai Chen, Ziwei Liu, Chen Change Loy, Dahua Lin", CVPR 2021: 9695-9704,cvpr
+168,Unsupervised Feature Learning by Cross-Level Instance-Group Discrimination.,2021,"Xudong Wang, Ziwei Liu, Stella X. Yu", CVPR 2021: 12586-12595,cvpr
+169,LiDAR-Based Panoptic Segmentation via Dynamic Shifting Network.,2021,"Fangzhou Hong, Hui Zhou, Xinge Zhu, Hongsheng Li, Ziwei Liu", CVPR 2021: 13090-13099,cvpr
+170,Visually Informed Binaural Audio Generation without Binaural Audios.,2021,"Xudong Xu, Hang Zhou, Ziwei Liu, Bo Dai, Xiaogang Wang, Dahua Lin", CVPR 2021: 15485-15494,cvpr
+171,Differentiable Dynamic Wirings for Neural Networks.,2021,"Kun Yuan, Quanquan Li, Shaopeng Guo, Dapeng Chen, Aojun Zhou, Fengwei Yu, Ziwei Liu", ICCV 2021: 317-326,iccv
+172,Incorporating Convolution Designs into Visual Transformers.,2021,"Kun Yuan, Shaopeng Guo, Ziwei Liu, Aojun Zhou, Fengwei Yu, Wei Wu", ICCV 2021: 559-568,iccv
+173,BlockPlanner: City Block Generation with Vectorized Graph Representation.,2021,"Linning Xu, Yuanbo Xiangli, Anyi Rao, Nanxuan Zhao, Bo Dai, Ziwei Liu, Dahua Lin", ICCV 2021: 5057-5066,iccv
+174,Semantically Coherent Out-of-Distribution Detection.,2021,"Jingkang Yang, Haoqi Wang, Litong Feng, Xiaopeng Yan, Huabin Zheng, Wayne Zhang, Ziwei Liu", ICCV 2021: 8281-8289,iccv
+175,Unsupervised Domain Adaptive 3D Detection with Multi-Level Consistency.,2021,"Zhipeng Luo, Zhongang Cai, Changqing Zhou, Gongjie Zhang, Haiyu Zhao, Shuai Yi, Shijian Lu, Hongsheng Li, Shanghang Zhang, Ziwei Liu", ICCV 2021: 8846-8855,iccv
+176,Energy-Based Open-World Uncertainty Modeling for Confidence Calibration.,2021,"Yezhen Wang, Bo Li, Tong Che, Kaiyang Zhou, Ziwei Liu, Dongsheng Li", ICCV 2021: 9282-9291,iccv
+177,Talk-to-Edit: Fine-Grained Facial Editing via Dialog.,2021,"Yuming Jiang, Ziqi Huang, Xingang Pan, Chen Change Loy, Ziwei Liu", ICCV 2021: 13779-13788,iccv
+178,Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs.,2021,"Xingang Pan, Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo", ICLR 2021,iclr
+179,Long-tailed Recognition by Routing Diverse Distribution-Aware Experts.,2021,"Xudong Wang, Long Lian, Zhongqi Miao, Ziwei Liu, Stella X. Yu", ICLR 2021,iclr
+180,Speech2Talking-Face: Inferring and Driving a Face with Synchronized Audio-Visual Representation.,2021,"Yasheng Sun, Hang Zhou, Ziwei Liu, Hideki Koike", IJCAI 2021: 1018-1024,ijcai
+181,MMFashion: An Open-Source Toolbox for Visual Fashion Analysis.,2021,"Xin Liu, Jiancheng Li, Jiaqi Wang, Ziwei Liu", ACM Multimedia 2021: 3755-3758,mm
+182,Few-Shot Object Detection via Association and DIscrimination.,2021,"Yuhang Cao, Jiaqi Wang, Ying Jin, Tong Wu, Kai Chen, Ziwei Liu, Dahua Lin", NeurIPS 2021: 16570-16581,nips
+183,Garment4D: Garment Reconstruction from Point Cloud Sequences.,2021,"Fangzhou Hong, Liang Pan, Zhongang Cai, Ziwei Liu", NeurIPS 2021: 27940-27951,nips
+184,Unsupervised Object-Level Representation Learning from Scene Images.,2021,"Jiahao Xie, Xiaohang Zhan, Ziwei Liu, Yew Soon Ong, Chen Change Loy", NeurIPS 2021: 28864-28876,nips
+185,Balanced Chamfer Distance as a Comprehensive Metric for Point Cloud Completion.,2021,"Tong Wu, Liang Pan, Junzhe Zhang, Tai Wang, Ziwei Liu, Dahua Lin", NeurIPS 2021: 29088-29100,nips
+186,ShineOn: Illuminating Design Choices for Practical Video-based Virtual Clothing Try-on.,2021,"Gaurav Kuppa, Andrew Jong, Xin Liu, Ziwei Liu, Teng-Sheng Moh", WACV  2021: 191-200,wacv
+187,Person-in-Context Synthesis with Compositional Structural Space.,2021,"Weidong Yin, Ziwei Liu, Leonid Sigal", WACV 2021: 2826-2835,wacv
+188,DeeperForensics Challenge 2020 on Real-World Face Forgery Detection: Methods and Results.,2021,"Liming Jiang, Zhengkui Guo, Wayne Wu, Zhaoyang Liu, Ziwei Liu, Chen Change Loy, Shuo Yang, Yuanjun Xiong, Wei Xia, Baoying Chen, Peiyu Zhuang, Sili Li, Shen Chen, Taiping Yao, Shouhong Ding, Jilin Li, Feiyue Huang, Liujuan Cao, Rongrong Ji, Changlei Lu, Ganchao Tan",09471 ,corr
+189,CelebA-Spoof Challenge 2020 on Face Anti-Spoofing: Methods and Results.,2021,"Yuanhan Zhang, Zhenfei Yin, Jing Shao, Ziwei Liu, Shuo Yang, Yuanjun Xiong, Wei Xia, Yan Xu, Man Luo, Jian Liu, Jianshu Li, Zhijun Chen, Mingyu Guo, Hui Li, Junfu Liu, Pengfei Gao, Tianqi Hong, Hao Han, Shijie Liu, Xinhua Chen, Di Qiu, Cheng Zhen, Dashuang Liang, Yufeng Jin, Zhanlong Hao",12642 ,corr
+190,Domain Generalization: A Survey.,2021,"Kaiyang Zhou, Ziwei Liu, Yu Qiao, Tao Xiang, Chen Change Loy",02503 ,corr
+191,ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis.,2021,"Yinan He, Bei Gan, Siyu Chen, Yichun Zhou, Guojun Yin, Luchuan Song, Lu Sheng, Jing Shao, Ziwei Liu",05630 ,corr
+192,Incorporating Convolution Designs into Visual Transformers.,2021,"Kun Yuan, Shaopeng Guo, Ziwei Liu, Aojun Zhou, Fengwei Yu, Wei Wu",11816 ,corr
+193,Deep Animation Video Interpolation in the Wild.,2021,"Siyao Li, Shiyu Zhao, Weijiang Yu, Wenxiu Sun, Dimitris N. Metaxas, Chen Change Loy, Ziwei Liu",02495 ,corr
+194,Adversarial Robustness under Long-Tailed Distribution.,2021,"Tong Wu, Ziwei Liu, Qingqiu Huang, Yu Wang, Dahua Lin",02703 ,corr
+195,Visually Informed Binaural Audio Generation without Binaural Audios.,2021,"Xudong Xu, Hang Zhou, Ziwei Liu, Bo Dai, Xiaogang Wang, Dahua Lin",06162 ,corr
+196,Variational Relational Point Completion Network.,2021,"Liang Pan, Xinyi Chen, Zhongang Cai, Junzhe Zhang, Haiyu Zhao, Shuai Yi, Ziwei Liu",10154 ,corr
+197,Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.,2021,"Hang Zhou, Yasheng Sun, Wayne Wu, Chen Change Loy, Xiaogang Wang, Ziwei Liu",11116 ,corr
+198,Iterative Human and Automated Identification of Wildlife Images.,2021,"Zhongqi Miao, Ziwei Liu, Kaitlyn M. Gaynor, Meredith S. Palmer, Stella X. Yu, Wayne M. Getz",02320 ,corr
+199,PTeacher: a Computer-Aided Personalized Pronunciation Training System with Exaggerated Audio-Visual Corrective Feedback.,2021,"Yaohua Bu, Tianyi Ma, Weijun Li, Hang Zhou, Jia Jia, Shengqi Chen, Kaiyuan Xu, Dachuan Shi, Haozhe Wu, Zhihan Yang, Kun Li, Zhiyong Wu, Yuanchun Shi, Xiaobo Lu, Ziwei Liu",05182 ,corr
+200,Semi-Supervised Domain Generalization with Stochastic StyleMatch.,2021,"Kaiyang Zhou, Chen Change Loy, Ziwei Liu",00592 ,corr
+201,Robust Reference-based Super-Resolution via C2-Matching.,2021,"Yuming Jiang, Kelvin C. K. Chan, Xintao Wang, Chen Change Loy, Ziwei Liu",01863 ,corr
+202,Delving Deep into the Generalization of Vision Transformers under Distribution Shifts.,2021,"Chongzhi Zhang, Mingyuan Zhang, Shanghang Zhang, Daisheng Jin, Qiang Zhou, Zhongang Cai, Haiyu Zhao, Shuai Yi, Xianglong Liu, Ziwei Liu",07617 ,corr
+203,Unsupervised Object-Level Representation Learning from Scene Images.,2021,"Jiahao Xie, Xiaohang Zhan, Ziwei Liu, Yew-Soon Ong, Chen Change Loy",11952 ,corr
+204,Unsupervised Domain Adaptive 3D Detection with Multi-Level Consistency.,2021,"Zhipeng Luo, Zhongang Cai, Changqing Zhou, Gongjie Zhang, Haiyu Zhao, Shuai Yi, Shijian Lu, Hongsheng Li, Shanghang Zhang, Ziwei Liu",11355 ,corr
+205,Energy-Based Open-World Uncertainty Modeling for Confidence Calibration.,2021,"Yezhen Wang, Bo Li, Tong Che, Kaiyang Zhou, Ziwei Liu, Dongsheng Li",12628 ,corr
+206,Semantically Coherent Out-of-Distribution Detection.,2021,"Jingkang Yang, Haoqi Wang, Litong Feng, Xiaopeng Yan, Huabin Zheng, Wayne Zhang, Ziwei Liu",11941 ,corr
+207,Learning to Prompt for Vision-Language Models.,2021,"Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu",01134 ,corr
+208,Talk-to-Edit: Fine-Grained Facial Editing via Dialog.,2021,"Yuming Jiang, Ziqi Huang, Xingang Pan, Chen Change Loy, Ziwei Liu",04425 ,corr
+209,TAda! Temporally-Adaptive Convolutions for Video Understanding.,2021,"Ziyuan Huang, Shiwei Zhang, Liang Pan, Zhiwu Qing, Mingqian Tang, Ziwei Liu, Marcelo H. Ang Jr.",06178 ,corr
+210,Playing for 3D Human Recovery.,2021,"Zhongang Cai, Mingyuan Zhang, Jiawei Ren, Chen Wei, Daxuan Ren, Jiatong Li, Zhengyu Lin, Haiyu Zhao, Shuai Yi, Lei Yang, Chen Change Loy, Ziwei Liu",07588 ,corr
+211,Generalized Out-of-Distribution Detection: A Survey.,2021,"Jingkang Yang, Kaiyang Zhou, Yixuan Li, Ziwei Liu",11334 ,corr
+212,Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements.,2021,"Yu Rong, Jingbo Wang, Ziwei Liu, Chen Change Loy",00763 ,corr
+213,Few-Shot Object Detection via Association and DIscrimination.,2021,"Yuhang Cao, Jiaqi Wang, Ying Jin, Tong Wu, Kai Chen, Ziwei Liu, Dahua Lin",11656 ,corr
+214,Density-aware Chamfer Distance as a Comprehensive Metric for Point Cloud Completion.,2021,"Tong Wu, Liang Pan, Junzhe Zhang, Tai Wang, Ziwei Liu, Dahua Lin",12702 ,corr
+215,Robust Partial-to-Partial Point Cloud Registration in a Full Range.,2021,"Liang Pan, Zhongang Cai, Ziwei Liu",15606 ,corr
+216,Garment4D: Garment Reconstruction from Point Cloud Sequences.,2021,"Fangzhou Hong, Liang Pan, Zhongang Cai, Ziwei Liu",04159 ,corr
+217,ForgeryNet - Face Forgery Analysis Challenge 2021: Methods and Results.,2021,"Yinan He, Lu Sheng, Jing Shao, Ziwei Liu, Zhaofan Zou, Zhizhi Guo, Shan Jiang, Curitis Sun, Guosheng Zhang, Keyao Wang, Haixiao Yue, Zhibin Hong, Wanguo Wang, Zhenyu Li, Qi Wang, Zhenli Wang, Ronghao Xu, Mingwen Zhang, Zhiheng Wang, Zhenhang Huang, Tianming Zhang, Ningning Zhao",08325 ,corr
+218,Multi-View Partial (MVP) Point Cloud Challenge 2021 on Completion and Registration: Methods and Results.,2021,"Liang Pan, Tong Wu, Zhongang Cai, Ziwei Liu, Xumin Yu, Yongming Rao, Jiwen Lu, Jie Zhou, Mingye Xu, Xiaoyuan Luo, Kexue Fu, Peng Gao, Manning Wang, Yali Wang, Yu Qiao, Junsheng Zhou, Xin Wen, Peng Xiang, Yu-Shen Liu, Zhizhong Han, Yuanjie Yan, Junyi An, Lifa Zhu, Changwei Lin, Dongrui Liu, Xin Li, Francisco Gómez Fernández, Qinlong Wang, Yang Yang",12053 ,corr
+219,When NAS Meets Robustness: In Search of Robust Architectures Against Adversarial Attacks.,2020,"Minghao Guo, Yuzhe Yang, Rui Xu, Ziwei Liu, Dahua Lin", CVPR 2020: 628-637,cvpr
+220,Self-Supervised Scene De-Occlusion.,2020,"Xiaohang Zhan, Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy", CVPR 2020: 3783-3791,cvpr
+221,MaskGAN: Towards Diverse and Interactive Facial Image Manipulation.,2020,"Cheng-Han Lee, Ziwei Liu, Lingyun Wu, Ping Luo", CVPR 2020: 5548-5557,cvpr
+222,Rotate-and-Render: Unsupervised Photorealistic Face Rotation From Single-View Images.,2020,"Hang Zhou, Jihao Liu, Ziwei Liu, Yu Liu, Xiaogang Wang", CVPR 2020: 5910-5919,cvpr
+223,Online Deep Clustering for Unsupervised Representation Learning.,2020,"Xiaohang Zhan, Jiahao Xie, Ziwei Liu, Yew-Soon Ong, Chen Change Loy", CVPR 2020: 6687-6696,cvpr
+224,Open Compound Domain Adaptation.,2020,"Ziwei Liu, Zhongqi Miao, Xingang Pan, Xiaohang Zhan, Dahua Lin, Stella X. Yu, Boqing Gong", CVPR 2020: 12403-12412,cvpr
+225,Sep-Stereo: Visually Guided Stereophonic Audio Generation by Associating Source Separation.,2020,"Hang Zhou, Xudong Xu, Dahua Lin, Xiaogang Wang, Ziwei Liu", ECCV  2020: 52-69,eccv
+226,CelebA-Spoof: Large-Scale Face Anti-spoofing Dataset with Rich Annotations.,2020,"Yuanhan Zhang, Zhenfei Yin, Yidong Li, Guojun Yin, Junjie Yan, Jing Shao, Ziwei Liu", ECCV  2020: 70-85,eccv
+227,Placepedia: Comprehensive Place Understanding with Multi-faceted Annotations.,2020,"Huaiyi Huang, Yuqi Zhang, Qingqiu Huang, Zhengkui Guo, Ziwei Liu, Dahua Lin", ECCV  2020: 85-103,eccv
+228,Unsupervised 3D Human Pose Representation with Viewpoint and Pose Disentanglement.,2020,"Qiang Nie, Ziwei Liu, Yunhui Liu", ECCV  2020: 102-118,eccv
+229,Distribution-Balanced Loss for Multi-label Classification in Long-Tailed Datasets.,2020,"Tong Wu, Qingqiu Huang, Ziwei Liu, Yu Wang, Dahua Lin", ECCV  2020: 162-178,eccv
+230,Knowledge Distillation Meets Self-supervision.,2020,"Guodong Xu, Ziwei Liu, Xiaoxiao Li, Chen Change Loy", ECCV  2020: 588-604,eccv
+231,"Sensing, Understanding and Synthesizing Humans in an Open World.",2020,Ziwei Liu, HUMA @ ACM Multimedia 2020: 3,mm
+232,Learning Diverse Fashion Collocation by Neural Graph Filtering.,2020,"Xin Liu, Yongbin Sun, Ziwei Liu, Dahua Lin",04888 ,corr
+233,Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images.,2020,"Hang Zhou, Jihao Liu, Ziwei Liu, Yu Liu, Xiaogang Wang",08124 ,corr
+234,Self-Supervised Scene De-occlusion.,2020,"Xiaohang Zhan, Xingang Pan, Bo Dai, Ziwei Liu, Dahua Lin, Chen Change Loy",02788 ,corr
+235,MMFashion: An Open-Source Toolbox for Visual Fashion Analysis.,2020,"Xin Liu, Jiancheng Li, Jiaqi Wang, Ziwei Liu",08847 ,corr
+236,Knowledge Distillation Meets Self-Supervision.,2020,"Guodong Xu, Ziwei Liu, Xiaoxiao Li, Chen Change Loy",07114 ,corr
+237,Online Deep Clustering for Unsupervised Representation Learning.,2020,"Xiaohang Zhan, Jiahao Xie, Ziwei Liu, Yew-Soon Ong, Chen Change Loy",10645 ,corr
+238,Unsupervised Landmark Learning from Unpaired Data.,2020,"Yinghao Xu, Ceyuan Yang, Ziwei Liu, Bo Dai, Bolei Zhou",01053 ,corr
+239,Placepedia: Comprehensive Place Understanding with Multi-Faceted Annotations.,2020,"Huaiyi Huang, Yuqi Zhang, Qingqiu Huang, Zhengkui Guo, Ziwei Liu, Dahua Lin",03777 ,corr
+240,Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets.,2020,"Tong Wu, Qingqiu Huang, Ziwei Liu, Yu Wang, Dahua Lin",09654 ,corr
+241,Sep-Stereo: Visually Guided Stereophonic Audio Generation by Associating Source Separation.,2020,"Hang Zhou, Xudong Xu, Dahua Lin, Xiaogang Wang, Ziwei Liu",09902 ,corr
+242,CelebA-Spoof: Large-Scale Face Anti-Spoofing Dataset with Rich Annotations.,2020,"Yuanhan Zhang, Zhenfei Yin, Yidong Li, Guojun Yin, Junjie Yan, Jing Shao, Ziwei Liu",12342 ,corr
+243,Unsupervised Feature Learning by Cross-Level Discrimination between Instances and Groups.,2020,"Xudong Wang, Ziwei Liu, Stella X. Yu",03813 ,corr
+244,Seesaw Loss for Long-Tailed Instance Segmentation.,2020,"Jiaqi Wang, Wenwei Zhang, Yuhang Zang, Yuhang Cao, Jiangmiao Pang, Tao Gong, Kai Chen, Ziwei Liu, Chen Change Loy, Dahua Lin",10032 ,corr
+245,Delving into Inter-Image Invariance for Unsupervised Visual Representations.,2020,"Jiahao Xie, Xiaohang Zhan, Ziwei Liu, Yew-Soon Ong, Chen Change Loy",11702 ,corr
+246,Person-in-Context Synthesiswith Compositional Structural Space.,2020,"Weidong Yin, Ziwei Liu, Leonid Sigal",12679 ,corr
+247,Long-tailed Recognition by Routing Diverse Distribution-Aware Experts.,2020,"Xudong Wang, Long Lian, Zhongqi Miao, Ziwei Liu, Stella X. Yu",01809 ,corr
+248,Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.,2020,"Xingang Pan, Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo",00844 ,corr
+249,LiDAR-based Panoptic Segmentation via Dynamic Shifting Network.,2020,"Fangzhou Hong, Hui Zhou, Xinge Zhu, Hongsheng Li, Ziwei Liu",11964 ,corr
+250,CARAFE++: Unified Content-Aware ReAssembly of FEatures.,2020,"Jiaqi Wang, Kai Chen, Rui Xu, Ziwei Liu, Chen Change Loy, Dahua Lin",04733 ,corr
+251,Computation-Efficient Knowledge Distillation via Uncertainty-Aware Mixup.,2020,"Guodong Xu, Ziwei Liu, Chen Change Loy",09413 ,corr
+252,ShineOn: Illuminating Design Choices for Practical Video-based Virtual Clothing Try-on.,2020,"Gaurav Kuppa, Andrew Jong, Vera Liu, Ziwei Liu, Teng-Sheng Moh",10495 ,corr
+253,Chasing the Tail in Monocular 3D Human Reconstruction with Prototype Memory.,2020,"Yu Rong, Ziwei Liu, Chen Change Loy",14739 ,corr

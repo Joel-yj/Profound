@@ -1,0 +1,106 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Asking Clarifying Questions: To benefit or to disturb users in Web search?,2023,"Jie Zou, Aixin Sun, Cheng Long, Mohammad Aliannejadi, Evangelos Kanoulas", 60: 103176 ,ipm
+1,EDU-Capsule: aspect-based sentiment analysis at clause level.,2023,"Ting Lin, Aixin Sun, Yequan Wang", 65: 517-541 ,kais
+2,Temporal Sentence Grounding in Videos: A Survey and Future Directions.,2023,"Hao Zhang, Aixin Sun, Wei Jing, Joey Tianyi Zhou", 45: 10443-10465 ,pami
+3,Generative Adversarial Reward Learning for Generalized Behavior Tendency Inference.,2023,"Xiaocong Chen, Lina Yao, Xianzhi Wang, Aixin Sun, Quan Z. Sheng", 35: 9878-9889 ,tkde
+4,A Critical Study on Data Leakage in Recommender System Offline Evaluation.,2023,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li", 41: 75:1-75:27 ,tois
+5,MS-DETR: Natural Language Video Localization with Sampling Moment-Moment Interaction.,2023,"Wang Jing, Aixin Sun, Hao Zhang, Xiaoli Li", ACL  2023: 1387-1400,acl
+6,Negation Scope Refinement via Boundary Shift Loss.,2023,"Yin Wu, Aixin Sun", ACL  2023: 6090-6099,acl
+7,Take a Break in the Middle: Investigating Subgoals towards Hierarchical Script Generation.,2023,"Xinze Li, Yixin Cao, Muhao Chen, Aixin Sun", ACL  2023: 10129-10147,acl
+8,A Synthetic Data Generation Framework for Grounded Dialogues.,2023,"Jianzhu Bao, Rui Wang, Yasheng Wang, Aixin Sun, Yitong Li, Fei Mi, Ruifeng Xu", ACL  2023: 10866-10882,acl
+9,Few-shot Event Detection: An Empirical Study and a Unified View.,2023,"Yubo Ma, Zehao Wang, Yixin Cao, Aixin Sun", ACL  2023: 11211-11236,acl
+10,Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting.,2023,"Chen Chen, Yufei Wang, Aixin Sun, Bing Li, Kwok-Yan Lam", ACL  2023: 11489-11503,acl
+11,A Survey on Deep Learning for Named Entity Recognition : Extended Abstract.,2023,"Jing Li, Aixin Sun, Jianglei Han, Chenliang Li", ICDE 2023: 3817-3818,icde
+12,A Study on Transformer Configuration and Training Objective.,2023,"Fuzhao Xue, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Yongming Chen, Xin Jiang, Yang You", ICML 2023: 38913-38925,icml
+13,On Challenges of Evaluating Recommender Systems in an Offline Setting.,2023,Aixin Sun, RecSys 2023: 1284-1285,recsys
+14,A Preference Learning Decoupling Framework for User Cold-Start Recommendation.,2023,"Chunyang Wang, Yanmin Zhu, Aixin Sun, Zhaobo Wang, Ke Wang", SIGIR 2023: 1168-1177,sigir
+15,Take a Fresh Look at Recommender Systems from an Evaluation Standpoint.,2023,Aixin Sun, SIGIR 2023: 2629-2638,sigir
+16,DOCoR: Document-level OpenIE with Coreference Resolution.,2023,"Shan Jie Yong, Kuicai Dong, Aixin Sun", WSDM 2023: 1204-1207,wsdm
+17,"Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!",2023,"Yubo Ma, Yixin Cao, YongChing Hong, Aixin Sun",08559 ,corr
+18,GCRE-GPT: A Generative Model for Comparative Relation Extraction.,2023,"Yequan Wang, Hengran Zhang, Aixin Sun, Xuying Meng",08601 ,corr
+19,DiffuRec: A Diffusion Model for Sequential Recommendation.,2023,"Zihao Li, Aixin Sun, Chenliang Li",00686 ,corr
+20,FreeLM: Fine-Tuning-Free Language Model.,2023,"Xiang Li, Xin Jiang, Xuying Meng, Aixin Sun, Yequan Wang",01616 ,corr
+21,Few-shot Event Detection: An Empirical Study and a Unified View.,2023,"Yubo Ma, Zehao Wang, Yixin Cao, Aixin Sun",01901 ,corr
+22,Open Information Extraction via Chunks.,2023,"Kuicai Dong, Aixin Sun, Jung-Jae Kim, Xiaoli Li",03299 ,corr
+23,Retraining A Graph-based Recommender with Interests Disentanglement.,2023,"Yitong Ji, Aixin Sun, Jie Zhang",03624 ,corr
+24,Shall We Trust All Relational Tuples by Open Information Extraction? A Study on Speculation Detection.,2023,"Kuicai Dong, Aixin Sun, Jung-Jae Kim, Xiaoli Li",04181 ,corr
+25,Take a Break in the Middle: Investigating Subgoals towards Hierarchical Script Generation.,2023,"Xinze Li, Yixin Cao, Muhao Chen, Aixin Sun",10907 ,corr
+26,LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models.,2023,"Fangkai Jiao, Zhiyang Teng, Shafiq R. Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen",13718 ,corr
+27,MS-DETR: Natural Language Video Localization with Sampling Moment-Moment Interaction.,2023,"Jing Wang, Aixin Sun, Hao Zhang, Xiaoli Li",18969 ,corr
+28,Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting.,2023,"Chen Chen, Yufei Wang, Aixin Sun, Bing Li, Kwok-Yan Lam",01709 ,corr
+29,Research Explosion: More Effort to Climb onto Shoulders of the Giant.,2023,"Guoxiu He, Aixin Sun, Wei Lu",06506 ,corr
+30,Our Model Achieves Excellent Performance on MovieLens: What Does it Mean?,2023,"Yu-chen Fan, Yitong Ji, Jie Zhang, Aixin Sun",09985 ,corr
+31,FLM-101B: An Open LLM and How to Train It with $100K Budget.,2023,"Xiang Li, Yiqun Yao, Xin Jiang, Xuezhi Fang, Xuying Meng, Siqi Fan, Peng Han, Jing Li, Li Du, Bowen Qin, Zheng Zhang, Aixin Sun, Yequan Wang",03852 ,corr
+32,An Image Dataset for Benchmarking Recommender Systems with Raw Pixels.,2023,"Yu Cheng, Yunzhu Pan, Jiaqi Zhang, Yongxin Ni, Aixin Sun, Fajie Yuan",06789 ,corr
+33,Real-time dynamic network learning for location inference modelling and computing.,2022,"Jianxin Li, Aixin Sun, Ziyu Guan, Muhammad Aamir Cheema, Geyong Min", Neurocomputing 472: 198-200 ,ijon
+34,Natural Language Video Localization: A Revisit in Span-Based Question Answering Framework.,2022,"Hao Zhang, Aixin Sun, Wei Jing, Liangli Zhen, Joey Tianyi Zhou, Rick Siow Mong Goh", 44: 4252-4266 ,pami
+35,A Survey on Deep Learning for Named Entity Recognition.,2022,"Jing Li, Aixin Sun, Jianglei Han, Chenliang Li", 34: 50-70 ,tkde
+36,Point-of-Interest Recommendation With Global and Local Context.,2022,"Peng Han, Shuo Shang, Aixin Sun, Peilin Zhao, Kai Zheng, Xiangliang Zhang", 34: 5484-5495 ,tkde
+37,MMEKG: Multi-modal Event Knowledge Graph towards Universal Representation across Modalities.,2022,"Yubo Ma, Zehao Wang, Mukai Li, Yixin Cao, Meiqi Chen, Xinze Li, Wenqi Sun, Kunquan Deng, Kun Wang, Aixin Sun, Jing Shao", ACL  2022: 231-239,acl
+38,CofeNet: Context and Former-Label Enhanced Net for Complicated Quotation Extraction.,2022,"Yequan Wang, Xiang Li, Aixin Sun, Xuying Meng, Huaming Liao, Jiafeng Guo", COLING 2022: 2438-2449,coling
+39,Syntactic Multi-view Learning for Open Information Extraction.,2022,"Kuicai Dong, Aixin Sun, Jung-Jae Kim, Xiaoli Li", EMNLP 2022: 4072-4083,emnlp
+40,CORT: A New Baseline for Comparative Opinion Classification by Dual Prompts.,2022,"Yequan Wang, Hengran Zhang, Aixin Sun, Xuying Meng", EMNLP  2022: 7064-7075,emnlp
+41,An Embarrassingly Simple Model for Dialogue Relation Extraction.,2022,"Fuzhao Xue, Aixin Sun, Hao Zhang, Jinjie Ni, Eng Siong Chng", ICASSP 2022: 6707-6711,icassp
+42,Do Loyal Users Enjoy Better Recommendations?: Understanding Recommender Accuracy from a Time Perspective.,2022,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li", ICTIR 2022: 92-97,ictir
+43,A Survey on Neural Open Information Extraction: Current Status and Future Directions.,2022,"Shaowen Zhou, Bowen Yu, Aixin Sun, Cheng Long, Jingyang Li, Jian Sun", IJCAI 2022: 5694-5701,ijcai
+44,A Dual-Channel Framework for Sarcasm Recognition by Detecting Sentiment Conflict.,2022,"Yiyi Liu, Yequan Wang, Aixin Sun, Xuying Meng, Jing Li, Jiafeng Guo", NAACL-HLT  2022: 1670-1680,naacl
+45,Aspect-Based Sentiment Analysis Through EDU-Level Attentions.,2022,"Ting Lin, Aixin Sun, Yequan Wang", PAKDD  2022: 156-168,pakdd
+46,Automatic Expert Selection for Multi-Scenario and Multi-Task Search.,2022,"Xinyu Zou, Zhi Hu, Yiming Zhao, Xuchu Ding, Zhongyi Liu, Chenliang Li, Aixin Sun", SIGIR 2022: 1535-1544,sigir
+47,An Attribute-Driven Mirror Graph Network for Session-based Recommendation.,2022,"Siqi Lai, Erli Meng, Fan Zhang, Chenliang Li, Bin Wang, Aixin Sun", SIGIR 2022: 1674-1683,sigir
+48,Improving Conversational Recommender Systems via Transformer-based Sequential Modelling.,2022,"Jie Zou, Evangelos Kanoulas, Pengjie Ren, Zhaochun Ren, Aixin Sun, Cheng Long", SIGIR 2022: 2319-2324,sigir
+49,Deep Learning for Recommender Systems.,2022,"Shuai Zhang, Yi Tay, Lina Yao, Aixin Sun, Ce Zhang", Recommender Systems Handbook 2022: 173-210,sp
+50,Towards Reducing Manual Workload in Technology-Assisted Reviews: Estimating Ranking Performance.,2022,"Grace E. Lee, Aixin Sun",05648 ,corr
+51,The Elements of Temporal Sentence Grounding in Videos: A Survey and Future Directions.,2022,"Hao Zhang, Aixin Sun, Wei Jing, Joey Tianyi Zhou",08071 ,corr
+52,Aspect-based Sentiment Analysis through EDU-level Attentions.,2022,"Ting Lin, Aixin Sun, Yequan Wang",02535 ,corr
+53,Chat-Capsule: A Hierarchical Capsule for Dialog-level Emotion Analysis.,2022,"Yequan Wang, Xuying Meng, Yiyi Liu, Aixin Sun, Yao Wang, Yinhe Zheng, Minlie Huang",12254 ,corr
+54,Recommender May Not Favor Loyal Users.,2022,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li",05927 ,corr
+55,Deeper vs Wider: A Revisit of Transformer Configuration.,2022,"Fuzhao Xue, Jianghai Chen, Aixin Sun, Xiaozhe Ren, Zangwei Zheng, Xiaoxin He, Xin Jiang, Yang You",10505 ,corr
+56,A Survey on Neural Open Information Extraction: Current Status and Future Directions.,2022,"Shaowen Zhou, Bowen Yu, Aixin Sun, Cheng Long, Jingyang Li, Jian Sun",11725 ,corr
+57,Automatic Expert Selection for Multi-Scenario and Multi-Task Search.,2022,"Xinyu Zou, Zhi Hu, Yiming Zhao, Xuchu Ding, Zhongyi Liu, Chenliang Li, Aixin Sun",14321 ,corr
+58,CofeNet: Context and Former-Label Enhanced Net for Complicated Quotation Extraction.,2022,"Yequan Wang, Xiang Li, Aixin Sun, Xuying Meng, Huaming Liao, Jiafeng Guo",09432 ,corr
+59,From Counter-intuitive Observations to a Fresh Look at Recommender System.,2022,Aixin Sun,04149 ,corr
+60,Perplexity from PLM Is Unreliable for Evaluating Text Quality.,2022,"Yequan Wang, Jiawen Deng, Aixin Sun, Xuying Meng",05892 ,corr
+61,Syntactic Multi-view Learning for Open Information Extraction.,2022,"Kuicai Dong, Aixin Sun, Jung-Jae Kim, Xiaoli Li",02068 ,corr
+62,Dataset vs Reality: Understanding Model Performance from the Perspective of Information Need.,2022,"Mengying Yu, Aixin Sun",02726 ,corr
+63,Understanding the stability of medical concept embeddings.,2021,"Grace E. Lee, Aixin Sun", 72: 346-356 ,jasis
+64,Will Your Paper Get Promoted by a Citation? A Case Study of Citation Promoter in Computer Science Discipline.,2021,"Feiheng Luo, Aixin Sun, Aravind Sesagiri Raamkumar, Mojisola Erdt, Yin-Leng Theng", 9: 238-245 ,tetc
+65,Incremental Community Detection on Large Complex Attributed Network.,2021,"Zhe Chen, Aixin Sun, Xiaokui Xiao", Data 15: 109:1-109:20 ,tkdd
+66,Neural Named Entity Boundary Detection.,2021,"Jing Li, Aixin Sun, Yukun Ma", 33: 1790-1795 ,tkde
+67,GDPNet: Refining Latent Multi-View Graph for Relation Extraction.,2021,"Fuzhao Xue, Aixin Sun, Hao Zhang, Eng Siong Chng", AAAI 2021: 14194-14202,aaai
+68,Parallel Attention Network with Sequence Matching for Video Grounding.,2021,"Hao Zhang, Aixin Sun, Wei Jing, Liangli Zhen, Joey Tianyi Zhou, Rick Siow Mong Goh", ACL/IJCNLP  2021: 776-790,acl
+69,DocOIE: A Document-level Context-Aware Dataset for OpenIE.,2021,"Kuicai Dong, Yilin Zhao, Aixin Sun, Jung-Jae Kim, Xiaoli Li", ACL/IJCNLP  2021: 2377-2389,acl
+70,Generative Inverse Deep Reinforcement Learning for Online Recommendation.,2021,"Xiaocong Chen, Lina Yao, Aixin Sun, Xianzhi Wang, Xiwei Xu, Liming Zhu", CIKM 2021: 201-210,cikm
+71,Pre-training Graph Transformer with Multimodal Side Information for Recommendation.,2021,"Yong Liu, Susen Yang, Chenyi Lei, Guoxin Wang, Haihong Tang, Juyong Zhang, Aixin Sun, Chunyan Miao", ACM Multimedia 2021: 2853-2861,mm
+72,Video Corpus Moment Retrieval with Contrastive Learning.,2021,"Hao Zhang, Aixin Sun, Wei Jing, Guoshun Nan, Liangli Zhen, Joey Tianyi Zhou, Rick Siow Mong Goh", SIGIR 2021: 685-695,sigir
+73,Tweet-aware News Summarization with Dual-Attention Mechanism.,2021,"Xin Zheng, Aixin Sun, Karthik Muthuswamy", WWW  2021: 473-480,www
+74,Natural Language Video Localization: A Revisit in Span-based Question Answering Framework.,2021,"Hao Zhang, Aixin Sun, Wei Jing, Liangli Zhen, Joey Tianyi Zhou, Rick Siow Mong Goh",13558 ,corr
+75,Generative Adversarial Reward Learning for Generalized Behavior Tendency Inference.,2021,"Xiaocong Chen, Lina Yao, Xianzhi Wang, Aixin Sun, Wenjie Zhang, Quan Z. Sheng",00822 ,corr
+76,DocOIE: A Document-level Context-Aware Dataset for OpenIE.,2021,"Kuicai Dong, Yilin Zhao, Aixin Sun, Jung-Jae Kim, Xiaoli Li",04271 ,corr
+77,Video Corpus Moment Retrieval with Contrastive Learning.,2021,"Hao Zhang, Aixin Sun, Wei Jing, Guoshun Nan, Liangli Zhen, Joey Tianyi Zhou, Rick Siow Mong Goh",06247 ,corr
+78,Parallel Attention Network with Sequence Matching for Video Grounding.,2021,"Hao Zhang, Aixin Sun, Wei Jing, Liangli Zhen, Joey Tianyi Zhou, Rick Siow Mong Goh",08481 ,corr
+79,SelfCF: A Simple Framework for Self-supervised Collaborative Filtering.,2021,"Xin Zhou, Aixin Sun, Yong Liu, Jie Zhang, Chunyan Miao",03019 ,corr
+80,A Dual-Channel Framework for Sarcasm Recognition by Detecting Sentiment Conflict.,2021,"Yiyi Liu, Yequan Wang, Aixin Sun, Zheng Zhang, Jiafeng Guo, Xuying Meng",03587 ,corr
+81,Towards Debiasing Temporal Sentence Grounding in Video.,2021,"Hao Zhang, Aixin Sun, Wei Jing, Joey Tianyi Zhou",04321 ,corr
+82,DP-GCN: Node Classification Based on Both Connectivity and Topology Structure Convolutions for Risky Seller Detection.,2021,"Chen Zhe, Aixin Sun",04757 ,corr
+83,Mirror Matching: Document Matching Approach in Seed-driven Document Ranking for Medical Systematic Reviews.,2021,"Grace E. Lee, Aixin Sun",14318 ,corr
+84,NEXT: a neural network framework for next POI recommendation.,2020,"Zhiqian Zhang, Chenliang Li, Zhiyong Wu, Aixin Sun, Dengpan Ye, Xiangyang Luo", 14: 314-333 ,fcsc
+85,Collective Named Entity Recognition in User Comments via Parameterized Label Propagation.,2020,"Minh C. Phan, Aixin Sun", 71: 568-577 ,jasis
+86,Efficient approximation algorithms for adaptive influence maximization.,2020,"Keke Huang, Jing Tang, Kai Han, Xiaokui Xiao, Wei Chen, Aixin Sun, Xueyan Tang, Andrew Lim", 29: 1385-1406 ,vldb
+87,DeepRouting: A Deep Neural Network Approach for Ticket Routing in Expert Network.,2020,"Jianglei Han, Aixin Sun", SCC 2020: 386-393,IEEEscc
+88,CASE: Context-Aware Semantic Expansion.,2020,"Jialong Han, Aixin Sun, Haisong Zhang, Chenliang Li, Shuming Shi", AAAI 2020: 7871-7878,aaai
+89,Span-based Localizing Network for Natural Language Video Localization.,2020,"Hao Zhang, Aixin Sun, Wei Jing, Joey Tianyi Zhou", ACL 2020: 6543-6554,acl
+90,Efficient Approximation Algorithms for Adaptive Target Profit Maximization.,2020,"Keke Huang, Jing Tang, Xiaokui Xiao, Aixin Sun, Andrew Lim", ICDE 2020: 649-660,icde
+91,Anomaly Detection on Dynamic Bipartite Graph with Burstiness.,2020,"Zhe Chen, Aixin Sun", ICDM 2020: 966-971,icdm
+92,Sentiment Prediction using Attention on User-Specific Rating Distribution.,2020,"Ting Lin, Aixin Sun", ICTIR 2020: 101-104,ictir
+93,CATN: Cross-Domain Recommendation for Cold-Start Users via Aspect Transfer Network.,2020,"Cheng Zhao, Chenliang Li, Rong Xiao, Hongbo Deng, Aixin Sun", SIGIR 2020: 229-238,sigir
+94,A Re-visit of the Popularity Baseline in Recommender Systems.,2020,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li", SIGIR 2020: 1749-1752,sigir
+95,"Information Retrieval Technology - 15th Asia Information Retrieval Societies Conference, AIRS 2019, Hong Kong, November 7-9, 2019, Proceedings.",2020,"Fu Lee Wang, Haoran Xie, Wai Lam, Aixin Sun, Lun-Wei Ku, Tianyong Hao, Wei Chen, Tak-Lam Wong, Xiaohui Tao"," Lecture Notes in Computer Science 12004, Springer 2020, ISBN 978-3-030-42834-1 ",airs
+96,UFTR: A Unified Framework for Ticket Routing.,2020,"Jianglei Han, Jing Li, Aixin Sun",00703 ,corr
+97,Efficient Approximation Algorithms for Adaptive Influence Maximization.,2020,"Keke Huang, Jing Tang, Kai Han, Xiaokui Xiao, Wei Chen, Aixin Sun, Xueyan Tang, Andrew Lim",06469 ,corr
+98,Span-based Localizing Network for Natural Language Video Localization.,2020,"Hao Zhang, Aixin Sun, Wei Jing, Joey Tianyi Zhou",13931 ,corr
+99,CATN: Cross-Domain Recommendation for Cold-Start Users via Aspect Transfer Network.,2020,"Cheng Zhao, Chenliang Li, Rong Xiao, Hongbo Deng, Aixin Sun",10549 ,corr
+100,A Re-visit of the Popularity Baseline in Recommender Systems.,2020,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li",13829 ,corr
+101,On Offline Evaluation of Recommender Systems.,2020,"Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li",11060 ,corr
+102,Generative Inverse Deep Reinforcement Learning for Online Recommendation.,2020,"Xiaocong Chen, Lina Yao, Aixin Sun, Xianzhi Wang, Xiwei Xu, Liming Zhu",02248 ,corr
+103,GDPNet: Refining Latent Multi-View Graph for Relation Extraction.,2020,"Fuzhao Xue, Aixin Sun, Hao Zhang, Eng Siong Chng",06780 ,corr
+104,An Embarrassingly Simple Model for Dialogue Relation Extraction.,2020,"Fuzhao Xue, Aixin Sun, Hao Zhang, Eng Siong Chng",13873 ,corr

@@ -1,0 +1,64 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Toward a Comprehensive Evaluation on the Online Methods for Monitoring Transformer Turn-to-Turn Faults.,2024,"Xi Ouyang, Quan Zhou, Hujun Shang, Yuping Zheng, Shuyan Pan, Jun Luo", 71: 1997-2007 ,tie
+1,ISACoT: Integrating Sensing with Data Traffic for Ubiquitous IoT Devices.,2023,"Zhe Chen, Tianyue Zheng, Chao Hu, Hangcheng Cao, Yanbing Yang, Hongbo Jiang, Jun Luo", 61: 98-104 ,cm
+2,EarAcE: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform.,2023,"Yetong Cao, Chao Cai, Anbo Yu, Fan Li, Jun Luo", 7: 47:1-47:23 ,imwut
+3,PupilHeart: Heart Rate Variability Monitoring via Pupillary Fluctuations on Mobile Devices.,2023,"Xiangyu Shen, Hongbo Jiang, Daibo Liu, Kehua Yang, Feiyang Deng, Taiyuan Zhang, Zhu Xiao, John C. S. Lui, Jiangchuan Liu, Schahram Dustdar, Jun Luo", 10: 18042-18053 ,iotj
+4,RF-Based Human Activity Recognition Using Signal Adapted Convolutional Neural Network.,2023,"Zhe Chen, Chao Cai, Tianyue Zheng, Jun Luo, Jie Xiong, Xin Wang", 22: 487-499 ,tmc
+5,Acoustic Software Defined Platform: A Versatile Sensing and General Benchmarking Platform.,2023,"Chao Cai, Henglin Pu, Menglan Hu, Rong Zheng, Jun Luo", 22: 647-660 ,tmc
+6,"Active Acoustic Sensing for ""Hearing"" Temperature Under Acoustic Interference.",2023,"Chao Cai, Henglin Pu, Liyuan Ye, Hongbo Jiang, Jun Luo", 22: 661-673 ,tmc
+7,Catch Your Breath: Simultaneous RF Tracking and Respiration Monitoring With Radar Pairs.,2023,"Tianyue Zheng, Zhe Chen, Shujie Zhang, Jun Luo", 22: 6283-6296 ,tmc
+8,PURE: Passive Multi-Person Identification via Footstep for Mobile Service Networks.,2023,"Chao Cai, Ruinan Jin, Jiangtian Nie, Jiawen Kang, Yang Zhang, Jun Luo", 72: 12221-12233 ,tvt
+9,HeartPrint: Passive Heart Sounds Authentication Exploiting In-Ear Microphones.,2023,"Yetong Cao, Chao Cai, Fan Li, Zhe Chen, Jun Luo", INFOCOM 2023: 1-10,infocom
+10,Wider is Better? Contact-free Vibration Sensing via Different COTS-RF Technologies.,2023,"Zhe Chen, Tianyue Zheng, Chao Cai, Yue Gao, Pengfei Hu, Jun Luo", INFOCOM 2023: 1-10,infocom
+11,AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving.,2023,"Tianyue Zheng, Ang Li, Zhe Chen, Hongbo Wang, Jun Luo", MobiCom 2023: 15:1-15:15,mobicom
+12,AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving.,2023,"Tianyue Zheng, Ang Li, Zhe Chen, Hongbo Wang, Jun Luo",08646 ,corr
+13,Multi-band Reconfigurable Holographic Surface Based ISAC Systems: Design and Optimization.,2023,"Jingzhi Hu, Zhe Chen, Jun Luo",15686 ,corr
+14,OCHID-Fi: Occlusion-Robust Hand Pose Estimation in 3D via RF-Vision.,2023,"Shujie Zhang, Tianyue Zheng, Zhe Chen, Jingzhi Hu, Abdelwahed Khamis, Jiajun Liu, Jun Luo",10146 ,corr
+15,MIMOCrypt: Multi-User Privacy-Preserving Wi-Fi Sensing via MIMO Encryption.,2023,"Jun Luo, Hangcheng Cao, Hongbo Jiang, Yanbing Yang, Zhe Chen",00250 ,corr
+16,Ubiquitous Acoustic Sensing on Commodity IoT Devices: A Survey.,2022,"Chao Cai, Rong Zheng, Jun Luo", Tutorials 24: 432-454 ,comsur
+17,No Perfect Outdoors: Towards a Deep Profiling of GNSS-Based Location Contexts.,2022,"Jin Wang, Jun Luo", Future Internet 14: 7 ,fi
+18,Stop Deceiving! An Effective Defense Scheme Against Voice Impersonation Attacks on Smart Devices.,2022,"Wenbin Huang, Wenjuan Tang, Hongbo Jiang, Jun Luo, Yaoxue Zhang", 9: 5304-5314 ,iotj
+19,PupilRec: Leveraging Pupil Morphology for Recommending on Smartphones.,2022,"Xiangyu Shen, Hongbo Jiang, Daibo Liu, Kehua Yang, Feiyang Deng, John C. S. Lui, Jiangchuan Liu, Schahram Dustdar, Jun Luo", 9: 15538-15553 ,iotj
+20,Person Tracking by Detection Using Dual Visible-Infrared Cameras.,2022,"Xuewen Geng, Minglei Li, Wenping Liu, Shengkai Zhu, Hongbo Jiang, Jiawen Bian, Xuezhi Fan, Ruiqing Peng, Jun Luo", 9: 23241-23251 ,iotj
+21,A Lightweight Approach for Passive Human Localization Using an Infrared Thermal Camera.,2022,"Xuewen Geng, Ruiqing Peng, Minglei Li, Wenping Liu, Guoyin Jiang, Hongbo Jiang, Jun Luo", 9: 24800-24811 ,iotj
+22,Boosting Chirp Signal Based Aerial Acoustic Communication Under Dynamic Channel Conditions.,2022,"Chao Cai, Zhe Chen, Jun Luo, Henglin Pu, Menglan Hu, Rong Zheng", 21: 3110-3121 ,tmc
+23,Low Rank Matrix Approximation for 3D Geometry Filtering.,2022,"Xuequan Lu, Scott Schaefer, Jun Luo, Lizhuang Ma, Ying He", 28: 1835-1847 ,tvcg
+24,Sound of Motion: Real-time Wrist Tracking with A Smart Watch-Phone Pair.,2022,"Tianyue Zheng, Chao Cai, Zhe Chen, Jun Luo", INFOCOM 2022: 110-119,infocom
+25,Can We Obtain Fine-grained Heartbeat Waveform via Contact-free RF-sensing?,2022,"Shujie Zhang, Tianyue Zheng, Zhe Chen, Jun Luo","Shujie Zhang, Tianyue Zheng, Zhe Chen, Jun Luo: Can We Obtain Fine-grained Heartbeat Waveform via Contact-free RF-sensing? INFOCOM 2022: 1759-1768",infocom
+26,Integrating monostatic sensing with communication for IoT.,2022,"Zhe Chen, Tianyue Zheng, Chao Hu, Hangcheng Cao, Yanbing Yang, Hongbo Jiang, Jun Luo", ISACom@MobiCom 2022: 43-48,mobicom
+27,CORE-lens: simultaneous communication and object recognition with disentangled-GAN cameras.,2022,"Ziwei Liu, Tianyue Zheng, Chao Hu, Yanbing Yang, Yimao Sun, Yi Zhang, Zhe Chen, Liangyin Chen, Jun Luo", MobiCom 2022: 172-185,mobicom
+28,Quantifying the Physical Separability of RF-Based Multi-Person Respiration Monitoring via SINR.,2022,"Shujie Zhang, Tianyue Zheng, Hongbo Wang, Zhe Chen, Jun Luo", SenSys 2022: 47-60,sensys
+29,Enhancing RF Sensing with Deep Learning: A Layered Approach.,2021,"Tianyue Zheng, Zhe Chen, Shuya Ding, Jun Luo", 59: 70-76 ,cm
+30,AI and machine learning for the analysis of data flow characteristics in industrial network communication security.,2021,"Zhi Xu, Jun Luo, Xin Wang, JiaHai Zhang, Mamoun Alazab, Vicente García-Díaz", 37: 125-136 ,ijahuc
+31,We Hear Your PACE: Passive Acoustic Localization of Multiple Walking Persons.,2021,"Chao Cai, Henglin Pu, Peng Wang, Zhe Chen, Jun Luo", 5: 55:1-55:24 ,imwut
+32,Finding Group Steiner Trees in Graphs with both Vertex and Edge Weights.,2021,"Yahui Sun, Xiaokui Xiao, Bin Cui, Saman K. Halgamuge, Theodoros Lappas, Jun Luo", 14: 1137-1149 ,pvldb
+33,Towards Robust Multiple Blind Source Localization Using Source Separation and Beamforming.,2021,"Henglin Pu, Chao Cai, Menglan Hu, Tianping Deng, Rong Zheng, Jun Luo", Sensors 21: 532 ,sensors
+34,A Meta-learning Based Multimodal Neural Network for Multistep Ahead Battery Thermal Runaway Forecasting.,2021,"Shuya Ding, Chaoyu Dong, Tianyang Zhao, Liang Mong Koh, Xiaoyin Bai, Jun Luo", Informatics 17: 4503-4511 ,tii
+35,$M^3$M3: Multipath Assisted Wi-Fi Localization with a Single Access Point.,2021,"Zhe Chen, Guorong Zhu, Sulei Wang, Yuedong Xu, Jie Xiong, Jin Zhao, Jun Luo, Xin Wang", 20: 588-602 ,tmc
+36,Pushing the Data Rate of Practical VLC via Combinatorial Light Emission.,2021,"Yanbing Yang, Jun Luo, Chen Chen, Zequn Chen, Wen-De Zhong, Liangyin Chen", 20: 1979-1992 ,tmc
+37,SST: Software Sonic Thermometer on Acoustic-Enabled IoT Devices.,2021,"Chao Cai, Henglin Pu, Menglan Hu, Rong Zheng, Jun Luo", 20: 2067-2079 ,tmc
+38,A Multi-Leader Multi-Follower Game-Based Analysis for Incentive Mechanisms in Socially-Aware Mobile Crowdsensing.,2021,"Jiangtian Nie, Jun Luo, Zehui Xiong, Dusit Niyato, Ping Wang, H. Vincent Poor", 20: 1457-1471 ,twc
+39,SiWa: see into walls via deep UWB radar.,2021,"Tianyue Zheng, Zhe Chen, Jun Luo, Lin Ke, Chaoyang Zhao, Yaowen Yang", MobiCom 2021: 323-336,mobicom
+40,MoVi-Fi: motion-robust vital signs waveform recovery via deep interpreted RF sensing.,2021,"Zhe Chen, Tianyue Zheng, Chao Cai, Jun Luo", MobiCom 2021: 392-405,mobicom
+41,Octopus: a practical and versatile wideband MIMO sensing platform.,2021,"Zhe Chen, Tianyue Zheng, Jun Luo", MobiCom 2021: 601-614,mobicom
+42,MoRe-Fi: Motion-robust and Fine-grained Respiration Monitoring via Deep-Learning UWB Radar.,2021,"Tianyue Zheng, Zhe Chen, Shujie Zhang, Chao Cai, Jun Luo", SenSys 2021: 111-124,sensys
+43,Multi-Leader Multi-Follower Game-based Incentive Scheme for Socially-Aware Mobile Crowdsensing.,2021,"Jiangtian Nie, Jun Luo, Zehui Xiong, Dusit Niyato, Ping Wang, Yang Zhang", WCNC 2021: 1-6,wcnc
+44,PURE: Passive mUlti-peRson idEntification via Deep Footstep Separation and Recognition.,2021,"Chao Cai, Ruinan Jin, Peng Wang, Liyuan Ye, Hongbo Jiang, Jun Luo",07177 ,corr
+45,SiWa: See into Walls via Deep UWB Radar.,2021,"Tianyue Zheng, Zhe Chen, Jun Luo, Lin Ke, Chaoyang Zhao, Yaowen Yang",14279 ,corr
+46,RF-Based Human Activity Recognition Using Signal Adapted Convolutional Neural Network.,2021,"Zhe Chen, Chao Cai, Tianyue Zheng, Jun Luo, Jie Xiong, Xin Wang",14307 ,corr
+47,V2iFi: in-Vehicle Vital Sign Monitoring via Compact RF Sensing.,2021,"Tianyue Zheng, Zhe Chen, Chao Cai, Jun Luo, Xu Zhang",14848 ,corr
+48,Enhancing RF Sensing with Deep Learning: A Layered Approach.,2021,"Tianyue Zheng, Zhe Chen, Shuya Ding, Jun Luo",14849 ,corr
+49,RF-Net: a Unified Meta-learning Framework for RF-enabled One-shot Human Activity Recognition.,2021,"Shuya Ding, Zhe Chen, Tianyue Zheng, Jun Luo",04566 ,corr
+50,MoRe-Fi: Motion-robust and Fine-grained Respiration Monitoring via Deep-Learning UWB Radar.,2021,"Tianyue Zheng, Zhe Chen, Shujie Zhang, Chao Cai, Jun Luo",08195 ,corr
+51,Adv-4-Adv: Thwarting Changing Adversarial Perturbations via Adversarial Domain Adaptation.,2021,"Tianyue Zheng, Zhe Chen, Shuya Ding, Chao Cai, Jun Luo",00428 ,corr
+52,V2iFi: in-Vehicle Vital Sign Monitoring via Compact RF Sensing.,2020,"Tianyue Zheng, Zhe Chen, Chao Cai, Jun Luo, Xu Zhang", 4: 70:1-70:27 ,imwut
+53,Enabling Real-Life Deployment of Piggyback-VLC via Light Emission Composition.,2020,"Yanbing Yang, Jun Luo, Chen Chen, Liangyin Chen", 24: 59-65 ,internet
+54,Hunting multiple bumps in graphs.,2020,"Yahui Sun, Jun Luo, Theodoros Lappas, Xiaokui Xiao, Bin Cui", 13: 656-669 ,pvldb
+55,Composite Amplitude-Shift Keying for Effective LED-Camera VLC.,2020,"Yanbing Yang, Jun Luo", 19: 528-539 ,tmc
+56,HackMan: hacking commodity millimeter-wave hardware for a measurement study.,2020,"Chao Cai, Zhen Chen, Jun Luo, Linwei Zhu, Menglan Hu", Networks 26: 5411-5425 ,winet
+57,Enhancing Intrinsic Adversarial Robustness via Feature Pyramid Decoder.,2020,"Guanlin Li, Shuya Ding, Jun Luo, Chang Liu", CVPR 2020: 797-805,cvpr
+58,UWHear: through-wall extraction and separation of audio vibrations using wireless signals.,2020,"Ziqi Wang, Zhe Chen, Akash Deep Singh, Luis Garcia, Jun Luo, Mani B. Srivastava", SenSys 2020: 1-14,sensys
+59,AcuTe: acoustic thermometer empowered by a single smartphone.,2020,"Chao Cai, Zhe Chen, Henglin Pu, Liyuan Ye, Menglan Hu, Jun Luo", SenSys 2020: 28-41,sensys
+60,RF-net: a unified meta-learning framework for RF-enabled one-shot human activity recognition.,2020,"Shuya Ding, Zhe Chen, Tianyue Zheng, Jun Luo", SenSys 2020: 517-530,sensys
+61,Incentive Mechanism for Socially-Aware Mobile Crowdsensing: A Bayesian Stackelberg Game.,2020,"Jiangtian Nie, Jun Luo, Zehui Xiong, Dusit Niyato, Ping Wang, Yang Zhang", WASA  2020: 394-406,wasa
+62,Enhancing Intrinsic Adversarial Robustness via Feature Pyramid Decoder.,2020,"Guanlin Li, Shuya Ding, Jun Luo, Chang Liu",02552 ,corr

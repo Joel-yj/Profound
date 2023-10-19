@@ -1,0 +1,26 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,EuclidNet: Deep Visual Reasoning for Constructible Problems in Geometry.,2023,"Man-Fai Wong, Xintong Qi, Chee Wei Tan", 3: 839-853 ,aaiml
+1,Natural Language Generation and Understanding of Big Code for AI-Assisted Programming: A Review.,2023,"Man-Fai Wong, Shangxin Guo, Ching Nam Hang, Siu-Wai Ho, Chee-Wei Tan", Entropy 25: 888 ,entropy
+2,Contagion Source Detection in Epidemic and Infodemic Outbreaks: Mathematical Analysis and Network Algorithms.,2023,"Chee-Wei Tan, Pei-Duo Yu", 13: 107-251 ,ftnet
+3,On Symmetric Multilevel Diversity Coding System With Linear Computations.,2023,"Yiqian Zhang, Congduan Li, Chee Wei Tan", 27: 1994-1998 ,icl
+4,Fault-Tolerant Computation Meets Network Coding: Optimal Scheduling in Parallel Computing.,2023,"Congduan Li, Yiqian Zhang, Chee-Wei Tan", 71: 3847-3860 ,tcom
+5,EuclidNet: Deep Visual Reasoning for Constructible Problems in Geometry.,2023,"Man-Fai Wong, Xintong Qi, Chee-Wei Tan",13007 ,corr
+6,Natural Language Generation and Understanding of Big Code for AI-Assisted Programming: A Review.,2023,"Man-Fai Wong, Shangxin Guo, Ching Nam Hang, Siu-Wai Ho, Chee-Wei Tan",02503 ,corr
+7,Contagion Source Detection in Epidemic and Infodemic Outbreaks: Mathematical Analysis and Network Algorithms.,2023,"Chee-Wei Tan, Pei-Duo Yu",04061 ,corr
+8,Copilot for Xcode: Exploring AI-Assisted Programming by Prompting Cloud-based Large Language Models.,2023,"Chee Wei Tan, Shangxin Guo, Man-Fai Wong, Ching Nam Hang",14349 ,corr
+9,Epidemic Source Detection in Contact Tracing Networks: Epidemic Centrality in Graphs and Message-Passing Algorithms.,2022,"Pei-Duo Yu, Chee Wei Tan, Hung-Lin Fu", 16: 234-249 ,jstsp
+10,The Value of Cooperation: From AIMD to Flipped Classroom Teaching.,2022,Chee-Wei Tan, 49: 8-13 ,sigmetrics
+11,An Overview of Healthcare Data Analytics With Applications to the COVID-19 Pandemic.,2022,"Zhe Fei, Yevgen Ryeznik, Oleksandr Sverdlov, Chee-Wei Tan, Weng Kee Wong", Big Data 8: 1463-1480 ,tbd
+12,Identifying the Superspreader in Proactive Backward Contact Tracing by Deep Learning.,2022,"Siya Chen, Pei-Duo Yu, Chee-Wei Tan, H. Vincent Poor", CISS 2022: 43-48,ciss
+13,Fast Breadth-First Search Approximation for Epidemic Source Inference.,2022,"Congduan Li, Siya Chen, Chee-Wei Tan", CISS 2022: 194-199,ciss
+14,A Chatbot-Server Framework for Scalable Machine Learning Education through Crowdsourced Data.,2022,"Jingting Li, Chee-Wei Tan, Ching Nam Hang, Xintong Qi", L@S 2022: 271-274,lats
+15,Epidemic Source Detection in Contact Tracing Networks: Epidemic Centrality in Graphs and Message-Passing Algorithms.,2022,"Pei-Duo Yu, Chee-Wei Tan, Hung-Lin Fu",06751 ,corr
+16,DeepTrace: Learning to Optimize Contact Tracing in Epidemic Networks with Graph Neural Networks.,2022,"Siya Chen, Pei-Duo Yu, Chee-Wei Tan, H. Vincent Poor",00880 ,corr
+17,Fault-Tolerant Computation Meets Network Coding: Optimal Scheduling in Parallel Computing.,2021,"Congduan Li, Chee-Wei Tan, Jingting Li, Siya Chen", GLOBECOM 2021: 1-6,globecom
+18,Blending Peer Instruction with Just-In-Time Teaching: Jointly Optimal Task Scheduling with Feedback for Classroom Flipping.,2021,"Jingting Li, Lin Ling, Chee-Wei Tan", L@S 2021: 117-126,lats
+19,Peer-Grading at Scale with Rank Aggregation.,2021,"Lin Ling, Chee Wei Tan", L@S 2021: 327-330,lats
+20,Jointly Optimal Fair Data Collection and Trajectory Design Algorithms in UAV-Aided Cellular Networks.,2021,"Dan Song, Xiangping Bryce Zhai, Xin Liu, Chee-Wei Tan", WCNC 2021: 1-6,wcnc
+21,An Overview of Healthcare Data Analytics With Applications to the COVID-19 Pandemic.,2021,"Zhe Fei, Yevgen Ryeznik, Oleksandr Sverdlov, Chee-Wei Tan, Weng Kee Wong",14623 ,corr
+22,Proving and Disproving Information Inequalities: Theory and Scalable Algorithms.,2020,"Siu-Wai Ho, Lin Ling, Chee Wei Tan, Raymond W. Yeung", Theory 66: 5522-5536 ,tit
+23,Economic Viability of a Virtual ISP.,2020,"Shengxin Liu, Carlee Joe-Wong, Jiasi Chen, Christopher G. Brinton, Chee-Wei Tan, Liang Zheng", 28: 902-916 ,ton
+24,"Automated Reasoning by Convex Optimization: Proof Simplicity, Duality and Sparsity.",2020,"Chee-Wei Tan, Lin Ling", CISS 2020: 1-5,ciss

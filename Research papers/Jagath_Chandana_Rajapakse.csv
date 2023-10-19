@@ -1,0 +1,13 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Multi-modal graph neural network for early diagnosis of Alzheimer's disease from sMRI and PET scans.,2023,"Yanteng Zhang, Xiaohai He, Yi Hao Chan, Qizhi Teng, Jagath C. Rajapakse", Medicine 164: 107328 ,cbm
+1,Graph Neural Networks With Multiple Prior Knowledge for Multi-Omics Data Analysis.,2023,"Shunxin Xiao, Huibin Lin, Conghao Wang, Shiping Wang, Jagath C. Rajapakse", Health Informatics 27: 4591-4600 ,titb
+2,Multi-modal Graph Neural Network for Early Diagnosis of Alzheimer's Disease from sMRI and PET Scans.,2023,"Yanteng Zhang, Xiaohai He, Yi Hao Chan, Qizhi Teng, Jagath C. Rajapakse",16366 ,corr
+3,Self-supervised learning for hotspot detection and isolation from thermal images.,2023,"Shreyas Goyal, Jagath C. Rajapakse",13204 ,corr
+4,Cascaded Adversarial Learning for Speaker Independent Emotion Recognition.,2022,"Chamara Kasun Liyanaarachchi Lekamalage, Zhiping Lin, Guang-Bin Huang, Jagath Chandana Rajapakse", IJCNN 2022: 1-8,ijcnn
+5,Recurrent multi-head attention fusion network for combining audio and text for speech emotion recognition.,2022,"Chung Soo Ahn, L. L. Chamara Kasun, Sunil Sivadas, Jagath C. Rajapakse", INTERSPEECH 2022: 744-748,interspeech
+6,Discriminative Adversarial Learning for Speaker Independent Emotion Recognition.,2022,"L. L. Chamara Kasun, Chung Soo Ahn, Jagath C. Rajapakse, Zhiping Lin, Guang-Bin Huang", INTERSPEECH 2022: 4975-4979,interspeech
+7,Semi-supervised Learning with Data Harmonisation for Biomarker Discovery from Resting State fMRI.,2022,"Yi Hao Chan, Wei Chee Yew, Jagath C. Rajapakse", MICCAI  2022: 441-451,miccai
+8,Deep learning and multi-omics approach to predict drug responses in cancer.,2021,"Conghao Wang, Xintong Lye, Rama Kaalia, Parvin Kumar, Jagath C. Rajapakse", 22-S: 632 ,bmcbi
+9,Obtaining leaner deep neural networks for decoding brain functional connectome in a single shot.,2021,"Sukrit Gupta, Yi Hao Chan, Jagath C. Rajapakse, Alzheimer's Disease Neuroimaging Initiative", Neurocomputing 453: 326-336 ,ijon
+10,Graph embeddings on gene ontology annotations for protein-protein interaction prediction.,2020,"Xiaoshi Zhong, Jagath C. Rajapakse", 21-S: 560 ,bmcbi
+11,Decoding Task States by Spotting Salient Patterns at Time Points and Brain Regions.,2020,"Yi Hao Chan, Sukrit Gupta, L. L. Chamara Kasun, Jagath C. Rajapakse", MLCN/RNO-AI@MICCAI 2020: 88-97,miccai

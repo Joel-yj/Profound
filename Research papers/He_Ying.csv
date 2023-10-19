@@ -1,0 +1,53 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Robust and Accurate Feature Detection on Point Clouds.,2023,"Zheng Liu, Xiaopeng Xin, Zheng Xu, Weijie Zhou, Chunxue Wang, Renjie Chen, Ying He", 164: 103592 ,cad
+1,Flattening-Net: Deep Regular 2D Representation for 3D Point Cloud Analysis.,2023,"Qijian Zhang, Junhui Hou, Yue Qian, Yiming Zeng, Juyong Zhang, Ying He", 45: 9726-9742 ,pami
+2,Masonry Shell Structures with Discrete Equivalence Classes.,2023,"Rulin Chen, Pengyun Qiu, Peng Song, Bailin Deng, Ziqi Wang, Ying He", 42: 115:1-115:12 ,tog
+3,STD-Net: Structure-Preserving and Topology-Adaptive Deformation Network for Single-View 3D Reconstruction.,2023,"Aihua Mao, Canglan Dai, Qing Liu, Jie Yang, Lin Gao, Ying He, Yong-Jin Liu", 29: 1785-1798 ,tvcg
+4,A Variational Framework for Curve Shortening in Various Geometric Domains.,2023,"Na Yuan, Peihui Wang, Wenlong Meng, Shuang-Min Chen, Jian Xu, Shiqing Xin, Ying He, Wenping Wang", 29: 1951-1963 ,tvcg
+5,OPE-SR: Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution.,2023,"Gaochao Song, Qian Sun, Luo Zhang, Ran Su, Jianfeng Shi, Ying He", CVPR 2023: 10009-10020,cvpr
+6,IterativePFN: True Iterative Point Cloud Filtering.,2023,"Dasith de Silva Edirimuni, Xuequan Lu, Zhiwen Shao, Gang Li, Antonio Robles-Kelly, Ying He", CVPR 2023: 13530-13539,cvpr
+7,OPE-SR: Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution.,2023,"Gaochao Song, Luo Zhang, Ran Su, Jianfeng Shi, Ying He, Qian Sun",01091 ,corr
+8,NeUDF: Learning Unsigned Distance Fields from Multi-view Images for Reconstructing Non-watertight Models.,2023,"Fei Hou, Jukai Deng, Xuhui Chen, Wencheng Wang, Ying He",15368 ,corr
+9,An Accuracy Controllable and Memory Efficient Method for Computing High-Quality Geodesic Distances on Triangle Meshes.,2022,"Yohanes Yudhi Adikusuma, Jie Du, Zheng Fang, Ying He", 150: 103333 ,cad
+10,Constructing self-supporting surfaces with planar quadrilateral elements.,2022,"Long Ma, Sidan Yao, Jianmin Zheng, Yang Liu, Yuanfeng Zhou, Shi-Qing Xin, Ying He", Media 8: 571-583 ,cvm
+11,RegGeoNet: Learning Regular Representations for Large-Scale 3D Point Clouds.,2022,"Qijian Zhang, Junhui Hou, Yue Qian, Antoni B. Chan, Juyong Zhang, Ying He", 130: 3100-3122 ,ijcv
+12,Iterative poisson surface reconstruction (iPSR) for unoriented points.,2022,"Fei Hou, Chiyu Wang, Wencheng Wang, Hong Qin, Chen Qian, Ying He", 41: 128:1-128:13 ,tog
+13,Low Rank Matrix Approximation for 3D Geometry Filtering.,2022,"Xuequan Lu, Scott Schaefer, Jun Luo, Lizhuang Ma, Ying He", 28: 1835-1847 ,tvcg
+14,C3 Assignment: Camera Cubemap Color Assignment for Creative Interior Design.,2022,"Juncong Lin, Pintong Xiao, Yinan Fu, Yubin Shi, Hongran Wang, Shihui Guo, Ying He, Tong-Yee Lee", 28: 2895-2908 ,tvcg
+15,Geodesic Tracks: Computing Discrete Geodesics With Track-Based Steiner Point Propagation.,2022,"Wenlong Meng, Shiqing Xin, Changhe Tu, Shuang-Min Chen, Ying He, Wenping Wang", 28: 4887-4901 ,tvcg
+16,GeodesicEmbedding (GE): A High-Dimensional Embedding Approach for Fast Geodesic Distance Queries.,2022,"Qianwei Xia, Juyong Zhang, Zheng Fang, Jin Li, Mingyue Zhang, Bailin Deng, Ying He", 28: 4930-4939 ,tvcg
+17,IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment.,2022,"Yiming Zeng, Yue Qian, Qijian Zhang, Junhui Hou, Yixuan Yuan, Ying He", CVPR 2022: 6328-6337,cvpr
+18,Audio-Driven Stylized Gesture Generation with Flow-Based Model.,2022,"Sheng Ye, Yu-Hui Wen, Yanan Sun, Ying He, Ziyang Zhang, Yaoyuan Wang, Weihua He, Yong-Jin Liu", ECCV  2022: 712-728,eccv
+19,Flexible Portrait Image Editing with Fine-Grained Control.,2022,"Linlin Liu, Qian Fu, Fei Hou, Ying He",01318 ,corr
+20,Hierarchical Vectorization for Portrait Images.,2022,"Qian Fu, Linlin Liu, Fei Hou, Ying He",11880 ,corr
+21,Iterative Poisson Surface Reconstruction (iPSR) for Unoriented Points.,2022,"Fei Hou, Chiyu Wang, Wencheng Wang, Hong Qin, Chen Qian, Ying He",09510 ,corr
+22,On the Vertex-oriented Triangle Propagation (VTP) Algorithm: Parallelization and Approximation.,2021,"Jie Du, Ying He, Zheng Fang, Wenlong Meng, Shi-Qing Xin", 130: 102943 ,cad
+23,A Variational Framework for Computing Geodesic Paths on Sweep Surfaces.,2021,"Wenlong Meng, Shiqing Xin, Jinhui Zhao, Shuang-Min Chen, Changhe Tu, Ying He", 140: 103077 ,cad
+24,Poisson Vector Graphics (PVG)-Guided Face Color Transfer in Videos.,2021,"Qian Fu, Ying He, Fei Hou, Qian Sun, Anxiang Zeng, Zhenchuan Huang, Juyong Zhang, Yong-Jin Liu", IEEE Computer Graphics and Applications 41: 152-163 ,cga
+25,Parallel and Scalable Heat Methods for Geodesic Distance Computation.,2021,"Jiong Tao, Juyong Zhang, Bailin Deng, Zheng Fang, Yue Peng, Ying He", 43: 579-594 ,pami
+26,Blur Removal Via Blurred-Noisy Image Pair.,2021,"Chunzhi Gu, Xuequan Lu, Ying He, Chao Zhang", 30: 345-359 ,tip
+27,Deep Magnification-Flexible Upsampling Over 3D Point Clouds.,2021,"Yue Qian, Junhui Hou, Sam Kwong, Ying He", 30: 8354-8367 ,tip
+28,Automatic Sitting Pose Generation for Ergonomic Ratings of Chairs.,2021,"Aihua Mao, Hong Zhang, Zhenfeng Xie, Minjing Yu, Yong-Jin Liu, Ying He", 27: 1890-1903 ,tvcg
+29,Pointfilter: Point Cloud Filtering via Encoder-Decoder Modeling.,2021,"Dongbo Zhang, Xuequan Lu, Hong Qin, Ying He", 27: 2015-2027 ,tvcg
+30,An electromyogram-based tapping gesture model with differentiated vibration feedback by low-fidelity actuators.,2021,"Pengfei Xu, Zhongke Wu, Xingce Wang, Yan Fu, Ying He", 25: 383-397 ,vr
+31,CorrNet3D: Unsupervised End-to-End Learning of Dense Correspondence for 3D Point Clouds.,2021,"Yiming Zeng, Yue Qian, Zhiyu Zhu, Junhui Hou, Hui Yuan, Ying He", CVPR 2021: 6052-6061,cvpr
+32,PU-Flow: a Point Cloud Upsampling Networkwith Normalizing Flows.,2021,"Aihua Mao, Zihui Du, Junhui Hou, Yaqi Duan, Yong-Jin Liu, Ying He",05893 ,corr
+33,GeodesicEmbedding (GE): A High-Dimensional Embedding Approach for Fast Geodesic Distance Queries.,2021,"Qianwei Xia, Juyong Zhang, Zheng Fang, Jin Li, Mingyue Zhang, Bailin Deng, Ying He",13821 ,corr
+34,HLO: Half-kernel Laplacian operator for surface smoothing.,2020,"Wei Pan, Xuequan Lu, Yuanhao Gong, Wenming Tang, Jun Liu, Ying He, Guoping Qiu", 121: 102807 ,cad
+35,Dirichlet energy of Delaunay meshes and intrinsic Delaunay triangulations.,2020,"Zipeng Ye, Ran Yi, Wen-Yong Gong, Ying He, Yong-Jin Liu", 126: 102851 ,cad
+36,Computing Smooth Quasi-geodesic Distance Field (QGDF) with Quadratic Programming.,2020,"Luming Cao, Junhao Zhao, Jian Xu, Shuang-Min Chen, Guozhu Liu, Shiqing Xin, Yuanfeng Zhou, Ying He", 127: 102879 ,cad
+37,Robust Computation of 3D Apollonius Diagrams.,2020,"Peihui Wang, Na Yuan, Yuewen Ma, Shiqing Xin, Ying He, Shuang-Min Chen, Jian Xu, Wenping Wang", Forum 39: 43-55 ,cgf
+38,Preface.,2020,"Shi-Min Hu, Ying He, Belén Masiá", 35: 491-492 ,jcst
+39,Fast Construction of Discrete Geodesic Graphs.,2020,"Yohanes Yudhi Adikusuma, Zheng Fang, Ying He", 39: 14:1-14:14 ,tog
+40,Poisson Vector Graphics (PVG).,2020,"Fei Hou, Qian Sun, Zheng Fang, Yong-Jin Liu, Shi-Min Hu, Hong Qin, Aimin Hao, Ying He", 26: 1361-1371 ,tvcg
+41,PhysioTreadmill: An Auto-Controlled Treadmill Featuring Physiological-Data-Driven Visual/Audio Feedback.,2020,"Shaolong Liu, Xingce Wang, Zhongke Wu, Ying He", CW 2020: 219-226,cw
+42,PUGeo-Net: A Geometry-Centric Network for 3D Point Cloud Upsampling.,2020,"Yue Qian, Junhui Hou, Sam Kwong, Ying He", ECCV  2020: 752-769,eccv
+43,Deep Patch-Based Human Segmentation.,2020,"Dongbo Zhang, Zheng Fang, Xuequan Lu, Hong Qin, Antonio Robles-Kelly, Chao Zhang, Ying He", ICONIP  2020: 229-240,iconip
+44,Pointfilter: Point Cloud Filtering via Encoder-Decoder Modeling.,2020,"Dongbo Zhang, Xuequan Lu, Hong Qin, Ying He",05968 ,corr
+45,PUGeo-Net: A Geometry-centric Network for 3D Point Cloud Upsampling.,2020,"Yue Qian, Junhui Hou, Sam Kwong, Ying He",10277 ,corr
+46,STD-Net: Structure-preserving and Topology-adaptive Deformation Network for 3D Reconstruction from a Single Image.,2020,"Aihua Mao, Canglan Dai, Lin Gao, Ying He, Yong-Jin Liu",03551 ,corr
+47,MOPS-Net: A Matrix Optimization-driven Network forTask-Oriented 3D Point Cloud Downsampling.,2020,"Yue Qian, Junhui Hou, Yiming Zeng, Qijian Zhang, Sam Kwong, Ying He",00383 ,corr
+48,Deep Patch-based Human Segmentation.,2020,"Dongbo Zhang, Zheng Fang, Xuequan Lu, Hong Qin, Antonio Robles-Kelly, Chao Zhang, Ying He",05661 ,corr
+49,Deep Magnification-Arbitrary Upsampling over 3D Point Clouds.,2020,"Yue Qian, Junhui Hou, Sam Kwong, Ying He",12745 ,corr
+50,ParaNet: Deep Regular Representation for 3D Point Clouds.,2020,"Qijian Zhang, Junhui Hou, Yue Qian, Juyong Zhang, Ying He",03028 ,corr
+51,CorrNet3D: Unsupervised End-to-end Learning of Dense Correspondence for 3D Point Clouds.,2020,"Yiming Zeng, Yue Qian, Zhiyu Zhu, Junhui Hou, Hui Yuan, Ying He",15638 ,corr

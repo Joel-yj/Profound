@@ -1,0 +1,130 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Collaborative structure and feature learning for multi-view clustering.,2023,"Weiqing Yan, Meiqi Gu, Jinlai Ren, Guanghui Yue, Zhaowei Liu, Jindong Xu, Weisi Lin", Fusion 98: 101832 ,inffus
+1,Complementary networks for person re-identification.,2023,"Guoqing Zhang, Weisi Lin, Arun Kumar Chandran, Xuan Jing", 633: 70-84 ,isci
+2,HVS-inspired adversarial image generation with high perceptual quality.,2023,"Yuan Xue, Jian Jin, Wen Sun, Weisi Lin", 12: 86 ,jcloudc
+3,Intrinsic and Isotropic Resampling for 3D Point Clouds.,2023,"Chenlei Lv, Weisi Lin, Baoquan Zhao", 45: 3274-3291 ,pami
+4,A Thorough Benchmark and a New Model for Light Field Saliency Detection.,2023,"Wei Gao, Songlin Fan, Ge Li, Weisi Lin", 45: 8003-8019 ,pami
+5,Minimum Noticeable Difference-Based Adversarial Privacy Preserving Image Generation.,2023,"Wen Sun, Jian Jin, Weisi Lin", 33: 1069-1081 ,tcsv
+6,AFD-Former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement.,2023,"Xu Zhang, Nian Cai, Huan Zhang, Yun Zhang, Jianglei Di, Weisi Lin", 33: 3786-3798 ,tcsv
+7,Camera Contrast Learning for Unsupervised Person Re-Identification.,2023,"Guoqing Zhang, Hongwei Zhang, Weisi Lin, Arun Kumar Chandran, Xuan Jing", 33: 4096-4107 ,tcsv
+8,DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment.,2023,"Haoning Wu, Chaofeng Chen, Liang Liao, Jingwen Hou, Wenxiu Sun, Qiong Yan, Weisi Lin", 33: 4840-4854 ,tcsv
+9,Real-World Non-Homogeneous Haze Removal by Sliding Self-Attention Wavelet Network.,2023,"Yuxin Feng, Xiaozhe Meng, Fan Zhou, Weisi Lin, Zhuo Su", 33: 5470-5485 ,tcsv
+10,Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images.,2023,"Gongyang Li, Zhi Liu, Dan Zeng, Weisi Lin, Haibin Ling", 53: 526-538 ,tcyb
+11,Lightweight Salient Object Detection in Optical Remote-Sensing Images via Semantic Matching and Edge Alignment.,2023,"Gongyang Li, Zhi Liu, Xinpeng Zhang, Weisi Lin", 61: 1-11 ,tgrs
+12,Uplink-Assist Downlink Remote-Sensing Image Compression via Historical Referencing.,2023,"Huiwen Wang, Liang Liao, Jing Xiao, Weisi Lin, Mi Wang", 61: 1-15 ,tgrs
+13,KSS-ICP: Point Cloud Registration Based on Kendall Shape Space.,2023,"Chenlei Lv, Weisi Lin, Baoquan Zhao", 32: 1681-1693 ,tip
+14,Learning Detail-Structure Alternative Optimization for Blind Super-Resolution.,2023,"Feng Li, Yixuan Wu, Huihui Bai, Weisi Lin, Runmin Cong, Yao Zhao", 25: 2825-2838 ,tmm
+15,Efficient Geometry Surface Coding in V-PCC.,2023,"Jian Xiong, Hao Gao, Miaohui Wang, Hongliang Li, King Ngi Ngan, Weisi Lin", 25: 3329-3342 ,tmm
+16,GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering.,2023,"Weiqing Yan, Yuanyang Zhang, Chenlei Lv, Chang Tang, Guanghui Yue, Liang Liao, Weisi Lin", CVPR 2023: 19863-19872,cvpr
+17,Evaluating the efficacy of skincare product: A realistic short-term facial pore simulation.,2023,"Ling Li, Bandara Dissanayake, Tatsuya Omotezako, Yunjie Zhong, Qing Zhang, Rizhao Cai, Qian Zheng, Dennis Sng, Weisi Lin, Yufei Wang, Alex C. Kot", Imaging and Multimedia Analytics at the Edge 2023: 1-6,ei-imawm
+18,Exploring Opinion-Unaware Video Quality Assessment with Semantic Affinity Criterion.,2023,"Haoning Wu, Liang Liao, Jingwen Hou, Chaofeng Chen, Erli Zhang, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin", ICME 2023: 366-371,icmcs
+19,Post-Training Quantization for Vision Transformer in Transformed Domain.,2023,"Kai Feng, Zhuo Chen, Fei Gao, Zhe Wang, Long Xu, Weisi Lin", ICME 2023: 1457-1462,icmcs
+20,Inter-Intra Camera Identity Learning for Person Re-Identification with Training in Single Camera.,2023,"Guoqing Zhang, Zhiyuan Luo, Weisi Lin, Xuan Jing", ICME 2023: 2429-2434,icmcs
+21,Multi-level Part-aware Feature Disentangling for Text-based Person Search.,2023,"Yuhao Chen, Guoqing Zhang, Hongwei Zhang, Yuhui Zheng, Weisi Lin", ICME 2023: 2801-2806,icmcs
+22,Lightweight Salient Object Detection in Optical Remote Sensing Images via Semantic Matching and Edge Alignment.,2023,"Gongyang Li, Zhi Liu, Xinpeng Zhang, Weisi Lin",02778 ,corr
+23,Evaluating the Efficacy of Skincare Product: A Realistic Short-Term Facial Pore Simulation.,2023,"Ling Li, Bandara Dissanayake, Tatsuya Omotezako, Yunjie Zhong, Qing Zhang, Rizhao Cai, Qian Zheng, Dennis Sng, Weisi Lin, Yufei Wang, Alex C. Kot",11950 ,corr
+24,JND-Based Perceptual Optimization For Learned Image Compression.,2023,"Feng Ding, Jian Jin, Lili Meng, Weisi Lin",13092 ,corr
+25,Exploring Opinion-unaware Video Quality Assessment with Semantic Affinity Criterion.,2023,"Haoning Wu, Liang Liao, Jingwen Hou, Chaofeng Chen, Erli Zhang, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin",13269 ,corr
+26,MetaGrad: Adaptive Gradient Quantization with Hypernetworks.,2023,"Kaixin Xu, Alina Hui Xiu Lee, Ziyuan Zhao, Zhe Wang, Min Wu, Weisi Lin",02347 ,corr
+27,The First Comprehensive Dataset with Multiple Distortion Types for Visual Just-Noticeable Differences.,2023,"Yaxuan Liu, Jian Jin, Yuan Xue, Weisi Lin",02562 ,corr
+28,Blind Multimodal Quality Assessment: A Brief Survey and A Case Study of Low-light Images.,2023,"Miaohui Wang, Zhuowei Xu, Mai Xu, Weisi Lin",10369 ,corr
+29,Towards Robust Text-Prompted Semantic Criterion for In-the-Wild Video Quality Assessment.,2023,"Haoning Wu, Liang Liao, Annan Wang, Chaofeng Chen, Jingwen Hou, Wenxiu Sun, Qiong Yan, Weisi Lin",14672 ,corr
+30,GCFAgg: Global and Cross-view Feature Aggregation for Multi-view Clustering.,2023,"Weiqing Yan, Yuanyang Zhang, Chenlei Lv, Chang Tang, Guanghui Yue, Liang Liao, Weisi Lin",06799 ,corr
+31,Towards Explainable In-the-Wild Video Quality Assessment: a Database and a Language-Prompted Approach.,2023,"Haoning Wu, Erli Zhang, Liang Liao, Chaofeng Chen, Jingwen Hou, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin",12726 ,corr
+32,AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment.,2023,"Chunyi Li, Zicheng Zhang, Haoning Wu, Wei Sun, Xiongkuo Min, Xiaohong Liu, Guangtao Zhai, Weisi Lin",04717 ,corr
+33,GMS-3DQA: Projection-based Grid Mini-patch Sampling for 3D Model Quality Assessment.,2023,"Zicheng Zhang, Wei Sun, Houning Wu, Yingjie Zhou, Chunyi Li, Xiongkuo Min, Guangtao Zhai, Weisi Lin",05658 ,corr
+34,You Can Mask More For Extremely Low-Bitrate Image Compression.,2023,"Anqi Li, Feng Li, Jiaxin Han, Huihui Bai, Runmin Cong, Chunjie Zhang, Meng Wang, Weisi Lin, Yao Zhao",15561 ,corr
+35,Advancing Zero-Shot Digital Human Quality Assessment through Text-Prompted Evaluation.,2023,"Zicheng Zhang, Wei Sun, Yingjie Zhou, Haoning Wu, Chunyi Li, Xiongkuo Min, Xiaohong Liu, Guangtao Zhai, Weisi Lin",02808 ,corr
+36,Regression-free Blind Image Quality Assessment.,2023,"Xiaoqi Wang, Jian Xiong, Hao Gao, Weisi Lin",09279 ,corr
+37,TOPIQ: A Top-down Approach from Semantics to Distortions for Image Quality Assessment.,2023,"Chaofeng Chen, Jiadi Mo, Jingwen Hou, Haoning Wu, Liang Liao, Wenxiu Sun, Qiong Yan, Weisi Lin",03060 ,corr
+38,Efficient Joint Optimization of Layer-Adaptive Weight Pruning in Deep Neural Networks.,2023,"Kaixin Xu, Zhe Wang, Xue Geng, Jie Lin, Min Wu, Xiaoli Li, Weisi Lin",10438 ,corr
+39,Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment.,2023,"Kangmin Xu, Liang Liao, Jing Xiao, Chaofeng Chen, Haoning Wu, Qiong Yan, Weisi Lin",12001 ,corr
+40,Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision.,2023,"Haoning Wu, Zicheng Zhang, Erli Zhang, Chaofeng Chen, Liang Liao, Annan Wang, Chunyi Li, Wenxiu Sun, Qiong Yan, Guangtao Zhai, Weisi Lin",14181 ,corr
+41,StereoARS: Quality Evaluation for Stereoscopic Image Retargeting With Binocular Inconsistency Detection.,2022,"Qiuping Jiang, Zhenyu Peng, Feng Shao, Ke Gu, Yabin Zhang, Wenjun Zhang, Weisi Lin", 68: 43-57 ,tbc
+42,SRInpaintor: When Super-Resolution Meets Transformer for Image Inpainting.,2022,"Feng Li, Anqi Li, Jia Qin, Huihui Bai, Weisi Lin, Runmin Cong, Yao Zhao", Computational Imaging 8: 743-758 ,tci
+43,Occupancy Map Guided Fast Video-Based Dynamic Point Cloud Coding.,2022,"Jian Xiong, Hao Gao, Miaohui Wang, Hongliang Li, Weisi Lin", 32: 813-825 ,tcsv
+44,Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection.,2022,"Wei Gao, Guibiao Liao, Siwei Ma, Ge Li, Yongsheng Liang, Weisi Lin", 32: 2091-2106 ,tcsv
+45,Fine-Grained Image Quality Assessment: A Revisit and Further Thinking.,2022,"Xinfeng Zhang, Weisi Lin, Qingming Huang", 32: 2746-2759 ,tcsv
+46,LGGD+: Image Retargeting Quality Assessment by Measuring Local and Global Geometric Distortions.,2022,"Zhenyu Peng, Qiuping Jiang, Feng Shao, Wei Gao, Weisi Lin", 32: 3422-3437 ,tcsv
+47,Just Noticeable Difference for Deep Machine Vision.,2022,"Jian Jin, Xingxing Zhang, Xin Fu, Huan Zhang, Weisi Lin, Jian Lou, Yao Zhao", 32: 3452-3461 ,tcsv
+48,Deep Learning-Based Perceptual Video Quality Enhancement for 3D Synthesized View.,2022,"Huan Zhang, Yun Zhang, Linwei Zhu, Weisi Lin", 32: 5080-5094 ,tcsv
+49,Illumination Unification for Person Re-Identification.,2022,"Guoqing Zhang, Zhiyuan Luo, Yuhao Chen, Yuhui Zheng, Weisi Lin", 32: 6766-6777 ,tcsv
+50,Distilling Knowledge From Object Classification to Aesthetics Assessment.,2022,"Jingwen Hou, Henghui Ding, Weisi Lin, Weide Liu, Yuming Fang", 32: 7386-7402 ,tcsv
+51,Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation.,2022,"Gongyang Li, Zhi Liu, Zhen Bai, Weisi Lin, Haibin Ling", 60: 1-12 ,tgrs
+52,Multi-Content Complementation Network for Salient Object Detection in Optical Remote Sensing Images.,2022,"Gongyang Li, Zhi Liu, Weisi Lin, Haibin Ling", 60: 1-13 ,tgrs
+53,Perceptually Unimportant Information Reduction and Cosine Similarity-Based Quality Assessment of 3D-Synthesized Images.,2022,"Sadbhawna, Vinit Jakhetiya, Shubham Chaudhary, Badri Narayan Subudhi, Weisi Lin, Sharath Chandra Guntuku", 31: 2027-2039 ,tip
+54,"Single Image Super-Resolution Quality Assessment: A Real-World Dataset, Subjective Studies, and an Objective Metric.",2022,"Qiuping Jiang, Zhentao Liu, Ke Gu, Feng Shao, Xinfeng Zhang, Hantao Liu, Weisi Lin", 31: 2279-2294 ,tip
+55,A no-Reference Stereoscopic Image Quality Assessment Network Based on Binocular Interaction and Fusion Mechanisms.,2022,"Jianwei Si, Baoxiang Huang, Huan Yang, Weisi Lin, Zhenkuan Pan", 31: 3066-3080 ,tip
+56,Toward Top-Down Just Noticeable Difference Estimation of Natural Images.,2022,"Qiuping Jiang, Zhentao Liu, Shiqi Wang, Feng Shao, Weisi Lin", 31: 3697-3712 ,tip
+57,From Whole Video to Frames: Weakly-Supervised Domain Adaptive Continuous-Time QoE Evaluation.,2022,"Leida Li, Pengfei Chen, Weisi Lin, Mai Xu, Guangming Shi", 31: 4937-4951 ,tip
+58,Voxel Structure-Based Mesh Reconstruction From a 3D Point Cloud.,2022,"Chenlei Lv, Weisi Lin, Baoquan Zhao", 24: 1815-1829 ,tmm
+59,Progress and Opportunities in Modelling Just-Noticeable Difference (JND) for Multimedia.,2022,"Weisi Lin, Gheorghita Ghinea", 24: 3706-3721 ,tmm
+60,Video Quality Assessment With Serial Dependence Modeling.,2022,"Yongxu Liu, Jinjian Wu, Aobo Li, Leida Li, Weisheng Dong, Guangming Shi, Weisi Lin", 24: 3754-3768 ,tmm
+61,Pasadena: Perceptually Aware and Stealthy Adversarial Denoise Attack.,2022,"Yupeng Cheng, Qing Guo, Felix Juefei-Xu, Shang-Wei Lin, Wei Feng, Weisi Lin, Yang Liu", 24: 3807-3822 ,tmm
+62,CMUA-Watermark: A Cross-Model Universal Adversarial Watermark for Combating Deepfakes.,2022,"Hao Huang, Yongtao Wang, Zhaoyu Chen, Yuze Zhang, Yuheng Li, Zhi Tang, Wei Chu, Jingdong Chen, Weisi Lin, Kai-Kuang Ma", AAAI 2022: 989-997,aaai
+63,IntegratedPIFu: Integrated Pixel Aligned Implicit Function for Single-View Human Reconstruction.,2022,"Kennard Yanting Chan, Guosheng Lin, Haiyu Zhao, Weisi Lin", ECCV  2022: 328-344,eccv
+64,FAST-VQA: Efficient End-to-End Video Quality Assessment with Fragment Sampling.,2022,"Haoning Wu, Chaofeng Chen, Jingwen Hou, Liang Liao, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin", ECCV  2022: 538-554,eccv
+65,Automatic facial skin feature detection for everyone.,2022,"Qian Zheng, Ankur Purwar, Heng Zhao, Guang Liang Lim, Ling Li, Debasish Behera, Qian Wang, Min Tan, Rizhao Cai, Jennifer Werner, Dennis Sng, Maurice van Steensel, Weisi Lin, Alex C. Kot", Imaging and Multimedia Analytics at the Edge 2022: 1-6,ei-imawm
+66,Channel-Wise Bit Allocation for Deep Visual Feature Quantization.,2022,"Wei Wang, Zhuo Chen, Zhe Wang, Jie Lin, Long Xu, Weisi Lin", ICIP 2022: 3978-3982,icip
+67,Exploring the Effectiveness of Video Perceptual Representation in Blind Video Quality Assessment.,2022,"Liang Liao, Kangmin Xu, Haoning Wu, Chaofeng Chen, Wenxiu Sun, Qiong Yan, Weisi Lin", ACM Multimedia 2022: 837-846,mm
+68,S-PIFu: Integrating Parametric Human Models with PIFu for Single-view Clothed Human Reconstruction.,2022,"Kennard Yanting Chan, Guosheng Lin, Haiyu Zhao, Weisi Lin", NeurIPS 2022,nips
+69,Auto-Weighted Layer Representation Based View Synthesis Distortion Estimation for 3-D Video Coding.,2022,"Jian Jin, Xingxing Zhang, Lili Meng, Weisi Lin, Jie Liang, Huaxiang Zhang, Yao Zhao",02420 ,corr
+70,Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation.,2022,"Gongyang Li, Zhi Liu, Zhen Bai, Weisi Lin, Haibin Ling",08049 ,corr
+71,Full RGB Just Noticeable Difference (JND) Modelling.,2022,"Jian Jin, Dong Yu, Weisi Lin, Lili Meng, Hao Wang, Huaxiang Zhang",00629 ,corr
+72,Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images.,2022,"Gongyang Li, Zhi Liu, Dan Zeng, Weisi Lin, Haibin Ling",13664 ,corr
+73,Automatic Facial Skin Feature Detection for Everyone.,2022,"Qian Zheng, Ankur Purwar, Heng Zhao, Guang Liang Lim, Ling Li, Debasish Behera, Qian Wang, Min Tan, Rizhao Cai, Jennifer Werner, Dennis Sng, Maurice van Steensel, Weisi Lin, Alex C. Kot",16056 ,corr
+74,SelfReformer: Self-Refined Network with Transformer for Salient Object Detection.,2022,"Yi Ke Yun, Weisi Lin",11283 ,corr
+75,Distilling Knowledge from Object Classification to Aesthetics Assessment.,2022,"Jingwen Hou, Henghui Ding, Weisi Lin, Weide Liu, Yuming Fang",00809 ,corr
+76,Minimum Noticeable Difference based Adversarial Privacy Preserving Image Generation.,2022,"Wen Sun, Jian Jin, Weisi Lin",08638 ,corr
+77,DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment.,2022,"Haoning Wu, Chaofeng Chen, Liang Liao, Jingwen Hou, Wenxiu Sun, Qiong Yan, Weisi Lin",09853 ,corr
+78,FAST-VQA: Efficient End-to-end Video Quality Assessment with Fragment Sampling.,2022,"Haoning Wu, Chaofeng Chen, Jingwen Hou, Liang Liao, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin",02595 ,corr
+79,Exploring the Effectiveness of Video Perceptual Representation in Blind Video Quality Assessment.,2022,"Liang Liao, Kangmin Xu, Haoning Wu, Chaofeng Chen, Wenxiu Sun, Qiong Yan, Weisi Lin",03723 ,corr
+80,HVS-Inspired Signal Degradation Network for Just Noticeable Difference Estimation.,2022,"Jian Jin, Yuan Xue, Xingxing Zhang, Lili Meng, Yao Zhao, Weisi Lin",07583 ,corr
+81,Blind Quality Assessment of 3D Dense Point Clouds with Structure Guided Resampling.,2022,"Wei Zhou, Qi Yang, Qiuping Jiang, Guangtao Zhai, Weisi Lin",14603 ,corr
+82,Neighbourhood Representative Sampling for Efficient End-to-end Video Quality Assessment.,2022,"Haoning Wu, Chaofeng Chen, Liang Liao, Jingwen Hou, Wenxiu Sun, Qiong Yan, Jinwei Gu, Weisi Lin",05357 ,corr
+83,KSS-ICP: Point Cloud Registration based on Kendall Shape Space.,2022,"Chenlei Lv, Weisi Lin, Baoquan Zhao",02807 ,corr
+84,Disentangling Aesthetic and Technical Effects for Video Quality Assessment of User Generated Content.,2022,"Haoning Wu, Liang Liao, Chaofeng Chen, Jingwen Hou, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin",04894 ,corr
+85,IntegratedPIFu: Integrated Pixel Aligned Implicit Function for Single-view Human Reconstruction.,2022,"Kennard Yanting Chan, Guosheng Lin, Haiyu Zhao, Weisi Lin",07955 ,corr
+86,Learning Detail-Structure Alternative Optimization for Blind Super-Resolution.,2022,"Feng Li, Yixuan Wu, Huihui Bai, Weisi Lin, Runmin Cong, Yao Zhao",01624 ,corr
+87,Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution.,2022,"Yixuan Wu, Feng Li, Huihui Bai, Weisi Lin, Runmin Cong, Yao Zhao",01628 ,corr
+88,Blind image quality prediction with hierarchical feature aggregation.,2021,"Jinjian Wu, Wen Yang, Leida Li, Weisheng Dong, Guangming Shi, Weisi Lin", 552: 167-182 ,isci
+89,Bi-disparity sparse feature learning for 3D visual discomfort prediction.,2021,"Maryam Karimi, Mansour Nejati, Weisi Lin", 188: 108179 ,sigpro
+90,Fine-Grained Patch Segmentation and Rasterization for 3-D Point Cloud Attribute Compression.,2021,"Baoquan Zhao, Weisi Lin, Chenlei Lv", 31: 4590-4602 ,tcsv
+91,End-to-End Ensemble Learning by Exploiting the Correlation Between Individuals and Weights.,2021,"Shasha Mao, Weisi Lin, Licheng Jiao, Shuiping Gou, Jiawei Chen", 51: 2835-2846 ,tcyb
+92,Temporal Reasoning Guided QoE Evaluation for Mobile Live Video Broadcasting.,2021,"Pengfei Chen, Leida Li, Jinjian Wu, Yabin Zhang, Weisi Lin", 30: 3279-3292 ,tip
+93,Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection.,2021,"Gongyang Li, Zhi Liu, Minyu Chen, Zhen Bai, Weisi Lin, Haibin Ling", 30: 3528-3542 ,tip
+94,Blind Image Quality Assessment With Active Inference.,2021,"Jupo Ma, Jinjian Wu, Leida Li, Weisheng Dong, Xuemei Xie, Guangming Shi, Weisi Lin", 30: 3650-3663 ,tip
+95,Approximate Intrinsic Voxel Structure for Point Cloud Simplification.,2021,"Chenlei Lv, Weisi Lin, Baoquan Zhao", 30: 7241-7255 ,tip
+96,Progressive Self-Guided Loss for Salient Object Detection.,2021,"Sheng Yang, Weisi Lin, Guosheng Lin, Qiuping Jiang, Zichuan Liu", 30: 8426-8438 ,tip
+97,PM₂.₅ Monitoring: Use Information Abundance Measurement and Wide and Deep Learning.,2021,"Ke Gu, Hongyan Liu, Zhifang Xia, Junfei Qiao, Weisi Lin, Daniel Thalmann", 32: 4278-4290 ,tnn
+98,Collaborative Intelligence: Challenges and Opportunities.,2021,"Ivan V. Bajic, Weisi Lin, Yonghong Tian", ICASSP 2021: 8493-8497,icassp
+99,Low Resolution Information Also Matters: Learning Multi-Resolution Representations for Person Re-Identification.,2021,"Guoqing Zhang, Yuhao Chen, Weisi Lin, Arun Kumar Chandran, Xuan Jing", IJCAI 2021: 1295-1301,ijcai
+100,Progressive Self-Guided Loss for Salient Object Detection.,2021,"Sheng Yang, Weisi Lin, Guosheng Lin, Qiuping Jiang, Zichuan Liu",02412 ,corr
+101,Collaborative Intelligence: Challenges and Opportunities.,2021,"Ivan V. Bajic, Weisi Lin, Yonghong Tian",06841 ,corr
+102,Does deep machine vision have just noticeable difference (JND)?,2021,"Jian Jin, Xingxing Zhang, Xin Fu, Huan Zhang, Weisi Lin, Jian Lou, Yao Zhao",08168 ,corr
+103,Learning Image Aesthetic Assessment from Object-level Visual Components.,2021,"Jingwen Hou, Sheng Yang, Weisi Lin, Baoquan Zhao, Yuming Fang",01548 ,corr
+104,Voxel Structure-based Mesh Reconstruction from a 3D Point Cloud.,2021,"Chenlei Lv, Weisi Lin, Baoquan Zhao",10622 ,corr
+105,CMUA-Watermark: A Cross-Model Universal Adversarial Watermark for Combating Deepfakes.,2021,"Hao Huang, Yongtao Wang, Zhaoyu Chen, Yuheng Li, Zhi Tang, Wei Chu, Jingdong Chen, Weisi Lin, Kai-Kuang Ma",10872 ,corr
+106,Low Resolution Information Also Matters: Learning Multi-Resolution Representations for Person Re-Identification.,2021,"Guoqing Zhang, Yuhao Chen, Weisi Lin, Arun Kumar Chandran, Xuan Jing",12684 ,corr
+107,Towards Top-Down Just Noticeable Difference Estimation of Natural Images.,2021,"Qiuping Jiang, Zhentao Liu, Shiqi Wang, Feng Shao, Weisi Lin",05058 ,corr
+108,Multi-Content Complementation Network for Salient Object Detection in Optical Remote Sensing Images.,2021,"Gongyang Li, Zhi Liu, Weisi Lin, Haibin Ling",01932 ,corr
+109,A New Image Codec Paradigm for Human and Machine Uses.,2021,"Sien Chen, Jian Jin, Lili Meng, Weisi Lin, Zhuo Chen, Tsui-Shan Chang, Zhengguang Li, Huaxiang Zhang",10071 ,corr
+110,Multiscale Natural Scene Statistical Analysis for No-Reference Quality Evaluation of DIBR-Synthesized Views.,2020,"Ke Gu, Junfei Qiao, Sanghoon Lee, Hantao Liu, Weisi Lin, Patrick Le Callet", 66: 127-139 ,tbc
+111,Learning a Unified Blind Image Quality Metric via On-Line and Off-Line Big Training Instances.,2020,"Ke Gu, Xin Xu, Junfei Qiao, Qiuping Jiang, Weisi Lin, Daniel Thalmann", Big Data 6: 780-791 ,tbd
+112,Statistical and Structural Information Backed Full-Reference Quality Measure of Compressed Sonar Images.,2020,"Weiling Chen, Ke Gu, Weisi Lin, Fei Yuan, En Cheng", 30: 334-348 ,tcsv
+113,Salient Object Detection by Spatiotemporal and Semantic Features in Real-Time Video Processing Systems.,2020,"Yuming Fang, Guanqun Ding, Wenying Wen, Feiniu Yuan, Yong Yang, Zhijun Fang, Weisi Lin", 67: 9893-9903 ,tie
+114,Toward Intelligent Sensing: Intermediate Deep Feature Compression.,2020,"Zhuo Chen, Kui Fan, Shiqi Wang, Lingyu Duan, Weisi Lin, Alex ChiChung Kot", 29: 2230-2243 ,tip
+115,Personality-Assisted Multi-Task Learning for Generic and Personalized Image Aesthetics Assessment.,2020,"Leida Li, Hancheng Zhu, Sicheng Zhao, Guiguang Ding, Weisi Lin", 29: 3898-3910 ,tip
+116,End-to-End Blind Image Quality Prediction With Cascaded Deep Neural Network.,2020,"Jinjian Wu, Jupo Ma, Fuhu Liang, Weisheng Dong, Guangming Shi, Weisi Lin", 29: 7414-7426 ,tip
+117,Deep Dual-Channel Neural Network for Image-Based Smoke Detection.,2020,"Ke Gu, Zhifang Xia, Junfei Qiao, Weisi Lin", 22: 311-323 ,tmm
+118,A Dilated Inception Network for Visual Saliency Prediction.,2020,"Sheng Yang, Guosheng Lin, Qiuping Jiang, Weisi Lin", 22: 2163-2176 ,tmm
+119,Data Representation in Hybrid Coding Framework for Feature Maps Compression.,2020,"Zhuo Chen, Ling-Yu Duan, Shiqi Wang, Weisi Lin, Alex C. Kot", ICIP 2020: 3094-3098,icip
+120,Content-Dependency Reduction With Multi-Task Learning In Blind Stitched Panoramic Image Quality Assessment.,2020,"Jingwen Hou, Weisi Lin, Baoquan Zhao", ICIP 2020: 3463-3467,icip
+121,Statistical Convolution On Unordered Point Set.,2020,"Anh-Duc Nguyen, Seonghwa Choi, Woojae Kim, Sanghoon Lee, Weisi Lin", ICIP 2020: 3468-3472,icip
+122,GSTO: Gated Scale-Transfer Operation for Multi-Scale Feature Learning in Semantic Segmentation.,2020,"Zhuoying Wang, Yongtao Wang, Zhi Tang, Yangyan Li, Ying Chen, Haibin Ling, Weisi Lin", ICPR 2020: 7111-7118,icpr
+123,Object-level Attention for Aesthetic Rating Distribution Prediction.,2020,"Jingwen Hou, Sheng Yang, Weisi Lin", ACM Multimedia 2020: 816-824,mm
+124,ATQAM/MAST'20: Joint Workshop on Aesthetic and Technical Quality Assessment of Multimedia and Media Analytics for Societal Trends.,2020,"Tanaya Guha, Vlad Hosu, Dietmar Saupe, Bastian Goldlücke, Naveen Kumar, Weisi Lin, Victor R. Martinez, Krishna Somandepalli, Shrikanth Narayanan, Wen-Huang Cheng, Kree McLaughlin, Hartwig Adam, John See, Lai-Kuan Wong", ACM Multimedia 2020: 4758-4760,mm
+125,Defense for adversarial videos by self-adaptive JPEG compression and optical texture.,2020,"Yupeng Cheng, Xingxing Wei, Huazhu Fu, Shang-Wei Lin, Weisi Lin", MMAsia 2020: 55:1-55:7,mmasia
+126,GSTO: Gated Scale-Transfer Operation for Multi-Scale Feature Learning in Pixel Labeling.,2020,"Zhuoying Wang, Yongtao Wang, Zhi Tang, Yangyan Li, Ying Chen, Haibin Ling, Weisi Lin",13363 ,corr
+127,Pasadena: Perceptually Aware and Stealthy Adversarial Denoise Attack.,2020,"Yupeng Cheng, Qing Guo, Felix Juefei-Xu, Xiaofei Xie, Shang-Wei Lin, Weisi Lin, Wei Feng, Yang Liu",07097 ,corr
+128,Adversarial Exposure Attack on Diabetic Retinopathy Imagery.,2020,"Yupeng Cheng, Felix Juefei-Xu, Qing Guo, Huazhu Fu, Xiaofei Xie, Shang-Wei Lin, Weisi Lin, Yang Liu",09231 ,corr

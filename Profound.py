@@ -4,6 +4,10 @@ import base64
 from streamlit_card import card
 from streamlit_tags import st_tags
 import ast
+from st_pages import Page, hide_pages, show_pages
+from streamlit_extras.switch_page_button import switch_page
+from streamlit.runtime.scriptrunner import RerunData
+
 
 st.set_page_config(page_title="Profound", page_icon="🏠", layout="wide")
 st.title("🔍 Profound ")
@@ -18,9 +22,15 @@ st.sidebar.image("assets/ntu_logo.jpg")
 st.sidebar.header("Filter by")
 
 
+
+hide_pages([
+    Page("Prof0.py"),
+    ]
+)
+
 # Loading their dp
 
-total1,total2,total3,=st.columns(3,gap='large')
+total1,total2,total3,=st.columns(3,gap='medium')
 
 # Dashboard for profs
 for index,row in df.iterrows():
@@ -36,10 +46,11 @@ for index,row in df.iterrows():
                     data = f.read()
                     encoded = base64.b64encode(data)
                     data = "data:image/png;base64," + encoded.decode("utf-8")
-            card(
+            hasClicked = card(
                 title="",
                 text="",
                 image=data,
+                on_click=lambda: print("Clicked!"),
                 styles={
                     "card": {
                         "max-width" : "100%",
@@ -56,6 +67,10 @@ for index,row in df.iterrows():
             
             keywords = st_tags(label = "## Research Interests", value = row['Research Interest'], text= " ", key= index)
 
+            # TODO : click on image to go to prof's profile
+            if hasClicked:
+                switch_page("prof0")
+
     if index%3==1:
         with total2:
             image_path = "dp/" + str(index) + ".jpg"
@@ -67,7 +82,7 @@ for index,row in df.iterrows():
                 <h1 style = "text-align : center;" class="a">{row['Full Name']}</h1>
                 """
                 st.markdown(html_str, unsafe_allow_html=True)
-            card(
+            hasClicked = card(
                 title="",
                 text="",
                 image=data,
@@ -116,4 +131,6 @@ for index,row in df.iterrows():
                 } 
             )
             keywords = st_tags(label = "## Research Interests", value = row['Research Interest'], text= " ", key= index)
+
+
 

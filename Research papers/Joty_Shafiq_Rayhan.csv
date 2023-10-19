@@ -1,0 +1,170 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,PIANO: Influence Maximization Meets Deep Reinforcement Learning.,2023,"Hui Li, Mengting Xu, Sourav S. Bhowmick, Shafiq Rayhan Joty, Changsheng Sun, Jiangtao Cui", 10: 1288-1300 ,tcss
+1,A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets.,2023,"Md. Tahmid Rahman Laskar, M. Saiful Bari, Mizanur Rahman, Md Amran Hossen Bhuiyan, Shafiq Joty, Jimmy X. Huang", ACL  2023: 431-469,acl
+2,Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning.,2023,"Fan Yin, Jesse Vig, Philippe Laban, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu", ACL  2023: 3063-3079,acl
+3,Revisiting the Gold Standard: Grounding Summarization Evaluation with Robust Human Evaluation.,2023,"Yixin Liu, Alexander R. Fabbri, Pengfei Liu, Yilun Zhao, Linyong Nan, Ruilin Han, Simeng Han, Shafiq Joty, Chien-Sheng Wu, Caiming Xiong, Dragomir Radev", ACL  2023: 4140-4170,acl
+4,Towards Robust Low-Resource Fine-Tuning with Multi-View Compressed Representations.,2023,"Linlin Liu, Xingxuan Li, Megh Thakkar, Xin Li, Shafiq Joty, Luo Si, Lidong Bing", ACL  2023: 4799-4816,acl
+5,Randomized Smoothing with Masked Inference for Adversarially Robust Text Classifications.,2023,"Han Cheol Moon, Shafiq R. Joty, Ruochen Zhao, Megh Thakkar, Chi Xu", ACL  2023: 5145-5165,acl
+6,Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework.,2023,"Ruochen Zhao, Xingxuan Li, Shafiq Joty, Chengwei Qin, Lidong Bing", ACL  2023: 5823-5840,acl
+7,Unsupervised Summarization Re-ranking.,2023,"Mathieu Ravaut, Shafiq R. Joty, Nancy F. Chen", ACL  2023: 8341-8376,acl
+8,SWiPE: A Dataset for Document-Level Simplification of Wikipedia Pages.,2023,"Philippe Laban, Jesse Vig, Wojciech Kryscinski, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu", ACL  2023: 10674-10695,acl
+9,Modeling What-to-ask and How-to-ask for Answer-unaware Conversational Question Generation.,2023,"Xuan Long Do, Bowei Zou, Shafiq R. Joty, Anh Tran Tai, Liangming Pan, Nancy F. Chen, Ai Ti Aw", ACL  2023: 10785-10803,acl
+10,Is GPT-3 a Good Data Annotator?,2023,"Bosheng Ding, Chengwei Qin, Linlin Liu, Yew Ken Chia, Boyang Li, Shafiq Joty, Lidong Bing","Bosheng Ding, Chengwei Qin, Linlin Liu, Yew Ken Chia, Boyang Li, Shafiq Joty, Lidong Bing: Is GPT-3 a Good Data Annotator? ACL  2023: 11173-11195",acl
+11,Learning to Initialize: Can Meta Learning Improve Cross-task Generalization in Prompt Tuning?,2023,"Chengwei Qin, Shafiq R. Joty, Qian Li, Ruochen Zhao"," Joty, Qian Li, Ruochen Zhao: Learning to Initialize: Can Meta Learning Improve Cross-task Generalization in Prompt Tuning? ACL  2023: 11802-11832",acl
+12,Contrastive Learning with Generated Representations for Inductive Knowledge Graph Embedding.,2023,"Qian Li, Shafiq Joty, Daling Wang, Shi Feng, Yifei Zhang, Chengwei Qin", ACL  2023: 14273-14287,acl
+13,"Proceedings of the 24th Meeting of the Special Interest Group on Discourse and Dialogue, SIGDIAL 2023, Prague, Czechia, September 11 - 15, 2023.",2023,"David Schlangen, Svetlana Stoyanchev, Shafiq Joty, Ondrej Dusek, Casey Kennington, Malihe Alikhani"," Association for Computational Linguistics 2023, ISBN 979-8-89176-028-8 ",sigdial
+14,Dynamic Scheduled Sampling with Imitation Loss for Neural Text Generation.,2023,"Xiang Lin, Prathyusha Jwalapuram, Shafiq R. Joty",13753 ,corr
+15,Learning to Initialize: Can Meta Learning Improve Cross-task Generalization in Prompt Tuning?,2023,"Chengwei Qin, Shafiq R. Joty, Qian Li, Ruochen Zhao",08143 ,corr
+16,"xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval.",2023,"Mohammad Abdullah Matin Khan, M. Saiful Bari, Xuan Long Do, Weishi Wang, Md. Rizwan Parvez, Shafiq R. Joty",03004 ,corr
+17,Towards Interpretable and Efficient Automatic Reference-Based Summarization Evaluation.,2023,"Yixin Liu, Alexander R. Fabbri, Yilun Zhao, Pengfei Liu, Shafiq R. Joty, Chien-Sheng Wu, Caiming Xiong, Dragomir Radev",03608 ,corr
+18,Retrieving Multimodal Information for Augmented Generation: A Survey.,2023,"Ruochen Zhao, Hailin Chen, Weishi Wang, Fangkai Jiao, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq R. Joty",10868 ,corr
+19,A Data-centric Framework for Improving Domain-specific Machine Reading Comprehension Datasets.,2023,"Iva Bojic, Josef Halim, Verena Suharman, Sreeja Tar, Qi Chwen Ong, Duy Phung, Mathieu Ravaut, Shafiq Joty, Josip Car",00483 ,corr
+20,Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning.,2023,"Lifu Tu, Jin Qu, Semih Yavuz, Shafiq Joty, Wenhao Liu, Caiming Xiong, Yingbo Zhou",01295 ,corr
+21,Explaining Language Models' Predictions with High-Impact Concepts.,2023,"Ruochen Zhao, Shafiq R. Joty, Yongjie Wang, Tan Wang",02160 ,corr
+22,Modeling What-to-ask and How-to-ask for Answer-unaware Conversational Question Generation.,2023,"Xuan Long Do, Bowei Zou, Shafiq R. Joty, Anh Tai Tran, Liangming Pan, Nancy F. Chen, Ai Ti Aw",03088 ,corr
+23,Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework.,2023,"Ruochen Zhao, Xingxuan Li, Shafiq R. Joty, Chengwei Qin, Lidong Bing",03268 ,corr
+24,Randomized Smoothing with Masked Inference for Adversarially Robust Text Classifications.,2023,"Han Cheol Moon, Shafiq R. Joty, Ruochen Zhao, Megh Thakkar, Xu Chi",06522 ,corr
+25,Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases.,2023,"Xingxuan Li, Ruochen Zhao, Yew Ken Chia, Bosheng Ding, Lidong Bing, Shafiq R. Joty, Soujanya Poria",13269 ,corr
+26,LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models.,2023,"Fangkai Jiao, Zhiyang Teng, Shafiq R. Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen",13718 ,corr
+27,LLMs as Factual Reasoners: Insights from Existing Benchmarks and Beyond.,2023,"Philippe Laban, Wojciech Kryscinski, Divyansh Agarwal, Alexander R. Fabbri, Caiming Xiong, Shafiq Joty, Chien-Sheng Wu",14540 ,corr
+28,UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning.,2023,"Ahmed Masry, Parsa Kavehzadeh, Xuan Long Do, Enamul Hoque, Shafiq R. Joty",14761 ,corr
+29,Unlocking Temporal Question Answering for Large Language Models Using Code Execution.,2023,"Xingxuan Li, Liying Cheng, Qingyu Tan, Hwee Tou Ng, Shafiq Joty, Lidong Bing",15014 ,corr
+30,A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets.,2023,"Md. Tahmid Rahman Laskar, M. Saiful Bari, Mizanur Rahman, Md Amran Hossen Bhuiyan, Shafiq Joty, Jimmy Xiangji Huang",18486 ,corr
+31,SWiPE: A Dataset for Document-Level Simplification of Wikipedia Pages.,2023,"Philippe Laban, Jesse Vig, Wojciech Kryscinski, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu",19204 ,corr
+32,Building Extractive Question Answering System to Support Human-AI Health Coaching Model for Sleep Domain.,2023,"Iva Bojic, Qi Chwen Ong, Shafiq Joty, Josip Car",19707 ,corr
+33,Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning.,2023,"Fan Yin, Jesse Vig, Philippe Laban, Shafiq Joty, Caiming Xiong, Chien-Sheng Jason Wu",01150 ,corr
+34,Democratizing LLMs for Low-Resource Languages by Leveraging their English Dominant Abilities with Linguistically-Diverse Prompts.,2023,"Xuan-Phi Nguyen, Sharifah Mahani Aljunied, Shafiq Joty, Lidong Bing",11372 ,corr
+35,PromptSum: Parameter-Efficient Controllable Abstractive Summarization.,2023,"Mathieu Ravaut, Hailin Chen, Ruochen Zhao, Chengwei Qin, Shafiq Joty, Nancy F. Chen",03117 ,corr
+36,Exploring the Integration Strategies of Retriever and Large Language Models.,2023,"Ye Liu, Semih Yavuz, Rui Meng, Meghana Moorthy, Shafiq Joty, Caiming Xiong, Yingbo Zhou",12574 ,corr
+37,XGen-7B Technical Report.,2023,"Erik Nijkamp, Tian Xie, Hiroaki Hayashi, Bo Pang, Congying Xia, Chen Xing, Jesse Vig, Semih Yavuz, Philippe Laban, Ben Krause, Senthil Purushwalkam, Tong Niu, Wojciech Kryscinski, Lidiya Murakhovs'ka, Prafulla Kumar Choubey, Alexander R. Fabbri, Ye Liu, Rui Meng, Lifu Tu, Meghana Bhat, Chien-Sheng Wu, Silvio Savarese, Yingbo Zhou, Shafiq Joty, Caiming Xiong",03450 ,corr
+38,RAP-Gen: Retrieval-Augmented Patch Generation with CodeT5 for Automatic Program Repair.,2023,"Weishi Wang, Yue Wang, Shafiq Joty, Steven C. H. Hoi",06057 ,corr
+39,Embrace Divergence for Richer Insights: A Multi-document Summarization Benchmark and a Case Study on Summarizing Diverse Information from News Articles.,2023,"Kung-Hsiang Huang, Philippe Laban, Alexander R. Fabbri, Prafulla Kumar Choubey, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu",09369 ,corr
+40,UNISON: Unpaired Cross-Lingual Image Captioning.,2022,"Jiahui Gao, Yi Zhou, Philip L. H. Yu, Shafiq R. Joty, Jiuxiang Gu", AAAI 2022: 10654-10662,aaai
+41,Weakly Supervised Neuro-Symbolic Module Networks for Numerical Reasoning over Text.,2022,"Amrita Saha, Shafiq R. Joty, Steven C. H. Hoi", AAAI 2022: 11238-11247,aaai
+42,GlobalWoZ: Globalizing MultiWoZ to Develop Multilingual Task-Oriented Dialogue Systems.,2022,"Bosheng Ding, Junjie Hu, Lidong Bing, Sharifah Mahani Aljunied, Shafiq R. Joty, Luo Si, Chunyan Miao", ACL  2022: 1639-1657,acl
+43,ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning.,2022,"Ahmed Masry, Do Xuan Long, Jia Qing Tan, Shafiq R. Joty, Enamul Hoque", ACL  2022: 2263-2279,acl
+44,Continual Few-shot Relation Learning via Embedding Space Regularization and Data Augmentation.,2022,"Chengwei Qin, Shafiq R. Joty", ACL  2022: 2776-2789,acl
+45,Chart-to-Text: A Large-Scale Benchmark for Chart Summarization.,2022,"Shankar Kantharaj, Rixie Tiffany Ko Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq R. Joty", ACL  2022: 4005-4023,acl
+46,SummaReranker: A Multi-Task Mixture-of-Experts Re-ranking Framework for Abstractive Summarization.,2022,"Mathieu Ravaut, Shafiq R. Joty, Nancy F. Chen", ACL  2022: 4504-4524,acl
+47,Rethinking Self-Supervision Objectives for Generalizable Coherence Modeling.,2022,"Prathyusha Jwalapuram, Shafiq R. Joty, Xiang Lin", ACL  2022: 6044-6059,acl
+48,CoHS-CQG: Context and History Selection for Conversational Question Generation.,2022,"Xuan Long Do, Bowei Zou, Liangming Pan, Nancy F. Chen, Shafiq R. Joty, Ai Ti Aw", COLING 2022: 580-591,coling
+49,Towards Multi-Sense Cross-Lingual Alignment of Contextual Embeddings.,2022,"Linlin Liu, Thien Hai Nguyen, Shafiq R. Joty, Lidong Bing, Luo Si", COLING 2022: 4381-4396,coling
+50,BotSIM: An End-to-End Bot Simulation Framework for Commercial Task-Oriented Dialog Systems.,2022,"Guangsen Wang, Samson Tan, Shafiq R. Joty, Gang Wu, Jimmy Au, Steven C. H. Hoi", EMNLP  2022: 178-190,emnlp
+51,Data Selection Curriculum for Neural Machine Translation.,2022,"Tasnim Mohiuddin, Philipp Koehn, Vishrav Chaudhary, James Cross, Shruti Bhosale, Shafiq R. Joty", EMNLP  2022: 1569-1582,emnlp
+52,Learning Label Modular Prompts for Text Classification in the Wild.,2022,"Hailin Chen, Amrita Saha, Shafiq R. Joty, Steven C. H. Hoi", EMNLP 2022: 1677-1690,emnlp
+53,Alleviating Sparsity of Open Knowledge Graphs with Ternary Contrastive Learning.,2022,"Qian Li, Shafiq R. Joty, Daling Wang, Shi Feng, Yifei Zhang", EMNLP  2022: 2279-2291,emnlp
+54,Enhancing Multilingual Language Model with Massive Multilingual Knowledge Triples.,2022,"Linlin Liu, Xin Li, Ruidan He, Lidong Bing, Shafiq R. Joty, Luo Si", EMNLP 2022: 6878-6890,emnlp
+55,Towards Summary Candidates Fusion.,2022,"Mathieu Ravaut, Shafiq R. Joty, Nancy F. Chen", EMNLP 2022: 8488-8504,emnlp
+56,OpenCQA: Open-ended Question Answering with Charts.,2022,"Shankar Kantharaj, Xuan Long Do, Rixie Tiffany Ko Leong, Jia Qing Tan, Enamul Hoque, Shafiq R. Joty", EMNLP 2022: 11817-11837,emnlp
+57,Contrastive Clustering to Mine Pseudo Parallel Data for Unsupervised Translation.,2022,"Xuan-Phi Nguyen, Hongyu Gong, Yun Tang, Changhan Wang, Philipp Koehn, Shafiq R. Joty", ICLR 2022,iclr
+58,LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5.,2022,"Chengwei Qin, Shafiq R. Joty", ICLR 2022,iclr
+59,GradMask: Gradient-Guided Token Masking for Textual Adversarial Example Detection.,2022,"Han Cheol Moon, Shafiq R. Joty, Xu Chi", KDD 2022: 3603-3613,kdd
+60,SleepQA: A Health Coaching Dataset on Sleep for Extractive Question Answering.,2022,"Iva Bojic, Qi Chwen Ong, Megh Thakkar, Esha Kamran, Irving Yu Le Shua, Jaime Rei Ern Pang, Jessica Chen, Vaaruni Nayak, Shafiq R. Joty, Josip Car", ML4H@NeurIPS 2022: 199-217,ml4h
+61,Refining Low-Resource Unsupervised Translation by Language Disentanglement of Multilingual Translation Model.,2022,"Xuan-Phi Nguyen, Shafiq R. Joty, Kui Wu, Ai Ti Aw", NeurIPS 2022,nips
+62,LANTERN: Boredom-conscious Natural Language Description Generation of Query Execution Plans for Database Education.,2022,"Peng Chen, Hui Li, Sourav S. Bhowmick, Shafiq R. Joty, Weiguo Wang", SIGMOD Conference 2022: 2413-2416,sigmod
+63,Continual Few-shot Relation Learning via Embedding Space Regularization and Data Augmentation.,2022,"Chengwei Qin, Shafiq R. Joty",02135 ,corr
+64,Chart-to-Text: A Large-Scale Benchmark for Chart Summarization.,2022,"Shankar Kantharaj, Rixie Tiffany Ko Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq R. Joty",06486 ,corr
+65,SummaReranker: A Multi-Task Mixture-of-Experts Re-ranking Framework for Abstractive Summarization.,2022,"Mathieu Ravaut, Shafiq R. Joty, Nancy F. Chen",06569 ,corr
+66,ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning.,2022,"Ahmed Masry, Do Xuan Long, Jia Qing Tan, Shafiq R. Joty, Enamul Hoque",10244 ,corr
+67,Data Selection Curriculum for Neural Machine Translation.,2022,"Tasnim Mohiuddin, Philipp Koehn, Vishrav Chaudhary, James Cross, Shruti Bhosale, Shafiq R. Joty",13867 ,corr
+68,Refining Low-Resource Unsupervised Translation by Language Disentanglement of Multilingual Model.,2022,"Xuan-Phi Nguyen, Shafiq R. Joty, Wu Kui, Ai Ti Aw",15544 ,corr
+69,FOLIO: Natural Language Reasoning with First-Order Logic.,2022,"Simeng Han, Hailey Schoelkopf, Yilun Zhao, Zhenting Qi, Martin Riddell, Luke Benson, Lucy Sun, Ekaterina Zubova, Yujie Qiao, Matthew Burtell, David Peng, Jonathan Fan, Yixin Liu, Brian Wong, Malcolm Sailor, Ansong Ni, Linyong Nan, Jungo Kasai, Tao Yu, Rui Zhang, Shafiq R. Joty, Alexander R. Fabbri, Wojciech Kryscinski, Xi Victoria Lin, Caiming Xiong, Dragomir Radev",00840 ,corr
+70,CoHS-CQG: Context and History Selection for Conversational Question Generation.,2022,"Xuan Long Do, Bowei Zou, Liangming Pan, Nancy F. Chen, Shafiq R. Joty, Ai Ti Aw",06652 ,corr
+71,Improving Conversational Recommender System via Contextual and Time-Aware Modeling with Less Domain-Specific Knowledge.,2022,"Lingzhi Wang, Shafiq R. Joty, Wei Gao, Xingshan Zeng, Kam-Fai Wong",11386 ,corr
+72,OpenCQA: Open-ended Question Answering with Charts.,2022,"Shankar Kantharaj, Xuan Long Do, Rixie Tiffany Ko Leong, Jia Qing Tan, Enamul Hoque, Shafiq R. Joty",06628 ,corr
+73,Towards Summary Candidates Fusion.,2022,"Mathieu Ravaut, Shafiq R. Joty, Nancy F. Chen",08779 ,corr
+74,Alleviating Sparsity of Open Knowledge Graphs with Ternary Contrastive Learning.,2022,"Qian Li, Shafiq R. Joty, Daling Wang, Shi Feng, Yifei Zhang",03950 ,corr
+75,Towards Robust Low-Resource Fine-Tuning with Multi-View Compressed Representations.,2022,"Linlin Liu, Xingxuan Li, Megh Thakkar, Xin Li, Lidong Bing, Shafiq R. Joty, Luo Si",08794 ,corr
+76,BotSIM: An End-to-End Bot Simulation Framework for Commercial Task-Oriented Dialog Systems.,2022,"Guangsen Wang, Samson Tan, Shafiq R. Joty, Gang Wu, Jimmy Au, Steven C. H. Hoi",11982 ,corr
+77,BotSIM: An End-to-End Bot Simulation Toolkit for Commercial Task-Oriented Dialog Systems.,2022,"Guangsen Wang, Shafiq R. Joty, Junnan Li, Steven C. H. Hoi",15916 ,corr
+78,Learning Label Modular Prompts for Text Classification in the Wild.,2022,"Hailin Chen, Amrita Saha, Shafiq R. Joty, Steven C. H. Hoi",17142 ,corr
+79,Revisiting the Gold Standard: Grounding Summarization Evaluation with Robust Human Evaluation.,2022,"Yixin Liu, Alexander R. Fabbri, Pengfei Liu, Yilun Zhao, Linyong Nan, Ruilin Han, Simeng Han, Shafiq R. Joty, Chien-Sheng Wu, Caiming Xiong, Dragomir Radev",07981 ,corr
+80,Unsupervised Summarization Re-ranking.,2022,"Mathieu Ravaut, Shafiq R. Joty, Nancy F. Chen",09593 ,corr
+81,Is GPT-3 a Good Data Annotator?,2022,"Bosheng Ding, Chengwei Qin, Linlin Liu, Lidong Bing, Shafiq R. Joty, Boyang Li",10450 ,corr
+82,Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Perspective.,2022,"Xingxuan Li, Yutong Li, Linlin Liu, Lidong Bing, Shafiq R. Joty",10529 ,corr
+83,SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning.,2022,"M. Saiful Bari, Aston Zhang, Shuai Zheng, Xingjian Shi, Yi Zhu, Shafiq Joty, Mu Li",10929 ,corr
+84,UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resource Cross-Lingual NLP.,2021,"M. Saiful Bari, Tasnim Mohiuddin, Shafiq R. Joty", ACL/IJCNLP  2021: 1978-1992,acl
+85,AugVic: Exploiting BiText Vicinity for Low-Resource NMT.,2021,"Tasnim Mohiuddin, M. Saiful Bari, Shafiq R. Joty", ACL/IJCNLP  2021: 3034-3045,acl
+86,Reliability Testing for Natural Language Processing Systems.,2021,"Samson Tan, Shafiq R. Joty, Kathy Baxter, Araz Taeihagh, Gregory A. Bennett, Min-Yen Kan", ACL/IJCNLP  2021: 4153-4169,acl
+87,A Conditional Splitting Framework for Efficient Constituency Parsing.,2021,"Thanh-Tung Nguyen, Xuan-Phi Nguyen, Shafiq R. Joty, Xiaoli Li", ACL/IJCNLP  2021: 5795-5807,acl
+88,MulDA: A Multilingual Data Augmentation Framework for Low-Resource Cross-Lingual NER.,2021,"Linlin Liu, Bosheng Ding, Lidong Bing, Shafiq R. Joty, Luo Si, Chunyan Miao", ACL/IJCNLP  2021: 5834-5846,acl
+89,Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots.,2021,"Samson Tan, Shafiq R. Joty", CALCS@NAACL 2021,acl-codeswitch
+90,Span-Level Emotion Cause Analysis by BERT-based Graph Attention Network.,2021,"Xiangju Li, Wei Gao, Shi Feng, Daling Wang, Shafiq R. Joty", CIKM 2021: 3221-3226,cikm
+91,Span-level Emotion Cause Analysis with Neural Sequence Tagging.,2021,"Xiangju Li, Wei Gao, Shi Feng, Daling Wang, Shafiq R. Joty", CIKM 2021: 3227-3231,cikm
+92,Rethinking Coherence Modeling: Synthetic vs. Downstream Tasks.,2021,"Tasnim Mohiuddin, Prathyusha Jwalapuram, Xiang Lin, Shafiq R. Joty", EACL 2021: 3528-3539,eacl
+93,GeDi: Generative Discriminator Guided Sequence Generation.,2021,"Ben Krause, Akhilesh Deepak Gotmare, Bryan McCann, Nitish Shirish Keskar, Shafiq R. Joty, Richard Socher, Nazneen Fatema Rajani", EMNLP  2021: 4929-4952,emnlp
+94,Effective Fine-Tuning Methods for Cross-lingual Adaptation.,2021,"Tao Yu, Shafiq R. Joty", EMNLP  2021: 8492-8501,emnlp
+95,CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation.,2021,"Yue Wang, Weishi Wang, Shafiq R. Joty, Steven C. H. Hoi", EMNLP  2021: 8696-8708,emnlp
+96,A Unified Speaker Adaptation Approach for ASR.,2021,"Yingzhu Zhao, Chongjia Ni, Cheung-Chi Leung, Shafiq R. Joty, Eng Siong Chng, Bin Ma", EMNLP  2021: 9339-9349,emnlp
+97,Preventing Early Endpointing for Online Automatic Speech Recognition.,2021,"Yingzhu Zhao, Chongjia Ni, Cheung-Chi Leung, Shafiq R. Joty, Eng Siong Chng, Bin Ma", ICASSP 2021: 6813-6817,icassp
+98,Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation.,2021,"Xiang Lin, Simeng Han, Shafiq R. Joty", ICML 2021: 6642-6653,icml
+99,Cross-model Back-translated Distillation for Unsupervised Machine Translation.,2021,"Xuan-Phi Nguyen, Shafiq R. Joty, Thanh-Tung Nguyen, Kui Wu, Ai Ti Aw", ICML 2021: 8073-8083,icml
+100,Addressing the Vulnerability of NMT in Input Perturbations.,2021,"Weiwen Xu, Ai Ti Aw, Yang Ding, Kui Wu, Shafiq R. Joty", NAACL-HLT  2021: 80-88,naacl
+101,Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation.,2021,"Alexander R. Fabbri, Simeng Han, Haoyuan Li, Haoran Li, Marjan Ghazvininejad, Shafiq R. Joty, Dragomir R. Radev, Yashar Mehdad", NAACL-HLT 2021: 704-717,naacl
+102,RST Parsing from Scratch.,2021,"Thanh-Tung Nguyen, Xuan-Phi Nguyen, Shafiq R. Joty, Xiaoli Li", NAACL-HLT 2021: 1613-1625,naacl
+103,Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots.,2021,"Samson Tan, Shafiq R. Joty", NAACL-HLT 2021: 3596-3616,naacl
+104,Align before Fuse: Vision and Language Representation Learning with Momentum Distillation.,2021,"Junnan Li, Ramprasaath R. Selvaraju, Akhilesh Gotmare, Shafiq R. Joty, Caiming Xiong, Steven Chu-Hong Hoi", NeurIPS 2021: 9694-9705,nips
+105,Towards Enhancing Database Education: Natural Language Generation Meets Query Execution Plans.,2021,"Weiguo Wang, Sourav S. Bhowmick, Hui Li, Shafiq R. Joty, Siyuan Liu, Peng Chen", SIGMOD Conference 2021: 1933-1945,sigmod
+106,Weakly Supervised Neuro-Symbolic Module Networks for Numerical Reasoning.,2021,"Amrita Saha, Shafiq R. Joty, Steven C. H. Hoi",11802 ,corr
+107,Towards Enhancing Database Education: Natural Language Generation Meets Query Execution Plans.,2021,"Weiguo Wang, Sourav S. Bhowmick, Hui Li, Shafiq R. Joty, Siyuan Liu, Peng Chen",00740 ,corr
+108,Towards Multi-Sense Cross-Lingual Alignment of Contextual Embeddings.,2021,"Linlin Liu, Thien Hai Nguyen, Shafiq R. Joty, Lidong Bing, Luo Si",06459 ,corr
+109,Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots.,2021,"Samson Tan, Shafiq R. Joty",09593 ,corr
+110,Addressing the Vulnerability of NMT in Input Perturbations.,2021,"Weiwen Xu, Ai Ti Aw, Yang Ding, Kui Wu, Shafiq R. Joty",09810 ,corr
+111,Reliability Testing for Natural Language Processing Systems.,2021,"Samson Tan, Shafiq R. Joty, Kathy Baxter, Araz Taeihagh, Gregory A. Bennett, Min-Yen Kan",02590 ,corr
+112,RST Parsing from Scratch.,2021,"Thanh-Tung Nguyen, Xuan-Phi Nguyen, Shafiq R. Joty, Xiaoli Li",10861 ,corr
+113,AUGVIC: Exploiting BiText Vicinity for Low-Resource NMT.,2021,"Tasnim Mohiuddin, M. Saiful Bari, Shafiq R. Joty",05141 ,corr
+114,Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation.,2021,"Xiang Lin, Simeng Han, Shafiq R. Joty",07207 ,corr
+115,A Conditional Splitting Framework for Efficient Constituency Parsing.,2021,"Thanh-Tung Nguyen, Xuan-Phi Nguyen, Shafiq R. Joty, Xiaoli Li",15760 ,corr
+116,Align before Fuse: Vision and Language Representation Learning with Momentum Distillation.,2021,"Junnan Li, Ramprasaath R. Selvaraju, Akhilesh Deepak Gotmare, Shafiq R. Joty, Caiming Xiong, Steven C. H. Hoi",07651 ,corr
+117,Remember What You have drawn: Semantic Image Manipulation with Memory.,2021,"Xiangxi Shi, Zhonghua Wu, Guosheng Lin, Jianfei Cai, Shafiq R. Joty",12579 ,corr
+118,CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation.,2021,"Yue Wang, Weishi Wang, Shafiq R. Joty, Steven C. H. Hoi",00859 ,corr
+119,Rethinking Self-Supervision Objectives for Generalizable Coherence Modeling.,2021,"Prathyusha Jwalapuram, Shafiq R. Joty, Xiang Lin",07198 ,corr
+120,LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5.,2021,"Chengwei Qin, Shafiq R. Joty",07298 ,corr
+121,GlobalWoZ: Globalizing MultiWoZ to Develop Multilingual Task-Oriented Dialogue Systems.,2021,"Bosheng Ding, Junjie Hu, Lidong Bing, Sharifah Aljunied Mahani, Shafiq R. Joty, Luo Si, Chunyan Miao",07679 ,corr
+122,Cascaded Fast and Slow Models for Efficient Semantic Code Search.,2021,"Akhilesh Deepak Gotmare, Junnan Li, Shafiq R. Joty, Steven C. H. Hoi",07811 ,corr
+123,A Unified Speaker Adaptation Approach for ASR.,2021,"Yingzhu Zhao, Chongjia Ni, Cheung-Chi Leung, Shafiq R. Joty, Eng Siong Chng, Bin Ma",08545 ,corr
+124,Knowledge Based Multilingual Language Model.,2021,"Linlin Liu, Xin Li, Ruidan He, Lidong Bing, Shafiq R. Joty, Luo Si",10962 ,corr
+125,Unsupervised Word Translation with Adversarial Autoencoder.,2020,"Tasnim Mohiuddin, Shafiq R. Joty", Linguistics 46: 257-288 ,coling
+126,Video captioning with boundary-aware hierarchical language decoding and joint video prediction.,2020,"Xiangxi Shi, Jianfei Cai, Jiuxiang Gu, Shafiq R. Joty", Neurocomputing 417: 347-356 ,ijon
+127,An Attention-based Rumor Detection Model with Tree-structured Recursive Neural Networks.,2020,"Jing Ma, Wei Gao, Shafiq R. Joty, Kam-Fai Wong", 11: 42:1-42:28 ,tist
+128,Zero-Resource Cross-Lingual Named Entity Recognition.,2020,"M. Saiful Bari, Shafiq R. Joty, Prathyusha Jwalapuram", AAAI 2020: 7415-7423,aaai
+129,Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading.,2020,"Yifan Gao, Chien-Sheng Wu, Shafiq R. Joty, Caiming Xiong, Richard Socher, Irwin King, Michael R. Lyu, Steven C. H. Hoi", ACL 2020: 935-945,acl
+130,It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations.,2020,"Samson Tan, Shafiq R. Joty, Min-Yen Kan, Richard Socher", ACL 2020: 2920-2935,acl
+131,Efficient Constituency Parsing by Pointing.,2020,"Thanh-Tung Nguyen, Xuan-Phi Nguyen, Shafiq R. Joty, Xiaoli Li", ACL 2020: 3284-3294,acl
+132,Differentiable Window for Dynamic Local Attention.,2020,"Thanh-Tung Nguyen, Xuan-Phi Nguyen, Shafiq R. Joty, Xiaoli Li", ACL 2020: 6589-6599,acl
+133,Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning.,2020,"Xiangxi Shi, Xu Yang, Jiuxiang Gu, Shafiq R. Joty, Jianfei Cai", ECCV  2020: 574-590,eccv
+134,Pronoun-Targeted Fine-tuning for NMT with Hybrid Losses.,2020,"Prathyusha Jwalapuram, Shafiq R. Joty, Youlin Shen", EMNLP  2020: 2267-2279,emnlp
+135,Discern: Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading.,2020,"Yifan Gao, Chien-Sheng Wu, Jingjing Li, Shafiq R. Joty, Steven C. H. Hoi, Caiming Xiong, Irwin King, Michael R. Lyu", EMNLP  2020: 2439-2449,emnlp
+136,LNMap: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space.,2020,"Tasnim Mohiuddin, M. Saiful Bari, Shafiq Rayhan Joty", EMNLP  2020: 2712-2723,emnlp
+137,VD-BERT: A Unified Vision and Dialog Transformer with BERT.,2020,"Yue Wang, Shafiq R. Joty, Michael R. Lyu, Irwin King, Caiming Xiong, Steven C. H. Hoi", EMNLP  2020: 3325-3338,emnlp
+138,Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding.,2020,"Samson Tan, Shafiq R. Joty, Lav R. Varshney, Min-Yen Kan", EMNLP  2020: 5647-5663,emnlp
+139,DAGA: Data Augmentation with a Generation Approach forLow-resource Tagging Tasks.,2020,"Bosheng Ding, Linlin Liu, Lidong Bing, Canasai Kruengkrai, Thien Hai Nguyen, Shafiq R. Joty, Luo Si, Chunyan Miao", EMNLP  2020: 6045-6057,emnlp
+140,Online Conversation Disentanglement with Pointer Networks.,2020,"Tao Yu, Shafiq R. Joty", EMNLP  2020: 6321-6330,emnlp
+141,Response Selection for Multi-Party Conversations with Dynamic Topic Tracking.,2020,"Weishi Wang, Steven C. H. Hoi, Shafiq R. Joty", EMNLP  2020: 6581-6591,emnlp
+142,Tree-Structured Attention with Hierarchical Accumulation.,2020,"Xuan-Phi Nguyen, Shafiq R. Joty, Steven C. H. Hoi, Richard Socher", ICLR 2020,iclr
+143,Speech Transformer with Speaker Aware Persistent Memory.,2020,"Yingzhu Zhao, Chongjia Ni, Cheung-Chi Leung, Shafiq R. Joty, Eng Siong Chng, Bin Ma", INTERSPEECH 2020: 1261-1265,interspeech
+144,Universal Speech Transformer.,2020,"Yingzhu Zhao, Chongjia Ni, Cheung-Chi Leung, Shafiq R. Joty, Eng Siong Chng, Bin Ma", INTERSPEECH 2020: 5021-5025,interspeech
+145,Cross Attention with Monotonic Alignment for Speech Transformer.,2020,"Yingzhu Zhao, Chongjia Ni, Cheung-Chi Leung, Shafiq R. Joty, Eng Siong Chng, Bin Ma", INTERSPEECH 2020: 5031-5035,interspeech
+146,Self-Supervised Relationship Probing.,2020,"Jiuxiang Gu, Jason Kuen, Shafiq R. Joty, Jianfei Cai, Vlad I. Morariu, Handong Zhao, Tong Sun", NeurIPS 2020,nips
+147,Data Diversification: A Simple Strategy For Neural Machine Translation.,2020,"Xuan-Phi Nguyen, Shafiq R. Joty, Kui Wu, Ai Ti Aw", NeurIPS 2020,nips
+148,"Proceedings of SustaiNLP: Workshop on Simple and Efficient Natural Language Processing, SustaiNLP@EMNLP 2020, Online, November 20, 2020.",2020,"Nafise Sadat Moosavi, Angela Fan, Vered Shwartz, Goran Glavas, Shafiq R. Joty, Alex Wang, Thomas Wolf"," Association for Computational Linguistics 2020, ISBN 978-1-952148-77-4 ",emnlp
+149,Tree-structured Attention with Hierarchical Accumulation.,2020,"Xuan-Phi Nguyen, Shafiq R. Joty, Steven C. H. Hoi, Richard Socher",08046 ,corr
+150,MultiMix: A Robust Data Augmentation Strategy for Cross-Lingual NLP.,2020,"M. Saiful Bari, Muhammad Tasnim Mohiuddin, Shafiq R. Joty",13240 ,corr
+151,VD-BERT: A Unified Vision and Dialog Transformer with BERT.,2020,"Yue Wang, Shafiq R. Joty, Michael R. Lyu, Irwin King, Caiming Xiong, Steven C. H. Hoi",13278 ,corr
+152,LNMap: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space.,2020,"Tasnim Mohiuddin, M. Saiful Bari, Shafiq R. Joty",13889 ,corr
+153,Can Your Context-Aware MT System Pass the DiP Benchmark Tests? : Evaluation Benchmarks for Discourse Phenomena in Machine Translation.,2020,"Prathyusha Jwalapuram, Barbara Rychalska, Shafiq R. Joty, Dominika Basaj",14607 ,corr
+154,CohEval: Benchmarking Coherence Models.,2020,"Tasnim Mohiuddin, Prathyusha Jwalapuram, Xiang Lin, Shafiq R. Joty",14626 ,corr
+155,Mind Your Inflections! Improving NLP for Non-Standard English with Base-Inflection Encoding.,2020,"Samson Tan, Shafiq R. Joty, Lav R. Varshney, Min-Yen Kan",14870 ,corr
+156,It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations.,2020,"Samson Tan, Shafiq R. Joty, Min-Yen Kan, Richard Socher",04364 ,corr
+157,EMT: Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading.,2020,"Yifan Gao, Chien-Sheng Wu, Shafiq R. Joty, Caiming Xiong, Richard Socher, Irwin King, Michael R. Lyu, Steven C. H. Hoi",12484 ,corr
+158,Multi-Agent Cross-Translated Diversification for Unsupervised Machine Translation.,2020,"Xuan-Phi Nguyen, Shafiq R. Joty, Wu Kui, Ai Ti Aw",02163 ,corr
+159,Efficient Constituency Parsing by Pointing.,2020,"Thanh-Tung Nguyen, Xuan-Phi Nguyen, Shafiq R. Joty, Xiaoli Li",13557 ,corr
+160,Differentiable Window for Dynamic Local Attention.,2020,"Thanh-Tung Nguyen, Xuan-Phi Nguyen, Shafiq R. Joty, Xiaoli Li",13561 ,corr
+161,GeDi: Generative Discriminator Guided Sequence Generation.,2020,"Ben Krause, Akhilesh Deepak Gotmare, Bryan McCann, Nitish Shirish Keskar, Shafiq R. Joty, Richard Socher, Nazneen Fatema Rajani",06367 ,corr
+162,Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning.,2020,"Xiangxi Shi, Xu Yang, Jiuxiang Gu, Shafiq R. Joty, Jianfei Cai",14352 ,corr
+163,Discern: Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading.,2020,"Yifan Gao, Chien-Sheng Wu, Jingjing Li, Shafiq R. Joty, Steven C. H. Hoi, Caiming Xiong, Irwin King, Michael R. Lyu",01838 ,corr
+164,Pronoun-Targeted Fine-tuning for NMT with Hybrid Losses.,2020,"Prathyusha Jwalapuram, Shafiq R. Joty, Youlin Shen",07638 ,corr
+165,Response Selection for Multi-Party Conversations with Dynamic Topic Tracking.,2020,"Weishi Wang, Shafiq R. Joty, Steven C. H. Hoi",07785 ,corr
+166,Online Conversation Disentanglement with Pointer Networks.,2020,"Tao Yu, Shafiq R. Joty",11080 ,corr
+167,Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation.,2020,"Alexander R. Fabbri, Simeng Han, Haoyuan Li, Haoran Li, Marjan Ghazvininejad, Shafiq R. Joty, Dragomir R. Radev, Yashar Mehdad",12836 ,corr
+168,DAGA: Data Augmentation with a Generation Approach for Low-resource Tagging Tasks.,2020,"Bosheng Ding, Linlin Liu, Lidong Bing, Canasai Kruengkrai, Thien Hai Nguyen, Shafiq R. Joty, Luo Si, Chunyan Miao",01549 ,corr

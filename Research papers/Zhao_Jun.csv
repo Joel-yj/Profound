@@ -1,0 +1,172 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Deep reinforcement learning based scheduling strategy for federated learning in sensor-cloud systems.,2023,"Tinghao Zhang, Kwok-Yan Lam, Jun Zhao", 144: 219-229 ,fgcs
+1,"Correction to ""Privacy-Preserving Blockchain-Based Federated Learning for IoT Devices"".",2023,"Yang Zhao, Jun Zhao, Linshan Jiang, Rui Tan, Dusit Niyato, Zengxiang Li, Lingjuan Lyu, Yingbo Liu", 10: 973 ,iotj
+2,Asynchronous Hybrid Reinforcement Learning for Latency and Reliability Optimization in the Metaverse Over Wireless Communications.,2023,"Wenhan Yu, Terence Jie Chua, Jun Zhao", 41: 2138-2157 ,jsac
+3,Differentially Private Distributed Frequency Estimation.,2023,"Mengmeng Yang, Ivan Tjuawinata, Kwok-Yan Lam, Tianqing Zhu, Jun Zhao", 20: 3910-3926 ,tdsc
+4,Efficient Dropout-Resilient Aggregation for Privacy-Preserving Machine Learning.,2023,"Ziyao Liu, Jiale Guo, Kwok-Yan Lam, Jun Zhao", 18: 1839-1854 ,tifs
+5,Optimizing the Age of Information in RIS-Aided SWIPT Networks.,2023,"Wanting Lyu, Yue Xiu, Jun Zhao, Zhongpei Zhang", 72: 2615-2619 ,tvt
+6,Reconfigurable Intelligent Surface aided Wireless Powered Mobile Edge Computing.,2023,"Yidong Lu, Jun Zhao", CCNC 2023: 501-507,ccnc
+7,Multi-Agent Deep Reinforcement Learning for Digital Twin over 6G Wireless Communication in the Metaverse.,2023,"Wenhan Yu, Terence Jie Chua, Jun Zhao", INFOCOM Workshops 2023: 1-6,infocom
+8,Mobile Edge Computing and AI Enabled Web3 Metaverse over 6G Wireless Communications: A Deep Reinforcement Learning Approach.,2023,"Wenhan Yu, Terence Jie Chua, Jun Zhao", VTC2023-Spring 2023: 1-5,vtc
+9,UAV aided Metaverse over Wireless Communications: A Reinforcement Learning Approach.,2023,"Peiyuan Si, Wenhan Yu, Jun Zhao, Kwok-Yan Lam, Qing Yang",01474 ,corr
+10,User-centric Heterogeneous-action Deep Reinforcement Learning for Virtual Reality in the Metaverse over Wireless Networks.,2023,"Wenhan Yu, Terence Jie Chua, Jun Zhao",01471 ,corr
+11,Virtual Reality in Metaverse over Wireless Networks with User-centered Deep Reinforcement Learning.,2023,"Wenhan Yu, Terence Jie Chua, Jun Zhao",04349 ,corr
+12,Mobile Edge Adversarial Detection for Digital Twinning to the Metaverse with Deep Reinforcement Learning.,2023,"Terence Jie Chua, Wenhan Yu, Jun Zhao",10288 ,corr
+13,Play to Earn in the Metaverse with Mobile Edge Computing over Wireless Networks: A Deep Reinforcement Learning Approach.,2023,"Terence Jie Chua, Wenhan Yu, Jun Zhao",10289 ,corr
+14,Detection of Uncertainty in Exceedance of Threshold (DUET): An Adversarial Patch Localizer.,2023,"Terence Jie Chua, Wenhan Yu, Jun Zhao",10291 ,corr
+15,Towards Adversarially Robust Continual Learning.,2023,"Tao Bai, Chen Chen, Lingjuan Lyu, Jun Zhao, Bihan Wen",17764 ,corr
+16,Human-Centric Resource Allocation in the Metaverse over Wireless Communications.,2023,"Jun Zhao, Liangxin Qian, Wenhan Yu",00355 ,corr
+17,"Semantic communications, semantic edge computing, and semantic caching.",2023,"Wenhan Yu, Jun Zhao",08096 ,corr
+18,Heterogeneous 360 Degree Videos in Metaverse: Differentiated Reinforcement Learning Approaches.,2023,"Wenhan Yu, Jun Zhao",04083 ,corr
+19,Foreground-guided textural-focused person re-identification.,2022,"Donghaisheng Liu, Shoudong Han, Yang Chen, Chenfei Xia, Jun Zhao", Neurocomputing 483: 235-248 ,ijon
+20,Adaptive Resource Allocation in SWIPT-Enabled Cognitive IoT Networks.,2022,"Wei Sun, Qingyang Song, Jun Zhao, Lei Guo, Abbas Jamalipour", 9: 535-545 ,iotj
+21,"Blockchain for Edge of Things: Applications, Opportunities, and Challenges.",2022,"Thippa Reddy Gadekallu, Quoc-Viet Pham, Dinh C. Nguyen, Praveen Kumar Reddy Maddikunta, Natarajan Deepa, B. Prabadevi, Pubudu N. Pathirana, Jun Zhao, Won-Joo Hwang", 9: 964-988 ,iotj
+22,Toward Efficiently Evaluating the Robustness of Deep Neural Networks in IoT Systems: A GAN-Based Method.,2022,"Tao Bai, Jun Zhao, Jinlin Zhu, Shoudong Han, Jiefeng Chen, Bo Li, Alex ChiChung Kot", 9: 1875-1884 ,iotj
+23,Slicing-Based Reliable Resource Orchestration for Secure Software-Defined Edge-Cloud Computing Systems.,2022,"Jianhang Tang, Jiangtian Nie, Zehui Xiong, Jun Zhao, Yang Zhang, Dusit Niyato", 9: 2637-2648 ,iotj
+24,A GCICA Grant-Free Random Access Scheme for M2M Communications in Crowded Massive MIMO Systems.,2022,"Huimei Han, Lushun Fang, Weidang Lu, Wenchao Zhai, Ying Li, Jun Zhao", 9: 6032-6046 ,iotj
+25,Inconspicuous Adversarial Patches for Fooling Image-Recognition Systems on Mobile Devices.,2022,"Tao Bai, Jinqi Luo, Jun Zhao", 9: 9515-9524 ,iotj
+26,Poisson kernel: Avoiding self-smoothing in graph convolutional networks.,2022,"Ziqing Yang, Shoudong Han, Jun Zhao", 124: 108443 ,pr
+27,On Secure Communication in Sensor Networks Under q-Composite Key Predistribution With Unreliable Links.,2022,Jun Zhao, 70: 1085-1095 ,tcom
+28,Intelligent Reflecting Surface-Assisted Bistatic Backscatter Networks: Joint Beamforming and Reflection Design.,2022,"Xiaolun Jia, Xiangyun Zhou, Dusit Niyato, Jun Zhao", 6: 799-814 ,tgcn
+29,Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.,2022,"Huizi Xiao, Jun Zhao, Qingqi Pei, Jie Feng, Lei Liu, Weisong Shi", 23: 11073-11087 ,tits
+30,Secure Hot Path Crowdsourcing With Local Differential Privacy Under Fog Computing Architecture.,2022,"Mengmeng Yang, Ivan Tjuawinata, Kwok-Yan Lam, Jun Zhao, Lin Sun", 15: 2188-2201 ,tsc
+31,Reconfigurable Intelligent Surface-Assisted Secure Mobile Edge Computing Networks.,2022,"Sun Mao, Lei Liu, Ning Zhang, Mianxiong Dong, Jun Zhao, Jinsong Wu, Victor C. M. Leung", 71: 6647-6660 ,tvt
+32,Joint Transmit Precoding and Reflect Beamforming Design for IRS-Assisted MIMO Cognitive Radio Systems.,2022,"Weiheng Jiang, Yu Zhang, Jun Zhao, Zehui Xiong, Zhiguo Ding", 21: 3617-3631 ,twc
+33,Distributed Deep Reinforcement Learning-Based Spectrum and Power Allocation for Heterogeneous Networks.,2022,"Helin Yang, Jun Zhao, Kwok-Yan Lam, Zehui Xiong, Qingqing Wu, Liang Xiao", 21: 6935-6948 ,twc
+34,"Joint Node Activation, Beamforming and Phase-Shifting Control in IoT Sensor Network Assisted by Reconfigurable Intelligent Surface.",2022,"Yang Liu, Qingjiang Shi, Qingqing Wu, Jun Zhao, Ming Li", 21: 9325-9340 ,twc
+35,Slicing-Based Software-Defined Mobile Edge Computing in the Air.,2022,"Jianhang Tang, Jiangtian Nie, Jun Zhao, Yi Zhou, Zehui Xiong, Mohsen Guizani", 29: 119-125 ,wc
+36,Blockchain and 6G: The Future of Secure and Ubiquitous Communication.,2022,"Ali Hussain Khan, Naveed Ul Hassan, Chau Yuen, Jun Zhao, Dusit Niyato, Yan Zhang, H. Vincent Poor", 29: 194-201 ,wc
+37,Detection of Uncertainty in Exceedance of Threshold (DUET): An Adversarial Patch Localizer.,2022,"Terence Jie Chua, Wenhan Yu, Chang Liu, Jun Zhao", BDCAT 2022: 11-20,bdc
+38,"A Survey of Mobile Edge Computing for the Metaverse: Architectures, Applications, and Challenges.",2022,"Yitong Wang, Jun Zhao", CIC 2022: 1-9,coinco
+39,Joint Scheduling and Beamforming Design in Traffic-Aware RIS Aided MEC Network.,2022,"Aichen Li, Yang Liu, Qingqing Wu, Qingjiang Shi, Jun Zhao", GLOBECOM  2022: 1646-1651,globecom
+40,Resource Allocation and Resolution Control in the Metaverse with Mobile Augmented Reality.,2022,"Peiyuan Si, Jun Zhao, Huimei Han, Kwok-Yan Lam, Yang Liu", GLOBECOM 2022: 3265-3271,globecom
+41,Joint Optimization of Energy Consumption and Completion Time in Federated Learning.,2022,"Xinyu Zhou, Jun Zhao, Huimei Han, Claude Guet", ICDCS 2022: 1005-1017,icdcs
+42,Time Minimization in Hierarchical Federated Learning.,2022,"Chang Liu, Terence Jie Chua, Jun Zhao", SEC 2022: 96-106,ieeesec
+43,Edge-Cloud Cooperation for DNN Inference via Reinforcement Learning and Supervised Learning.,2022,"Tinghao Zhang, Zhijun Li, Yongrui Chen, Kwok-Yan Lam, Jun Zhao", iThings/GreenCom/CPSCom/SmartData/Cybermatics 2022: 77-84,ithings
+44,Resource Allocation for Mobile Metaverse with the Internet of Vehicles over 6G Wireless Communications: A Deep Reinforcement Learning Approach.,2022,"Terence Jie Chua, Wenhan Yu, Jun Zhao", WF-IoT 2022: 1-7,wf-iot
+45,Facial Landmark Predictions with Applications to Metaverse.,2022,"Qiao Han, Jun Zhao, Kwok-Yan Lam", WF-IoT 2022: 1-6,wf-iot
+46,Privacy-Preserving Aggregation in Federated Learning: A Survey.,2022,"Ziyao Liu, Jiale Guo, Wenzhuo Yang, Jiani Fan, Kwok-Yan Lam, Jun Zhao",17005 ,corr
+47,Efficient Dropout-resilient Aggregation for Privacy-preserving Machine Learning.,2022,"Ziyao Liu, Jiale Guo, Kwok-Yan Lam, Jun Zhao",17044 ,corr
+48,Resource Allocation for Mobile Metaverse with the Internet of Vehicles over 6G Wireless Communications: A Deep Reinforcement Learning Approach.,2022,"Terence Jie Chua, Wenhan Yu, Jun Zhao",13425 ,corr
+49,Resource Allocation and Resolution Control in the Metaverse with Mobile Augmented Reality.,2022,"Peiyuan Si, Jun Zhao, Huimei Han, Kwok-Yan Lam, Yang Liu",13871 ,corr
+50,"Mobile Edge Computing, Metaverse, 6G Wireless Communications, Artificial Intelligence, and Blockchain: Survey and Their Convergence.",2022,"Yitong Wang, Jun Zhao",14147 ,corr
+51,Facial Landmark Predictions with Applications to Metaverse.,2022,"Qiao Han, Jun Zhao, Kwok-Yan Lam",14698 ,corr
+52,Joint Optimization of Energy Consumption and Completion Time in Federated Learning.,2022,"Xinyu Zhou, Jun Zhao, Huimei Han, Claude Guet",14900 ,corr
+53,Time Minimization in Hierarchical Federated Learning.,2022,"Chang Liu, Terence Jie Chua, Jun Zhao",04689 ,corr
+54,Edge-Cloud Cooperation for DNN Inference via Reinforcement Learning and Supervised Learning.,2022,"Tinghao Zhang, Zhijun Li, Yongrui Chen, Kwok-Yan Lam, Jun Zhao",05182 ,corr
+55,Resource Allocation of Federated Learning for the Metaverse with Mobile Augmented Reality.,2022,"Xinyu Zhou, Chang Liu, Jun Zhao",08705 ,corr
+56,"A Survey of Mobile Edge Computing for the Metaverse: Architectures, Applications, and Challenges.",2022,"Yitong Wang, Jun Zhao",00481 ,corr
+57,Mobile Edge Computing for the Metaverse.,2022,"Chang Liu, Yitong Wang, Jun Zhao",09229 ,corr
+58,"Unified, User and Task (UUT) Centered Artificial Intelligence for Metaverse Edge Computing.",2022,"Terence Jie Chua, Wenhan Yu, Jun Zhao",09295 ,corr
+59,Enhancing Federated Learning with spectrum allocation optimization and device selection.,2022,"Tinghao Zhang, Kwok-Yan Lam, Jun Zhao, Feng Li, Huimei Han, Norziana Jamil",13544 ,corr
+60,Asynchronous Hybrid Reinforcement Learning for Latency and Reliability Optimization in the Metaverse over Wireless Communications.,2022,"Wenhan Yu, Terence Jie Chua, Jun Zhao",14749 ,corr
+61,Secure Beamforming for Multiple Intelligent Reflecting Surfaces Aided mmWave Systems.,2021,"Yue Xiu, Jun Zhao, Chau Yuen, Zhongpei Zhang, Guan Gui", 25: 417-421 ,icl
+62,Secrecy Rate Maximization for Reconfigurable Intelligent Surface Aided Millimeter Wave System With Low-Resolution DACs.,2021,"Yue Xiu, Jun Zhao, Wei Sun, Zhongpei Zhang", 25: 2166-2170 ,icl
+63,A novel random access scheme for M2M communication in crowded asynchronous massive MIMO systems.,2021,"Huimei Han, Wenchao Zhai, Ying Li, Weidang Lu, Jun Zhao", 15: 1597-1605 ,iet-com
+64,Local Differential Privacy for data collection and analysis.,2021,"Teng Wang, Jun Zhao, Zhi Hu, Xinyu Yang, Xuebin Ren, Kwok-Yan Lam", Neurocomputing 426: 114-133 ,ijon
+65,Price and capacity decisions in a telemedicine service system under government subsidy policy.,2021,"Xiaoli Wang, Zhiyong Zhang, Lei Yang, Jun Zhao", 59: 5130-5143 ,ijpr
+66,Blockchain for Future Smart Grid: A Comprehensive Survey.,2021,"Muhammad Baqer Mollah, Jun Zhao, Dusit Niyato, Kwok-Yan Lam, Xin Zhang, Amer M. Y. M. Ghias, Leong Hai Koh, Lei Yang", 8: 18-43 ,iotj
+67,Privacy-Preserving Blockchain-Based Federated Learning for IoT Devices.,2021,"Yang Zhao, Jun Zhao, Linshan Jiang, Rui Tan, Dusit Niyato, Zengxiang Li, Lingjuan Lyu, Yingbo Liu", 8: 1817-1829 ,iotj
+68,DPCrowd: Privacy-Preserving and Communication-Efficient Decentralized Statistical Estimation for Real-Time Crowdsourced Data.,2021,"Xuebin Ren, Chia-Mu Yu, Wei Yu, Xinyu Yang, Jun Zhao, Shusen Yang", 8: 2775-2791 ,iotj
+69,Blockchain for the Internet of Vehicles Towards Intelligent Transportation Systems: A Survey.,2021,"Muhammad Baqer Mollah, Jun Zhao, Dusit Niyato, Yong Liang Guan, Chau Yuen, Sumei Sun, Kwok-Yan Lam, Leong Hai Koh", 8: 4157-4185 ,iotj
+70,Local Differential Privacy-Based Federated Learning for Internet of Things.,2021,"Yang Zhao, Jun Zhao, Mengmeng Yang, Teng Wang, Ning Wang, Lingjuan Lyu, Dusit Niyato, Kwok-Yan Lam", 8: 8836-8853 ,iotj
+71,A Blockchain-Based Approach for Saving and Tracking Differential-Privacy Cost.,2021,"Yang Zhao, Jun Zhao, Jiawen Kang, Zehang Zhang, Dusit Niyato, Shuyu Shi, Kwok-Yan Lam", 8: 8865-8882 ,iotj
+72,Synthetic Data Generation with Differential Privacy via Bayesian Networks.,2021,"Ergute Bao, Xiaokui Xiao, Jun Zhao, Dongping Zhang, Bolin Ding", Confidentiality 11 ,jpc
+73,Privacy-Preserving Federated Learning for UAV-Enabled Networks: Learning-Based Joint Scheduling and Resource Management.,2021,"Helin Yang, Jun Zhao, Zehui Xiong, Kwok-Yan Lam, Sumei Sun, Liang Xiao", 39: 3144-3159 ,jsac
+74,Spectrum Sharing for 6G Integrated Satellite-Terrestrial Communication Networks Based on NOMA and CR.,2021,"Xin Liu, Kwok-Yan Lam, Feng Li, Jun Zhao, Li Wang, Tariq S. Durrani", 35: 28-34 ,network
+75,Deep robust multilevel semantic hashing for multi-label cross-modal retrieval.,2021,"Ge Song, Xiaoyang Tan, Jun Zhao, Ming Yang", 120: 108084 ,pr
+76,Intelligent Reflecting Surface-Aided Joint Processing Coordinated Multipoint Transmission.,2021,"Meng Hua, Qingqing Wu, Derrick Wing Kwan Ng, Jun Zhao, Luxi Yang", 69: 1650-1665 ,tcom
+77,Intelligent Reflecting Surface Aided MISO Uplink Communication Network: Feasibility and Power Minimization for Perfect and Imperfect CSI.,2021,"Yang Liu, Jun Zhao, Ming Li, Qingqing Wu", 69: 1975-1989 ,tcom
+78,Reflection Resource Management for Intelligent Reflecting Surface Aided Wireless Networks.,2021,"Yulan Gao, Chao Yong, Zehui Xiong, Jun Zhao, Yue Xiao, Dusit Niyato", 69: 6971-6986 ,tcom
+79,Reconfigurable Intelligent Surface Aided Power Control for Physical-Layer Broadcasting.,2021,"Huimei Han, Jun Zhao, Wenchao Zhai, Zehui Xiong, Dusit Niyato, Marco Di Renzo, Quoc-Viet Pham, Weidang Lu, Kwok-Yan Lam", 69: 7821-7836 ,tcom
+80,Residual-Sparse Fuzzy C-Means Clustering Incorporating Morphological Reconstruction and Wavelet Frame.,2021,"Cong Wang, Witold Pedrycz, ZhiWu Li, MengChu Zhou, Jun Zhao", 29: 3910-3924 ,tfs
+81,Enabling Cross-Chain Transactions: A Decentralized Cryptocurrency Exchange Protocol.,2021,"Hangyu Tian, Kaiping Xue, Xinyi Luo, Shaohua Li, Jie Xu, Jianqing Liu, Jun Zhao, David S. L. Wei", 16: 3928-3941 ,tifs
+82,Contract Design in Hierarchical Game for Sponsored Content Service Market.,2021,"Zehui Xiong, Jun Zhao, Yang Zhang, Dusit Niyato, Junshan Zhang", 20: 2763-2778 ,tmc
+83,Mobile User Trajectory Tracking for IRS Enabled Wireless Networks.,2021,"Deyou Zhang, Jun Zhao, Ang Li, Jun Li, Branka Vucetic, Yonghui Li", 70: 8331-8336 ,tvt
+84,Joint Active and Passive Beamforming Design for the IRS-Assisted MIMOME-OFDM Secure Communications.,2021,"Weiheng Jiang, Bolin Chen, Jun Zhao, Zehui Xiong, Zhiguo Ding", 70: 10369-10381 ,tvt
+85,A Novel Grant-Based Pilot Access Scheme for Crowded Massive MIMO Systems.,2021,"Huimei Han, Lushun Fang, Weidang Lu, Kaikai Chi, Wenchao Zhai, Jun Zhao", 70: 11111-11115 ,tvt
+86,Deep Reinforcement Learning-Based Intelligent Reflecting Surface for Secure Wireless Communications.,2021,"Helin Yang, Zehui Xiong, Jun Zhao, Dusit Niyato, Liang Xiao, Qingqing Wu", 20: 375-388 ,twc
+87,Intelligent Reflecting Surface Assisted Anti-Jamming Communications: A Fast Reinforcement Learning Approach.,2021,"Helin Yang, Zehui Xiong, Jun Zhao, Dusit Niyato, Qingqing Wu, H. Vincent Poor, Massimo Tornatore", 20: 1963-1974 ,twc
+88,Deep Reinforcement Learning Based Massive Access Management for Ultra-Reliable Low-Latency Communications.,2021,"Helin Yang, Zehui Xiong, Jun Zhao, Dusit Niyato, Chau Yuen, Ruilong Deng", 20: 2977-2990 ,twc
+89,"Reconfigurable Intelligent Surfaces Aided mmWave NOMA: Joint Power Allocation, Phase Shifts, and Hybrid Beamforming Optimization.",2021,"Yue Xiu, Jun Zhao, Wei Sun, Marco Di Renzo, Guan Gui, Zhongpei Zhang, Ning Wei", 20: 8393-8409 ,twc
+90,Uplink Achievable Rate Maximization for Reconfigurable Intelligent Surface Aided Millimeter Wave Systems With Resolution-Adaptive ADCs.,2021,"Yue Xiu, Jun Zhao, Ertugrul Basar, Marco Di Renzo, Wei Sun, Guan Gui, Ning Wei", 10: 1608-1612 ,wcl
+91,Generating Adversarial yet Inconspicuous Patches with a Single Image (Student Abstract).,2021,"Jinqi Luo, Tao Bai, Jun Zhao", AAAI 2021: 15837-15838,aaai
+92,Joint Transmit Precoding and Reflect Beamforming for IRS-Assisted MIMO-OFDM Secure Communications.,2021,"Weiheng Jiang, Bolin Chen, Sahil Garg, Jiangtian Nie, Jun Zhao, Zehui Xiong", GLOBECOM 2021: 1-6,globecom
+93,3D Beamforming Based on Deep Learning for Secure Communication in 5G and Beyond Wireless Networks.,2021,"Helin Yang, Kwok-Yan Lam, Jiangtian Nie, Jun Zhao, Sahil Garg, Liang Xiao, Zehui Xiong, Mohsen Guizani", GLOBECOM  2021: 1-6,globecom
+94,Joint Time Allocation and Beamforming Design for IRS-Aided Coexistent Cellular and Sensor Networks.,2021,"Yanze Zhu, Yang Liu, Jun Zhao, Ming Li, Qingqing Wu", GLOBECOM 2021: 1-6,globecom
+95,Intelligent Reflecting Surface Aided MISO Uplink Wireless Network: Feasibility and Power Control.,2021,"Yang Liu, Jun Zhao, Ming Li, Qingqing Wu", ICC Workshops 2021: 1-6,icc
+96,6G Downlink Transmission via Rate Splitting Space Division Multiple Access Based on Grouped Code Index Modulation.,2021,"Wenchao Zhai, Yishan Wu, Jun Zhao, Huimei Han", ICC Workshops 2021: 1-6,icc
+97,Joint Scheduling Design in Wireless Powered MEC IoT Networks Aided by Reconfigurable Intelligent Surface.,2021,"Aichen Li, Yang Liu, Ming Li, Qingqing Wu, Jun Zhao", ICCC Workshops 2021: 159-164,iccchina
+98,AI-GAN: Attack-Inspired Generation of Adversarial Examples.,2021,"Tao Bai, Jun Zhao, Jinlin Zhu, Shoudong Han, Jiefeng Chen, Bo Li, Alex C. Kot", ICIP 2021: 2543-2547,icip
+99,Recent Advances in Adversarial Training for Adversarial Robustness.,2021,"Tao Bai, Jinqi Luo, Jun Zhao, Bihan Wen, Qian Wang", IJCAI 2021: 4312-4321,ijcai
+100,Multi-Task Deep Neural Networks for Multi-Document Reading Comprehension.,2021,"Chang Liu, Zhuang Liu, Wayne Lin, Jun Zhao", IJCNN 2021: 1-8,ijcnn
+101,UAV-Assisted 5G/6G Networks: Joint Scheduling and Resource Allocation Based on Asynchronous Reinforcement Learning.,2021,"Helin Yang, Jun Zhao, Jiangtian Nie, Neeraj Kumar, Kwok-Yan Lam, Zehui Xiong", INFOCOM Workshops 2021: 1-6,infocom
+102,A Data-Free Approach for Targeted Universal Adversarial Perturbation.,2021,"Xiaoyu Wang, Tao Bai, Jun Zhao", SciSec 2021: 126-138,scisec
+103,Privacy-Enhanced Federated Learning with Weighted Aggregation.,2021,"Jiale Guo, Ziyao Liu, Kwok-Yan Lam, Jun Zhao, Yiqiang Chen", SocialSec 2021: 93-109,socialsec
+104,IRS-Assisted Millimeter Wave Communications: Joint Power Allocation and Beamforming Design.,2021,"Yue Xiu, Yang Zhao, Yang Liu, Jun Zhao, Osman Yagan, Ning Wei", WCNC Workshops 2021: 1-6,wcnc
+105,Deep Reinforcement Learning Based Resource Allocation for Heterogeneous Networks.,2021,"Helin Yang, Jun Zhao, Kwok-Yan Lam, Sahil Garg, Qingqing Wu, Zehui Xiong", WiMob 2021: 253-258,wimob
+106,Sum-Rate Maximization for UAV-assisted Visible Light Communications using NOMA: Swarm Intelligence meets Machine Learning.,2021,"Quoc-Viet Pham, Thien Huynh-The, Mamoun Alazab, Jun Zhao, Won-Joo Hwang",03498 ,corr
+107,Recent Advances in Adversarial Training for Adversarial Robustness.,2021,"Tao Bai, Jinqi Luo, Jun Zhao, Bihan Wen, Qian Wang",01356 ,corr
+108,6G Downlink Transmission via Rate Splitting Space Division Multiple Access Based on Grouped Code Index Modulation.,2021,"Wenchao Zhai, Yishan Wu, Jun Zhao, Huimei Han",00829 ,corr
+109,Fair and Differentially Private Distributed Frequency Estimation.,2021,"Mengmeng Yang, Ivan Tjuawinata, Kwok-Yan Lam, Tianqing Zhu, Jun Zhao",05974 ,corr
+110,Blockchain and 6G: The Future of Secure and Ubiquitous Communication.,2021,"Ali Hussain Khan, Naveed Ul Hassan, Chau Yuen, Jun Zhao, Dusit Niyato, Yan Zhang, H. Vincent Poor",05673 ,corr
+111,Inconspicuous Adversarial Patches for Fooling Image Recognition Systems on Mobile Devices.,2021,"Tao Bai, Jinqi Luo, Jun Zhao",15202 ,corr
+112,"Blockchain for Edge of Things: Applications, Opportunities, and Challenges.",2021,"Thippa Reddy Gadekallu, Quoc-Viet Pham, Dinh C. Nguyen, Praveen Kumar Reddy Maddikunta, Natarajan Deepa, Prabadevi B, Pubudu N. Pathirana, Jun Zhao, Won-Joo Hwang",05022 ,corr
+113,Adversarial Purification through Representation Disentanglement.,2021,"Tao Bai, Jun Zhao, Lanqing Guo, Bihan Wen",07801 ,corr
+114,Towards Efficiently Evaluating the Robustness of Deep Neural Networks in IoT Systems: A GAN-based Method.,2021,"Tao Bai, Jun Zhao, Jinlin Zhu, Shoudong Han, Jiefeng Chen, Bo Li, Alex C. Kot",10055 ,corr
+115,Blockchain-Enabled Federated Learning With Mechanism Design.,2020,"Kentaroh Toyoda, Jun Zhao, Allan NengSheng Zhang, P. Takis Mathiopoulos", IEEE Access 8: 219744-219756 ,access
+116,Sum-Rate Maximization for UAV-Assisted Visible Light Communications Using NOMA: Swarm Intelligence Meets Machine Learning.,2020,"Quoc-Viet Pham, Thien Huynh-The, Mamoun Alazab, Jun Zhao, Won-Joo Hwang", 7: 10375-10387 ,iotj
+117,Dynamic discovery of favorite locations in spatio-temporal social networks.,2020,"Xi Xiong, Fei Xiong, Jun Zhao, Shaojie Qiao, Yuanyuan Li, Ying Zhao", 57: 102337 ,ipm
+118,Artificial-Intelligence-Enabled Intelligent 6G Networks.,2020,"Helin Yang, Arokiaswami Alphones, Zehui Xiong, Dusit Niyato, Jun Zhao, Kaishun Wu", 34: 272-280 ,network
+119,Reward Optimization for Content Providers With Mobile Data Subsidization: A Hierarchical Game Approach.,2020,"Zehui Xiong, Jun Zhao, Dusit Niyato, Ruilong Deng, Junshan Zhang", 7: 2363-2377 ,tnse
+120,Towards the Future Data Market: Reward Optimization in Mobile Data Subsidization.,2020,"Zehui Xiong, Jun Zhao, Jiawen Kang, Dusit Niyato, Ruilong Deng, Shengli Xie", 6GN 2020: 173-189,5gwn
+121,POSTER: Attacks to Federated Learning: Responsive Web User Interface to Recover Training Data from User Gradients.,2020,"Hans Albert Lianto, Yang Zhao, Jun Zhao", AsiaCCS 2020: 901-903,ccs
+122,POSTER: Blockchain-Based Differential Privacy Cost Management System.,2020,"Leong Mei Han, Yang Zhao, Jun Zhao", AsiaCCS 2020: 925-927,ccs
+123,A Stackelberg Game Approach to Resource Allocation for IRS-aided Communications.,2020,"Yulan Gao, Chao Yong, Zehui Xiong, Dusit Niyato, Yue Xiao, Jun Zhao", GLOBECOM 2020: 1-6,globecom
+124,Resource Allocation for Intelligent Reflecting Surface Aided Cooperative Communications.,2020,"Yulan Gao, Chao Yong, Zehui Xiong, Dusit Niyato, Yue Xiao, Jun Zhao", GLOBECOM 2020: 1-6,globecom
+125,Intelligent Reflecting Surface-Aided Backscatter Communications.,2020,"Xiaolun Jia, Jun Zhao, Xiangyun Zhou, Dusit Niyato", GLOBECOM 2020: 1-6,globecom
+126,Intelligent Reflecting Surface Assisted Anti-Jamming Communications Based on Reinforcement Learning.,2020,"Helin Yang, Zehui Xiong, Jun Zhao, Dusit Niyato, Qingqing Wu, Massimo Tornatore, Stefano Secci", GLOBECOM 2020: 1-6,globecom
+127,Deep Reinforcement Learning Based Intelligent Reflecting Surface for Secure Wireless Communications.,2020,"Helin Yang, Yang Zhao, Zehui Xiong, Jun Zhao, Dusit Niyato, Kwok-Yan Lam, Qingqing Wu", GLOBECOM 2020: 1-6,globecom
+128,Reconfigurable Intelligent Surface for MISO Systems with Proportional Rate Constraints.,2020,"Yulan Gao, Chao Yong, Zehui Xiong, Dusit Niyato, Yue Xiao, Jun Zhao", ICC 2020: 1-7,icc
+129,Intelligent Reflecting Surface Aided Network: Power Control for Physical-Layer Broadcasting.,2020,"Huimei Han, Jun Zhao, Dusit Niyato, Marco Di Renzo, Quoc-Viet Pham", ICC 2020: 1-7,icc
+130,Secrecy Rate Maximization for Intelligent Reflecting Surface Aided SWIPT Systems.,2020,"Wei Sun, Qingyang Song, Lei Guo, Jun Zhao", ICCC 2020: 1226-1231,iccchina
+131,An Analysis of Blockchain Consistency in Asynchronous Networks: Deriving a Neat Bound.,2020,"Jun Zhao, Jing Tang, Zengxiang Li, Huaxiong Wang, Kwok-Yan Lam, Kaiping Xue", ICDCS 2020: 179-189,icdcs
+132,An Adaptive and Fast Convergent Approach to Differentially Private Deep Learning.,2020,"Zhiying Xu, Shuyu Shi, Alex X. Liu, Jun Zhao, Lin Chen", INFOCOM 2020: 1867-1876,infocom
+133,Seasonal Self-evolving Neural Networks Based Short-term Wind Farm Generation Forecast.,2020,"Yunchuan Liu, Amir Ghasemkhani, Lei Yang, Jun Zhao, Junshan Zhang, Vijay Vittal", SmartGridComm 2020: 1-6,smartgridcomm
+134,Towards Distributed Privacy-Preserving Prediction.,2020,"Lingjuan Lyu, Yee Wei Law, Kee Siong Ng, Shibei Xue, Jun Zhao, Mengmeng Yang, Lei Liu", SMC 2020: 4179-4184,smc
+135,Resource Allocation in Mobility-Aware Federated Learning Networks: A Deep Reinforcement Learning Approach.,2020,"Huy Thanh Nguyen, Nguyen Cong Luong, Jun Zhao, Chau Yuen, Dusit Niyato", WF-IoT 2020: 1-6,wf-iot
+136,Threats to Federated Learning.,2020,"Lingjuan Lyu, Han Yu, Jun Zhao, Qiang Yang", Federated Learning 2020: 3-16,lncs
+137,A Blockchain-Based Approach for Saving and Tracking Differential-Privacy Cost.,2020,"Yang Zhao, Jun Zhao, Jiawen Kang, Zehang Zhang, Dusit Niyato, Shuyu Shi",09259 ,corr
+138,Reconfigurable Intelligent Surface for MISO Systems with Proportional Rate Constraints.,2020,"Yulan Gao, Chao Yong, Zehui Xiong, Dusit Niyato, Yue Xiao, Jun Zhao",10845 ,corr
+139,Reflection Resource Management for Intelligent Reflecting Surface Aided Wireless Networks.,2020,"Yulan Gao, Chao Yong, Zehui Xiong, Jun Zhao, Yue Xiao, Dusit Niyato",00331 ,corr
+140,AI-GAN: Attack-Inspired Generation of Adversarial Examples.,2020,"Tao Bai, Jun Zhao, Jinlin Zhu, Shoudong Han, Jiefeng Chen, Bo Li",02196 ,corr
+141,Poisson Kernel Avoiding Self-Smoothing in Graph Convolutional Networks.,2020,"Ziqing Yang, Shoudong Han, Jun Zhao",02589 ,corr
+142,Deep Robust Multilevel Semantic Cross-Modal Hashing.,2020,"Ge Song, Jun Zhao, Xiaoyang Tan",02698 ,corr
+143,Residual-Sparse Fuzzy C-Means Clustering Incorporating Morphological Reconstruction and Wavelet frames.,2020,"Cong Wang, Witold Pedrycz, ZhiWu Li, MengChu Zhou, Jun Zhao",08418 ,corr
+144,Refinements in Motion and Appearance for Online Multi-Object Tracking.,2020,"Piao Huang, Shoudong Han, Jun Zhao, Donghaisheng Liu, Hongwei Wang, En Yu, Alex ChiChung Kot",07177 ,corr
+145,Intelligent Reflecting Surface-Aided Joint Processing Coordinated Multipoint Transmission.,2020,"Meng Hua, Qingqing Wu, Derrick Wing Kwan Ng, Jun Zhao, Luxi Yang",13909 ,corr
+146,Local Differential Privacy based Federated Learning for Internet of Things.,2020,"Yang Zhao, Jun Zhao, Mengmeng Yang, Teng Wang, Ning Wang, Lingjuan Lyu, Dusit Niyato, Kwok-Yan Lam",08856 ,corr
+147,Intelligent Reflecting Surface-Aided Backscatter Communications.,2020,"Xiaolun Jia, Jun Zhao, Xiangyun Zhou, Dusit Niyato",09059 ,corr
+148,Enabling Cross-chain Transactions: A Decentralized Cryptocurrency Exchange Protocol.,2020,"Hangyu Tian, Kaiping Xue, Shaohua Li, Jie Xu, Jianqing Liu, Jun Zhao",03199 ,corr
+149,Blockchain-Based Differential Privacy Cost Management System.,2020,"Leong Mei Han, Yang Zhao, Jun Zhao",04693 ,corr
+150,Responsive Web User Interface to Recover Training Data from User Gradients in Federated Learning.,2020,"Hans Albert Lianto, Yang Zhao, Jun Zhao",04695 ,corr
+151,"Reconfigurable Intelligent Surfaces Aided mmWave NOMA: Joint Power Allocation,Phase Shifts, and Hybrid Beamforming Optimization.",2020,"Yue Xiu, Jun Zhao, Wei Sun, Marco Di Renzo, Guan Gui, Zhongpei Zhang, Ning Wei",05873 ,corr
+152,Blockchain for the Internet of Vehicles towards Intelligent Transportation Systems: A Survey.,2020,"Muhammad Baqer Mollah, Jun Zhao, Dusit Niyato, Yong Liang Guan, Chau Yuen, Sumei Sun, Kwok-Yan Lam, Leong Hai Koh",06022 ,corr
+153,Clustering and Power Allocation for UAV-assisted NOMA-VLC Systems: A Swarm Intelligence Approach.,2020,"Quoc-Viet Pham, Nhu-Ngoc Dao, Thien Huynh-The, Jun Zhao, Won-Joo Hwang",15430 ,corr
+154,Local Differential Privacy and Its Applications: A Comprehensive Survey.,2020,"Mengmeng Yang, Lingjuan Lyu, Jun Zhao, Tianqing Zhu, Kwok-Yan Lam",03686 ,corr
+155,MAT: Motion-Aware Multi-Object Tracking.,2020,"Shoudong Han, Piao Huang, Hongwei Wang, En Yu, Donghaisheng Liu, Xiaofeng Pan, Jun Zhao",04794 ,corr
+156,Generating Adversarial yet Inconspicuous Patches with a Single Image.,2020,"Jinqi Luo, Tao Bai, Jun Zhao, Bo Li",09774 ,corr
+157,Feature Distillation With Guided Adversarial Contrastive Learning.,2020,"Tao Bai, Jinnan Chen, Jun Zhao, Bihan Wen, Xudong Jiang, Alex C. Kot",09922 ,corr
+158,FTN: Foreground-Guided Texture-Focused Person Re-Identification.,2020,"Donghaisheng Liu, Shoudong Han, Yang Chen, Chenfei Xia, Jun Zhao",11425 ,corr
+159,Intelligent reflecting surface aided wireless networks-Harris Hawks optimization for beamforming design.,2020,"Huaqiang Xu, Guodong Zhang, Jun Zhao, Quoc-Viet Pham",01900 ,corr
+160,Secure Weighted Aggregation in Federated Learning.,2020,"Jiale Guo, Ziyao Liu, Kwok-Yan Lam, Jun Zhao, Yiqiang Chen, Chaoping Xing",08730 ,corr
+161,Intelligent Reflecting Surface-Assisted Bistatic Backscatter Networks: Joint Beamforming and Reflection Design.,2020,"Xiaolun Jia, Xiangyun Zhou, Dusit Niyato, Jun Zhao",08947 ,corr
+162,Recent Advances in Understanding Adversarial Robustness of Deep Neural Networks.,2020,"Tao Bai, Jinqi Luo, Jun Zhao",01539 ,corr
+163,Privacy-Preserving Federated Learning for UAV-Enabled Networks: Learning-Based Joint Scheduling and Resource Management.,2020,"Helin Yang, Jun Zhao, Zehui Xiong, Kwok-Yan Lam, Sumei Sun, Liang Xiao",14197 ,corr
+164,Privacy and Robustness in Federated Learning: Attacks and Defenses.,2020,"Lingjuan Lyu, Han Yu, Xingjun Ma, Lichao Sun, Jun Zhao, Qiang Yang, Philip S. Yu",06337 ,corr
+165,A Stackelberg Game Approach to Resource Allocation for IRS-aided Communications.,2020,"Yulan Gao, Chao Yong, Zehui Xiong, Dusit Niyato, Yue Xiao, Jun Zhao",08989 ,corr
+166,Blockchain-Based Approach for Securing Spectrum Trading in Multibeam Satellite Systems.,2020,"Feng Li, Kwok-Yan Lam, Min Jia, Jun Zhao, Xiuhua Li, Li Wang",10681 ,corr
+167,LSTM-Aided Hybrid Random Access Scheme for 6G Heterogeneous MTC Networks.,2020,"Huimei Han, Wenchao Zhai, Weidang Lu, Xinyuan Yang, Liping Qian, Jun Zhao",13537 ,corr
+168,A GCICA Grant-Free Random Access Scheme for M2M Communications in Crowded Massive MIMO Systems.,2020,"Huimei Han, Lushun Fang, Weidang Lu, Wenchao Zhai, Ying Li, Jun Zhao",13539 ,corr
+169,Secure Hot Path Crowdsourcing with Local Differential Privacy under Fog Computing Architecture.,2020,"Mengmeng Yang, Ivan Tjuawinata, Kwok-Yan Lam, Jun Zhao, Lin Sun",13807 ,corr
+170,ANL: Anti-Noise Learning for Cross-Domain Person Re-Identification.,2020,"Hongliang Zhang, Shoudong Han, Xiaofeng Pan, Jun Zhao",13853 ,corr

@@ -1,0 +1,47 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,3D Class A Bézier curves with monotone curvature.,2023,"Aizeng Wang, Chuan He, Jianmin Zheng, Gang Zhao", 159: 103501 ,cad
+1,Self-Parameterization Based Multi-Resolution Mesh Convolution Networks.,2023,"Hezi Shi, Luo Jiang, Jianmin Zheng, Jun Zeng", 162: 103550 ,cad
+2,Guest Editorial: Proceedings of SPM 2023 Symposium.,2023,"Lucia Romani, Jianmin Zheng, Morad Behandish", 164: 103596 ,cad
+3,Generative Multiform Bayesian Optimization.,2023,"Zhendong Guo, Haitao Liu, Yew-Soon Ong, Xinghua Qu, Yuzhe Zhang, Jianmin Zheng", 53: 4347-4360 ,tcyb
+4,ESO-Based Model-Free Adaptive Iterative Learning Energy-Efficient Control for Subway Train With Disturbances and Over-Speed Protection.,2023,"Jianmin Zheng, Zhongsheng Hou", 24: 8136-8148 ,tits
+5,Multi-objective Anti-swing Trajectory Planning of Double-pendulum Tower Crane Operations using Opposition-based Evolutionary Algorithm.,2023,"Souravik Dutta, Yiyu Cai, Jianmin Zheng",18745 ,corr
+6,ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces.,2023,"Qianyi Wu, Kaisiyuan Wang, Kejie Li, Jianmin Zheng, Jianfei Cai",07868 ,corr
+7,Seamless simplification of multi-chart textured meshes with adaptively updated correspondence.,2022,"Wenjing Zhang, Jianmin Zheng, Yiyu Cai, Anders Ynnerman", 106: 77-87 ,cg
+8,Constructing self-supporting surfaces with planar quadrilateral elements.,2022,"Long Ma, Sidan Yao, Jianmin Zheng, Yang Liu, Yuanfeng Zhou, Shi-Qing Xin, Ying He", Media 8: 571-583 ,cvm
+9,Engagement estimation of the elderly from wild multiparty human-robot interaction.,2022,"Zhijie Zhang, Jianmin Zheng, Nadia Magnenat-Thalmann", Virtual Worlds 33 ,jvca
+10,GeoConv: Geodesic guided convolution for facial action unit recognition.,2022,"Yuedong Chen, Guoxian Song, Zhiwen Shao, Jianfei Cai, Tat-Jen Cham, Jianmin Zheng", 122: 108355 ,pr
+11,Facial Expression Retargeting From Human to Avatar Made Easy.,2022,"Juyong Zhang, Keyu Chen, Jianmin Zheng", 28: 1274-1287 ,tvcg
+12,Truncated octree and its applications.,2022,"Naimin Koh, Pradeep Kumar Jayaraman, Jianmin Zheng", 38: 1167-1179 ,vc
+13,Generative design of decorative architectural parts.,2022,"Yuzhe Zhang, Wayne Ong Chan Chi, Jianmin Zheng, Seng Tjhen Lie, Zhendong Guo", 38: 1209-1225 ,vc
+14,BEACon: a boundary embedded attentional convolution network for point cloud instance segmentation.,2022,"Tianrui Liu, Yiyu Cai, Jianmin Zheng, Nadia Magnenat-Thalmann", 38: 2303-2313 ,vc
+15,Data-Driven Model Free Adaptive Iterative Learning Compensation Control for MIMO Nonlinear System with Sensor Faults.,2022,"Jianmin Zheng, Zhongsheng Hou", ASCC 2022: 2169-2174,ascc
+16,Real and Apparent Personality Prediction in Human-Human Interaction.,2022,"Zhijie Zhang, Jianmin Zheng, Nadia Magnenat-Thalmann", CW 2022: 187-194,cw
+17,Object-Compositional Neural Implicit Surfaces.,2022,"Qianyi Wu, Xian Liu, Yuedong Chen, Kejie Li, Chuanxia Zheng, Jianfei Cai, Jianmin Zheng", ECCV  2022: 197-213,eccv
+18,ExtrudeNet: Unsupervised Inverse Sketch-and-Extrude for Shape Parsing.,2022,"Daxuan Ren, Jianmin Zheng, Jianfei Cai, Jiatong Li, Junzhe Zhang", ECCV  2022: 482-498,eccv
+19,Real-time Shadow-aware Portrait Relighting in Virtual Backgrounds for Realistic Telepresence.,2022,"Guoxian Song, Tat-Jen Cham, Jianfei Cai, Jianmin Zheng", ISMAR 2022: 729-738,ismar
+20,"IEEE International Symposium on Mixed and Augmented Reality, ISMAR 2022, Singapore, October 17-21, 2022.",2022,"Henry B. L. Duh, Ian Williams, Jens Grubert, J. Adam Jones, Jianmin Zheng"," IEEE 2022, ISBN 978-1-6654-5325-7 ",ismar
+21,Object-Compositional Neural Implicit Surfaces.,2022,"Qianyi Wu, Xian Liu, Yuedong Chen, Kejie Li, Chuanxia Zheng, Jianfei Cai, Jianmin Zheng",09686 ,corr
+22,ExtrudeNet: Unsupervised Inverse Sketch-and-Extrude for Shape Parsing.,2022,"Daxuan Ren, Jianmin Zheng, Jianfei Cai, Jiatong Li, Junzhe Zhang",15632 ,corr
+23,Half-body Portrait Relighting with Overcomplete Lighting Representation.,2021,"Guoxian Song, Tat-Jen Cham, Jianfei Cai, Jianmin Zheng", Forum 40: 371-381 ,cgf
+24,Towards Complex and Continuous Manipulation: A Gesture Based Anthropomorphic Robotic Hand Design.,2021,"Li Tian, Hanhui Li, Qifa Wang, Xuezeng Du, Jialin Tao, Jordan Sia Chong, Nadia Magnenat-Thalmann, Jianmin Zheng", 6: 5461-5468 ,ral
+25,Server Allocation for Massively Multiplayer Online Cloud Games Using Evolutionary Optimization.,2021,"Meiqi Zhao, Jianmin Zheng, Elvis S. Liu", 17: 51:1-51:23 ,tomccap
+26,Neighborhood-based Neural Implicit Reconstruction from Point Clouds.,2021,"Haiyong Jiang, Jianfei Cai, Jianmin Zheng, Jun Xiao", 3DV 2021: 1259-1268,3dim
+27,CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing.,2021,"Daxuan Ren, Jianmin Zheng, Jianfei Cai, Jiatong Li, Haiyong Jiang, Zhongang Cai, Junzhe Zhang, Liang Pan, Mingyuan Zhang, Haiyu Zhao, Shuai Yi", ICCV 2021: 12458-12467,iccv
+28,Engagement Intention Estimation in Multiparty Human-Robot Interaction.,2021,"Zhijie Zhang, Jianmin Zheng, Nadia Magnenat-Thalmann", RO-MAN 2021: 117-122,ro-man
+29,Half-body Portrait Relighting with Overcomplete Lighting Representation.,2021,"Guoxian Song, Tat-Jen Cham, Jianfei Cai, Jianmin Zheng",13425 ,corr
+30,CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing.,2021,"Daxuan Ren, Jianmin Zheng, Jianfei Cai, Jiatong Li, Haiyong Jiang, Zhongang Cai, Junzhe Zhang, Liang Pan, Mingyuan Zhang, Haiyu Zhao, Shuai Yi",11305 ,corr
+31,Algebraic and geometric characterizations of a class of planar quartic curves with rational offsets.,2020,"Kai Hormann, Jianmin Zheng", 79: 101873 ,cagd
+32,Tetrahedral mesh deformation with positional constraints.,2020,"Wenjing Zhang, Yuewen Ma, Jianmin Zheng, William J. Allen", 81: 101909 ,cagd
+33,Proxy-driven free-form deformation by topology-adjustable control lattice.,2020,"Yuzhe Zhang, Jianmin Zheng, Yiyu Cai", 89: 167-177 ,cg
+34,Recovering facial reflectance and geometry from multi-view images.,2020,"Guoxian Song, Jianmin Zheng, Jianfei Cai, Tat-Jen Cham", 96: 103897 ,ivc
+35,Disentangled Human Body Embedding Based on Deep Hierarchical Neural Network.,2020,"Boyi Jiang, Juyong Zhang, Jianfei Cai, Jianmin Zheng", 26: 2560-2575 ,tvcg
+36,End-to-End 3D Point Cloud Instance Segmentation Without Detection.,2020,"Haiyong Jiang, Feilong Yan, Jianfei Cai, Jianmin Zheng, Jun Xiao", CVPR 2020: 12793-12802,cvpr
+37,Parallel Point Cloud Compression Using Truncated Octree.,2020,"Naimin Koh, Pradeep Kumar Jayaraman, Jianmin Zheng", CW 2020: 1-8,cw
+38,Creative Corbel Modeling Using Evolution Principle.,2020,"Yuzhe Zhang, Wayne Ong Chan Chi, Jianmin Zheng, Seng Tjhen Lie", CW 2020: 9-16,cw
+39,Adaptive Informative Sampling with Environment Partitioning for Heterogeneous Multi-Robot Systems.,2020,"Yunfei Shi, Ning Wang, Jianmin Zheng, Yang Zhang, Sha Yi, Wenhao Luo, Katia P. Sycara", IROS 2020: 11718-11723,iros
+40,Visual Analysis of the Impact of Neural Network Hyper-Parameters.,2020,"Daniel Jönsson, Gabriel Eilertsen, Hezi Shi, Jianmin Zheng, Anders Ynnerman, Jonas Unger", MLVis@Eurographics/EuroVis 2020: 13-17,mlvis-ws
+41,Modeling Caricature Expressions by 3D Blendshape and Dynamic Texture.,2020,"Keyu Chen, Jianmin Zheng, Jianfei Cai, Juyong Zhang", ACM Multimedia 2020: 3228-3236,mm
+42,Facial Expression Retargeting from Human to Avatar Made Easy.,2020,"Juyong Zhang, Keyu Chen, Jianmin Zheng",05110 ,corr
+43,Modeling Caricature Expressions by 3D Blendshape and Dynamic Texture.,2020,"Keyu Chen, Jianmin Zheng, Jianfei Cai, Juyong Zhang",05714 ,corr
+44,Fast 3D Modeling of Anthropomorphic Robotic Hands Based on A Multi-layer Deformable Design.,2020,"Li Tian, Hanhui Li, Muhammad Faaiz Khan Bin Abdul Halil, Nadia Magnenat-Thalmann, Daniel Thalmann, Jianmin Zheng",03742 ,corr
+45,Towards Complex and Continuous Manipulation: A Gesture Based Anthropomorphic Robotic Hand Design.,2020,"Li Tian, Hanhui Li, Qifa Wang, Xuezeng Du, Jialin Tao, Jordan Sia Chong, Nadia Magnenat-Thalmann, Jianmin Zheng",10981 ,corr

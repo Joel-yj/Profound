@@ -1,0 +1,142 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,CAreFL: Enhancing smart healthcare with Contribution-Aware Federated Learning.,2023,"Zelei Liu, Yuanyuan Chen, Yansong Zhao, Han Yu, Yang Liu, Renyi Bao, Jinpeng Jiang, Zaiqing Nie, Qian Xu, Qiang Yang", 44: 4-15 ,aim
+1,Intelligent online selling point extraction and generation for e-commerce recommendation.,2023,"Xiaojie Guo, Shugen Wang, Hanqing Zhao, Shiliang Diao, Jiajia Chen, Zhuoye Ding, Zhen He, Jianchao Lu, Yun Xiao, Bo Long, Han Yu, Lingfei Wu", 44: 16-29 ,aim
+2,Automatic product copywriting for e-commerce.,2023,"Yanyan Zou, Xueying Zhang, Jing Zhou, Shiliang Diao, Jiajia Chen, Zhuoye Ding, Zhen He, Xueqi He, Yun Xiao, Bo Long, Mian Ma, Sulong Xu, Han Yu, Lingfei Wu", 44: 41-53 ,aim
+3,EFedDSA: An Efficient Differential Privacy-Based Horizontal Federated Learning Approach for Smart Grid Dynamic Security Assessment.,2023,"Chao Ren, Tianjing Wang, Han Yu, Yan Xu, Zhao Yang Dong", 13: 817-828 ,esticas
+4,Temporal Density-aware Sequential Recommendation Networks with Contrastive Learning.,2023,"Jihu Wang, Yuliang Shi, Han Yu, Kun Zhang, Xinjun Wang, Zhongmin Yan, Hui Li", 211: 118563 ,eswa
+5,KLECA: knowledge-level-evolution and category-aware personalized knowledge recommendation.,2023,"Lin Cheng, Yuliang Shi, Lin Li, Han Yu, Xinjun Wang, Zhongmin Yan", 65: 1045-1065 ,kais
+6,A multimodal approach for improving market price estimation in online advertising.,2023,"Tengyun Wang, Haizhi Yang, Yang Liu, Han Yu, Hengjie Song", 266: 110392 ,kbs
+7,Bayesian Co-evolutionary Optimization based entropy search for high-dimensional many-objective optimization.,2023,"Hongli Bian, Jie Tian, Jialiang Yu, Han Yu", 274: 110630 ,kbs
+8,A novel KG-based recommendation model via relation-aware attentional GCN.,2023,"Jihu Wang, Yuliang Shi, Han Yu, Zhongmin Yan, Hui Li, Zhenjie Chen", 275: 110702 ,kbs
+9,Securing Federated Learning: A Covert Communication-Based Approach.,2023,"Yuan-Ai Xie, Jiawen Kang, Dusit Niyato, Nguyen Thi Thanh Van, Nguyen Cong Luong, Zhixin Liu, Han Yu", 37: 118-124 ,network
+10,Capsule neural tensor networks with multi-aspect information for Few-shot Knowledge Graph Completion.,2023,"Qianyu Li, Jiale Yao, Xiaoli Tang, Han Yu, Siyu Jiang, Haizhi Yang, Hengjie Song", Neural Networks 164: 323-334 ,nn
+11,Dynamically Optimizing Display Advertising Profits Under Diverse Budget Settings.,2023,"Haizhi Yang, Tengyun Wang, Xiaoli Tang, Han Yu, Fei Liu, Hengjie Song", 35: 362-376 ,tkde
+12,AliExpress Learning-to-Rank: Maximizing Online Model Performance Without Going Online.,2023,"Guangda Huzhang, Zhen-Jia Pang, Yongqing Gao, Yawen Liu, Weijie Shen, Wen-Ji Zhou, Qianying Lin, Qing Da, Anxiang Zeng, Han Yu, Yang Yu, Zhi-Hua Zhou", 35: 1214-1226 ,tkde
+13,Multicomponent Adversarial Domain Adaptation: A General Framework.,2023,"Chang'an Yi, Haotian Chen, Yonghui Xu, Huanhuan Chen, Yong Liu, Haishu Tan, Yuguang Yan, Han Yu", 34: 6824-6838 ,tnn
+14,Evolutionary Carrier Selection for Shared Truck Delivery Services.,2023,"Rakpong Kaewpuang, Suttinee Sawadsitang, Dusit Niyato, Han Yu", 72: 6778-6782 ,tvt
+15,Efficient Training of Large-Scale Industrial Fault Diagnostic Models through Federated Opportunistic Block Dropout.,2023,"Yuanyuan Chen, Zichen Chen, Sheng Guo, Yansong Zhao, Zelei Liu, Pengcheng Wu, Chengyi Yang, Zengxiang Li, Han Yu", AAAI 2023: 15485-15493,aaai
+16,Economics of Semantic Communication in Metaverse: An Auction Approach.,2023,"Zi Qin Liew, Hongyang Du, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Han Yu", CCNC 2023: 398-403,ccnc
+17,Adaptive Resource Allocation in Quantum Key Distribution (QKD) for Federated Learning.,2023,"Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, Zehui Xiong, Xuemin Sherman Shen", ICNC 2023: 71-76,iccnc
+18,Fairness-Aware Client Selection for Federated Learning.,2023,"Yuxin Shi, Zelei Liu, Zhuan Shi, Han Yu", ICME 2023: 324-329,icmcs
+19,Federated Learning for Personalized Image Aesthetics Assessment.,2023,"Zhiwei Xiong, Han Yu, Zhiqi Shen", ICME 2023: 336-341,icmcs
+20,Multi-Tier Client Selection for Mobile Federated Learning Networks.,2023,"Yulan Gao, Yansong Zhao, Han Yu", ICME 2023: 666-671,icmcs
+21,FedWM: Federated Crowdsourcing Workforce Management Service for Productive Laziness.,2023,"Zhuan Shi, Zhenyu Yao, Liping Yi, Han Yu, Lan Zhang, Xiang-Yang Alex Liu", ICWS 2023: 152-160,icws
+22,CSP-RM: Reputation Management Decision Support for Crowdsourcing Service Providers.,2023,"Shipeng Wang, Qingzhong Li, Lizhen Cui, Yali Jiang, Zhiqi Shen, Han Yu", ICWS 2023: 161-169,icws
+23,Reputation-Aware Opportunistic Budget Optimization for Auction-based Federation Learning.,2023,"Xavier Tan, Wei Yang Bryan Lim, Dusit Niyato, Han Yu", IJCNN 2023: 1-8,ijcnn
+24,FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning.,2023,"Anran Li, Hongyi Peng, Lan Zhang, Jiahui Huang, Qing Guo, Han Yu, Yang Liu", INFOCOM 2023: 1-10,infocom
+25,Mixed-Curvature Manifolds Interaction Learning for Knowledge Graph-aware Recommendation.,2023,"Jihu Wang, Yuliang Shi, Han Yu, Xinjun Wang, Zhongmin Yan, Fanyu Kong", SIGIR 2023: 372-382,sigir
+26,Clustered Embedding Learning for Recommender Systems.,2023,"Yizhou Chen, Guangda Huzhang, Anxiang Zeng, Qingtao Yu, Hui Sun, Heng-Yi Li, Jingyi Li, Yabo Ni, Han Yu, Zhiming Zhou", WWW 2023: 1074-1084,www
+27,"Trustworthy Federated Learning - First International Workshop, FL 2022, Held in Conjunction with IJCAI 2022, Vienna, Austria, July 23, 2022, Revised Selected Papers.",2023,"Randy Goebel, Han Yu, Boi Faltings, Lixin Fan, Zehui Xiong"," Lecture Notes in Computer Science 13448, Springer 2023, ISBN 978-3-031-28995-8 ",ijcai
+28,Evolutionary Carrier Selection for Shared Truck Delivery Services.,2023,"Rakpong Kaewpuang, Suttinee Sawadsitang, Dusit Niyato, Han Yu",03635 ,corr
+29,FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning.,2023,"Anran Li, Hongyi Peng, Lan Zhang, Jiahui Huang, Qing Guo, Han Yu, Yang Liu",10417 ,corr
+30,Efficient Training of Large-scale Industrial Fault Diagnostic Models through Federated Opportunistic Block Dropout.,2023,"Yuanyuan Chen, Zichen Chen, Sheng Guo, Yansong Zhao, Zelei Liu, Pengcheng Wu, Chengyi Yang, Zengxiang Li, Han Yu",11485 ,corr
+31,FedGH: Heterogeneous Federated Learning with Generalized Global Header.,2023,"Liping Yi, Gang Wang, Xiaoguang Liu, Zhuan Shi, Han Yu",13137 ,corr
+32,Entangled Pair Resource Allocation under Uncertain Fidelity Requirements.,2023,"Rakpong Kaewpuang, Minrui Xu, Stephen John Turner, Dusit Niyato, Han Yu, Dong In Kim",04425 ,corr
+33,DADFNet: Dual Attention and Dual Frequency-Guided Dehazing Network for Video-Empowered Intelligent Transportation.,2023,"Yu Guo, Ryan Wen Liu, Jiangtian Nie, Lingjuan Lyu, Zehui Xiong, Jiawen Kang, Han Yu, Dusit Niyato",09588 ,corr
+34,Utility-Maximizing Bidding Strategy for Data Consumers in Auction-based Federated Learning.,2023,"Xiaoli Tang, Han Yu",06784 ,corr
+35,Multi-Tier Client Selection for Mobile Federated Learning Networks.,2023,"Yulan Gao, Yansong Zhao, Han Yu",06865 ,corr
+36,Cost-Effective Task Offloading Scheduling for Hybrid Mobile Edge-Quantum Computing.,2023,"Ziqiang Ye, Yulan Gao, Yue Xiao, Minrui Xu, Han Yu, Dusit Niyato",14588 ,corr
+37,Fairness-Aware Client Selection for Federated Learning.,2023,"Yuxin Shi, Zelei Liu, Zhuan Shi, Han Yu",10738 ,corr
+38,Elastic Entangled Pair and Qubit Resource Management in Quantum Cloud Computing.,2023,"Rakpong Kaewpuang, Minrui Xu, Dinh Thai Hoang, Dusit Niyato, Han Yu, Ruidong Li, Zehui Xiong, Jiawen Kang",13185 ,corr
+39,The Prospect of Enhancing Large-Scale Heterogeneous Federated Learning with Transformers.,2023,"Yulan Gao, Zhaoxiang Hou, Chengyi Yang, Zengxiang Li, Han Yu",03945 ,corr
+40,FedLogic: Interpretable Federated Multi-Domain Chain-of-Thought Prompt Selection for Large Language Models.,2023,"Pengwei Xing, Songtao Lu, Han Yu",15324 ,corr
+41,Image Aesthetics Assessment via Learnable Queries.,2023,"Zhiwei Xiong, Yunfan Zhang, Zhiqi Shen, Peiran Ren, Han Yu",02861 ,corr
+42,Recurrent Temporal Revision Graph Networks.,2023,"Yizhou Chen, Anxiang Zeng, Guangda Huzhang, Qingtao Yu, Kerui Zhang, Yuanpeng Cao, Kangle Wu, Han Yu, Zhiming Zhou",12694 ,corr
+43,Disagreement-based class incremental random forest for sensor-based activity recognition.,2022,"Chunyu Hu, Yiqiang Chen, Lisha Hu, Han Yu, Dianjie Lu", 239: 108044 ,kbs
+44,Kaplan-Meier Markov network: Learning the distribution of market price by censored data in online advertising.,2022,"Tengyun Wang, Haizhi Yang, Siyu Jiang, Yueyue Shi, Qianyu Li, Xiaoli Tang, Han Yu, Hengjie Song", 251: 109248 ,kbs
+45,Semi-Supervised Federated Heterogeneous Transfer Learning.,2022,"Siwei Feng, Boyang Li, Han Yu, Yang Liu, Qiang Yang", 252: 109384 ,kbs
+46,Topology-Aware Differential Privacy for Decentralized Image Classification.,2022,"Shangwei Guo, Tianwei Zhang, Guowen Xu, Han Yu, Tao Xiang, Yang Liu", 32: 4016-4027 ,tcsv
+47,Byzantine-Resilient Decentralized Stochastic Gradient Descent.,2022,"Shangwei Guo, Tianwei Zhang, Han Yu, Xiaofei Xie, Lei Ma, Tao Xiang, Yang Liu", 32: 4096-4106 ,tcsv
+48,Intelligent Edge-Enabled Efficient Multi-Source Data Fusion for Autonomous Surface Vehicles in Maritime Internet of Things.,2022,"Ryan Wen Liu, Yu Guo, Jiangtian Nie, Qin Hu, Zehui Xiong, Han Yu, Mohsen Guizani", 6: 1574-1587 ,tgcn
+49,STMGCN: Mobile Edge Computing-Empowered Vessel Trajectory Prediction Using Spatio-Temporal Multigraph Convolutional Network.,2022,"Ryan Wen Liu, Maohan Liang, Jiangtian Nie, Yanli Yuan, Zehui Xiong, Han Yu, Nadra Guizani", Informatics 18: 7977-7987 ,tii
+50,GTG-Shapley: Efficient and Accurate Participant Contribution Evaluation in Federated Learning.,2022,"Zelei Liu, Yuanyuan Chen, Han Yu, Yang Liu, Lizhen Cui", 13: 60:1-60:21 ,tist
+51,Federated Learning for Personalized Humor Recognition.,2022,"Xu Guo, Han Yu, Boyang Li, Hao Wang, Pengwei Xing, Siwei Feng, Zaiqing Nie, Chunyan Miao", 13: 68:1-68:18 ,tist
+52,Intelligent Online Selling Point Extraction for E-commerce Recommendation.,2022,"Xiaojie Guo, Shugen Wang, Hanqing Zhao, Shiliang Diao, Jiajia Chen, Zhuoye Ding, Zhen He, Jianchao Lu, Yun Xiao, Bo Long, Han Yu, Lingfei Wu", AAAI 2022: 12360-12368,aaai
+53,Prior-Guided Transfer Learning for Enhancing Item Representation in E-commerce.,2022,"Heng-Yi Li, Yabo Ni, Anxiang Zeng, Han Yu, Chunyan Miao", AAAI 2022: 12387-12395,aaai
+54,Contribution-Aware Federated Learning for Smart Healthcare.,2022,"Zelei Liu, Yuanyuan Chen, Yansong Zhao, Han Yu, Yang Liu, Renyi Bao, Jinpeng Jiang, Zaiqing Nie, Qian Xu, Qiang Yang", AAAI 2022: 12396-12404,aaai
+55,Automatic Product Copywriting for E-commerce.,2022,"Xueying Zhang, Yanyan Zou, Hainan Zhang, Jing Zhou, Shiliang Diao, Jiajia Chen, Zhuoye Ding, Zhen He, Xueqi He, Yun Xiao, Bo Long, Han Yu, Lingfei Wu", AAAI 2022: 12423-12431,aaai
+56,CrowdFL: A Marketplace for Crowdsourced Federated Learning.,2022,"Daifei Feng, Cicilia Helena, Wei Yang Bryan Lim, Jer Shyuan Ng, Hongchao Jiang, Zehui Xiong, Jiawen Kang, Han Yu, Dusit Niyato, Chunyan Miao", AAAI 2022: 13164-13166,aaai
+57,Dynamic Incentive Mechanism Design for COVID-19 Social Distancing.,2022,"Xuan Rong Zane Ho, Wei Yang Bryan Lim, Hongchao Jiang, Jer Shyuan Ng, Han Yu, Zehui Xiong, Dusit Niyato, Chunyan Miao", AAAI 2022: 13173-13175,aaai
+58,Resource Allocation in Quantum Key Distribution (QKD) for Space-Air-Ground Integrated Networks.,2022,"Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, Zehui Xiong", CAMAD 2022: 71-76,camad
+59,Edge Computing-Enabled Multi-Sensor Data Fusion for Intelligent Surveillance in Maritime Transportation Systems.,2022,"Jingxiang Qu, Ryan Wen Liu, Jiangtian Nie, Xianjun Deng, Zehui Xiong, Yang Zhang, Han Yu, Dusit Niyato", DASC/PiCom/CBDCom/CyberSciTech 2022: 1-8,dasc
+60,Heterogeneous Federated Learning via Grouped Sequential-to-Parallel Training.,2022,"Shenglai Zeng, Zonghang Li, Hongfang Yu, Yihong He, Zenglin Xu, Dusit Niyato, Han Yu", DASFAA  2022: 455-471,dasfaa
+61,Multi-Resource Allocation for On-Device Distributed Federated Learning Systems.,2022,"Yulan Gao, Ziqiang Ye, Han Yu, Zehui Xiong, Yue Xiao, Dusit Niyato", GLOBECOM 2022: 160-165,globecom
+62,Stochastic Resource Allocation in Quantum Key Distribution for Secure Federated Learning.,2022,"Minrui Xu, Wei Chong Ng, Dusit Niyato, Han Yu, Chunyan Miao, Dong In Kim, Xuemin Sherman Shen", GLOBECOM 2022: 4377-4382,globecom
+63,FLAS: A Platform for Studying Attacks on Federated Learning.,2022,"Yuanchao Loh, Zichen Chen, Yansong Zhao, Han Yu", HCI  2022: 160-169,hci
+64,AIS Data-Based Efficient Ship Trajectory Clustering.,2022,"Ruli Xu, Ryan Wen Liu, Jiangtian Nie, Xianjun Deng, Zehui Xiong, Wenchao Jiang, Han Yu, Dusit Niyato", ISPA/BDCloud/SocialCom/SustainCom 2022: 581-588,bdcloud
+65,Cross-modal Knowledge Graph Contrastive Learning for Machine Learning Method Recommendation.,2022,"Xianshuai Cao, Yuliang Shi, Jihu Wang, Han Yu, Xinjun Wang, Zhongmin Yan", ACM Multimedia 2022: 3694-3702,mm
+66,"Advanced Data Mining and Applications - 17th International Conference, ADMA 2021, Sydney, NSW, Australia, February 2-4, 2022, Proceedings, Part I.",2022,"Bohan Li, Lin Yue, Jing Jiang, Weitong Chen, Xue Li, Guodong Long, Fei Fang, Han Yu"," Lecture Notes in Computer Science 13087, Springer 2022, ISBN 978-3-030-95404-8 ",adma
+67,"Advanced Data Mining and Applications - 17th International Conference, ADMA 2021, Sydney, NSW, Australia, February 2-4, 2022, Proceedings, Part II.",2022,"Bohan Li, Lin Yue, Jing Jiang, Weitong Chen, Xue Li, Guodong Long, Fei Fang, Han Yu"," Lecture Notes in Computer Science 13088, Springer 2022, ISBN 978-3-030-95407-9 ",adma
+68,Adaptive Memory Networks with Self-supervised Learning for Unsupervised Anomaly Detection.,2022,"Yuxin Zhang, Jindong Wang, Yiqiang Chen, Han Yu, Tao Qin",00464 ,corr
+69,Heterogeneous Federated Learning via Grouped Sequential-to-Parallel Training.,2022,"Shenglai Zeng, Zonghang Li, Hongfang Yu, Yihong He, Zenglin Xu, Dusit Niyato, Han Yu",12976 ,corr
+70,Resource Allocation in Quantum Key Distribution (QKD) for Space-Air-Ground Integrated Networks.,2022,"Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, Zehui Xiong",08009 ,corr
+71,Adaptive Resource Allocation in Quantum Key Distribution (QKD) for Federated Learning.,2022,"Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, Zehui Xiong, Xuemin Sherman Shen",11270 ,corr
+72,Cooperative Resource Management in Quantum Key Distribution (QKD) Networks for Semantic Communication.,2022,"Rakpong Kaewpuang, Minrui Xu, Wei Yang Bryan Lim, Dusit Niyato, Han Yu, Jiawen Kang, Xuemin Sherman Shen",11957 ,corr
+73,Optimal Stochastic Resource Allocation for Distributed Quantum Computing.,2022,"Napat Ngoenriang, Minrui Xu, Sucha Supittayapornpong, Dusit Niyato, Han Yu, Xuemin Shen",02886 ,corr
+74,DQC2O: Distributed Quantum Computing for Collaborative Optimization in Future Networks.,2022,"Napat Ngoenriang, Minrui Xu, Jiawen Kang, Dusit Niyato, Han Yu, Xuemin Shen",02887 ,corr
+75,Towards Trustworthy AI-Empowered Real-Time Bidding for Online Advertisement Auctioning.,2022,"Xiaoli Tang, Han Yu",07770 ,corr
+76,Stochastic Qubit Resource Allocation for Quantum Cloud Computing.,2022,"Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, Zehui Xiong, Jiawen Kang",12343 ,corr
+77,Multi-Resource Allocation for On-Device Distributed Federated Learning Systems.,2022,"Yulan Gao, Ziqiang Ye, Han Yu, Zehui Xiong, Yue Xiao, Dusit Niyato",00481 ,corr
+78,Towards AI-Empowered Crowdsourcing.,2022,"Shipeng Wang, Qingzhong Li, Lizhen Cui, Zhongmin Yan, Yonghui Xu, Zhuan Shi, Zhiqi Shen, Han Yu",14676 ,corr
+79,Federated Learning-Powered Visual Object Detection for Safety Monitoring.,2021,"Yang Liu, Anbu Huang, Yun Luo, He Huang, Youzhi Liu, Yuanyuan Chen, Lican Feng, Tianjian Chen, Han Yu, Qiang Yang", 42: 19-27 ,aim
+80,Optimizing Smart Grid Operations from the Demand Side.,2021,"Yongqing Zheng, Han Yu, Yuliang Shi, Kun Zhang, Shuai Zhen, Lizhen Cui, Cyril Leung, Chunyan Miao", 42: 28-37 ,aim
+81,Improving Search Engine Efficiency through Contextual Factor Selection.,2021,"Anxiang Zeng, Han Yu, Qing Da, Yusen Zhan, Yang Yu, Jingren Zhou, Chunyan Miao", 42: 50-58 ,aim
+82,Advances and Open Problems in Federated Learning.,2021,"Peter Kairouz, H. Brendan McMahan, Brendan Avent, Aurélien Bellet, Mehdi Bennis, Arjun Nitin Bhagoji, Kallista A. Bonawitz, Zachary Charles, Graham Cormode, Rachel Cummings, Rafael G. L. D'Oliveira, Hubert Eichner, Salim El Rouayheb, David Evans, Josh Gardner, Zachary Garrett, Adrià Gascón, Badih Ghazi, Phillip B. Gibbons, Marco Gruteser, Zaïd Harchaoui, Chaoyang He, Lie He, Zhouyuan Huo, Ben Hutchinson, Justin Hsu, Martin Jaggi, Tara Javidi, Gauri Joshi, Mikhail Khodak, Jakub Konecný, Aleksandra Korolova, Farinaz Koushanfar, Sanmi Koyejo, Tancrède Lepoint, Yang Liu, Prateek Mittal, Mehryar Mohri, Richard Nock, Ayfer Özgür, Rasmus Pagh, Hang Qi, Daniel Ramage, Ramesh Raskar, Mariana Raykova, Dawn Song, Weikang Song, Sebastian U. Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramèr, Praneeth Vepakomma, Jianyu Wang, Li Xiong, Zheng Xu, Qiang Yang, Felix X. Yu, Han Yu, Sen Zhao", 14: 1-210 ,ftml
+83,Group task allocation approach for heterogeneous software crowdsourcing tasks.,2021,"Xiaojing Yin, Jiwei Huang, Wei He, Wei Guo, Han Yu, Lizhen Cui", 14: 1736-1747 ,ppna
+84,HyDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks.,2021,"Yuanyuan Chen, Boyang Li, Han Yu, Pengcheng Wu, Chunyan Miao", AAAI 2021: 7081-7089,aaai
+85,Enhancing E-commerce Recommender System Adaptability with Online Deep Controllable Learning-To-Rank.,2021,"Anxiang Zeng, Han Yu, Hua-Lin He, Yabo Ni, Yongliang Li, Jingren Zhou, Chunyan Miao", AAAI 2021: 15214-15222,aaai
+86,AI-Empowered Decision Support for COVID-19 Social Distancing.,2021,"Hongchao Jiang, Wei Yang Bryan Lim, Jer Shyuan Ng, Harold Ze Chie Teng, Han Yu, Zehui Xiong, Dusit Niyato, Chunyan Miao", AAAI 2021: 16044-16047,aaai
+87,Multi-task Learning for Bias-Free Joint CTR Prediction and Market Price Modeling in Online Advertising.,2021,"Haizhi Yang, Tengyun Wang, Xiaoli Tang, Qianyu Li, Yueyue Shi, Siyu Jiang, Han Yu, Hengjie Song", CIKM 2021: 2291-2300,cikm
+88,Noise-Resistant Deep Metric Learning With Ranking-Based Instance Selection.,2021,"Chang Liu, Han Yu, Boyang Li, Zhiqi Shen, Zhanning Gao, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao", CVPR 2021: 6811-6820,cvpr
+89,Human-Machine Interaction for Autonomous Vehicles: A Review.,2021,"Jiehuang Zhang, Ying Shu, Han Yu", HCI  2021: 190-201,hci
+90,Fairness in Design: A Tool for Guidance in Ethical Artificial Intelligence Design.,2021,"Ying Shu, Jiehuang Zhang, Han Yu", HCI  2021: 500-510,hci
+91,Enhancing Viewing Experience of Generated Visual Storylines for Promotional Videos.,2021,"Chang Liu, Han Yu, Zhiqi Shen, Ian Dixon, Yingxue Yu, Zhanning Gao, Pan Wang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao", ICME 2021: 1-6,icmcs
+92,Predictive Analytics for COVID-19 Social Distancing.,2021,"Harold Ze Chie Teng, Hongchao Jiang, Xuan Rong Zane Ho, Wei Yang Bryan Lim, Jer Shyuan Ng, Han Yu, Zehui Xiong, Dusit Niyato, Chunyan Miao", IJCAI 2021: 5016-5019,ijcai
+93,Opportunistic Coded Distributed Computing: An Evolutionary Game Approach.,2021,"Han Yu, Dusit Niyato, Cyril Leung, Dong In Kim", IWCMC 2021: 1430-1435,iwcmc
+94,Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection.,2021,"Xu Guo, Boyang Li, Han Yu, Chunyan Miao", NAACL-HLT 2021: 5394-5407,naacl
+95,DEKR: Description Enhanced Knowledge Graph for Machine Learning Method Recommendation.,2021,"Xianshuai Cao, Yuliang Shi, Han Yu, Jihu Wang, Xinjun Wang, Zhongmin Yan, Zhiyong Chen", SIGIR 2021: 203-212,sigir
+96,HYDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks.,2021,"Yuanyuan Chen, Boyang Li, Han Yu, Pengcheng Wu, Chunyan Miao",02515 ,corr
+97,Towards Personalized Federated Learning.,2021,"Alysa Ziying Tan, Han Yu, Lizhen Cui, Qiang Yang",00710 ,corr
+98,Noise-resistant Deep Metric Learning with Ranking-based Instance Selection.,2021,"Chang Liu, Han Yu, Boyang Li, Zhiqi Shen, Zhanning Gao, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",16047 ,corr
+99,Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection.,2021,"Xu Guo, Boyang Li, Han Yu, Chunyan Miao",09261 ,corr
+100,Noise-Resistant Deep Metric Learning with Probabilistic Instance Filtering.,2021,"Chang Liu, Han Yu, Boyang Li, Zhiqi Shen, Zhanning Gao, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",01431 ,corr
+101,GTG-Shapley: Efficient and Accurate Participant Contribution Evaluation in Federated Learning.,2021,"Zelei Liu, Yuanyuan Chen, Han Yu, Yang Liu, Lizhen Cui",02053 ,corr
+102,Securing Federated Learning: A Covert Communication-based Approach.,2021,"Yuan-Ai Xie, Jiawen Kang, Dusit Niyato, Nguyen Thi Thanh Van, Nguyen Cong Luong, Zhixin Liu, Han Yu",02221 ,corr
+103,A Survey of Fairness-Aware Federated Learning.,2021,"Yuxin Shi, Han Yu, Cyril Leung",01872 ,corr
+104,Intelligent Online Selling Point Extraction for E-Commerce Recommendation.,2021,"Xiaojie Guo, Shugen Wang, Hanqing Zhao, Shiliang Diao, Jiajia Chen, Zhuoye Ding, Zhen He, Yun Xiao, Bo Long, Han Yu, Lingfei Wu",10613 ,corr
+105,Automatic Product Copywriting for E-Commerce.,2021,"Xueying Zhang, Yanyan Zou, Hainan Zhang, Jing Zhou, Shiliang Diao, Jiajia Chen, Zhuoye Ding, Zhen He, Xueqi He, Yun Xiao, Bo Long, Han Yu, Lingfei Wu",11915 ,corr
+106,Addressing the Challenges of Government Service Provision with AI.,2020,"Yongqing Zheng, Han Yu, Lizhen Cui, Chunyan Miao, Cyril Leung, Yang Liu, Qiang Yang", 41: 33-43 ,aim
+107,Introduction to the Special Issue on Federated Machine Learning.,2020,"Yang Liu, Han Yu, Qiang Yang", 35: 3-4 ,expert
+108,A Sustainable Incentive Scheme for Federated Learning.,2020,"Han Yu, Zelei Liu, Yang Liu, Tianjian Chen, Mingshu Cong, Xi Weng, Dusit Niyato, Qiang Yang", 35: 58-69 ,expert
+109,Autoencoder based sample selection for self-taught learning.,2020,"Siwei Feng, Han Yu, Marco F. Duarte", 192: 105343 ,kbs
+110,Multi-component transfer metric learning for handling unrelated source domain samples.,2020,"Chang'an Yi, Yonghui Xu, Han Yu, Yuguang Yan, Yang Liu", 203: 106132 ,kbs
+111,Nondestructive Identification of Coal and Gangue via Near-Infrared Spectroscopy Based on Improved Broad Learning.,2020,"Liang Zou, Xinhui Yu, Ming Li, Meng Lei, Han Yu", 69: 8043-8052 ,tim
+112,Transfer Learning with Dynamic Distribution Adaptation.,2020,"Jindong Wang, Yiqiang Chen, Wenjie Feng, Han Yu, Meiyu Huang, Qiang Yang", 11: 6:1-6:25 ,tist
+113,Towards Fair and Privacy-Preserving Federated Deep Models.,2020,"Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, Xingjun Ma, Jiong Jin, Han Yu, Kee Siong Ng", 31: 2524-2541 ,tpds
+114,FedVision: An Online Visual Object Detection Platform Powered by Federated Learning.,2020,"Yang Liu, Anbu Huang, Yun Luo, He Huang, Youzhi Liu, Yuanyuan Chen, Lican Feng, Tianjian Chen, Han Yu, Qiang Yang", AAAI 2020: 13172-13179,aaai
+115,Accelerating Ranking in E-Commerce Search Engines through Contextual Factor Selection.,2020,"Anxiang Zeng, Han Yu, Qing Da, Yusen Zhan, Chunyan Miao", AAAI 2020: 13212-13219,aaai
+116,PIDS: An Intelligent Electric Power Management Platform.,2020,"Yongqing Zheng, Han Yu, Yuliang Shi, Kun Zhang, Shuai Zhen, Lizhen Cui, Cyril Leung, Chunyan Miao", AAAI 2020: 13220-13227,aaai
+117,Efficient Spatial-Temporal Rebalancing of Shareable Bikes (Student Abstract).,2020,"Zichao Deng, Anqi Tu, Zelei Liu, Han Yu", AAAI 2020: 13775-13776,aaai
+118,Generating Engaging Promotional Videos for E-commerce Platforms (Student Abstract).,2020,"Chang Liu, Han Yu, Yi Dong, Zhiqi Shen, Yingxue Yu, Ian Dixon, Zhanning Gao, Pan Wang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao", AAAI 2020: 13865-13866,aaai
+119,A Fairness-aware Incentive Scheme for Federated Learning.,2020,"Han Yu, Zelei Liu, Yang Liu, Tianjian Chen, Mingshu Cong, Xi Weng, Dusit Niyato, Qiang Yang", AIES 2020: 393-399,aies
+120,CLUE: Personalized Hospital Readmission Prediction Against Data Insufficiency under Imbalanced-Data Environment.,2020,"Qianwen Meng, Lizhen Cui, Guoxian Yu, Han Yu, Wei Guo, Hui Li", BIBM 2020: 469-472,bibm
+121,An AI-empowered Visual Storyline Generator.,2020,"Chang Liu, Zhao Yong Lim, Han Yu, Zhiqi Shen, Ian Dixon, Zhanning Gao, Pan Wang, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao", IJCAI 2020: 5267-5269,ijcai
+122,A Multi-player Game for Studying Federated Learning Incentive Schemes.,2020,"Kang Loon Ng, Zichen Chen, Zelei Liu, Han Yu, Yang Liu, Qiang Yang", IJCAI 2020: 5279-5281,ijcai
+123,A Testbed for Studying COVID-19 Spreading in Ride-Sharing Systems.,2020,"Harrison Jun Yong Wong, Zichao Deng, Han Yu, Jianqiang Huang, Cyril Leung, Chunyan Miao", IJCAI 2020: 5294-5296,ijcai
+124,Threats to Federated Learning.,2020,"Lingjuan Lyu, Han Yu, Jun Zhao, Qiang Yang", Federated Learning 2020: 3-16,lncs
+125,Dealing with Label Quality Disparity in Federated Learning.,2020,"Yiqiang Chen, Xiaodong Yang, Xin Qin, Han Yu, Piu Chan, Zhiqi Shen", Federated Learning 2020: 108-121,lncs
+126,FedCoin: A Peer-to-Peer Payment System for Federated Learning.,2020,"Yuan Liu, Zhengpeng Ai, Shuai Sun, Shuangfeng Zhang, Zelei Liu, Han Yu", Federated Learning 2020: 125-138,lncs
+127,A Gamified Research Tool for Incentive Mechanism Design in Federated Learning.,2020,"Zichen Chen, Zelei Liu, Kang Loon Ng, Han Yu, Yang Liu, Qiang Yang", Federated Learning 2020: 168-175,lncs
+128,Collaborative Fairness in Federated Learning.,2020,"Lingjuan Lyu, Xinyi Xu, Qian Wang, Han Yu", Federated Learning 2020: 189-204,lncs
+129,A Game-Theoretic Framework for Incentive Mechanism Design in Federated Learning.,2020,"Mingshu Cong, Han Yu, Xi Weng, Siu-Ming Yiu", Federated Learning 2020: 205-222,lncs
+130,Federated Learning - Privacy and Incentive.,2020,"Qiang Yang, Lixin Fan, Han Yu"," Lecture Notes in Computer Science 12500, Springer 2020, ISBN 978-3-030-63075-1 ",lncs
+131,FedVision: An Online Visual Object Detection Platform Powered by Federated Learning.,2020,"Yang Liu, Anbu Huang, Yun Luo, He Huang, Youzhi Liu, Yuanyuan Chen, Lican Feng, Tianjian Chen, Han Yu, Qiang Yang",06202 ,corr
+132,Multi-Participant Multi-Class Vertical Federated Learning.,2020,"Siwei Feng, Han Yu",11154 ,corr
+133,FOCUS: Dealing with Label Quality Disparity in Federated Learning.,2020,"Yiqiang Chen, Xiaodong Yang, Xin Qin, Han Yu, Biao Chen, Zhiqi Shen",11359 ,corr
+134,FedCoin: A Peer-to-Peer Payment System for Federated Learning.,2020,"Yuan Liu, Shuai Sun, Zhengpeng Ai, Shuangfeng Zhang, Zelei Liu, Han Yu",11711 ,corr
+135,Threats to Federated Learning: A Survey.,2020,"Lingjuan Lyu, Han Yu, Qiang Yang",02133 ,corr
+136,Privacy-Preserving Technology to Help Millions of People: Federated Prediction Model for Stroke Prevention.,2020,"Ce Ju, Ruihui Zhao, Jichao Sun, Xiguang Wei, Bo Zhao, Yang Liu, Hongshan Li, Tianjian Chen, Xinwei Zhang, Dashan Gao, Ben Tan, Han Yu, Yuan Jin",10517 ,corr
+137,Optimal Procurement Auction for Cooperative Production of Virtual Products: Vickrey-Clarke-Groves Meet Cremer-McLean.,2020,"Mingshu Cong, Xi Weng, Han Yu, Jiabao Qu, Siu-Ming Yiu",14780 ,corr
+138,SCNet: A Neural Network for Automated Side-Channel Attack.,2020,"Guanlin Li, Chang Liu, Han Yu, Yanhong Fan, Libang Zhang, Zongyue Wang, Meiqin Wang",00476 ,corr
+139,A VCG-based Fair Incentive Mechanism for Federated Learning.,2020,"Mingshu Cong, Han Yu, Xi Weng, Jiabao Qu, Yang Liu, Siu-Ming Yiu",06680 ,corr
+140,Privacy and Robustness in Federated Learning: Attacks and Defenses.,2020,"Lingjuan Lyu, Han Yu, Xingjun Ma, Lichao Sun, Jun Zhao, Qiang Yang, Philip S. Yu",06337 ,corr

@@ -1,0 +1,61 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Digital-Twin Consistency Checking Based on Observed Timed Events With Unobservable Transitions in Smart Manufacturing.,2023,"Moon Gi Seok, Wen Jun Tan, Wentong Cai, Daejin Park", Informatics 19: 6208-6219 ,tii
+1,Crowd-Level Abnormal Behavior Detection via Multi-Scale Motion Consistency Learning.,2023,"Linbo Luo, Yuanjing Li, Haiyan Yin, Shangwei Xie, Ruimin Hu, Wentong Cai", AAAI 2023: 8984-8992,aaai
+2,Minimising Task Tardiness for Multi-Agent Pickup and Delivery.,2023,"Saravanan Ramanathan, Yihao Liu, Xueyan Tang, Wentong Cai, Jingning Li", AAMAS 2023: 2349-2351,atal
+3,Characterization of Pedestrian Contact Interaction Trajectories.,2023,"Jaeyoung Kwak, Michael Harold Lees, Wentong Cai", ICCS  2023: 18-32,iccS
+4,Towards a Performance-Aware Partitioning Algorithm for Cloud-Based Microscopic Vehicle Traffic Simulations.,2023,"Anibal Siguenza-Torres, Wentong Cai, Alois Knoll", SIGSIM-PADS 2023: 44-45,pads
+5,Equipment-centric Data-driven Reliability Assessment of Complex Manufacturing Systems.,2023,"Jonas Friederich, Wentong Cai, Boon Ping Gan, Sanja Lazarova-Molnar", SIGSIM-PADS 2023: 62-72,pads
+6,Automatic Model Generation and Data Assimilation Framework for Cyber-Physical Production Systems.,2023,"Wen Jun Tan, Moon Gi Seok, Wentong Cai", SIGSIM-PADS 2023: 73-83,pads
+7,Research on the collaboration of service selection and resource scheduling for IoT simulation workflows.,2022,"Feng Li, T. Warren Liao, Wentong Cai", Informatics 52: 101528 ,aei
+8,E2T-CVL: An Efficient and Error-Tolerant Approach for Collaborative Vehicle Localization.,2022,"Xiangting Hou, Linbo Luo, Wentong Cai, Bin Guo", 9: 3481-3494 ,iotj
+9,A wholistic optimization of containerized workflow scheduling and deployment in the cloud-edge environment.,2022,"Feng Li, Wen Jun Tan, Wentong Cai", Theory 118: 102521 ,simpra
+10,Distribution-Based Weights Estimation for Map Matching Algorithms.,2022,"Xiangting Hou, Linbo Luo, Wentong Cai", 16: 4256-4266 ,sj
+11,Why They Escape: Mining Prioritized Fuzzy Decision Rule in Crowd Evacuation.,2022,"Linbo Luo, Baodan Zhang, Bin Guo, Jinghui Zhong, Wentong Cai", 23: 19456-19470 ,tits
+12,Data-driven Crowd Modeling Techniques: A Survey.,2022,"Jinghui Zhong, Dongrui Li, Zhixing Huang, Chengyu Lu, Wentong Cai", 32: 4:1-4:33 ,tomacs
+13,Dynamic Data-driven Microscopic Traffic Simulation using Jointly Trained Physics-guided Long Short-Term Memory.,2022,"Htet Naing, Wentong Cai, Nan Hu, Tiantian Wu, Liang Yu", 32: 28:1-28:27 ,tomacs
+14,"SPIDER: An Effective, Efficient and Robust Load Scheduler for Real-time Split Frame Rendering.",2022,"Bingzheng Ma, Ziqiang Zhang, Yusen Li, Wentong Cai, Gang Wang, Xiaoguang Liu", IPDPS 2022: 672-682,ipps
+15,Dynamic Car-following Model Calibration with Deep Reinforcement Learning.,2022,"Htet Naing, Wentong Cai, Tiantian Wu, Liang Yu", ITSC 2022: 959-966,itsc
+16,"Improving Scalability, Sustainability and Availability via Workload Distribution in Edge-Cloud Gaming.",2022,"Iryanto Jaya, Yusen Li, Wentong Cai", ACM Multimedia 2022: 2987-2995,mm
+17,A Data-Driven Approach for Pedestrian Intention Prediction in Large Public Places.,2022,"Bo Zhang, Jinghui Zhong, Wentong Cai", SIGSIM-PADS 2022: 33-36,pads
+18,Hyperparameter Tunning in Simulation-based Optimization for Adaptive Digital-Twin Abstraction Control of Smart Manufacturing System.,2022,"Moon Gi Seok, Wen Jun Tan, Boyi Su, Wentong Cai", SIGSIM-PADS 2022: 61-68,pads
+19,Advanced Tutorial: Parallel and Distributed Methods for Scalable Discrete Simulation.,2022,"Philipp Andelfinger, Wentong Cai", WSC 2022: 268-282,wsc
+20,Simulation-Based Analysis of Evacuation Elevator Allocation for a Multi-Level Hospital Emergency Department.,2022,"Boyi Su, Jaeyoung Kwak, Ahmad Reza Pourghaderi, Michael Harold Lees, Kenneth B. K. Tan, Shin Yi Loo, Ivan S. Y. Chua, Joy L. J. Quah, Wentong Cai, Marcus Eng Hock Ong", WSC 2022: 358-369,wsc
+21,Forecasting with Visibility Using Privacy Preserving Federated Learning.,2022,"Bo Zhang, Wen Jun Tan, Wentong Cai, Allan N. Zhang", WSC 2022: 2687-2698,wsc
+22,Multi-objective Optimization of Clustering-based Scheduling for Multi-workflow On Clouds Considering Fairness.,2022,"Feng Li, Wen Jun Tan, Wentong Cai",11173 ,corr
+23,Crowd-level Abnormal Behavior Detection via Multi-scale Motion Consistency Learning.,2022,"Linbo Luo, Yuanjing Li, Haiyan Yin, Shangwei Xie, Ruimin Hu, Wentong Cai",00501 ,corr
+24,Computer Science Methods for Effective and Sustainable Simulation Studies (Dagstuhl Seminar 22401).,2022,"Wentong Cai, Christopher D. Carothers, David M. Nicol, Adelinde M. Uhrmacher", Dagstuhl Reports 12: 1-60 ,dagstuhl-reports
+25,Hierarchical Aggregation/Disaggregation for Adaptive Abstraction-Level Conversion in Digital Twin-Based Smart Semiconductor Manufacturing.,2021,"Moon Gi Seok, Wentong Cai, Daejin Park", IEEE Access 9: 71145-71158 ,access
+26,Transitioning Spiking Neural Network Simulators to Heterogeneous Hardware.,2021,"Quang Anh Pham Nguyen, Philipp Andelfinger, Wen Jun Tan, Wentong Cai, Alois C. Knoll", 31: 9:1-9:26 ,tomacs
+27,Towards Minimizing Resource Usage With QoS Guarantee in Cloud Gaming.,2021,"Yusen Li, Changjian Zhao, Xueyan Tang, Wentong Cai, Xiaoguang Liu, Gang Wang, Xiaoli Gong", 32: 426-440 ,tpds
+28,OptCL: A Middleware to Optimise Performance for High Performance Domain-Specific Languages on Heterogeneous Platforms.,2021,"Jiajian Xiao, Philipp Andelfinger, Wentong Cai, David Eckhoff, Alois C. Knoll", ICA3PP  2021: 772-791,ica3pp
+29,Minimizing Play Request Rejection through Workload Splitting in Edge-Cloud Gaming.,2021,"Iryanto Jaya, Yusen Li, Wentong Cai", ICPADS 2021: 819-826,icpads
+30,A New Double Rank-based Multi-workflow Scheduling with Multi-objective Optimization in Cloud Environments.,2021,"Feng Li, Moon Gi Seok, Wentong Cai", IPDPS Workshops 2021: 36-45,ipps
+31,Data-driven Microscopic Traffic Modelling and Simulation using Dynamic LSTM.,2021,"Htet Naing, Wentong Cai, Nan Hu, Tiantian Wu, Liang Yu", SIGSIM-PADS 2021: 1-12,pads
+32,Causality and Consistency of State Update Schemes in Synchronous Agent-based Simulations.,2021,"Wen Jun Tan, Philipp Andelfinger, David Eckhoff, Wentong Cai, Alois C. Knoll", SIGSIM-PADS 2021: 57-68,pads
+33,A Parallel Hierarchical Sort-based Interest Matching Algorithm.,2021,"Wenjie Tang, Yiping Yao, Feng Zhu, Bin Chen, Wentong Cai", SIGSIM-PADS 2021: 107-118,pads
+34,Hot Area Targeting Dead Reckoning for Distributed Virtual Environments.,2021,"Youfu Chen, Wentong Cai, Elvis S. Liu", SIGSIM-PADS 2021: 129-137,pads
+35,Bayesian-based Absolute Positions Estimation for the Nearby Vehicles through Vehicle-to-Vehicle Communications.,2021,"Xiangting Hou, Linbo Luo, Wentong Cai", SMC 2021: 1663-1668,smc
+36,Multi-Agent Pickup and Delivery with Task Deadlines.,2021,"Xiaohu Wu, Yihao Liu, Xueyan Tang, Wentong Cai, Funing Bai, Gilbert Khonstantine, Guopeng Zhao", SOCS 2021: 206-208,socs
+37,Multi-Agent Pickup and Delivery with Task Deadlines.,2021,"Xiaohu Wu, Yihao Liu, Xueyan Tang, Wentong Cai, Funing Bai, Gilbert Khonstantine, Guopeng Zhao", WI/IAT 2021: 360-367,webi
+38,A Model-based Analysis of Evacuation Strategies in Hospital Emergency Departments.,2021,"Boyi Su, Jaeyoung Kwak, Ahmadreza Pourghaderi, Michael Harold Lees, Kenneth B. K. Tan, Shin Yi Loo, Ivan S. Y. Chua, Joy L. J. Quah, Wentong Cai, Marcus Eng Hock Ong", WSC 2021: 1-12,wsc
+39,Time-Efficient and High-Quality Graph Partitioning for Graph Dynamic Scaling.,2021,"Masatoshi Hanai, Nikos Tziritas, Toyotaro Suzumura, Wentong Cai, Georgios Theodoropoulos",07026 ,corr
+40,Adaptive Abstraction-Level Conversion Framework for Accelerated Discrete-Event Simulation in Smart Semiconductor Manufacturing.,2020,"Moon Gi Seok, Wentong Cai, Hessam S. Sarjoughian, Daejin Park", IEEE Access 8: 165247-165262 ,access
+41,OpenABLext: An automatic code generation framework for agent-based simulations on CPU-GPU-FPGA heterogeneous platforms.,2020,"Jiajian Xiao, Philipp Andelfinger, Wentong Cai, Paul Richmond, Alois C. Knoll, David Eckhoff", 32 ,concurrency
+42,Structural-aware simulation analysis of supply chain resilience.,2020,"Wen Jun Tan, Wentong Cai, Allan N. Zhang", 58: 5175-5195 ,ijpr
+43,Incremental route inference from low-sampling GPS data: An opportunistic approach to online map matching.,2020,"Linbo Luo, Xiangting Hou, Wentong Cai, Bin Guo", 512: 1407-1423 ,isci
+44,A passenger model for simulating boarding and alighting in spatially confined transportation scenarios.,2020,"Boyi Su, Philipp Andelfinger, Jaeyoung Kwak, David Eckhoff, Henriette Cornet, Goran Marinkovic, Wentong Cai, Alois C. Knoll", 45: 101173 ,jocs
+45,An alternative approach for collaborative simulation execution on a CPU+GPU hybrid system.,2020,"Wenjie Tang, Wentong Cai, Yiping Yao, Xiao Song, Feng Zhu", 96 ,simulation
+46,A fast parallel genetic programming framework with adaptively weighted primitives for symbolic regression.,2020,"Zhixing Huang, Jinghui Zhong, Liang Feng, Yi Mei, Wentong Cai", 24: 7523-7539 ,soco
+47,Multitask Scheduling in Consideration of Fuzzy Uncertainty of Multiple Criteria in Service-Oriented Manufacturing.,2020,"Feng Li, T. Warren Liao, Wentong Cai, Lin Zhang", 28: 2759-2771 ,tfs
+48,Fidelity and Performance of State Fast-forwarding in Microscopic Traffic Simulations.,2020,"Philipp Andelfinger, Yadong Xu, David Eckhoff, Wentong Cai, Alois C. Knoll", 30: 10:1-10:26 ,tomacs
+49,Multifactorial Genetic Programming for Symbolic Regression Problems.,2020,"Jinghui Zhong, Liang Feng, Wentong Cai, Yew-Soon Ong", 50: 4492-4505 ,tsmc
+50,Modeling Helping Behavior in Emergency Evacuations Using Volunteer's Dilemma Game.,2020,"Jaeyoung Kwak, Michael Harold Lees, Wentong Cai, Marcus Eng Hock Ong", ICCS  2020: 513-523,iccS
+51,Risk-Based AED Placement - Singapore Case.,2020,"Ivan Derevitskii, Nikita Kogtikov, Michael Harold Lees, Wentong Cai, Marcus Eng Hock Ong", ICCS  2020: 577-590,iccS
+52,Rendering Server Allocation for MMORPG Players in Cloud Gaming.,2020,"Iryanto Jaya, Wentong Cai, Yusen Li", ICPP 2020: 66:1-66:11,icpp
+53,Fast-Forwarding of Vehicle Clusters in Microscopic Traffic Simulations.,2020,"Philipp Andelfinger, David Eckhoff, Wentong Cai, Alois C. Knoll", SIGSIM-PADS 2020: 63-66,pads
+54,Runtime Abstraction-Level Conversion of Discrete-Event Wafer-fabrication Models for Simulation Acceleration.,2020,"Moon Gi Seok, Chew Wye Chan, Wentong Cai, Hessam S. Sarjoughian, Daejin Park", SIGSIM-PADS 2020: 83-92,pads
+55,Pedal to the Bare Metal: Road Traffic Simulation on FPGAs Using High-Level Synthesis.,2020,"Jiajian Xiao, Görkem Kilinç, Philipp Andelfinger, David Eckhoff, Wentong Cai, Alois C. Knoll", SIGSIM-PADS 2020: 117-121,pads
+56,Automatical Guardrail Design of Subway Stations through Multi-objective Evolutionary Algorithm.,2020,"Tiantian Cheng, Jinghui Zhong, Wentong Cai", SMC 2020: 2438-2445,smc
+57,Evaluation of Guidance Systems at Dynamic Public Transport Hubs Using Crowd Simulation.,2020,"Michael Wagner, Henriette Cornet, David Eckhoff, Philipp Andelfinger, Wentong Cai, Alois C. Knoll", WSC 2020: 123-134,wsc
+58,Multi-Thread State Update Schemes for Microscopic Traffic Simulation.,2020,"Wen Jun Tan, Philipp Andelfinger, Wentong Cai, Alois C. Knoll, Yadong Xu, David Eckhoff", WSC 2020: 182-193,wsc
+59,Towards Situation Aware Dispatching in a Dynamic and Complex Manufacturing Environment.,2020,"Chew Wye Chan, Boon Ping Gan, Wentong Cai", WSC 2020: 528-539,wsc

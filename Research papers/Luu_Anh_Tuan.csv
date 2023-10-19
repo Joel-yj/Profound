@@ -1,0 +1,55 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,A contrastive learning framework for Event Detection via semantic type prototype representation modelling.,2023,"Anran Hao, Anh Tuan Luu, Siu Cheung Hui, Jian Su", Neurocomputing 556: 126613 ,ijon
+1,Benchmarking Graph Neural Networks.,2023,"Vijay Prakash Dwivedi, Chaitanya K. Joshi, Anh Tuan Luu, Thomas Laurent, Yoshua Bengio, Xavier Bresson", 24: 43:1-43:48 ,jmlr
+2,InfoCTM: A Mutual Information Maximization Perspective of Cross-Lingual Topic Modeling.,2023,"Xiaobao Wu, Xinshuai Dong, Thong Nguyen, Chaoqun Liu, Liangming Pan, Anh Tuan Luu", AAAI 2023: 13763-13771,aaai
+3,Gradient-Boosted Decision Tree for Listwise Context Model in Multimodal Review Helpfulness Prediction.,2023,"Thong Nguyen, Xiaobao Wu, Xinshuai Dong, Cong-Duy Nguyen, Zhen Hai, Lidong Bing, Anh Tuan Luu", ACL  2023: 1670-1696,acl
+4,Zero-Shot Text Classification via Self-Supervised Tuning.,2023,"Chaoqun Liu, Wenxuan Zhang, Guizhen Chen, Xiaobao Wu, Anh Tuan Luu, Chip-Hong Chang, Lidong Bing", ACL  2023: 1743-1761,acl
+5,Fact-Checking Complex Claims with Program-Guided Reasoning.,2023,"Liangming Pan, Xiaobao Wu, Xinyuan Lu, Anh Tuan Luu, William Yang Wang, Min-Yen Kan, Preslav Nakov", ACL  2023: 6981-7004,acl
+6,Jointprop: Joint Semi-supervised Learning for Entity and Relation Extraction with Heterogeneous Graph-based Propagation.,2023,"Yandan Zheng, Anran Hao, Anh Tuan Luu", ACL  2023: 14541-14555,acl
+7,Using Punctuation as an Adversarial Attack on Deep Learning-Based NLP Systems: An Empirical Study.,2023,"Brian Formento, Chuan-Sheng Foo, Anh Tuan Luu, See-Kiong Ng", EACL  2023: 1-34,eacl
+8,Effective Neural Topic Modeling with Embedding Clustering Regularization.,2023,"Xiaobao Wu, Xinshuai Dong, Thong Thanh Nguyen, Anh Tuan Luu", ICML 2023: 37335-37357,icml
+9,Towards Interpretable Federated Learning.,2023,"Anran Li, Rui Liu, Ming Hu, Luu Anh Tuan, Han Yu",13473 ,corr
+10,InfoCTM: A Mutual Information Maximization Perspective of Cross-Lingual Topic Modeling.,2023,"Xiaobao Wu, Xinshuai Dong, Thong Nguyen, Chaoqun Liu, Liangming Pan, Anh Tuan Luu",03544 ,corr
+11,Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models.,2023,"Shuai Zhao, Jinming Wen, Luu Anh Tuan, Junbo Zhao, Jie Fu",01219 ,corr
+12,Zero-Shot Text Classification via Self-Supervised Tuning.,2023,"Chaoqun Liu, Wenxuan Zhang, Guizhen Chen, Xiaobao Wu, Anh Tuan Luu, Chip-Hong Chang, Lidong Bing",11442 ,corr
+13,Gradient-Boosted Decision Tree for Listwise Context Model in Multimodal Review Helpfulness Prediction.,2023,"Thong Nguyen, Xiaobao Wu, Xinshuai Dong, Anh Tuan Luu, Cong-Duy Nguyen, Zhen Hai, Lidong Bing",12678 ,corr
+14,Fact-Checking Complex Claims with Program-Guided Reasoning.,2023,"Liangming Pan, Xiaobao Wu, Xinyuan Lu, Anh Tuan Luu, William Yang Wang, Min-Yen Kan, Preslav Nakov",12744 ,corr
+15,Jointprop: Joint Semi-supervised Learning for Entity and Relation Extraction with Heterogeneous Graph-based Propagation.,2023,"Yandan Zheng, Anran Hao, Anh Tuan Luu",15872 ,corr
+16,Effective Neural Topic Modeling with Embedding Clustering Regularization.,2023,"Xiaobao Wu, Xinshuai Dong, Thong Nguyen, Anh Tuan Luu",04217 ,corr
+17,Unlocking the Potential of User Feedback: Leveraging Large Language Model as User Simulator to Enhance Dialogue System.,2023,"Zhiyuan Hu, Yue Feng, Anh Tuan Luu, Bryan Hooi, Aldo Lipani",09821 ,corr
+18,Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models.,2023,"Yue Zhang, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, Tingchen Fu, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi",01219 ,corr
+19,Towards the TopMost: A Topic Modeling System Toolkit.,2023,"Xiaobao Wu, Fengjun Pan, Anh Tuan Luu",06908 ,corr
+20,Enhancing Large Language Model Induced Task-Oriented Dialogue Systems Through Look-Forward Motivated Goals.,2023,"Zhiyuan Hu, Yue Feng, Yang Deng, Zekun Li, See-Kiong Ng, Anh Tuan Luu, Bryan Hooi",08949 ,corr
+21,Improving Neural Cross-Lingual Abstractive Summarization via Employing Optimal Transport Distance for Knowledge Distillation.,2022,"Thong Thanh Nguyen, Anh Tuan Luu", AAAI 2022: 11103-11111,aaai
+22,Is Discourse Role Important for Emotion Recognition in Conversation?,2022,"Donovan Ong, Jian Su, Bin Chen, Anh Tuan Luu, Ashok Narendranath, Yue Li, Shuqi Sun, Yingzhan Lin, Haifeng Wang","Donovan Ong, Jian Su, Bin Chen, Anh Tuan Luu, Ashok Narendranath, Yue Li, Shuqi Sun, Yingzhan Lin, Haifeng Wang: Is Discourse Role Important for Emotion Recognition in Conversation? AAAI 2022: 11121-11129",aaai
+23,Mitigating Data Sparsity for Short Text Topic Modeling by Topic-Semantic Contrastive Learning.,2022,"Xiaobao Wu, Anh Tuan Luu, Xinshuai Dong", EMNLP 2022: 2748-2760,emnlp
+24,Textual Manifold-based Defense Against Natural Language Adversarial Examples.,2022,"Dang Nguyen Minh, Anh Tuan Luu", EMNLP 2022: 6612-6625,emnlp
+25,Adaptive Contrastive Learning on Multimodal Transformer for Review Helpfulness Prediction.,2022,"Thong Nguyen, Xiaobao Wu, Anh Tuan Luu, Zhen Hai, Lidong Bing", EMNLP 2022: 10085-10096,emnlp
+26,Graph Neural Networks with Learnable Structural and Positional Representations.,2022,"Vijay Prakash Dwivedi, Anh Tuan Luu, Thomas Laurent, Yoshua Bengio, Xavier Bresson", ICLR 2022,iclr
+27,Certified Robustness Against Natural Language Attacks by Causal Intervention.,2022,"Haiteng Zhao, Chang Ma, Xinshuai Dong, Anh Tuan Luu, Zhi-Hong Deng, Hanwang Zhang", ICML 2022: 26958-26970,icml
+28,Audio-Visual Domain Adaptation Feature Fusion for Speech Emotion Recognition.,2022,"Jie Wei, Guanyu Hu, Xinyu Yang, Anh Tuan Luu, Yizhuo Dong", INTERSPEECH 2022: 1988-1992,interspeech
+29,Long Range Graph Benchmark.,2022,"Vijay Prakash Dwivedi, Ladislav Rampásek, Michael Galkin, Ali Parviz, Guy Wolf, Anh Tuan Luu, Dominique Beaini", NeurIPS 2022,nips
+30,"Recipe for a General, Powerful, Scalable Graph Transformer.",2022,"Ladislav Rampásek, Michael Galkin, Vijay Prakash Dwivedi, Anh Tuan Luu, Guy Wolf, Dominique Beaini", NeurIPS 2022,nips
+31,Certified Robustness Against Natural Language Attacks by Causal Intervention.,2022,"Haiteng Zhao, Chang Ma, Xinshuai Dong, Anh Tuan Luu, Zhi-Hong Deng, Hanwang Zhang",12331 ,corr
+32,"Recipe for a General, Powerful, Scalable Graph Transformer.",2022,"Ladislav Rampásek, Mikhail Galkin, Vijay Prakash Dwivedi, Anh Tuan Luu, Guy Wolf, Dominique Beaini",12454 ,corr
+33,Long Range Graph Benchmark.,2022,"Vijay Prakash Dwivedi, Ladislav Rampásek, Mikhail Galkin, Ali Parviz, Guy Wolf, Anh Tuan Luu, Dominique Beaini",08164 ,corr
+34,Vision-and-Language Pretraining.,2022,"Thong Nguyen, Cong-Duy Nguyen, Xiaobao Wu, Anh Tuan Luu",01772 ,corr
+35,Textual Manifold-based Defense Against Natural Language Adversarial Examples.,2022,"Dang Minh Nguyen, Luu Anh Tuan",02878 ,corr
+36,Adaptive Contrastive Learning on Multimodal Transformer for Review Helpfulness Predictions.,2022,"Thong Nguyen, Xiaobao Wu, Anh Tuan Luu, Cong-Duy Nguyen, Zhen Hai, Lidong Bing",03524 ,corr
+37,How to train your draGAN: A task oriented solution to imbalanced classification.,2022,"Leon O. Guertler, Andri Ashfahani, Anh Tuan Luu",10065 ,corr
+38,Mitigating Data Sparsity for Short Text Topic Modeling by Topic-Semantic Contrastive Learning.,2022,"Xiaobao Wu, Anh Tuan Luu, Xinshuai Dong",12878 ,corr
+39,Enriching and Controlling Global Semantics for Text Summarization.,2021,"Thong Nguyen, Anh Tuan Luu, Truc Lu, Tho Quan", EMNLP  2021: 9443-9456,emnlp
+40,Towards Robustness Against Natural Language Word Substitutions.,2021,"Xinshuai Dong, Anh Tuan Luu, Rongrong Ji, Hong Liu", ICLR 2021,iclr
+41,Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters.,2021,"Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Cheung Hui, Jie Fu", ICLR 2021,iclr
+42,How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?,2021,"Xinshuai Dong, Anh Tuan Luu, Min Lin, Shuicheng Yan, Hanwang Zhang","Xinshuai Dong, Anh Tuan Luu, Min Lin, Shuicheng Yan, Hanwang Zhang: How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness? NeurIPS 2021: 4356-4369",nips
+43,Contrastive Learning for Neural Topic Model.,2021,"Thong Nguyen, Anh Tuan Luu", NeurIPS 2021: 11974-11986,nips
+44,Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters.,2021,"Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Cheung Hui, Jie Fu",08597 ,corr
+45,Towards Robustness Against Natural Language Word Substitutions.,2021,"Xinshuai Dong, Anh Tuan Luu, Rongrong Ji, Hong Liu",13541 ,corr
+46,Enriching and Controlling Global Semantics for Text Summarization.,2021,"Thong Nguyen, Anh Tuan Luu, Truc Lu, Tho Quan",10616 ,corr
+47,Graph Neural Networks with Learnable Structural and Positional Representations.,2021,"Vijay Prakash Dwivedi, Anh Tuan Luu, Thomas Laurent, Yoshua Bengio, Xavier Bresson",07875 ,corr
+48,Contrastive Learning for Neural Topic Model.,2021,"Thong Nguyen, Anh Tuan Luu",12764 ,corr
+49,Improving Neural Cross-Lingual Summarization via Employing Optimal Transport Distance for Knowledge Distillation.,2021,"Thong Nguyen, Luu Anh Tuan",03473 ,corr
+50,How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?,2021,"Xinshuai Dong, Luu Anh Tuan, Min Lin, Shuicheng Yan, Hanwang Zhang",11668 ,corr
+51,Holistic Multi-Modal Memory Network for Movie Question Answering.,2020,"Anran Wang, Anh Tuan Luu, Chuan-Sheng Foo, Hongyuan Zhu, Yi Tay, Vijay Chandrasekhar", 29: 489-499 ,tip
+52,Capturing Greater Context for Question Generation.,2020,"Luu Anh Tuan, Darsh J. Shah, Regina Barzilay", AAAI 2020: 9065-9072,aaai
+53,Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences.,2020,"Yi Tay, Donovan Ong, Jie Fu, Alvin Chan, Nancy Chen, Anh Tuan Luu, Chris Pal", ACL 2020: 5369-5373,acl

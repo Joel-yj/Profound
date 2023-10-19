@@ -1,0 +1,38 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Traffic forecasting with graph spatial-temporal position recurrent network.,2023,"Yibi Chen, Kenli Li, Chai Kiat Yeo, Keqin Li", Neural Networks 162: 340-349 ,nn
+1,Siamese Centerness Prediction Network for Real-Time Visual Object Tracking.,2023,"Yue Wu, Chengtao Cai, Chai Kiat Yeo", 55: 1029-1044 ,npl
+2,DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields.,2023,"Junzhe Zhang, Yushi Lan, Shuai Yang, Fangzhou Hong, Quan Wang, Chai Kiat Yeo, Ziwei Liu, Chen Change Loy",04410 ,corr
+3,Hybrid market-based resources allocation in Mobile Edge Computing systems under stochastic information.,2022,"Xiaowen Huang, Shimin Gong, Jingmin Yang, Wenjie Zhang, Liwei Yang, Chai Kiat Yeo", 127: 80-91 ,fgcs
+4,Approximate personalized propagation for unsupervised embedding in heterogeneous graphs.,2022,"Yibi Chen, Yikun Hu, Keqin Li, Chai Kiat Yeo, Kenli Li", 600: 287-300 ,isci
+5,Privacy-preserving knowledge transfer for intrusion detection with federated deep autoencoding gaussian mixture model.,2022,"Yang Chen, Junzhe Zhang, Chai Kiat Yeo", 609: 1204-1220 ,isci
+6,Identification of rumour stances by considering network topology and social media comments.,2022,"Yongcong Luo, Jing Ma, Chai Kiat Yeo", 48: 118-130 ,jis
+7,Exploiting user network topology and comment semantic for accurate rumour stance recognition on social media.,2022,"Yongcong Luo, Jing Ma, Chai Kiat Yeo", 48: 660-675 ,jis
+8,Optimal sequential relay-remote selection and computation offloading in mobile edge computing.,2022,"Che Chen, Rongzong Guo, Wenjie Zhang, Jingmin Yang, Chai Kiat Yeo", 78: 1093-1116 ,tjs
+9,Distributed algorithm for computation offloading in mobile edge computing considering user mobility and task randomness.,2022,"F. Yifeng Zheng, S. Lei Huang, Wenjie Zhang, F. Jingmin Yang, F. Liwei Yang, Chai Kiat Yeo", 78: 12476-12504 ,tjs
+10,NSGZero: Efficiently Learning Non-exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search.,2022,"Wanqi Xue, Bo An, Chai Kiat Yeo", AAAI 2022: 4646-4653,aaai
+11,Mis-spoke or mis-lead: Achieving Robustness in Multi-Agent Communicative Reinforcement Learning.,2022,"Wanqi Xue, Wei Qiu, Bo An, Zinovi Rabinovich, Svetlana Obraztsova, Chai Kiat Yeo", AAMAS 2022: 1418-1426,atal
+12,Monocular 3D Object Reconstruction with GAN Inversion.,2022,"Junzhe Zhang, Daxuan Ren, Zhongang Cai, Chai Kiat Yeo, Bo Dai, Chen Change Loy", ECCV  2022: 673-689,eccv
+13,Deep Reinforcement Learning based Contract Incentive for UAVs and Energy Harvest Assisted Computing.,2022,"Che Chen, Shimin Gong, Wenjie Zhang, Yifeng Zheng, Chai Kiat Yeo", GLOBECOM 2022: 2224-2229,globecom
+14,Context-Aware Memory Attention Network for Video-Based Action Recognition.,2022,"Thean Chun Koh, Chai Kiat Yeo, Vaitesswar U. S, Xuan Jing", IVMSP 2022: 1-5,ivmsp
+15,Self-Supervised Superpixel Correspondences For Video Object Segmentation.,2022,"Clement Tan, Chai Kiat Yeo, Cheston Tan, Basura Fernando", VSIP 2022: 117-121,vsip
+16,NSGZero: Efficiently Learning Non-Exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search.,2022,"Wanqi Xue, Bo An, Chai Kiat Yeo",07224 ,corr
+17,Monocular 3D Object Reconstruction with GAN Inversion.,2022,"Junzhe Zhang, Daxuan Ren, Zhongang Cai, Chai Kiat Yeo, Bo Dai, Chen Change Loy",10061 ,corr
+18,Abductive Action Inference.,2022,"Clement Tan, Chai Kiat Yeo, Cheston Tan, Basura Fernando",13984 ,corr
+19,Market-based dynamic resource allocation in Mobile Edge Computing systems with multi-server and multi-user.,2021,"Xiaowen Huang, Wenjie Zhang, Jingmin Yang, Liwei Yang, Chai Kiat Yeo", 165: 43-52 ,comcom
+20,Lower-Limb Rehabilitation at Home: A Survey on Exercise Assessment and Initial Study on Exercise State Identification Toward Biofeedback.,2021,"Seanglidet Yean, Bu-Sung Lee, Chai Kiat Yeo", 13: 12-23 ,ijitn
+21,Multi-scale Self-Organizing Map assisted Deep Autoencoding Gaussian Mixture Model for unsupervised intrusion detection.,2021,"Yang Chen, Nami Ashizawa, Chai Kiat Yeo, Naoto Yanai, Seanglidet Yean", 224: 107086 ,kbs
+22,BCMM: A novel post-based augmentation representation for early rumour detection on social media.,2021,"Yongcong Luo, Jing Ma, Chai Kiat Yeo", 113: 107818 ,pr
+23,Self-Organizing Map assisted Deep Autoencoding Gaussian Mixture Model for Intrusion Detection.,2021,"Yang Chen, Nami Ashizawa, Seanglidet Yean, Chai Kiat Yeo, Naoto Yanai", CCNC 2021: 1-6,ccnc
+24,Unsupervised 3D Shape Completion Through GAN Inversion.,2021,"Junzhe Zhang, Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy", CVPR 2021: 1768-1777,cvpr
+25,Solving Large-Scale Extensive-Form Network Security Games via Neural Fictitious Self-Play.,2021,"Wanqi Xue, Youzhi Zhang, Shuxin Li, Xinrun Wang, Bo An, Chai Kiat Yeo", IJCAI 2021: 3713-3720,ijcai
+26,Unsupervised 3D Shape Completion through GAN Inversion.,2021,"Junzhe Zhang, Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy",13366 ,corr
+27,Solving Large-Scale Extensive-Form Network Security Games via Neural Fictitious Self-Play.,2021,"Wanqi Xue, Youzhi Zhang, Shuxin Li, Xinrun Wang, Bo An, Chai Kiat Yeo",00897 ,corr
+28,Mis-spoke or mis-lead: Achieving Robustness in Multi-Agent Communicative Reinforcement Learning.,2021,"Wanqi Xue, Wei Qiu, Bo An, Zinovi Rabinovich, Svetlana Obraztsova, Chai Kiat Yeo",03803 ,corr
+29,Distributed algorithm for AP association with random arrivals and departures of users.,2020,"Zhenwei Chen, Wenjie Zhang, Yifeng Zheng, Liwei Yang, Chai Kiat Yeo", 14: 846-856 ,iet-com
+30,Two-tier trading strategy design for spectrum allocation in heterogeneous cognitive radio networks.,2020,"Xiaowen Huang, Wenjie Zhang, Jingmin Yang, Liwei Yang, Chai Kiat Yeo", 14: 2759-2768 ,iet-com
+31,Lower-Limb Rehabilitation at Home: A Survey on Exercise Assessment and Initial Study on Exercise State Identification Toward Biofeedback.,2020,"Seanglidet Yean, Bu-Sung Lee, Chai Kiat Yeo", 12: 15-27 ,ijitn
+32,GPS Location Spoofing and FM Broadcast Intrusion Using Software-Defined Radio.,2020,"Soon Heng Mavric Tan, Chai Kiat Yeo", 12: 104-117 ,ijitn
+33,Harvesting Social Media Sentiments for Stock Index Prediction.,2020,"MingWei Lim, Chai Kiat Yeo", CCNC 2020: 1-4,ccnc
+34,MessyTable: Instance Association in Multiple Camera Views.,2020,"Zhongang Cai, Junzhe Zhang, Daxuan Ren, Cunjun Yu, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Chen Change Loy", ECCV  2020: 1-16,eccv
+35,MessyTable: Instance Association in Multiple Camera Views.,2020,"Zhongang Cai, Junzhe Zhang, Daxuan Ren, Cunjun Yu, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Chen Change Loy",14878 ,corr
+36,Self-Organizing Map assisted Deep Autoencoding Gaussian Mixture Model for Intrusion Detection.,2020,"Yang Chen, Nami Ashizawa, Seanglidet Yean, Chai Kiat Yeo, Naoto Yanai",12686 ,corr

@@ -1,0 +1,30 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,Sensitivity-Tunable Terahertz Liquid/Gas Biosensor Based on Surface Plasmon Resonance with Dirac Semimetal.,2023,"Mengjiao Ren, Chengpeng Ji, Xueyan Tang, Haishan Tian, Leyong Jiang, Xiaoyu Dai, Xinghua Wu, Yuanjiang Xiang", Sensors 23: 5520 ,sensors
+1,2-hop+ Sampling: Efficient and Effective Influence Estimation.,2023,"Yuqing Zhu, Jing Tang, Xueyan Tang, Sibo Wang, Andrew Lim", 35: 1088-1103 ,tkde
+2,Minimising Task Tardiness for Multi-Agent Pickup and Delivery.,2023,"Saravanan Ramanathan, Yihao Liu, Xueyan Tang, Wentong Cai, Jingning Li", AAMAS 2023: 2349-2351,atal
+3,Dynamic Bin Packing with Predictions.,2023,"Mozhengfu Liu, Xueyan Tang", SIGMETRICS  2023: 57-58,sigmetrics
+4,Smart Contract Migration: Security Analysis and Recommendations from Ethereum to Arbitrum.,2023,"Xueyan Tang, Lingzhi Shi, Alan Lai, Yuying Du, Jing Deng, Jialu Fu, Jiayi Li",14773 ,corr
+5,Busy-Time Scheduling on Heterogeneous Machines: Algorithms and Analysis.,2022,"Mozhengfu Liu, Xueyan Tang", 33: 3942-3958 ,tpds
+6,Optimal price profile for influential nodes in online social networks.,2022,"Yuqing Zhu, Jing Tang, Xueyan Tang", 31: 779-795 ,vldb
+7,On Task Assignment and Scheduling for Distributed Job Execution.,2022,"Yitong Guan, Xueyan Tang", CCGRID 2022: 726-735,ccgrid
+8,Distributed Influence Maximization for Large-Scale Online Social Networks.,2022,"Jing Tang, Yuqing Zhu, Xueyan Tang, Kai Han", ICDE 2022: 81-95,icde
+9,Revisiting Modified Greedy Algorithm for Monotone Submodular Maximization with a Knapsack Constraint.,2021,"Jing Tang, Xueyan Tang, Andrew Lim, Kai Han, Chongshou Li, Junsong Yuan", 5: 08:1-08:22 ,pomacs
+10,Dynamic Bin Packing with Predictions.,2021,"Mozhengfu Liu, Xueyan Tang", 6: 45:1-45:24 ,pomacs
+11,Analysis of Influence Contribution in Social Advertising.,2021,"Yuqing Zhu, Jing Tang, Xueyan Tang, Lei Chen", 15: 348-360 ,pvldb
+12,Towards Minimizing Resource Usage With QoS Guarantee in Cloud Gaming.,2021,"Yusen Li, Changjian Zhao, Xueyan Tang, Wentong Cai, Xiaoguang Liu, Gang Wang, Xiaoli Gong", 32: 426-440 ,tpds
+13,Identification of Public Opinion on COVID-19 in Microblogs.,2021,"Ji Li, Xueyan Tang, Daoli Dong", ICCSE 2021: 117-120,iccse2
+14,Generalized Skyline Interval Coloring and Dynamic Geometric Bin Packing Problems.,2021,"Runtian Ren, Xueyan Tang", ICPP 2021: 52:1-52:10,icpp
+15,Revisiting Modified Greedy Algorithm for Monotone Submodular Maximization with a Knapsack Constraint.,2021,"Jing Tang, Xueyan Tang, Andrew Lim, Kai Han, Chongshou Li, Junsong Yuan", SIGMETRICS  2021: 63-64,sigmetrics
+16,Multi-Agent Pickup and Delivery with Task Deadlines.,2021,"Xiaohu Wu, Yihao Liu, Xueyan Tang, Wentong Cai, Funing Bai, Gilbert Khonstantine, Guopeng Zhao", SOCS 2021: 206-208,socs
+17,Analysis of Busy-Time Scheduling on Heterogeneous Machines.,2021,"Mozhengfu Liu, Xueyan Tang", SPAA 2021: 340-350,spaa
+18,A Robust Algorithm for Multi-tenant Server Consolidation.,2021,"Boyu Li, Xueyan Tang, Bin Wu", WASA  2021: 566-573,wasa
+19,Multi-Agent Pickup and Delivery with Task Deadlines.,2021,"Xiaohu Wu, Yihao Liu, Xueyan Tang, Wentong Cai, Funing Bai, Gilbert Khonstantine, Guopeng Zhao", WI/IAT 2021: 360-367,webi
+20,Analysis of Busy-Time Scheduling on Heterogeneous Machines.,2021,"Mozhengfu Liu, Xueyan Tang",06287 ,corr
+21,Asymmetric Mapping Quantization for Nearest Neighbor Search.,2020,"Weixiang Hong, Xueyan Tang, Jingjing Meng, Junsong Yuan", 42: 1783-1790 ,pami
+22,Pricing Influential Nodes in Online Social Networks.,2020,"Yuqing Zhu, Jing Tang, Xueyan Tang", 13: 1614-1627 ,pvldb
+23,On Fault-Tolerant Bin Packing for Online Resource Allocation.,2020,"Chuanyou Li, Xueyan Tang", 31: 817-829 ,tpds
+24,Interval Job Scheduling With Machine Launch Cost.,2020,"Runtian Ren, Yuqing Zhu, Chuanyou Li, Xueyan Tang", 31: 2776-2788 ,tpds
+25,Efficient approximation algorithms for adaptive influence maximization.,2020,"Keke Huang, Jing Tang, Kai Han, Xiaokui Xiao, Wei Chen, Aixin Sun, Xueyan Tang, Andrew Lim", 29: 1385-1406 ,vldb
+26,Busy-Time Scheduling on Heterogeneous Machines.,2020,"Runtian Ren, Xueyan Tang", IPDPS 2020: 306-315,ipps
+27,Efficient Approximation Algorithms for Adaptive Influence Maximization.,2020,"Keke Huang, Jing Tang, Kai Han, Xiaokui Xiao, Wei Chen, Aixin Sun, Xueyan Tang, Andrew Lim",06469 ,corr
+28,Revisiting Modified Greedy Algorithm for Monotone Submodular Maximization with a Knapsack Constraint.,2020,"Jing Tang, Xueyan Tang, Andrew Lim, Kai Han, Chongshou Li, Junsong Yuan",05391 ,corr

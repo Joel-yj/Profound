@@ -1,0 +1,17 @@
+,Title,Year,Authors,Journal,Journal Acronym
+0,A contrastive learning framework for Event Detection via semantic type prototype representation modelling.,2023,"Anran Hao, Anh Tuan Luu, Siu Cheung Hui, Jian Su", Neurocomputing 556: 126613 ,ijon
+1,DML-PL: Deep metric learning based pseudo-labeling framework for class imbalanced semi-supervised learning.,2023,"Mi Yan, Siu Cheung Hui, Ning Li", 626: 641-657 ,isci
+2,Multi-view entity type overdependency reduction for event argument extraction.,2023,"Jing Xu, Dandan Song, Siu Cheung Hui, Fei Li, Hao Wang", 265: 110375 ,kbs
+3,Dialogue State Distillation Network with Inter-slot Contrastive Learning for Dialogue State Tracking.,2023,"Jing Xu, Dandan Song, Chong Liu, Siu Cheung Hui, Fei Li, Qiang Ju, Xiaonan He, Jian Xie", AAAI 2023: 13834-13842,aaai
+4,Dialogue State Distillation Network with Inter-Slot Contrastive Learning for Dialogue State Tracking.,2023,"Jing Xu, Dandan Song, Chong Liu, Siu Cheung Hui, Fei Li, Qiang Ju, Xiaonan He, Jian Xie",08220 ,corr
+5,A Multimodal Data-driven Framework for Anxiety Screening.,2023,"Haimiao Mo, Shuai Ding, Siu Cheung Hui",09041 ,corr
+6,Semantic Pivoting Model for Effective Event Detection.,2022,"Anran Hao, Siu Cheung Hui, Jian Su", ACIIDS  2022: 534-546,aciids
+7,EvidenceNet: Evidence Fusion Network for Fact Verification.,2022,"Zhendong Chen, Siu Cheung Hui, Fuzhen Zhuang, Lejian Liao, Fei Li, Meihuizi Jia, Jiaqi Li", WWW 2022: 2636-2645,www
+8,Machine Learning for Food Review and Recommendation.,2022,"Tan Khang Le, Siu Cheung Hui",10978 ,corr
+9,Semantic Pivoting Model for Effective Event Detection.,2022,"Anran Hao, Siu Cheung Hui, Jian Su",00709 ,corr
+10,A segment enhanced span-based model for nested named entity recognition.,2021,"Fei Li, Zheng Wang, Siu Cheung Hui, Lejian Liao, Xinhua Zhu, Heyan Huang", Neurocomputing 465: 26-37 ,ijon
+11,Modularized Interaction Network for Named Entity Recognition.,2021,"Fei Li, Zheng Wang, Siu Cheung Hui, Lejian Liao, Dandan Song, Jing Xu, Guoxiu He, Meihuizi Jia", ACL/IJCNLP  2021: 200-209,acl
+12,Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters.,2021,"Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Cheung Hui, Jie Fu", ICLR 2021,iclr
+13,Gated Character-aware Convolutional Neural Network for Effective Automated Essay Scoring.,2021,"Huanyu Bai, Zhilin Huang, Anran Hao, Siu Cheung Hui", WI/IAT 2021: 351-359,webi
+14,Effective Named Entity Recognition with Boundary-aware Bidirectional Neural Networks.,2021,"Fei Li, Zheng Wang, Siu Cheung Hui, Lejian Liao, Dandan Song, Jing Xu", WWW 2021: 1695-1703,www
+15,Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters.,2021,"Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Cheung Hui, Jie Fu",08597 ,corr
