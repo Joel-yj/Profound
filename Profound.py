@@ -4,9 +4,8 @@ import base64
 from streamlit_card import card
 from streamlit_tags import st_tags
 import ast
-from st_pages import Page, hide_pages, show_pages
+from st_pages import Page, hide_pages, show_pages, Section, add_indentation  
 from streamlit_extras.switch_page_button import switch_page
-from streamlit.runtime.scriptrunner import RerunData
 
 
 st.set_page_config(page_title="Profound", page_icon="🏠", layout="wide")
@@ -21,12 +20,18 @@ df['Research Interest'] = df['Research Interest'].apply(lambda x: ast.literal_ev
 st.sidebar.image("assets/ntu_logo.jpg")
 st.sidebar.header("Filter by")
 
-
-
-hide_pages([
-    Page("Prof0.py"),
-    ]
-)
+add_indentation()
+show_pages([
+    Page('profound.py', 'Home', "🏠"),
+    Page('pages/prof_compare.py', 'Compare Prof', "🔍"),
+    Section(name = 'Prof Profiles', icon="👥"),
+    Page(f'pages/Prof0.py', df.iloc[0]['Full Name'], "👤",in_section=True),
+    Page(f'pages/Prof1.py', df.iloc[1]['Full Name'], "👤",in_section=True),
+    Page(f'pages/Prof2.py', df.iloc[2]['Full Name'], "👤",in_section=True),
+    Page(f'pages/Prof3.py', df.iloc[3]['Full Name'], "👤",in_section=True),
+    Page(f'pages/Prof4.py', df.iloc[4]['Full Name'], "👤",in_section=True),
+    Page(f'pages/Prof5.py', df.iloc[5]['Full Name'], "👤",in_section=True),
+])
 
 # Loading their dp
 
@@ -50,7 +55,7 @@ for index,row in df.iterrows():
                 title="",
                 text="",
                 image=data,
-                on_click=lambda: switch_page(f"prof{index}"),
+                on_click=lambda: switch_page(row['Full Name']),
                 styles={
                     "card": {
                         "max-width" : "100%",
@@ -85,7 +90,7 @@ for index,row in df.iterrows():
                 title="",
                 text="",
                 image=data,
-                on_click=lambda: switch_page(f"prof{index}"),
+                on_click=lambda: switch_page(row['Full Name']),
                 styles={
                     "card": {
                         "max-width" : "100%",
@@ -117,7 +122,7 @@ for index,row in df.iterrows():
                 title="",
                 text="",
                 image=data,
-                on_click=lambda: switch_page(f"prof{index}"),
+                on_click=lambda: switch_page(row['Full Name']),
                 styles={
                     "card": {
                         "max-width" : "100%",
