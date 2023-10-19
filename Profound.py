@@ -50,7 +50,7 @@ for index,row in df.iterrows():
                 title="",
                 text="",
                 image=data,
-                on_click=lambda: print("Clicked!"),
+                on_click=lambda: switch_page(f"prof{index}"),
                 styles={
                     "card": {
                         "max-width" : "100%",
@@ -63,13 +63,12 @@ for index,row in df.iterrows():
                         "boxShadow": "0px 0px 0px rgba(0, 0, 0, 0)"
                     },
                 } 
+
             )
             
             keywords = st_tags(label = "## Research Interests", value = row['Research Interest'], text= " ", key= index)
 
-            # TODO : click on image to go to prof's profile
-            if hasClicked:
-                switch_page("prof0")
+                
 
     if index%3==1:
         with total2:
@@ -86,6 +85,7 @@ for index,row in df.iterrows():
                 title="",
                 text="",
                 image=data,
+                on_click=lambda: switch_page(f"prof{index}"),
                 styles={
                     "card": {
                         "max-width" : "100%",
@@ -117,6 +117,7 @@ for index,row in df.iterrows():
                 title="",
                 text="",
                 image=data,
+                on_click=lambda: switch_page(f"prof{index}"),
                 styles={
                     "card": {
                         "max-width" : "100%",
