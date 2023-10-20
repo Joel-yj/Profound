@@ -33,8 +33,8 @@ show_pages([
     Page(f'pages/Prof5.py', df.iloc[5]['Full Name'], "👤",in_section=True),
 ])
 
-# Loading their dp
 
+# Loading their dp and research interests
 total1,total2,total3,=st.columns(3,gap='medium')
 
 # Dashboard for profs
