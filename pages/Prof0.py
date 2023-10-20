@@ -16,5 +16,9 @@ with cent_co:
     st.title(df["Full Name"])
     st.image(f"dp/{index}.jpg",width=300)
 
-st.header("Background Information")
+tab1, tab2 = st.tabs(["Background Information", "Research Profile"])
 
+with tab1:
+    st.header("Biography")
+    st.write(df['Biography'])
+    
