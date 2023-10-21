@@ -35,20 +35,17 @@ with tab1:
 
 
 with tab2:
-    st.header("Research Profile")
-
-    st.subheader("Research Interests")
+    st.header("Research Interests")
     tagger_component(
         content= "",
         tags = df['Research Interest'],
         color_name="blue"
     )
 
-    st.subheader("Publications")
+    st.header("Publications")
     st.write(pubs)
 
-    st.subheader("Citations")
-
+    st.header("Citations")
     st.write("Citations by year")
     st.bar_chart(citations_year, x = "Year", y = "Citations",)
     st.write("Total citations: " + str(int(df['Citations'])))

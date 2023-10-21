@@ -22,7 +22,7 @@ st.sidebar.header("Filter by")
 
 add_indentation()
 show_pages([
-    Page('profound.py', 'Home', "🏠"),
+    Page('Profound.py', 'Home', "🏠"),
     Page('pages/prof_compare.py', 'Compare Prof', "🔍"),
     Section(name = 'Prof Profiles', icon="👥"),
     Page(f'pages/Prof0.py', df.iloc[0]['Full Name'], "👤",in_section=True),
