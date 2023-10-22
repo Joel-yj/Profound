@@ -3,3 +3,4 @@ streamlit_tags
 st_pages
 streamlit-extras
 plotly
+networkx
