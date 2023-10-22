@@ -2,3 +2,4 @@ streamlit_card
 streamlit_tags
 st_pages
 streamlit-extras
+plotly
