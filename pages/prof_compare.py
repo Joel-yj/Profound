@@ -16,17 +16,24 @@ with col1:
     prof1 = st.selectbox(
         "Select a professor",
         df['Full Name'].tolist(),
-        key = "prof1"
+        key = "prof1",
+        index= None
     )
-    st.header(prof1)
-    dp = df.loc[df['Full Name'] == prof1].index[0]
-    st.image(f"dp/{dp}.jpg", width=300)
+
+    if prof1 != None:
+        st.header(prof1)
+        dp = df.loc[df['Full Name'] == prof1].index[0]
+        st.image(f"dp/{dp}.jpg", width=300)
 
 
 with col2:
     prof2 = st.selectbox(
         "Select a professor",
         df['Full Name'].tolist(),
-        key = "prof2"
+        key = "prof2",
+        index= None
     )
-    st.header(prof2)
+    if prof2 != None:
+        st.header(prof2)
+        dp = df.loc[df['Full Name'] == prof2].index[0]
+        st.image(f"dp/{dp}.jpg", width=300)

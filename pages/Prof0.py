@@ -18,6 +18,7 @@ name = df['Full Name'].replace(" ", "_")
 pubs = pd.read_csv(f"publications/{name}.csv")
 
 pubs = pubs.drop(columns='Unnamed: 0')
+pubs['Year'] = pubs['Year'].astype(str)
 
 name = df['Full Name'] + ", Nanyang Technological University"
 citations_year = pd.read_csv(f"citations/{name}.csv")
