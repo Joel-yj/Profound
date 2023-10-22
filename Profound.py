@@ -24,6 +24,7 @@ add_indentation()
 show_pages([
     Page('Profound.py', 'Home', "🏠"),
     Page('pages/prof_compare.py', 'Compare Prof', "🔍"),
+    Page('pages/graph.py', 'Collaboration Graph', "📊"),
     Section(name = 'Prof Profiles', icon="👥"),
     Page(f'pages/Prof0.py', df.iloc[0]['Full Name'], "👤",in_section=True),
     Page(f'pages/Prof1.py', df.iloc[1]['Full Name'], "👤",in_section=True),
@@ -33,6 +34,8 @@ show_pages([
     Page(f'pages/Prof5.py', df.iloc[5]['Full Name'], "👤",in_section=True),
 ])
 
+if "loaded_images" not in st.session_state:
+    st.session_state.loaded_images = {}
 
 # Loading their dp and research interests
 total1,total2,total3,=st.columns(3,gap='medium')
@@ -46,11 +49,15 @@ for index,row in df.iterrows():
             <h1 style = "text-align : center;" class="a">{row['Full Name']}</h1>
             """
             st.markdown(html_str, unsafe_allow_html=True)
-            image_path = "dp/" + str(index) + ".jpg"
-            with open(image_path, "rb") as f:
-                    data = f.read()
-                    encoded = base64.b64encode(data)
-                    data = "data:image/png;base64," + encoded.decode("utf-8")
+            if index not in st.session_state.loaded_images:
+                image_path = "dp/" + str(index) + ".jpg"
+                with open(image_path, "rb") as f:
+                        data = f.read()
+                        encoded = base64.b64encode(data)
+                        data = "data:image/png;base64," + encoded.decode("utf-8")
+                st.session_state.loaded_images[index] = data
+            else:
+                data = st.session_state.loaded_images[index]
             hasClicked = card(
                 title="",
                 text="",
@@ -77,15 +84,20 @@ for index,row in df.iterrows():
 
     if index%3==1:
         with total2:
-            image_path = "dp/" + str(index) + ".jpg"
-            with open(image_path, "rb") as f:
-                data = f.read()
-                encoded = base64.b64encode(data)
-                data = "data:image/png;base64," + encoded.decode("utf-8")
-                html_str = f"""
+            html_str = f"""
                 <h1 style = "text-align : center;" class="a">{row['Full Name']}</h1>
                 """
-                st.markdown(html_str, unsafe_allow_html=True)
+            st.markdown(html_str, unsafe_allow_html=True)
+            if index not in st.session_state.loaded_images:
+                image_path = "dp/" + str(index) + ".jpg"
+                with open(image_path, "rb") as f:
+                        data = f.read()
+                        encoded = base64.b64encode(data)
+                        data = "data:image/png;base64," + encoded.decode("utf-8")
+                st.session_state.loaded_images[index] = data
+            else:
+                data = st.session_state.loaded_images[index]
+
             hasClicked = card(
                 title="",
                 text="",
@@ -109,15 +121,19 @@ for index,row in df.iterrows():
 
     if index%3==2:
         with total3:
-            image_path = "dp/" + str(index) + ".jpg"
-            with open(image_path, "rb") as f:
-                data = f.read()
-                encoded = base64.b64encode(data)
-                data = "data:image/png;base64," + encoded.decode("utf-8")
-                html_str = f"""
+            html_str = f"""
                 <h1 style = "text-align : center;" class="a">{row['Full Name']}</h1>
                 """
-                st.markdown(html_str, unsafe_allow_html=True)
+            st.markdown(html_str, unsafe_allow_html=True)
+            if index not in st.session_state.loaded_images:
+                image_path = "dp/" + str(index) + ".jpg"
+                with open(image_path, "rb") as f:
+                        data = f.read()
+                        encoded = base64.b64encode(data)
+                        data = "data:image/png;base64," + encoded.decode("utf-8")
+                st.session_state.loaded_images[index] = data
+            else:
+                data = st.session_state.loaded_images[index]
             card(
                 title="",
                 text="",

@@ -2,7 +2,9 @@ import streamlit as st
 import plotly.graph_objects as go
 import networkx as nx
 import pandas as pd
+from st_pages import add_indentation
 
+add_indentation()
 
 # Generate a sample graph
 def generate_graph():
@@ -36,7 +38,7 @@ def get_degree_2_nodes(G, node):
     return first_degree_nodes, second_degree_nodes
 
 # Create the visualization
-def plot_network(G, pos,highlight_node=None):
+def plot_network(G, pos, highlight_node=None):
     pos = nx.spring_layout(G, seed=88)
     
     edge_x = []
@@ -47,32 +49,38 @@ def plot_network(G, pos,highlight_node=None):
         edge_x.extend([x0, x1, None])
         edge_y.extend([y0, y1, None])
 
-    node_x = [pos[n][0] for n in G.nodes()]
-    node_y = [pos[n][1] for n in G.nodes()]
-    node_labels = [str(n) for n in G.nodes()]
-
-    node_trace = go.Scatter(
-        x=node_x, y=node_y,
-        mode='markers',
-        hoverinfo='text',
-        text=node_labels,  # Set node labels
-        marker=dict(size=10, color='blue')
-    )
+    traces = []  # Initializing traces for each node group/color
 
     if highlight_node:
         first_degree, second_degree = get_degree_2_nodes(G, highlight_node)
-        node_trace['marker']['color'] = ['red' if n == highlight_node else ('yellow' if n in first_degree else ('green' if n in second_degree else 'blue')) for n in G.nodes()]
+        colors = ['red' if n == highlight_node else ('yellow' if n in first_degree else ('green' if n in second_degree else 'blue')) for n in G.nodes()]
+    else:
+        colors = ['blue' for n in G.nodes()]
 
-    fig = go.Figure(data=[go.Scatter(x=edge_x, y=edge_y, mode='lines', line=dict(color='gray')),
-                          node_trace],
+    for color, label in [('red', 'Selected Node'), ('yellow', '1st Degree'), ('green', '2nd Degree'), ('blue', 'Others')]:
+        mask = [n for i, n in enumerate(G.nodes()) if colors[i] == color]
+        trace_x = [pos[n][0] for n in mask]
+        trace_y = [pos[n][1] for n in mask]
+        trace = go.Scatter(
+            x=trace_x, y=trace_y,
+            mode='markers',
+            hoverinfo='text',
+            text=[str(n) for n in mask],  # Node labels for this group
+            marker=dict(size=10, color=color),
+            name=label  # Legend entry for this group
+        )
+        traces.append(trace)
+
+    fig = go.Figure(data=[go.Scatter(x=edge_x, y=edge_y, mode='lines', line=dict(color='gray'),showlegend=False)] + traces, 
                     layout=go.Layout(
-                        showlegend=False, 
+                        title="SCSE Network Graph",
                         hovermode='closest',
-                        xaxis=dict(showgrid=False, zeroline=False, showticklabels=False),  # Hide x-axis gridlines
-                        yaxis=dict(showgrid=False, zeroline=False, showticklabels=False)   # Hide y-axis gridlines
+                        xaxis=dict(showgrid=False, zeroline=False, showticklabels=False),  
+                        yaxis=dict(showgrid=False, zeroline=False, showticklabels=False)   
                     ))
     
     return fig
+
 
 
 def main():
