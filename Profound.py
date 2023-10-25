@@ -32,6 +32,7 @@ show_pages([
     Page(f'pages/Prof3.py', df.iloc[3]['Full Name'], "👤",in_section=True),
     Page(f'pages/Prof4.py', df.iloc[4]['Full Name'], "👤",in_section=True),
     Page(f'pages/Prof5.py', df.iloc[5]['Full Name'], "👤",in_section=True),
+    Page(f'pages/Prof6.py', df.iloc[6]['Full Name'], "👤",in_section=True),
 ])
 
 if "loaded_images" not in st.session_state:
