@@ -22,13 +22,30 @@ pubs['Year'] = pubs['Year'].astype(str)
 
 name = df['Full Name'] + ", Nanyang Technological University"
 citations_year = pd.read_csv(f"citations/{name}.csv")
+indices = pd.read_csv(f"indices/{name}.csv")
+newdf = indices.transpose()
+newdf.columns = ['Total']
+year_2018 = []
+year_2018.append(newdf.iloc[1][0])
+year_2018.append(newdf.iloc[3][0])
+newdf.drop(["hindex5y","i10index5y"], inplace = True)
+newdf['2018'] = year_2018
+
+
+core = pd.read_csv("CORE.csv")
+condition = pubs['Journal Acronym'].isin(core['Acronym'])
+result_pubs = pubs[condition]
+result_core = core[core['Acronym'].isin(result_pubs['Journal Acronym'])]
+merged_df = pd.merge(result_pubs, result_core, left_on='Journal Acronym',right_on="Acronym" ,how='inner')
+conference = merged_df.drop(["Acronym","Authors","Rank_x"], axis=1)
+conference.rename(columns={'Rank_y': 'Rank'}, inplace=True)
 
 left_co, cent_co,last_co = st.columns(3)
 with cent_co:
     st.title(df["Full Name"])
     st.image(f"dp/{index}.jpg",width=300)
 
-tab1, tab2 = st.tabs(["Background Information", "Research Profile"])
+tab1, tab2 ,tab3 = st.tabs(["Background Information", "Research Profile", "Collaboration Network"])
 
 with tab1:
     st.header("Biography")
@@ -50,3 +67,13 @@ with tab2:
     st.write("Citations by year")
     st.bar_chart(citations_year, x = "Year", y = "Citations",)
     st.write("Total citations: " + str(int(df['Citations'])))
+    st.subheader("Citation Indices")
+    st.write(newdf)
+
+    st.header("Conferences")
+    st.write(conference)
+    st.subheader("Number of papers published at conference ranks")
+    st.write(conference['Rank'].value_counts().sort_index(ascending=True))
+
+with tab3:
+    st.write("hello")

@@ -35,9 +35,6 @@ show_pages([
     Page(f'pages/Prof6.py', df.iloc[6]['Full Name'], "👤",in_section=True),
 ])
 
-if "loaded_images" not in st.session_state:
-    st.session_state.loaded_images = {}
-
 # Loading their dp and research interests
 total1,total2,total3,=st.columns(3,gap='medium')
 
@@ -50,15 +47,11 @@ for index,row in df.iterrows():
             <h1 style = "text-align : center;" class="a">{row['Full Name']}</h1>
             """
             st.markdown(html_str, unsafe_allow_html=True)
-            if index not in st.session_state.loaded_images:
-                image_path = "dp/" + str(index) + ".jpg"
-                with open(image_path, "rb") as f:
-                        data = f.read()
-                        encoded = base64.b64encode(data)
-                        data = "data:image/png;base64," + encoded.decode("utf-8")
-                st.session_state.loaded_images[index] = data
-            else:
-                data = st.session_state.loaded_images[index]
+            image_path = "dp/" + str(index) + ".jpg"
+            with open(image_path, "rb") as f:
+                    data = f.read()
+                    encoded = base64.b64encode(data)
+                    data = "data:image/png;base64," + encoded.decode("utf-8")
             hasClicked = card(
                 title="",
                 text="",
@@ -89,15 +82,11 @@ for index,row in df.iterrows():
                 <h1 style = "text-align : center;" class="a">{row['Full Name']}</h1>
                 """
             st.markdown(html_str, unsafe_allow_html=True)
-            if index not in st.session_state.loaded_images:
-                image_path = "dp/" + str(index) + ".jpg"
-                with open(image_path, "rb") as f:
-                        data = f.read()
-                        encoded = base64.b64encode(data)
-                        data = "data:image/png;base64," + encoded.decode("utf-8")
-                st.session_state.loaded_images[index] = data
-            else:
-                data = st.session_state.loaded_images[index]
+            image_path = "dp/" + str(index) + ".jpg"
+            with open(image_path, "rb") as f:
+                    data = f.read()
+                    encoded = base64.b64encode(data)
+                    data = "data:image/png;base64," + encoded.decode("utf-8")
 
             hasClicked = card(
                 title="",
@@ -126,15 +115,11 @@ for index,row in df.iterrows():
                 <h1 style = "text-align : center;" class="a">{row['Full Name']}</h1>
                 """
             st.markdown(html_str, unsafe_allow_html=True)
-            if index not in st.session_state.loaded_images:
-                image_path = "dp/" + str(index) + ".jpg"
-                with open(image_path, "rb") as f:
-                        data = f.read()
-                        encoded = base64.b64encode(data)
-                        data = "data:image/png;base64," + encoded.decode("utf-8")
-                st.session_state.loaded_images[index] = data
-            else:
-                data = st.session_state.loaded_images[index]
+            image_path = "dp/" + str(index) + ".jpg"
+            with open(image_path, "rb") as f:
+                    data = f.read()
+                    encoded = base64.b64encode(data)
+                    data = "data:image/png;base64," + encoded.decode("utf-8")
             card(
                 title="",
                 text="",
