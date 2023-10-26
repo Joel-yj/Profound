@@ -19,6 +19,10 @@ df['Research Interest'] = df['Research Interest'].apply(lambda x: ast.literal_ev
 # Sidebar
 st.sidebar.image("assets/ntu_logo.jpg")
 st.sidebar.header("Filter by")
+options= []
+options.append("All")
+options.extend(df['Full Name'].tolist())
+filter = st.sidebar.selectbox("Search for Professors",options,key="filter",)
 
 add_indentation()
 show_pages([
@@ -38,8 +42,12 @@ show_pages([
 # Loading their dp and research interests
 total1,total2,total3,=st.columns(3,gap='medium')
 
+if filter == "All":
+    filtered_df = df
+else:
+    filtered_df = df[df['Full Name'].str.contains(filter, case=False, na=False)]
 # Dashboard for profs
-for index,row in df.iterrows():
+for index,row in filtered_df.iterrows():
     if index%3==0:
         with total1:
             
