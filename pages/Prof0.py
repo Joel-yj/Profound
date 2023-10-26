@@ -15,15 +15,16 @@ df['Research Interest'] = df['Research Interest'].apply(lambda x: ast.literal_ev
 index = 0
 df = df.iloc[index]
 
-name = df['Full Name'].replace(" ", "_")
-pubs = pd.read_csv(f"publications/{name}.csv")
+name = df['Full Name']
+name1 = name.replace(" ", "_")
+pubs = pd.read_csv(f"publications/{name1}.csv")
 
 pubs = pubs.drop(columns='Unnamed: 0')
 pubs['Year'] = pubs['Year'].astype(str)
 
-name = df['Full Name'] + ", Nanyang Technological University"
-citations_year = pd.read_csv(f"citations/{name}.csv")
-indices = pd.read_csv(f"indices/{name}.csv")
+name2 = df['Full Name'] + ", Nanyang Technological University"
+citations_year = pd.read_csv(f"citations/{name2}.csv")
+indices = pd.read_csv(f"indices/{name2}.csv")
 newdf = indices.transpose()
 newdf.columns = ['Total']
 year_2018 = []
@@ -78,4 +79,11 @@ with tab2:
 
 with tab3:
     G = generate_graph()
-    plot_network(G, None, None)
+    nodes_to_remove = [node for node, degree in dict(G.degree()).items() if degree == 0]
+    # Remove nodes with no edges
+    G.remove_nodes_from(nodes_to_remove)
+    if name in nodes_to_remove:
+        st.write("No collaboration network available")
+    else:
+        fig = plot_network(G, None, name)
+        st.plotly_chart(fig)
