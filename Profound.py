@@ -43,110 +43,87 @@ show_pages([
 total1,total2,total3,=st.columns(3,gap='medium')
 
 if filter == "All":
-    filtered_df = df
+    row_number = 0
+    with st.container():
+        for index, row in df.iterrows():
+            if index % 3 == 0:
+                row_number += 1
+                columns = st.columns(3)
+            
+            with columns[index % 3]:
+                html_str = f"<h1 style='text-align: center;'>{row['Full Name']}</h1>"
+                st.markdown(html_str, unsafe_allow_html=True)
+
+                image_path = "dp/" + str(index) + ".jpg"
+                with open(image_path, "rb") as f:
+                    data = f.read()
+                    encoded = base64.b64encode(data)
+                    data = "data:image/png;base64," + encoded.decode("utf-8")
+
+                hasClicked = card(
+                    title="",
+                    text="",
+                    image=data,
+                    on_click=lambda: switch_page(row['Full Name']),
+                    styles={
+                        "card": {
+                            "max-width": "100%",
+                            "height": "500px",
+                            "width": "500px",
+                            "margin": "10px",
+                            "border-radius": "40px",
+                            "justifyContent": "space-between",
+                            "filter": "brightness(2)",
+                            "boxShadow": "0px 0px 0px rgba(0, 0, 0, 0)",
+                        },
+                    },
+                )
+
+                keywords = st_tags(
+                    label="## Research Interests",
+                    value=row['Research Interest'],
+                    text=" ",
+                    key=index
+                )
 else:
     filtered_df = df[df['Full Name'].str.contains(filter, case=False, na=False)]
-# Dashboard for profs
-for index,row in filtered_df.iterrows():
-    if index%3==0:
-        with total1:
-            
-            html_str = f"""
-            <h1 style = "text-align : center;" class="a">{row['Full Name']}</h1>
-            """
-            st.markdown(html_str, unsafe_allow_html=True)
-            image_path = "dp/" + str(index) + ".jpg"
-            with open(image_path, "rb") as f:
-                    data = f.read()
-                    encoded = base64.b64encode(data)
-                    data = "data:image/png;base64," + encoded.decode("utf-8")
-            hasClicked = card(
-                title="",
-                text="",
-                image=data,
-                on_click=lambda: switch_page(row['Full Name']),
-                styles={
-                    "card": {
-                        "max-width" : "100%",
-                        "height": "500px",
-                        "width": "500px",
-                        "margin": "10px",
-                        "border-radius": "40px",
-                        "justifyContent" : "space-between",
-                        "filter" : "brightness(2)",
-                        "boxShadow": "0px 0px 0px rgba(0, 0, 0, 0)"
-                    },
-                } 
+    filtered_df['Research Interest'] = filtered_df['Research Interest'].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) else x)
+    html_str = f"<h1 style='text-align: center;'>{filtered_df.iloc[0]['Full Name']}</h1>"
+    st.markdown(html_str, unsafe_allow_html=True)
 
-            )
-            
-            keywords = st_tags(label = "## Research Interests", value = row['Research Interest'], text= " ", key= index)
+    image_path = "dp/" + str(filtered_df.index[0]) + ".jpg"
+    with open(image_path, "rb") as f:
+        data = f.read()
+        encoded = base64.b64encode(data)
+        data = "data:image/png;base64," + encoded.decode("utf-8")
+
+    hasClicked = card(
+        title="",
+        text="",
+        image=data,
+        on_click=lambda: switch_page(filtered_df.iloc[0]['Full Name']),
+        styles={
+            "card": {
+                "max-width": "100%",
+                "height": "500px",
+                "width": "500px",
+                "margin": "10px",
+                "border-radius": "40px",
+                "justifyContent": "space-between",
+                "filter": "brightness(2)",
+                "boxShadow": "0px 0px 0px rgba(0, 0, 0, 0)",
+            },
+        },
+    )
+
+    keywords = st_tags(
+        label="## Research Interests",
+        value=filtered_df.iloc[0]['Research Interest'],
+        text=" ",
+    )
+
 
                 
-
-    if index%3==1:
-        with total2:
-            html_str = f"""
-                <h1 style = "text-align : center;" class="a">{row['Full Name']}</h1>
-                """
-            st.markdown(html_str, unsafe_allow_html=True)
-            image_path = "dp/" + str(index) + ".jpg"
-            with open(image_path, "rb") as f:
-                    data = f.read()
-                    encoded = base64.b64encode(data)
-                    data = "data:image/png;base64," + encoded.decode("utf-8")
-
-            hasClicked = card(
-                title="",
-                text="",
-                image=data,
-                on_click=lambda: switch_page(row['Full Name']),
-                styles={
-                    "card": {
-                        "max-width" : "100%",
-                        "height": "500px",
-                        "width": "500px",
-                        "margin": "10px",
-                        "border-radius": "40px",
-                        "justifyContent" : "space-between",
-                        "filter" : "brightness(2)",
-                        "boxShadow": "0px 0px 0px rgba(0, 0, 0, 0)",
-                    },
-                } 
-            )
-            keywords = st_tags(label = "## Research Interests", value = row['Research Interest'], text= " ", key= index)
-
-
-    if index%3==2:
-        with total3:
-            html_str = f"""
-                <h1 style = "text-align : center;" class="a">{row['Full Name']}</h1>
-                """
-            st.markdown(html_str, unsafe_allow_html=True)
-            image_path = "dp/" + str(index) + ".jpg"
-            with open(image_path, "rb") as f:
-                    data = f.read()
-                    encoded = base64.b64encode(data)
-                    data = "data:image/png;base64," + encoded.decode("utf-8")
-            card(
-                title="",
-                text="",
-                image=data,
-                on_click=lambda: switch_page(row['Full Name']),
-                styles={
-                    "card": {
-                        "max-width" : "100%",
-                        "height": "500px",
-                        "width": "500px",
-                        "margin": "10px",
-                        "border-radius": "40px",
-                        "justifyContent" : "space-between",
-                        "filter" : "brightness(2)",
-                        "boxShadow": "0px 0px 0px rgba(0, 0, 0, 0)"
-                    },
-                } 
-            )
-            keywords = st_tags(label = "## Research Interests", value = row['Research Interest'], text= " ", key= index)
 
 
 
