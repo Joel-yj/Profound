@@ -33,7 +33,6 @@ year_2018.append(newdf.iloc[3][0])
 newdf.drop(["hindex5y","i10index5y"], inplace = True)
 newdf['2018'] = year_2018
 
-
 core = pd.read_csv("CORE.csv")
 condition = pubs['Journal Acronym'].isin(core['Acronym'])
 result_pubs = pubs[condition]
