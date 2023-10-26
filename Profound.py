@@ -20,9 +20,8 @@ df['Research Interest'] = df['Research Interest'].apply(lambda x: ast.literal_ev
 st.sidebar.image("assets/ntu_logo.jpg")
 st.sidebar.header("Filter by")
 options= []
-options.append("All")
 options.extend(df['Full Name'].tolist())
-filter = st.sidebar.selectbox("Search for Professors",options,key="filter",)
+filter = st.sidebar.selectbox("Search for Professors",options,key="filter",index=None)
 
 add_indentation()
 show_pages([
@@ -42,7 +41,7 @@ show_pages([
 # Loading their dp and research interests
 total1,total2,total3,=st.columns(3,gap='medium')
 
-if filter == "All":
+if filter == None:
     row_number = 0
     with st.container():
         for index, row in df.iterrows():
@@ -87,7 +86,6 @@ if filter == "All":
                 )
 else:
     filtered_df = df[df['Full Name'].str.contains(filter, case=False, na=False)]
-    filtered_df['Research Interest'] = filtered_df['Research Interest'].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) else x)
     html_str = f"<h1 style='text-align: center;'>{filtered_df.iloc[0]['Full Name']}</h1>"
     st.markdown(html_str, unsafe_allow_html=True)
 
