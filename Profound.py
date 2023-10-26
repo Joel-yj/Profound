@@ -47,7 +47,7 @@ if filter == None:
                 columns = st.columns(3)
             
             with columns[index % 3]:
-                html_str = f"<h1 style='text-align: center;'>{row['Full Name']}</h1>"
+                html_str = f"<h2 style='text-align: center;'>{row['Full Name']}</h2>"
                 st.markdown(html_str, unsafe_allow_html=True)
 
                 image_path = "dp/" + str(index) + ".jpg"
