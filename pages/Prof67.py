@@ -1,3 +1,4 @@
+
 import streamlit as st
 import pandas as pd
 from st_pages import add_indentation, hide_pages, show_pages, Page, Section
@@ -24,19 +25,19 @@ df = df.iloc[index]
 
 name = df['Full Name']
 name1 = name.replace(" ", "_")
-pubs = pd.read_csv(f"publications/{name1}.csv")
+# pubs = pd.read_csv(f"publications/{name1}.csv")
 
-pubs = pubs.drop(columns='Unnamed: 0')
-pubs['Year'] = pubs['Year'].astype(str)
+# pubs = pubs.drop(columns='Unnamed: 0')
+# pubs['Year'] = pubs['Year'].astype(str)
 
 
-core = pd.read_csv("CORE.csv")
-condition = pubs['Journal Acronym'].isin(core['Acronym'])
-result_pubs = pubs[condition]
-result_core = core[core['Acronym'].isin(result_pubs['Journal Acronym'])]
-merged_df = pd.merge(result_pubs, result_core, left_on='Journal Acronym',right_on="Acronym" ,how='inner')
-conference = merged_df.drop(["Acronym","Authors","Rank_x"], axis=1)
-conference.rename(columns={'Rank_y': 'Rank'}, inplace=True)
+# core = pd.read_csv("CORE.csv")
+# condition = pubs['Journal Acronym'].isin(core['Acronym'])
+# result_pubs = pubs[condition]
+# result_core = core[core['Acronym'].isin(result_pubs['Journal Acronym'])]
+# merged_df = pd.merge(result_pubs, result_core, left_on='Journal Acronym',right_on="Acronym" ,how='inner')
+# conference = merged_df.drop(["Acronym","Authors","Rank_x"], axis=1)
+# conference.rename(columns={'Rank_y': 'Rank'}, inplace=True)
 
 left_co, cent_co,last_co = st.columns(3)
 with cent_co:
@@ -59,7 +60,7 @@ with tab2:
     )
 
     st.header("Publications")
-    st.write(pubs)
+    st.write("No data available from DBLP")
     try:
         name2 = df['Full Name'] + ", Nanyang Technological University"
         citations_year = pd.read_csv(f"citations/{name2}.csv")
@@ -83,9 +84,9 @@ with tab2:
 
 
     st.header("Conferences")
-    st.write(conference)
-    st.subheader("Number of papers published at conference ranks")
-    st.write(conference['Rank'].value_counts().sort_index(ascending=True))
+    st.write("No data available from DBLP")
+    # st.subheader("Number of papers published at conference ranks")
+    # st.write(conference['Rank'].value_counts().sort_index(ascending=True))
 
 with tab3:
     G = generate_graph()

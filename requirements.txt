@@ -4,3 +4,5 @@ st_pages
 streamlit-extras
 plotly
 networkx
+os
+re

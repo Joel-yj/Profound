@@ -24,19 +24,16 @@ options.extend(df['Full Name'].tolist())
 filter = st.sidebar.selectbox("Search for Professors",options,key="filter",index=None)
 
 add_indentation()
-show_pages([
+page_list = [
     Page('Profound.py', 'Home', "🏠"),
     Page('pages/prof_compare.py', 'Compare Prof', "🔍"),
     Page('pages/graph.py', 'Collaboration Graph', "📊"),
     Section(name = 'Prof Profiles', icon="👥"),
-    Page(f'pages/Prof0.py', df.iloc[0]['Full Name'], "👤",in_section=True),
-    Page(f'pages/Prof1.py', df.iloc[1]['Full Name'], "👤",in_section=True),
-    Page(f'pages/Prof2.py', df.iloc[2]['Full Name'], "👤",in_section=True),
-    Page(f'pages/Prof3.py', df.iloc[3]['Full Name'], "👤",in_section=True),
-    Page(f'pages/Prof4.py', df.iloc[4]['Full Name'], "👤",in_section=True),
-    Page(f'pages/Prof5.py', df.iloc[5]['Full Name'], "👤",in_section=True),
-    Page(f'pages/Prof6.py', df.iloc[6]['Full Name'], "👤",in_section=True),
-])
+    ]
+
+prof_pages = [Page(f'pages/Prof{i}.py', df.iloc[i]['Full Name'], "👤", in_section=True) for i in range(0,86)]
+
+show_pages(page_list+prof_pages)
 
 # Loading their dp and research interests
 total1,total2,total3,=st.columns(3,gap='medium')
