@@ -2,7 +2,8 @@ import streamlit as st
 import pandas as pd
 from st_pages import add_indentation, hide_pages, show_pages, Page, Section
 import ast
-from streamlit_extras.tags import tagger_component 
+from streamlit_extras.tags import tagger_component
+from functions import generate_graph, plot_network
 
 
 st.set_page_config(layout="wide")
@@ -76,4 +77,5 @@ with tab2:
     st.write(conference['Rank'].value_counts().sort_index(ascending=True))
 
 with tab3:
-    st.write("hello")
+    G = generate_graph()
+    plot_network(G, None, None)
